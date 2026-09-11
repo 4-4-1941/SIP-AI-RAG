@@ -1,74 +1,552 @@
 (() => {
   "use strict";
 
-  const cfg = window.SIP_CONFIG;
-  const api = window.SIP_API;
+  const META_URL =
+    "data/metadata/adulto-mayor/nts-207-minsa-dgiesp-2023.json";
 
-  function byId(id) {
-    return document.getElementById(id);
+  const API = window.SIP_API || null;
+
+  const CONFIG = window.SIP_CONFIG || {
+    MAX_QUERY_LENGTH: 1200
+  };
+
+  let metadata = null;
+
+  const $ = (id) => document.getElementById(id);
+
+  const escapeHtml = (value) =>
+    String(value ?? "").replace(/[&<>"']/g, (char) => ({
+      "&": "&amp;",
+      "<": "&lt;",
+      ">": "&gt;",
+      '"': "&quot;",
+      "'": "&#39;"
+    })[char]);
+
+  function getOfficialUrl(data) {
+    const sources = Array.isArray(data?.fuentes_oficiales)
+      ? data.fuentes_oficiales
+      : [];
+
+    const source = sources.find(
+      (item) => item && item.url
+    );
+
+    return source?.url || "";
   }
 
-  function setText(element, text) {
-    if (element) element.textContent = text;
+  function setLibraryStatus(text, className = "") {
+    const status = $("libraryStatus");
+
+    if (!status) {
+      return;
+    }
+
+    status.textContent = text;
+    status.className =
+      `status ${className}`.trim();
+  }
+
+  function renderMetadata(data) {
+    const container = $("metadata");
+
+    if (!container) {
+      return;
+    }
+
+    const modifications =
+      data?.vigencia?.modificatorias ||
+      data?.modificatorias ||
+      [];
+
+    const annexes =
+      data?.anexos_prioritarios ||
+      data?.anexos ||
+      [];
+
+    const officialUrl =
+      getOfficialUrl(data);
+
+    container.innerHTML = `
+      <div class="grid">
+
+        <div class="card">
+          <b>
+            ${escapeHtml(
+              data.numero_norma || "Norma"
+            )}
+          </b>
+
+          <span>
+            ${escapeHtml(
+              data.titulo || ""
+            )}
+          </span>
+        </div>
+
+        <div class="card">
+          <b>Resolución</b>
+
+          <span>
+            ${escapeHtml(
+              data.resolucion_aprobatoria ||
+              data.resolucion ||
+              "No registrada"
+            )}
+          </span>
+        </div>
+
+        <div class="card">
+          <b>Validación</b>
+
+          <span>
+            ${escapeHtml(
+              data.estado_validacion ||
+              "No registrada"
+            )}
+          </span>
+        </div>
+
+      </div>
+
+      <div class="source">
+
+        <b>Modificatorias:</b>
+
+        ${
+          modifications.length
+            ? modifications
+                .map((item) =>
+                  escapeHtml(
+                    item.resolucion ||
+                    item.numero_norma ||
+                    ""
+                  )
+                )
+                .join(" · ")
+            : "No registradas"
+        }
+
+        <br>
+
+        <b>Anexos priorizados:</b>
+
+        ${
+          annexes.length
+            ? annexes
+                .map((item) =>
+                  escapeHtml(
+                    item.anexo ||
+                    item.nombre ||
+                    ""
+                  )
+                )
+                .join(" · ")
+            : "No registrados"
+        }
+
+        <br>
+
+        ${
+          officialUrl
+            ? `
+              <a
+                href="${escapeHtml(officialUrl)}"
+                target="_blank"
+                rel="noopener"
+              >
+                Abrir fuente oficial MINSA
+              </a>
+            `
+            : ""
+        }
+
+      </div>
+    `;
+  }
+
+  function localSearch(query) {
+    if (!metadata) {
+      return {
+        found: false,
+        html:
+          "La biblioteca todavía no está cargada."
+      };
+    }
+
+    const normalized =
+      query.trim().toLowerCase();
+
+    if (!normalized) {
+      return {
+        found: false,
+        html:
+          "Escribe un término de búsqueda."
+      };
+    }
+
+    const terms =
+      normalized
+        .split(/\s+/)
+        .filter(Boolean);
+
+    const metadataText =
+      JSON.stringify(metadata)
+        .toLowerCase();
+
+    const found =
+      terms.every((term) =>
+        metadataText.includes(term)
+      );
+
+    if (!found) {
+      return {
+        found: false,
+
+        html: `
+          Sin coincidencia documental para
+          <b>
+            ${escapeHtml(normalized)}
+          </b>.
+
+          No se genera contenido fuera
+          de la fuente cargada.
+        `
+      };
+    }
+
+    const subtopics =
+      (metadata.subtemas || [])
+        .filter((item) =>
+          terms.some((term) =>
+            String(item)
+              .toLowerCase()
+              .includes(term)
+          )
+        );
+
+    const annexes =
+      (
+        metadata.anexos_prioritarios ||
+        metadata.anexos ||
+        []
+      ).filter((item) =>
+        terms.some((term) =>
+          JSON.stringify(item)
+            .toLowerCase()
+            .includes(term)
+        )
+      );
+
+    const officialUrl =
+      getOfficialUrl(metadata);
+
+    return {
+      found: true,
+
+      html: `
+        <b>Evidencia encontrada</b>
+
+        <br>
+
+        ${escapeHtml(
+          metadata.numero_norma || ""
+        )}
+
+        <br>
+
+        ${escapeHtml(
+          metadata.titulo || ""
+        )}
+
+        ${
+          subtopics.length
+            ? `
+              <br><br>
+
+              <b>Subtemas:</b>
+
+              <br>
+
+              ${subtopics
+                .map(escapeHtml)
+                .join("<br>")}
+            `
+            : ""
+        }
+
+        ${
+          annexes.length
+            ? `
+              <br><br>
+
+              <b>Anexos relacionados:</b>
+
+              <br>
+
+              ${annexes
+                .map((item) =>
+                  escapeHtml(
+                    `${item.anexo || ""} — ${
+                      item.nombre ||
+                      item.tema ||
+                      ""
+                    }`
+                  )
+                )
+                .join("<br>")}
+            `
+            : ""
+        }
+
+        <div class="source">
+
+          Estado:
+          ${escapeHtml(
+            metadata.estado_validacion || ""
+          )}
+
+          ${
+            officialUrl
+              ? `
+                ·
+
+                <a
+                  href="${escapeHtml(
+                    officialUrl
+                  )}"
+                  target="_blank"
+                  rel="noopener"
+                >
+                  Fuente oficial
+                </a>
+              `
+              : ""
+          }
+
+        </div>
+      `
+    };
+  }
+
+  async function loadMetadata() {
+    try {
+      const response =
+        await fetch(
+          META_URL,
+          {
+            cache: "no-store"
+          }
+        );
+
+      if (!response.ok) {
+        throw new Error(
+          `HTTP ${response.status}`
+        );
+      }
+
+      metadata =
+        await response.json();
+
+      setLibraryStatus(
+        "Operativa · 1 fuente cargada",
+        "ok"
+      );
+
+      renderMetadata(metadata);
+
+    } catch (error) {
+
+      setLibraryStatus(
+        "Error de carga",
+        "warn"
+      );
+
+      const container =
+        $("metadata");
+
+      if (container) {
+        container.textContent =
+          `No se pudo cargar ${META_URL}: ${error.message}`;
+      }
+    }
+  }
+
+  function handleLibrarySearch() {
+    const input =
+      $("search");
+
+    const result =
+      $("result");
+
+    if (!input || !result) {
+      return;
+    }
+
+    result.innerHTML =
+      localSearch(input.value).html;
+  }
+
+  async function handleAssistantSubmit(event) {
+    if (event) {
+      event.preventDefault();
+    }
+
+    const input =
+      $("q") ||
+      $("queryInput");
+
+    const output =
+      $("out");
+
+    const button =
+      $("send") ||
+      document.querySelector(
+        '#queryForm button[type="submit"]'
+      );
+
+    if (!input || !output) {
+      return;
+    }
+
+    const message =
+      input.value.trim();
+
+    if (!message) {
+      output.textContent =
+        "Escribe una consulta.";
+
+      return;
+    }
+
+    if (button) {
+      button.disabled = true;
+    }
+
+    const local =
+      localSearch(message);
+
+    if (
+      local.found ||
+      !API?.chat
+    ) {
+      output.innerHTML =
+        local.html;
+
+      if (button) {
+        button.disabled = false;
+      }
+
+      return;
+    }
+
+    output.textContent =
+      "Consultando SIP-AI…";
+
+    try {
+
+      const response =
+        await API.chat(message);
+
+      output.textContent =
+        response?.answer ||
+        "El backend respondió sin contenido.";
+
+    } catch (error) {
+
+      output.innerHTML = `
+        ${local.html}
+
+        <div class="source">
+          Backend no disponible:
+          ${escapeHtml(
+            error.message
+          )}
+        </div>
+      `;
+
+    } finally {
+
+      if (button) {
+        button.disabled = false;
+      }
+    }
   }
 
   function init() {
-    const input = byId("q") || byId("queryInput");
-    const button = byId("send") || document.querySelector('#queryForm button[type="submit"]');
-    const form = byId("queryForm");
-    const output = byId("out");
-    const charCount = byId("charCount");
+    const searchInput =
+      $("search");
 
-    if (!input) return;
+    const searchButton =
+      $("searchBtn");
 
-    input.maxLength = cfg.MAX_QUERY_LENGTH;
-
-    function updateCount() {
-      if (charCount) {
-        setText(charCount, `${input.value.length} / ${cfg.MAX_QUERY_LENGTH}`);
-      }
+    if (searchButton) {
+      searchButton.addEventListener(
+        "click",
+        handleLibrarySearch
+      );
     }
 
-    async function submit(event) {
-      if (event) event.preventDefault();
-
-      const message = input.value.trim();
-      if (!message) {
-        setText(output, "Escribe una consulta.");
-        return;
-      }
-
-      if (button) button.disabled = true;
-      setText(output, "Consultando SIP-AI…");
-
-      try {
-        const result = await api.chat(message);
-        const answer = result?.answer || "El backend respondió sin contenido.";
-        setText(output, answer);
-      } catch (error) {
-        setText(
-          output,
-          `Backend no disponible: ${error.message}. La interfaz permanece operativa.`
-        );
-      } finally {
-        if (button) button.disabled = false;
-      }
+    if (searchInput) {
+      searchInput.addEventListener(
+        "keydown",
+        (event) => {
+          if (event.key === "Enter") {
+            handleLibrarySearch();
+          }
+        }
+      );
     }
 
-    input.addEventListener("input", updateCount);
+    const assistantInput =
+      $("q") ||
+      $("queryInput");
 
-    if (form) {
-      form.addEventListener("submit", submit);
-    } else if (button) {
-      button.addEventListener("click", submit);
+    const assistantForm =
+      $("queryForm");
+
+    const assistantButton =
+      $("send") ||
+      document.querySelector(
+        '#queryForm button[type="submit"]'
+      );
+
+    if (assistantInput) {
+      assistantInput.maxLength =
+        CONFIG.MAX_QUERY_LENGTH ||
+        1200;
     }
 
-    updateCount();
+    if (assistantForm) {
+
+      assistantForm.addEventListener(
+        "submit",
+        handleAssistantSubmit
+      );
+
+    } else if (assistantButton) {
+
+      assistantButton.addEventListener(
+        "click",
+        handleAssistantSubmit
+      );
+    }
+
+    loadMetadata();
   }
 
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", init);
+  if (
+    document.readyState === "loading"
+  ) {
+
+    document.addEventListener(
+      "DOMContentLoaded",
+      init
+    );
+
   } else {
+
     init();
   }
+
 })();
