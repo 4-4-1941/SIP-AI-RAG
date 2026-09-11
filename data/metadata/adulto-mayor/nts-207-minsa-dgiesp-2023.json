@@ -1,1 +1,87 @@
-
+{
+  "id": "NTS-207-MINSA-DGIESP-2023",
+  "titulo": "Norma Técnica de Salud para el Cuidado Integral de Salud de las Personas Adultas Mayores",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 207-MINSA/DGIESP-2023",
+  "resolucion_aprobatoria": "RM N.° 789-2023-MINSA",
+  "fecha_aprobacion": "2023-08-21",
+  "vigencia": {
+    "estado": "vigente_con_modificatoria",
+    "modificatorias": [
+      {
+        "resolucion": "RM N.° 948-2023-MINSA",
+        "fecha": "2023-10-11",
+        "alcance": "Modifica el subnumeral 5.1 del numeral V de la NTS N.° 207-MINSA/DGIESP-2023."
+      }
+    ]
+  },
+  "tema": "Cuidado integral de salud de la persona adulta mayor",
+  "subtemas": [
+    "Valoración clínica del adulto mayor",
+    "VACAM",
+    "Plan de cuidado integral",
+    "Organización del cuidado por niveles de atención"
+  ],
+  "curso_de_vida": "Persona adulta mayor",
+  "bloque_SERUMS": "Cuidado integral de salud",
+  "alcance_profesional": "multiprofesional",
+  "profesiones": [],
+  "fuentes_oficiales": [
+    {
+      "tipo": "pagina_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "RM N.° 789-2023-MINSA",
+      "url": "https://www.gob.pe/institucion/minsa/normas-legales/4557563-789-2023-minsa",
+      "rol_evidencia": "aprobacion_y_existencia_normativa",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    },
+    {
+      "tipo": "pdf_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "RM N.° 789-2023-MINSA + NTS N.° 207-MINSA/DGIESP-2023",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5026077/4557563-rm-n-789-2023-minsa.pdf?v=1707854608",
+      "rol_evidencia": "texto_normativo_y_anexos",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    },
+    {
+      "tipo": "pagina_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "RM N.° 948-2023-MINSA",
+      "url": "https://www.gob.pe/institucion/minsa/normas-legales/4728882-948-2023-minsa",
+      "rol_evidencia": "modificatoria",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "anexos_prioritarios": [
+    {
+      "anexo": "Anexo 4B",
+      "nombre": "VACAM Corta",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DETALLADA",
+      "nota": "No registrar aún puntuaciones, puntos de corte, interpretación ni conducta sin página/sección exacta del PDF oficial."
+    },
+    {
+      "anexo": "Anexo 10",
+      "nombre": "Plan de Cuidado Integral de Salud según Clasificación de la PAM",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DETALLADA",
+      "nota": "Pendiente de extracción estructurada y contraste de categorías, conducta y páginas exactas."
+    }
+  ],
+  "recursos_pedagogicos": {
+    "flashcard_piloto": {
+      "id": "AM-VACAM-001",
+      "titulo": "Categorización de la Persona Adulta Mayor — VACAM",
+      "estado": "NO_APROBADO",
+      "motivo": "Debe contrastarse la terminología y descripción exactas con la NTS vigente y su modificatoria antes de publicarse."
+    }
+  },
+  "reglas_rag": {
+    "no_inferir_puntos_de_corte": true,
+    "no_inferir_licencias": true,
+    "no_inferir_criterios_diagnosticos": true,
+    "exigir_fuente_pagina_o_seccion_para_afirmaciones_clinicas_o_normativas": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "estado_validacion": "PARCIALMENTE_VALIDADO",
+  "ultima_revision": "2026-09-11"
+}
