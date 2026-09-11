@@ -11,11 +11,7 @@ from rag.reranking.base import PassThroughReranker, Reranker
 
 
 class RAGPipeline:
-    def __init__(
-        self,
-        embedding_provider: EmbeddingProvider,
-        reranker: Reranker | None = None,
-    ) -> None:
+    def __init__(self, embedding_provider: EmbeddingProvider, reranker: Reranker | None = None) -> None:
         self.embedding_provider = embedding_provider
         self.reranker = reranker or PassThroughReranker()
         self.index = MemoryVectorIndex()
@@ -27,17 +23,15 @@ class RAGPipeline:
             chunks.extend(chunk_document(document))
 
         if chunks:
-            embeddings = await self.embedding_provider.embed_documents(
-                [chunk.text for chunk in chunks]
-            )
+            embeddings = await self.embedding_provider.embed_documents([chunk.text for chunk in chunks])
             self.index.add(chunks, embeddings)
 
-        return {
-            "documents": len(documents),
-            "chunks": len(chunks),
-        }
+        return {"documents": len(documents), "chunks": len(chunks)}
 
     async def retrieve(self, query: str, top_k: int = 5) -> dict:
+        if not self.index.size:
+            return {"context": "", "citations": [], "matches": []}
+
         query_embedding = await self.embedding_provider.embed_query(query)
         initial = self.index.search(query_embedding, top_k=max(top_k * 2, top_k))
         ranked = await self.reranker.rerank(query, initial, top_k=top_k)
