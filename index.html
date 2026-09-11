@@ -1,1 +1,150 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#0b1220">
+  <title>SIP-AI RAG</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">SIP · Inteligencia Aplicada</p>
+      <h1>SIP-AI RAG</h1>
+      <p class="subtitle">Asistente documental con recuperación de fuentes oficiales y arquitectura preparada para NVIDIA NIM / Llama.</p>
+    </div>
+    <span class="status-badge">MVP base</span>
+  </header>
 
+  <main class="app-shell">
+    <section class="hero card">
+      <div class="hero-copy">
+        <h2>Consulta con respaldo documental</h2>
+        <p>
+          Interfaz móvil para conectar posteriormente el motor RAG, embeddings, recuperación de citas y proveedores LLM.
+          Las claves API no deben almacenarse en este frontend.
+        </p>
+      </div>
+      <div class="hero-grid">
+        <article><strong>Fuentes</strong><span>MINSA · INS · OMS/OPS · NTS · Guías</span></article>
+        <article><strong>Modelo</strong><span>NVIDIA NIM / Llama</span></article>
+        <article><strong>Respuesta</strong><span>Con citas y trazabilidad</span></article>
+      </div>
+    </section>
+
+    <section class="workspace">
+      <aside class="sidebar card">
+        <h2>Fuentes activas</h2>
+        <label><input type="checkbox" checked> Normas técnicas</label>
+        <label><input type="checkbox" checked> Guías clínicas</label>
+        <label><input type="checkbox" checked> Manuales oficiales</label>
+        <label><input type="checkbox"> Exámenes oficiales</label>
+        <hr>
+        <h2>Proveedor</h2>
+        <select id="provider" aria-label="Proveedor de IA">
+          <option>NVIDIA NIM / Llama</option>
+          <option>Groq</option>
+          <option>Cerebras</option>
+          <option>RAG-only</option>
+        </select>
+        <div class="note">La autenticación real se resolverá en backend; nunca en este frontend.</div>
+      </aside>
+
+      <section class="chat card">
+        <div class="chat-head">
+          <div>
+            <h2>Asistente SIP-AI</h2>
+            <p>Esta entrega valida la interfaz móvil. API/RAG/NVIDIA todavía no están conectados.</p>
+          </div>
+          <button id="clearBtn" class="secondary">Limpiar</button>
+        </div>
+
+        <div id="messages" class="messages" aria-live="polite">
+          <article class="message assistant">
+            <span class="avatar">AI</span>
+            <div>
+              <strong>SIP-AI</strong>
+              <p>Escribe una consulta. La integración RAG añadirá recuperación semántica, evidencia y citas exactas.</p>
+            </div>
+          </article>
+        </div>
+
+        <form id="queryForm" class="composer">
+          <textarea id="queryInput" rows="3" placeholder="Ej.: ¿Qué norma MINSA regula la valoración cognitiva en el adulto mayor?" required></textarea>
+          <div class="composer-actions">
+            <span id="charCount">0 / 1200</span>
+            <button type="submit">Consultar</button>
+          </div>
+        </form>
+      </section>
+    </section>
+
+    <section class="card architecture">
+      <h2>Arquitectura prevista</h2>
+      <div class="flow">
+        <span>Frontend móvil</span><b>→</b>
+        <span>API segura</span><b>→</b>
+        <span>RAG / Retrieval</span><b>→</b>
+        <span>Vector Store</span><b>→</b>
+        <span>NVIDIA NIM / Llama</span>
+      </div>
+    </section>
+  </main>
+
+  <footer>SIP-AI RAG · Base inicial móvil · © 2026</footer>
+
+  <script>
+    const form = document.getElementById('queryForm');
+    const input = document.getElementById('queryInput');
+    const messages = document.getElementById('messages');
+    const charCount = document.getElementById('charCount');
+    const clearBtn = document.getElementById('clearBtn');
+    const MAX = 1200;
+
+    input.addEventListener('input', () => {
+      if (input.value.length > MAX) input.value = input.value.slice(0, MAX);
+      charCount.textContent = `${input.value.length} / ${MAX}`;
+    });
+
+    clearBtn.addEventListener('click', () => {
+      messages.innerHTML = `
+        <article class="message assistant">
+          <span class="avatar">AI</span>
+          <div>
+            <strong>SIP-AI</strong>
+            <p>Historial local limpiado. El backend RAG aún no está conectado.</p>
+          </div>
+        </article>`;
+    });
+
+    form.addEventListener('submit', (event) => {
+      event.preventDefault();
+      const text = input.value.trim();
+      if (!text) return;
+
+      const userMessage = document.createElement('article');
+      userMessage.className = 'message user';
+      userMessage.innerHTML = `<span class="avatar">TÚ</span><div><strong>Consulta</strong><p></p></div>`;
+      userMessage.querySelector('p').textContent = text;
+      messages.appendChild(userMessage);
+
+      const aiMessage = document.createElement('article');
+      aiMessage.className = 'message assistant';
+      aiMessage.innerHTML = `
+        <span class="avatar">AI</span>
+        <div>
+          <strong>SIP-AI</strong>
+          <p>Interfaz funcionando. Falta conectar el endpoint seguro que ejecutará recuperación RAG y enviará el contexto al proveedor LLM seleccionado.</p>
+          <small>Estado: frontend operativo · API/RAG/NVIDIA todavía no conectados.</small>
+        </div>`;
+      messages.appendChild(aiMessage);
+
+      input.value = '';
+      charCount.textContent = `0 / ${MAX}`;
+      messages.scrollTop = messages.scrollHeight;
+      input.focus();
+    });
+  </script>
+</body>
+</html>
