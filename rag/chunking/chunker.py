@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+
 from rag.ingestion.loader import Document
 
 
@@ -12,13 +13,10 @@ class Chunk:
     title: str
     chunk_index: int
     text: str
+    metadata: dict | None = None
 
 
-def chunk_document(
-    document: Document,
-    chunk_size: int = 900,
-    overlap: int = 150,
-) -> list[Chunk]:
+def chunk_document(document: Document, chunk_size: int = 900, overlap: int = 150) -> list[Chunk]:
     if chunk_size <= 0:
         raise ValueError("chunk_size debe ser mayor que 0.")
     if overlap < 0 or overlap >= chunk_size:
@@ -41,13 +39,12 @@ def chunk_document(
                     title=document.title,
                     chunk_index=index,
                     text=segment,
+                    metadata=document.metadata,
                 )
             )
             index += 1
-
         if end == len(text):
             break
         start = end - overlap
 
     return chunks
-  
