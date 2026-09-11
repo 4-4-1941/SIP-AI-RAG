@@ -1,89 +1,48 @@
 <!doctype html>
 <html lang="es">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#07111f">
-  <title>SIP-AI RAG</title>
-  <style>
-    *{box-sizing:border-box}
-    html,body{margin:0;min-height:100%;background:#07111f;color:#edf4ff;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
-    body{min-height:100vh;background:linear-gradient(180deg,#07111f 0%,#091726 100%)}
-    .wrap{width:min(100% - 24px,980px);margin:0 auto;padding:24px 0 40px}
-    .hero,.chat{border-radius:18px;background:#0d1b2e;border:1px solid rgba(255,255,255,.10);box-shadow:0 16px 40px rgba(0,0,0,.24)}
-    .hero{padding:24px}
-    .eyebrow{margin:0 0 6px;color:#4fd1c5;font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase}
-    h1{margin:0 0 10px;font-size:clamp(28px,8vw,44px)}
-    p{line-height:1.55;color:#b8c5d6}
-    .ok{display:inline-block;margin-top:8px;padding:8px 12px;border-radius:999px;background:#17394a;color:#8be4dd;font-size:13px;font-weight:700}
-    .grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:16px}
-    .card{padding:16px;border-radius:14px;background:#102139;border:1px solid rgba(255,255,255,.09)}
-    .card strong{display:block;margin-bottom:6px}
-    .card span{color:#a9b7ca;font-size:14px}
-    .chat{margin-top:16px;padding:16px}
-    textarea{width:100%;min-height:120px;margin-top:10px;padding:14px;border-radius:12px;border:1px solid rgba(255,255,255,.12);background:#081525;color:#fff;resize:vertical}
-    button{width:100%;margin-top:10px;padding:14px;border:0;border-radius:12px;background:#4fd1c5;color:#06121c;font-weight:800;cursor:pointer}
-    .msg{margin-top:12px;padding:12px;border-radius:12px;background:#102139;color:#dbe7f3}
-    .foot{margin-top:18px;text-align:center;color:#7f90a6;font-size:12px}
-    @media(max-width:700px){
-      .wrap{width:min(100% - 14px,980px);padding-top:10px}
-      .hero{padding:18px}
-      .grid{grid-template-columns:1fr}
-      .chat{padding:14px}
-    }
-  </style>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#07111f">
+<title>SIP-AI RAG · Biblioteca SERUMS</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#07111f;color:#edf4ff;font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+.wrap{width:min(100% - 20px,1050px);margin:auto;padding:18px 0 40px}.panel{background:#0d1b2e;border:1px solid #20324a;border-radius:18px;padding:18px;margin-bottom:14px}
+h1,h2{margin:0 0 8px}.muted{color:#a9b7ca}.badge{display:inline-block;padding:6px 10px;border-radius:999px;background:#17394a;color:#8be4dd;font-size:12px;font-weight:800}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:14px}.card{background:#102139;border:1px solid #263b55;border-radius:14px;padding:14px}
+.card b{display:block;margin-bottom:5px}.status{font-size:13px}.ok{color:#8be4dd}.warn{color:#ffd166}
+input,button{font:inherit}input{width:100%;padding:13px;border-radius:12px;border:1px solid #304762;background:#081525;color:#fff;margin:8px 0}
+button{padding:12px 14px;border:0;border-radius:12px;background:#4fd1c5;color:#06121c;font-weight:800;cursor:pointer}
+.result{margin-top:12px;background:#081525;border-radius:14px;padding:14px;white-space:pre-wrap}.source{margin-top:10px;padding-top:10px;border-top:1px solid #263b55;font-size:13px;color:#b8c5d6}
+a{color:#8be4dd}.foot{text-align:center;color:#73869e;font-size:12px;margin-top:20px}
+@media(max-width:700px){.grid{grid-template-columns:1fr}.wrap{width:min(100% - 12px,1050px);padding-top:8px}.panel{padding:14px}}
+</style>
 </head>
 <body>
-  <main class="wrap">
-    <section class="hero">
-      <p class="eyebrow">SIP · Inteligencia Aplicada</p>
-      <h1>SIP-AI RAG</h1>
-      <p>Asistente documental móvil preparado para integrar recuperación aumentada, citas verificables y NVIDIA NIM / Llama.</p>
-      <span class="ok">Interfaz cargada correctamente</span>
+<main class="wrap">
+<section class="panel">
+<span class="badge">SIP · Biblioteca SERUMS-SIP</span>
+<h1>SIP-AI RAG</h1>
+<p class="muted">Piloto documental operativo en GitHub Pages. Consulta local de metadatos oficiales y visualización de trazabilidad.</p>
+<div class="grid">
+<div class="card"><b>Biblioteca</b><span id="libraryStatus" class="status warn">Cargando…</span></div>
+<div class="card"><b>Piloto</b><span class="status">Persona Adulta Mayor · NTS 207</span></div>
+<div class="card"><b>RAG backend</b><span class="status warn">Preparado · requiere despliegue API</span></div>
+</div>
+</section>
 
-      <div class="grid">
-        <div class="card">
-          <strong>Fuentes</strong>
-          <span>MINSA · INS · OMS/OPS · NTS · Guías</span>
-        </div>
-        <div class="card">
-          <strong>Modelo</strong>
-          <span>NVIDIA NIM / Llama</span>
-        </div>
-        <div class="card">
-          <strong>Respuesta</strong>
-          <span>RAG con evidencia y citas</span>
-        </div>
-      </div>
-    </section>
+<section class="panel">
+<h2>Explorador documental</h2>
+<p class="muted">Prueba: <b>VACAM</b>, <b>adulto mayor</b>, <b>RM 789</b>, <b>RM 948</b>, <b>fragilidad</b> o <b>plan de cuidado</b>.</p>
+<input id="search" autocomplete="off" placeholder="Buscar en la biblioteca documental…">
+<button id="searchBtn">Buscar evidencia</button>
+<div id="result" class="result">Esperando consulta.</div>
+</section>
 
-    <section class="chat">
-      <strong>Asistente SIP-AI</strong>
-      <p>Esta versión comprueba primero la carga correcta del frontend móvil antes de integrar el backend RAG.</p>
-
-      <textarea id="q" placeholder="Escribe una consulta de prueba..."></textarea>
-      <button id="send" type="button">Probar interfaz</button>
-      <div id="out" class="msg">Estado: frontend cargado.</div>
-    </section>
-
-    <div class="foot">SIP-AI RAG · © 2026</div>
-  </main>
-
-  <script>
-    (function () {
-      var btn = document.getElementById('send');
-      var q = document.getElementById('q');
-      var out = document.getElementById('out');
-
-      if (!btn || !q || !out) return;
-
-      btn.addEventListener('click', function () {
-        var text = q.value.trim();
-        out.textContent = text
-          ? 'Consulta local recibida: ' + text
-          : 'Escribe una consulta para probar la interfaz.';
-      });
-    })();
-  </script>
-</body>
-</html>
+<section class="panel">
+<h2>Fuente cargada</h2>
+<div id="metadata">Cargando metadatos…</div>
+</section>
+<div class="foot">© SIP — SYSTEM INTELLIGENCE PLATFORM · 2026</div>
+</main>
+<script src="js/app.js"></script>
+</body></html>
