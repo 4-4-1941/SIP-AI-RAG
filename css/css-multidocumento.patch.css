@@ -1,0 +1,8 @@
+
+/* SIP-AI-RAG · soporte multidocumento */
+.document-toolbar{display:flex;justify-content:space-between;align-items:center;gap:1rem;margin:1rem 0;padding:.9rem;border:1px solid var(--line);border-radius:14px;background:#081525}
+.document-toolbar h3{margin:.2rem 0}
+.document-toolbar select{max-width:48%;background:#071523;color:var(--text);border:1px solid var(--line);border-radius:10px;padding:.7rem}
+.open-doc,.open-result-doc{border:1px solid rgba(79,209,197,.25);background:rgba(79,209,197,.08);color:var(--accent);padding:.5rem .7rem;border-radius:10px;font-weight:800;cursor:pointer}
+.library-doc{position:relative}
+@media(max-width:560px){.document-toolbar{align-items:stretch;flex-direction:column}.document-toolbar select{max-width:none;width:100%}}
