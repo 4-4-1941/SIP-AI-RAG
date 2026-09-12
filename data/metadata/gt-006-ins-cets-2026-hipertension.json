@@ -1,0 +1,40 @@
+{
+  "id": "GT-006-INS-CETS-2026",
+  "titulo": "Guía de Práctica Clínica para la prevención, diagnóstico y tratamiento de la hipertensión arterial en adultos",
+  "institucion": "Instituto Nacional de Salud del Perú",
+  "tipo_documento": "Guía Técnica / Guía de Práctica Clínica",
+  "numero_norma": "Guía Técnica N.° 006-INS/CETS-2026 Vs.01",
+  "resolucion_aprobatoria": "Resolución de Presidencia N.° 093-2026-INS/PE",
+  "fecha_aprobacion": "2026-05-14",
+  "tema": "Hipertensión arterial en adultos",
+  "bloque_SERUMS": "Cuidado integral de salud",
+  "subtemas": [
+    "Prevención de hipertensión arterial",
+    "Diagnóstico",
+    "Tratamiento",
+    "Adultos"
+  ],
+  "fuentes_oficiales": [
+    {
+      "tipo": "pagina_oficial",
+      "entidad": "Instituto Nacional de Salud",
+      "documento": "Resolución de Presidencia N.° 093-2026-INS/PE",
+      "url": "https://www.gob.pe/institucion/ins/normas-legales/8139384-093-2026-ins-pe",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "recursos_pedagogicos": {
+    "ficha_fuente": {
+      "id": "HTA-INS-006-001",
+      "titulo": "Ficha normativa — Hipertensión arterial en adultos",
+      "estado": "VALIDADO_OFICIAL",
+      "motivo": "Basada en la resolución y guía oficial identificadas."
+    }
+  },
+  "reglas_rag": {
+    "exigir_fuente_pagina_o_seccion_para_afirmaciones_clinicas_o_normativas": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "estado_validacion": "CORROBORADO_PENDIENTE_PDF_OFICIAL",
+  "ultima_revision": "2026-09-11"
+}

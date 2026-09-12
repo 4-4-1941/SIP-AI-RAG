@@ -1,0 +1,39 @@
+{
+  "id": "RM-136-2023-MINSA-DEPRESION",
+  "titulo": "Guía de Práctica Clínica para Tamizaje, Diagnóstico y Tratamiento de la Depresión en Personas Mayores de 18 años desde el Primer Nivel de Atención",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Guía Técnica / Guía de Práctica Clínica",
+  "resolucion_aprobatoria": "RM N.° 136-2023-MINSA",
+  "fecha_aprobacion": "2023-02-10",
+  "tema": "Depresión en personas mayores de 18 años",
+  "bloque_SERUMS": "Cuidado integral de salud / Salud mental",
+  "subtemas": [
+    "Tamizaje de depresión",
+    "Diagnóstico",
+    "Tratamiento",
+    "Primer nivel de atención"
+  ],
+  "fuentes_oficiales": [
+    {
+      "tipo": "pagina_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "RM N.° 136-2023-MINSA",
+      "url": "https://www.gob.pe/institucion/minsa/normas-legales/3882024-136-2023-minsa",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "recursos_pedagogicos": {
+    "ficha_fuente": {
+      "id": "SM-DEP-136-001",
+      "titulo": "Ficha normativa — Depresión en primer nivel",
+      "estado": "VALIDADO_OFICIAL",
+      "motivo": "Basada en identificación, alcance y resolución aprobatoria de la fuente oficial."
+    }
+  },
+  "reglas_rag": {
+    "exigir_fuente_pagina_o_seccion_para_afirmaciones_clinicas_o_normativas": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "estado_validacion": "CORROBORADO_PENDIENTE_PDF_OFICIAL",
+  "ultima_revision": "2026-09-11"
+}
