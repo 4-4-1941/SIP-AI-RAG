@@ -1,1 +1,103 @@
-
+{
+  "id": "SERUMS-2026-II-MINSA-17-COMPENDIOS",
+  "titulo": "Bibliografía de la Evaluación para el SERUMS 2026-II",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo": "grupo_compendios",
+  "url_oficial": "https://www.gob.pe/institucion/minsa/colecciones/61810",
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "cantidad_compendios": 17,
+  "uso_rag": {
+    "indexar_documentos_individualmente": true,
+    "conservar_compendio_origen": true,
+    "conservar_url_oficial": true,
+    "exigir_pagina_para_afirmaciones_documentales": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "compendios": [
+    {
+      "nombre": "Telesalud",
+      "sigla": "TELESALUD",
+      "cantidad_normas": 4
+    },
+    {
+      "nombre": "Dirección General de Medicamentos, Insumos y Drogas",
+      "sigla": "DIGEMID",
+      "cantidad_normas": 27
+    },
+    {
+      "nombre": "Dirección de Discapacidad",
+      "sigla": "DISCAP",
+      "cantidad_normas": 4
+    },
+    {
+      "nombre": "Dirección de Inmunizaciones",
+      "sigla": "DMUNI",
+      "cantidad_normas": 5
+    },
+    {
+      "nombre": "Dirección de Intervenciones por Curso de Vida y Cuidado Integral",
+      "sigla": "DIVICI",
+      "cantidad_normas": 15
+    },
+    {
+      "nombre": "Dirección de Prevención y Control de Enfermedades Metaxénicas y Zoonosis",
+      "sigla": "DPCEM",
+      "cantidad_normas": 7
+    },
+    {
+      "nombre": "Dirección General de Aseguramiento e Intercambio Prestacional",
+      "sigla": "DGAIN",
+      "cantidad_normas": 21
+    },
+    {
+      "nombre": "Centro Nacional de Epidemiología, Prevención y Control de Enfermedades",
+      "sigla": "CDC",
+      "cantidad_normas": 60
+    },
+    {
+      "nombre": "Dirección de Prevención y Control de VIH-Sida, ITS y Hepatitis",
+      "sigla": "DPVIH",
+      "cantidad_normas": 12
+    },
+    {
+      "nombre": "Dirección de Pueblos Indígenas u Originarios",
+      "sigla": "PUEBLOS-INDIGENAS",
+      "cantidad_normas": 5
+    },
+    {
+      "nombre": "Dirección de Salud Bucal",
+      "sigla": "SALUD-BUCAL",
+      "cantidad_normas": 7
+    },
+    {
+      "nombre": "Componente de Salud Ocular - DENOT",
+      "sigla": "DENOT-OCULAR",
+      "cantidad_normas": 14
+    },
+    {
+      "nombre": "Dirección de Salud Sexual y Reproductiva",
+      "sigla": "DSARE",
+      "cantidad_normas": 25
+    },
+    {
+      "nombre": "Dirección de Prevención y Control de Tuberculosis",
+      "sigla": "DPCTB",
+      "cantidad_normas": 4
+    },
+    {
+      "nombre": "Dirección de Promoción de la Salud",
+      "sigla": "PROMOCION-SALUD",
+      "cantidad_normas": 12
+    },
+    {
+      "nombre": "Dirección de Salud Mental",
+      "sigla": "SALUD-MENTAL",
+      "cantidad_normas": 24
+    },
+    {
+      "nombre": "Dirección de Prevención y Control del Cáncer",
+      "sigla": "DPCAN",
+      "cantidad_normas": 11
+    }
+  ]
+}
