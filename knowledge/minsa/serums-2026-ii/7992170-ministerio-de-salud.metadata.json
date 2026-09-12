@@ -1,0 +1,18 @@
+{
+  "id": "MINSA-SERUMS-2026-II-7992170",
+  "titulo": "Ministerio de Salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "SERUMS 2026-II",
+  "compendios_origen": [
+    "Dirección General de Medicamentos, Insumos y Drogas"
+  ],
+  "compendios_urls": [
+    "https://www.gob.pe/institucion/minsa/colecciones/95451-digemid"
+  ],
+  "texto_indice": "Decreto Supremo N.° 024-2020-SA",
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/7992170-024-2020-sa",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/9775486/7992170-decreto-supremo-que-modifica-el-reglamento-de-estupefacientes-psicotropicos-y-otras-sustancias-sujetas-a-fiscalizacion-sanitaria.pdf?v=1775758473",
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "tipo_fuente": "texto_extraido_pdf_oficial",
+  "regla_evidencia": "Conservar página exacta del PDF para afirmaciones documentales."
+}

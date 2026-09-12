@@ -1,0 +1,18 @@
+{
+  "id": "MINSA-SERUMS-2026-II-1113419",
+  "titulo": "Ministerio de Salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "SERUMS 2026-II",
+  "compendios_origen": [
+    "Dirección de Promoción de la Salud"
+  ],
+  "compendios_urls": [
+    "https://www.gob.pe/institucion/minsa/colecciones/61886-evaluacion-para-el-serums-bibliografia-relacionada-a-los-contenidos-de-la-direccion-de-promocion-de-la-salud"
+  ],
+  "texto_indice": "Decreto Supremo N.° 026-2020-SA",
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/1113419-026-2020-sa",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/1255953/Decreto%20supremo%20026-2020-SA.pdf?v=1598275746",
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "tipo_fuente": "texto_extraido_pdf_oficial",
+  "regla_evidencia": "Conservar página exacta del PDF para afirmaciones documentales."
+}

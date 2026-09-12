@@ -1,0 +1,18 @@
+{
+  "id": "MINSA-SERUMS-2026-II-6972510",
+  "titulo": "Ministerio de Salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "SERUMS 2026-II",
+  "compendios_origen": [
+    "Dirección de Inmunizaciones"
+  ],
+  "compendios_urls": [
+    "https://www.gob.pe/institucion/minsa/colecciones/95444-evaluacion-para-el-serums-bibliografia-relacionada-a-los-contenidos-de-la-direccion-de-inmunizaciones-dmuni"
+  ],
+  "texto_indice": "Resolución Ministerial N.° 474-2025-MINSA",
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/6972510-474-2025-minsa",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/8382658/6972510-resolucion-ministerial-n-474-2025-minsa.pdf?v=1752846435",
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "tipo_fuente": "texto_extraido_pdf_oficial",
+  "regla_evidencia": "Conservar página exacta del PDF para afirmaciones documentales."
+}

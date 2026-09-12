@@ -1,0 +1,18 @@
+{
+  "id": "MINSA-SERUMS-2026-II-192179",
+  "titulo": "Ministerio de Salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "SERUMS 2026-II",
+  "compendios_origen": [
+    "Dirección de Salud Sexual y Reproductiva"
+  ],
+  "compendios_urls": [
+    "https://www.gob.pe/institucion/minsa/colecciones/61883-evaluacion-para-el-serums-bibliografia-relacionada-a-los-contenidos-de-la-direccion-de-salud-sexual-y-reproductiva-dsare"
+  ],
+  "texto_indice": "Resolución Viceministerial N.° 0026-2016-SA-DVM-SP",
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/192179-0026-2016-sa-dvm-sp",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/193451/192179_RV_N_C2_B0_0026-2016-SA-DVM-SP.pdf20180904-20266-176hqah.pdf?v=1536080707",
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "tipo_fuente": "texto_extraido_pdf_oficial",
+  "regla_evidencia": "Conservar página exacta del PDF para afirmaciones documentales."
+}

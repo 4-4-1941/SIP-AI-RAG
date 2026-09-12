@@ -1,0 +1,18 @@
+{
+  "id": "MINSA-SERUMS-2026-II-6303564",
+  "titulo": "Ministerio de Salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "SERUMS 2026-II",
+  "compendios_origen": [
+    "Dirección de Prevención y Control del Cáncer"
+  ],
+  "compendios_urls": [
+    "https://www.gob.pe/institucion/minsa/colecciones/61879-evaluacion-para-el-serums-bibliografia-relacionada-a-los-contenidos-de-la-direccion-de-prevencion-y-control-del-cancer-dpcan"
+  ],
+  "texto_indice": "Resolución Ministerial N.° 876-2024-MINSA",
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/6303564-876-2024-minsa",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/7392142/6303564-resolucion-ministerial-n-876-2024-minsa.pdf?v=1734540320",
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "tipo_fuente": "texto_extraido_pdf_oficial",
+  "regla_evidencia": "Conservar página exacta del PDF para afirmaciones documentales."
+}

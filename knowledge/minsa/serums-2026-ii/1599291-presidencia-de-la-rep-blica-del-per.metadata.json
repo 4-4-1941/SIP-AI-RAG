@@ -1,0 +1,18 @@
+{
+  "id": "MINSA-SERUMS-2026-II-1599291",
+  "titulo": "Presidencia de la República del Perú",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "SERUMS 2026-II",
+  "compendios_origen": [
+    "Telesalud"
+  ],
+  "compendios_urls": [
+    "https://www.gob.pe/institucion/minsa/colecciones/95460-evaluacion-para-el-serums-bibliografia-relacionada-a-los-contenidos-de-la-direccion-de-telesalud"
+  ],
+  "texto_indice": "Decreto Supremo N.° 005-2021-SA",
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/1599291-005-2021-sa",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/1611088/Decreto%20Supremo%20N%C2%B0%20005-2021-SA.pdf.pdf?v=1611852336",
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "tipo_fuente": "texto_extraido_pdf_oficial",
+  "regla_evidencia": "Conservar página exacta del PDF para afirmaciones documentales."
+}

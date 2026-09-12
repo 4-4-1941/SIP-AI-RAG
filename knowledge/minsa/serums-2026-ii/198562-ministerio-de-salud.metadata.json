@@ -1,0 +1,18 @@
+{
+  "id": "MINSA-SERUMS-2026-II-198562",
+  "titulo": "Ministerio de Salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "SERUMS 2026-II",
+  "compendios_origen": [
+    "Dirección de Pueblos Indígenas u Originarios"
+  ],
+  "compendios_urls": [
+    "https://www.gob.pe/institucion/minsa/colecciones/61888-evaluacion-para-el-serums-bibliografia-relacionada-a-los-contenidos-de-la-direccion-de-pueblos-indigenas-u-originarios"
+  ],
+  "texto_indice": "Resolución Ministerial N.° 611-2014-MINSA",
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/198562-611-2014-minsa",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/201797/198562_RM611_2014_MINSA.pdf20180926-32492-eo3vbc.pdf?v=1594243395",
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "tipo_fuente": "texto_extraido_pdf_oficial",
+  "regla_evidencia": "Conservar página exacta del PDF para afirmaciones documentales."
+}

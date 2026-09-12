@@ -1,0 +1,18 @@
+{
+  "id": "MINSA-SERUMS-2026-II-255646",
+  "titulo": "Ministerio de Salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "SERUMS 2026-II",
+  "compendios_origen": [
+    "Dirección General de Medicamentos, Insumos y Drogas"
+  ],
+  "compendios_urls": [
+    "https://www.gob.pe/institucion/minsa/colecciones/95451-digemid"
+  ],
+  "texto_indice": "Decreto Supremo N.° 023-2001-SA",
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/255646-023-2001-sa",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/283858/255646_DS023-2001.pdf20190110-18386-1k7n0nb.pdf?v=1547177096",
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "tipo_fuente": "texto_extraido_pdf_oficial",
+  "regla_evidencia": "Conservar página exacta del PDF para afirmaciones documentales."
+}

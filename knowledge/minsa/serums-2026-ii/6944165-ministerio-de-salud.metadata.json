@@ -1,0 +1,18 @@
+{
+  "id": "MINSA-SERUMS-2026-II-6944165",
+  "titulo": "Ministerio de Salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "SERUMS 2026-II",
+  "compendios_origen": [
+    "Dirección de Salud Mental"
+  ],
+  "compendios_urls": [
+    "https://www.gob.pe/institucion/minsa/colecciones/61889-evaluacion-para-el-serums-bibliografia-relacionada-a-los-contenidos-de-la-direccion-de-salud-mental"
+  ],
+  "texto_indice": "Decreto Supremo N.° 012-2025-SA",
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/6944165-012-2025-sa",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/8338884/6944165-decreto-supremo-n-012-2025-sa%282%29.pdf?v=1752269649",
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "tipo_fuente": "texto_extraido_pdf_oficial",
+  "regla_evidencia": "Conservar página exacta del PDF para afirmaciones documentales."
+}

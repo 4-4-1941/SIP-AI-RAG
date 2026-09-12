@@ -1,0 +1,18 @@
+{
+  "id": "MINSA-SERUMS-2026-II-189882",
+  "titulo": "Ministerio de Salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "SERUMS 2026-II",
+  "compendios_origen": [
+    "Componente de Salud Ocular - DENOT"
+  ],
+  "compendios_urls": [
+    "https://www.gob.pe/institucion/minsa/colecciones/61881-evaluacion-para-el-serums-bibliografia-relacionada-a-los-contenidos-del-componente-de-salud-ocular-de-la-direccion-de-prevencion-y-control-de-enfermedades-no-transmisibles-raras-y-huerfanas-denot"
+  ],
+  "texto_indice": "Resolución Ministerial N.° 228-2017-MINSA",
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/189882-228-2017-minsa",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/190387/189882_RM_N_C2_B0228-2017-MINSA.PDF20180823-24725-f6y7fm.PDF?v=1593748803",
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "tipo_fuente": "texto_extraido_pdf_oficial",
+  "regla_evidencia": "Conservar página exacta del PDF para afirmaciones documentales."
+}

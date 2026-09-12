@@ -1,0 +1,18 @@
+{
+  "id": "MINSA-SERUMS-2026-II-191412",
+  "titulo": "Ministerio de Salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "SERUMS 2026-II",
+  "compendios_origen": [
+    "Dirección de Prevención y Control de VIH-Sida, ITS y Hepatitis"
+  ],
+  "compendios_urls": [
+    "https://www.gob.pe/institucion/minsa/colecciones/61805-evaluacion-para-el-serums-bibliografia-relacionada-a-los-contenidos-de-la-direccion-de-prevencion-y-control-de-vih-sida-enfermedades-de-transmision-sexual-y-hepatitis-dpvih"
+  ],
+  "texto_indice": "Resolución Ministerial N.° 1012-2016-MINSA",
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/191412-1012-2016-minsa",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/192691/191412_RM-N_1012-2016-MINSA.pdf20180904-20266-wpegzo.pdf?v=1593817063",
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "tipo_fuente": "texto_extraido_pdf_oficial",
+  "regla_evidencia": "Conservar página exacta del PDF para afirmaciones documentales."
+}

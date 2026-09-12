@@ -1,0 +1,18 @@
+{
+  "id": "MINSA-SERUMS-2026-II-6332518",
+  "titulo": "Ministerio de Salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "SERUMS 2026-II",
+  "compendios_origen": [
+    "Centro Nacional de Epidemiología, Prevención y Control de Enfermedades"
+  ],
+  "compendios_urls": [
+    "https://www.gob.pe/institucion/minsa/colecciones/95431-evaluacion-para-el-serums-bibliografia-relacionada-a-los-contenidos-del-centro-nacional-de-epidemiologia-prevencion-y-control-de-enfermedades-cdc-peru"
+  ],
+  "texto_indice": "Resolución Ministerial N.° 903-2024-MINSA",
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/6332518-903-2024-minsa",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/7432899/6332518-resolucion-ministerial-n-903-2024-minsa.pdf?v=1735398121",
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "tipo_fuente": "texto_extraido_pdf_oficial",
+  "regla_evidencia": "Conservar página exacta del PDF para afirmaciones documentales."
+}

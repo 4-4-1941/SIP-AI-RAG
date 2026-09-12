@@ -1,0 +1,285 @@
+# Ministerio de Salud
+
+Fuente oficial: https://www.gob.pe/institucion/minsa/normas-legales/7992065-32319
+PDF oficial: https://cdn.www.gob.pe/uploads/document/file/9775329/7992065-ley-que-establece-medidas-para-facilitar-el-acceso-a-medicamentos-y-productos-biologicos-resgistrados-en-paises-de-alta-vigilancia-sanitaria-destinados-al-tratamiento-de-enfermedades-raras-cancer.pdf?v=1775757186
+
+[[PAGINA 1]]
+7NORMAS LEGALESJueves 1 de mayo de 2025 El Peruano / 
+dentro de un plazo de sesenta días hábiles contados a 
+partir del día siguiente de su vigencia.
+TERCERA. Revisión de la legislación sobre 
+defensores de la democracia
+La Presidencia del Consejo de Ministros, en un 
+plazo máximo de seis meses contados desde la entrada 
+en vigor de la presente ley, revisa la legislación sobre 
+defensores de la democracia y, de ser el caso, viabiliza 
+los beneficios señalados en el artículo 10 de la Ley 
+24053 —Denominan “Campaña Militar de 1941”, a los 
+gloriosos hechos de armas cumplidos en Zarumilla y en la 
+Frontera Nor-Oriente; y declaran el 31 de julio día central 
+conmemorativo—.
+DISPOSICIÓN COMPLEMENTARIA DEROGATORIA
+ÚNICA. Derogación
+Se tiene por derogadas o modificadas las normas que 
+se opongan a lo establecido en la presente ley.
+POR TANTO:
+Habiendo sido reconsiderada la Ley por el Congreso 
+de la República, insistiendo en el texto aprobado en 
+sesión del Pleno realizada el día treinta y uno de octubre 
+de dos mil veinticuatro, de conformidad con lo dispuesto 
+por el artículo 108 de la Constitución Política del Perú, 
+ordeno que se publique y cumpla.
+En Lima, a los treinta días del mes de abril de dos mil 
+veinticinco.
+EDUARDO SALHUANA CAVIDES
+Presidente del Congreso de la República
+CARMEN PATRICIA JUÁREZ GALLEGOS
+Primera Vicepresidenta del Congreso de la República
+2395814-3
+LEY Nº 32319
+LA PRESIDENTA DE LA REPÚBLICA
+POR CUANTO:
+EL CONGRESO DE LA REPÚBLICA;
+Ha dado la Ley siguiente:
+LEY QUE ESTABLECE MEDIDAS PARA FACILITAR 
+EL ACCESO A MEDICAMENTOS Y PRODUCTOS 
+BIOLÓGICOS REGISTRADOS EN PAÍSES DE 
+ALTA VIGILANCIA SANITARIA DESTINADOS AL 
+TRATAMIENTO DE ENFERMEDADES RARAS, 
+HUÉRFANAS, CÁNCER Y DEMÁS ENFERMEDADES
+Artículo 1. Objeto de la Ley
+La presente ley tiene por objeto establecer medidas 
+para facilitar el acceso, a través de la inscripción y 
+reinscripción en el Registro Sanitario de medicamentos 
+y productos biológicos registrados en países de alta 
+vigilancia sanitaria, destinados al tratamiento de 
+enfermedades raras, huérfanas, cáncer y demás 
+enfermedades, con el fin de fortalecer el acceso oportuno, 
+de calidad y equitativo a estos, y garantizar el derecho 
+fundamental a la salud y a la vida de toda persona.
+Artículo 2. Ámbito de aplicación
+Están comprendidos en la ley los medicamentos 
+y productos biológicos destinados al tratamiento de 
+enfermedades raras, huérfanas, cáncer y demás 
+enfermedades, registrados y comercializados en países 
+de alta vigilancia sanitaria.
+El Ministerio de Salud establece las enfermedades 
+raras y huérfanas, en el plazo de treinta días calendario 
+computados desde la entrada en vigor de la presente ley, 
+bajo responsabilidad funcional.
+Artículo 3. Medidas y requisitos para facilitar la 
+inscripción y reinscripción en el Registro Sanitario
+Se exonera de la aplicación de lo dispuesto en los 
+artículos 10 y 11 de la Ley 29459, Ley de los productos 
+farmacéuticos, dispositivos médicos y productos sanitarios, 
+a los medicamentos y productos biológicos destinados al 
+tratamiento de enfermedades raras, huérfanas, cáncer 
+y demás enfermedades que cuenten con el registro y se 
+comercialicen en los países de alta vigilancia sanitaria.
+Estos productos están sujetos a un procedimiento de 
+evaluación acelerada en un plazo no mayor de cuarenta y 
+cinco días calendario con silencio administrativo positivo, 
+siempre que cumpla con remitir la información completa 
+de calidad, seguridad y eficacia en formato del documento 
+técnico común, el mismo que fue autorizado en el país de 
+alta vigilancia sanitaria, en idioma inglés o español, y que 
+incluya los estudios de estabilidad en la zona climática IV-A 
+o IV-B; así como el certificado de producto farmacéutico 
+o certificado de libre comercialización, que acredite que el 
+mismo producto farmacéutico se encuentra autorizado y 
+se esté comercializando en dicho PAVS; plan de gestión 
+de riesgo; rotulados, ficha técnica e inserto, en idioma 
+español, y certificado de liberación de lote emitido por la 
+autoridad competente del país de origen para el caso de 
+vacunas y derivados de plasma.
+La vigencia y las condiciones de actualización 
+(modificaciones o cambios en el registro sanitario y 
+cumplimiento de obligaciones específicas) en el registro 
+sanitario serán la misma que la otorgada en el PAVS.
+Artículo 4. Condición para la aplicación de las 
+medidas para facilitar la inscripción y reinscripción 
+en el Registro Sanitario
+Los medicamentos y productos biológicos destinados 
+al tratamiento de enfermedades raras, huérfanas, cáncer 
+y demás enfermedades, deben encontrarse registrados y 
+comercializarse en algún país de alta vigilancia sanitaria, 
+contar con el registro autorizado y producirse para la zona 
+climática IV-A o IV-B establecida por la Organización 
+Mundial de la Salud.
+DISPOSICIONES COMPLEMENTARIAS FINALES
+PRIMERA. Declaración de interés nacional
+Se declara de interés nacional el fortalecimiento y 
+modernización de la Dirección General de Medicamentos, 
+Insumos y Drogas - DIGEMID, a fin de promover su 
+funcionamiento con altos estándares internacionales, a 
+nivel de países de alta vigilancia sanitaria.
+SEGUNDA. Aplicación inmediata
+Lo dispuesto en la presente ley es de aplicación 
+inmediata. Deróguese el artículo 9 de la Ley 29698 
+incorporado en la Ley 31738.
+TERCERA. Aspectos no regulados
+Los aspectos no regulados en la presente ley se 
+rigen por las disposiciones contenidas en la Ley de 
+los productos farmacéuticos, dispositivos médicos y 
+productos sanitarios, aprobado con la Ley 29459 sus 
+reglamentos y modificatorias.
+Comuníquese a la señora Presidenta de la República 
+para su promulgación.
+En Lima, a los siete días del mes de abril de dos mil 
+veinticinco.
+EDUARDO SALHUANA CAVIDES
+Presidente del Congreso de la República
+CARMEN PATRICIA JUÁREZ GALLEGOS
+Primera Vicepresidenta del Congreso de la República
+A LA SEÑORA PRESIDENTA DE LA REPÚBLICA
+POR TANTO:
+Mando se publique y cumpla.
+
+[[PAGINA 2]]
+8 NORMAS LEGALES Jueves 1 de mayo de 2025  El Peruano /
+Dado en la Casa de Gobierno, en Lima, a los treinta 
+días del mes de abril del año dos mil veinticinco.
+DINA ERCILIA BOLUARTE ZEGARRA
+Presidenta de la República
+GUSTAVO LINO ADRIANZÉN OLAYA
+Presidente del Consejo de Ministros
+2395814-4
+PODER EJECUTIVO
+PRESIDENCIA DEL CONSEJO
+DE MINISTROS
+Decreto Supremo que prorroga el Estado 
+de Emergencia declarado en la provincia de 
+Zarumilla del departamento de Tumbes
+DECRETO SUPREMO
+Nº 055-2025-PCM
+LA PRESIDENTA DE LA REPÚBLICA
+CONSIDERANDO:
+Que, el artículo 44 de la Constitución Política del Perú 
+prevé que son deberes primordiales del Estado defender 
+la soberanía nacional, garantizar la plena vigencia de 
+los derechos humanos, proteger a la población de las 
+amenazas contra su seguridad y promover el bienestar 
+general que se fundamenta en la justicia y en el desarrollo 
+integral y equilibrado de la Nación, así como establecer y 
+ejecutar la política de fronteras;
+Que, el artículo 137 de la Constitución Política del 
+Perú establece que el Presidente de la República, con 
+acuerdo del Consejo de Ministros, puede decretar, por 
+plazo determinado, en todo el territorio nacional, o en 
+parte de él, y dando cuenta al Congreso o a la Comisión 
+Permanente, los estados de excepción señalados en 
+dicho artículo, entre los cuales, se encuentra el Estado 
+de Emergencia, en caso de perturbación de la paz o del 
+orden interno, de catástrofe o de graves circunstancias 
+que afecten la vida de la Nación, pudiendo restringirse o 
+suspenderse el ejercicio de los derechos constitucionales 
+relativos a la libertad y la seguridad personales, la 
+inviolabilidad del domicilio, y la libertad de reunión y de 
+tránsito en el territorio comprendidos en los numerales 9, 
+11 y 12 del artículo 2 y en el numeral 24, apartado f) del 
+mismo artículo; disponiendo que en ninguna circunstancia 
+se puede desterrar a nadie; asimismo, establece que el 
+plazo del estado de emergencia no excede de sesenta 
+días y que su prórroga requiere nuevo decreto, así como 
+que las Fuerzas Armadas asumen el control del orden 
+interno si así lo dispone el Presidente de la República;
+Que, el artículo 166 de la Constitución Política del 
+Perú dispone que la Policía Nacional del Perú tiene por 
+finalidad fundamental garantizar, mantener y restablecer 
+el orden interno; así como, prevenir, investigar, combatir la 
+delincuencia, y vigilar y controlar las fronteras;
+Que, el artículo 4, el numeral 2) del párrafo 5.1 y el 
+numeral 15) del párrafo 5.2 del artículo 5 del Decreto 
+Legislativo N° 1266, Ley de Organización y Funciones 
+del Ministerio del Interior, establecen que este ejerce 
+competencia exclusiva a nivel nacional en materia de 
+orden interno y orden público; y, ejerce competencia 
+compartida, en materia de seguridad ciudadana, y tiene 
+dentro de sus funciones rectoras, vigilar y controlar las 
+fronteras, a través de la Policía Nacional del Perú, y 
+dentro de sus funciones específicas, formular, planear 
+dirigir, coordinar, ejecutar, supervisar y evaluar la política 
+de seguridad interna y fronteriza;
+Que, conforme al artículo 1 del Decreto Legislativo 
+N° 1267, Ley de la Policía Nacional del Perú, la Policía 
+Nacional del Perú ejerce competencia funcional y 
+exclusiva a nivel nacional en materia de orden interno y 
+orden público; y competencia compartida en materia de 
+seguridad ciudadana. En el marco de las mismas, presta 
+protección y ayuda a las personas y a la comunidad; 
+garantiza el cumplimiento de las leyes, la seguridad 
+del patrimonio público y privado; previene, investiga y 
+combate la delincuencia común y organizada y el crimen 
+organizado; vigila y controla las fronteras;
+Que, mediante el Decreto Supremo Nº 003-2024-PCM, 
+publicado en el Diario Oficial El Peruano el 10 de enero 
+de 2024, se declara por el término de sesenta (60) días 
+calendario, el Estado de Emergencia en la provincia de 
+Zarumilla del departamento de Tumbes; en las provincias 
+de Sullana, Ayabaca y Huancabamba del departamento 
+de Piura; en la provincia de San Ignacio del departamento 
+de Cajamarca; en el distrito de El Cenepa de la provincia 
+de Condorcanqui del departamento de Amazonas; y, en 
+el distrito de Torres Causana de la provincia de Maynas 
+del departamento de Loreto; disponiéndose que la Policía 
+Nacional del Perú mantiene el control del orden interno, 
+con el apoyo de las Fuerzas Armadas;
+Que, mediante los Decretos Supremos N° 025-2024-
+PCM, N° 048-2024-PCM, N° 068-2024-PCM, N° 090-
+2024-PCM, N° 119-2024-PCM, N° 001-2025-PCM y N° 
+025-2025-PCM, se prorroga de manera sucesiva el Estado 
+de Emergencia al que hace referencia el considerando 
+que antecede, solo en la provincia de Zarumilla del 
+departamento de Tumbes, siendo que la última prórroga 
+se dispuso por el término de sesenta (60) días calendario, 
+a partir del 6 de marzo de 2025;
+Que, con el Oficio N° 332-2025-CG PNP/SEC, 
+la Comandancia General de la Policía Nacional del 
+Perú recomienda que se prorrogue por el término de 
+sesenta (60) días calendario, el Estado de Emergencia 
+declarado en la provincia de Zarumilla del departamento 
+de Tumbes, sustentando dicho pedido en el Informe N° 
+097-2025-COMOPPOL-DIRNOS-PNP/SEC-UNIPLEDU 
+(Reservado) de la Unidad de Planeamiento y Educación 
+de la Dirección Nacional de Orden y Seguridad y en el 
+Informe N° 023-2025 COMOPPOL PNP/DIRNOS/FP 
+TUMBES-SEC. (Reservado) de la jurisdicción policial 
+de Tumbes, con la finalidad de continuar con las 
+operaciones policiales que garanticen la preservación 
+y/o restablecimiento del orden interno en la zona antes 
+mencionada, así como los derechos constitucionales de la 
+población frente a la comisión de delitos como el de tráfico 
+ilícito de drogas, contrabando, trata de personas, lavado 
+de activos, tráfico de armas, sicariato, lesiones por arma 
+de fuego, entre otros; adjuntándose para dicho efecto, 
+el Dictamen N° 1962-2025-SECEJE PNP/DIRASJUR-
+DIVDJPN de la Dirección de Asesoría Jurídica de la 
+Policía Nacional del Perú, que sustenta la tramitación de 
+la propuesta normativa pertinente;
+Que, mediante Decreto Legislativo N° 1186, Decreto 
+Legislativo que regula el uso de la fuerza por parte de la 
+Policía Nacional del Perú, se regula el uso de la fuerza en 
+el ejercicio de la función policial, los niveles del uso de la 
+fuerza y las circunstancias y reglas de conducta en el uso 
+de la fuerza;
+Que, por Decreto Legislativo N° 1095, Decreto 
+Legislativo que establece reglas de empleo y uso de la 
+fuerza por parte de las Fuerzas Armadas en el territorio 
+nacional, se establece el marco legal que regula los 
+principios, formas, condiciones y límites para el empleo 
+y uso de la fuerza por parte de las Fuerzas Armadas en 
+cumplimiento de su función constitucional, mediante el 
+empleo de su potencialidad y capacidad coercitiva para 
+la protección de la sociedad, en defensa del Estado de 
+Derecho y a fin de asegurar la paz y el orden interno 
+en el territorio nacional; en cuyo Título II se establecen 
+las normas del uso de la fuerza en otras situaciones de 
+violencia, en zonas declaradas en Estado de Emergencia 
+con el control del orden interno a cargo de la Policía 
+Nacional del Perú, disponiendo en el artículo 15, que 
+habiéndose declarado el Estado de Emergencia, las 
+Fuerzas Armadas realizan acciones militares en apoyo 
+a la Policía Nacional para el control del orden interno, 
+pudiendo hacer uso de la fuerza ante otras situaciones 
+de violencia, de conformidad con los artículos 16 y 18 del 
+referido Decreto Legislativo;
