@@ -9,28 +9,35 @@
   <link rel="stylesheet" href="css/css-multidocumento.patch.css">
 </head>
 <body>
-<header class="topbar">
+<header class="topbar compact-library-header">
   <div>
     <p class="eyebrow">SIP · SYSTEM INTELLIGENCE PLATFORM</p>
     <h1>Biblioteca SERUMS-SIP</h1>
-    <p class="subtitle">Conocimiento normativo trazable, recursos pedagógicos y consulta documental.</p>
+    <p class="subtitle">Biblioteca multidocumental oficial MINSA</p>
   </div>
-  <div id="libraryStatus" class="status-badge">Cargando biblioteca…</div>
+  <div id="libraryStatus" class="status-badge compact-status">Cargando biblioteca…</div>
 </header>
 
 <main class="app-shell">
-  <section class="card hero">
-    <div class="hero-copy">
-      <span class="kicker">Biblioteca multidocumento</span>
-      <h2>Conocimiento oficial para SERUMS</h2>
-      <p>Consulta documentos oficiales, metadatos, fuentes, anexos y evidencia incorporada al sistema RAG.</p>
+  <details class="card document-types">
+    <summary>
+      <span>
+        <strong>Tipos de documentos</strong>
+        <small>NTS · RM · DS · Directivas · Guías · Documentos técnicos · Anexos</small>
+      </span>
+      <span class="details-chevron" aria-hidden="true">⌄</span>
+    </summary>
+    <div class="document-type-grid" aria-label="Tipos de documentos">
+      <button type="button" class="doc-type-filter active" data-doc-type="">Todos</button>
+      <button type="button" class="doc-type-filter" data-doc-type="NTS">NTS</button>
+      <button type="button" class="doc-type-filter" data-doc-type="RM">RM</button>
+      <button type="button" class="doc-type-filter" data-doc-type="DS">DS</button>
+      <button type="button" class="doc-type-filter" data-doc-type="DIRECTIVA">Directivas</button>
+      <button type="button" class="doc-type-filter" data-doc-type="GUIA">Guías / GPC</button>
+      <button type="button" class="doc-type-filter" data-doc-type="DOCUMENTO TECNICO">Documentos técnicos</button>
+      <button type="button" class="doc-type-filter" data-doc-type="ANEXO">Anexos / instrumentos</button>
     </div>
-    <div class="hero-grid">
-      <article><strong id="sourceCount">0</strong><span>Documentos</span></article>
-      <article><strong id="annexCount">0</strong><span>Anexos priorizados</span></article>
-      <article><strong id="validationState">—</strong><span>Estado documental</span></article>
-    </div>
-  </section>
+  </details>
 
   <nav class="module-nav" aria-label="Módulos">
     <button class="nav-btn active" data-view="explore">Explorar</button>
@@ -43,7 +50,7 @@
     <div class="workspace">
       <aside class="card sidebar">
         <h2>Exploración</h2>
-        <p class="muted">Consulta términos presentes en la biblioteca documental.</p>
+        <p class="muted">Términos disponibles en la biblioteca.</p>
         <div id="quickTerms" class="chips"></div>
         <hr>
         <div class="legend">
@@ -54,15 +61,15 @@
 
       <section class="card search-panel">
         <div class="section-head">
-          <div><p class="eyebrow">Recuperación documental</p><h2>Buscar evidencia</h2></div>
+          <div><p class="eyebrow">Consulta documental</p><h2>Buscar evidencia</h2></div>
         </div>
         <form id="searchForm" class="search-box">
-          <input id="search" autocomplete="off" placeholder="Ej.: VACAM, depresión, diabetes, inmunizaciones…" aria-label="Buscar evidencia">
+          <input id="search" autocomplete="off" placeholder="Buscar norma, tema, VACAM, inmunizaciones…" aria-label="Buscar evidencia">
           <button type="submit">Buscar</button>
         </form>
         <div id="result" class="results empty-state">
           <strong>Biblioteca lista para consulta</strong>
-          <p>Selecciona un término o escribe una búsqueda.</p>
+          <p>Escribe un tema o selecciona un tipo de documento.</p>
         </div>
       </section>
     </div>
@@ -107,11 +114,46 @@
       </form>
     </section>
   </section>
+
+  <!-- Compatibilidad con la lógica existente; métricas fuera de la interfaz principal. -->
+  <div class="compat-metrics" aria-hidden="true">
+    <span id="sourceCount">0</span>
+    <span id="annexCount">0</span>
+    <span id="validationState">—</span>
+  </div>
 </main>
 
 <footer>© SIP — SYSTEM INTELLIGENCE PLATFORM · 2026</footer>
 <script src="js/config.js"></script>
 <script src="js/api.js"></script>
 <script src="js/app.js"></script>
+<script>
+(() => {
+  "use strict";
+  const buttons = document.querySelectorAll(".doc-type-filter");
+  const search = document.getElementById("search");
+  const form = document.getElementById("searchForm");
+
+  buttons.forEach((button) => {
+    button.addEventListener("click", () => {
+      buttons.forEach((item) => item.classList.remove("active"));
+      button.classList.add("active");
+
+      const type = button.dataset.docType || "";
+      if (!type) {
+        search.value = "";
+        search.focus();
+        return;
+      }
+
+      search.value = type;
+      form.requestSubmit();
+      if (window.innerWidth <= 760) {
+        document.querySelector(".document-types")?.removeAttribute("open");
+      }
+    });
+  });
+})();
+</script>
 </body>
 </html>
