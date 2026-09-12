@@ -1,1 +1,47 @@
-
+{
+  "version": "2026-09-11",
+  "documentos": [
+    {
+      "id": "NTS-207-MINSA-DGIESP-2023",
+      "ruta": "data/metadata/adulto-mayor/nts-207-minsa-dgiesp-2023.json",
+      "titulo": "Cuidado Integral de Salud de las Personas Adultas Mayores",
+      "tema": "Persona adulta mayor",
+      "estado": "PARCIALMENTE_VALIDADO"
+    },
+    {
+      "id": "RM-136-2023-MINSA-DEPRESION",
+      "ruta": "data/metadata/biblioteca/rm-136-2023-minsa-depresion.json",
+      "titulo": "Depresión en mayores de 18 años desde el primer nivel",
+      "tema": "Salud mental",
+      "estado": "CORROBORADO_PENDIENTE_PDF_OFICIAL"
+    },
+    {
+      "id": "NTS-196-MINSA-DGIESP-2022",
+      "ruta": "data/metadata/biblioteca/nts-196-minsa-dgiesp-2022-vacunacion.json",
+      "titulo": "Esquema Nacional de Vacunación",
+      "tema": "Inmunizaciones",
+      "estado": "CORROBORADO_PENDIENTE_PDF_OFICIAL"
+    },
+    {
+      "id": "NTS-210-MINSA-CDC-2024",
+      "ruta": "data/metadata/biblioteca/nts-210-minsa-cdc-2024-diabetes.json",
+      "titulo": "Vigilancia Epidemiológica de Diabetes",
+      "tema": "Vigilancia epidemiológica",
+      "estado": "CORROBORADO_PENDIENTE_PDF_OFICIAL"
+    },
+    {
+      "id": "RM-719-2015-MINSA-DM2",
+      "ruta": "data/metadata/biblioteca/rm-719-2015-minsa-diabetes-primer-nivel.json",
+      "titulo": "Diabetes Mellitus Tipo 2 en el Primer Nivel de Atención",
+      "tema": "Diabetes mellitus",
+      "estado": "CORROBORADO_PENDIENTE_PDF_OFICIAL"
+    },
+    {
+      "id": "GT-006-INS-CETS-2026",
+      "ruta": "data/metadata/biblioteca/gt-006-ins-cets-2026-hipertension.json",
+      "titulo": "Hipertensión arterial en adultos",
+      "tema": "Hipertensión arterial",
+      "estado": "CORROBORADO_PENDIENTE_PDF_OFICIAL"
+    }
+  ]
+}
