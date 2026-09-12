@@ -1,35 +1,234 @@
+/* SIP-AI-RAG · soporte multidocumento + interfaz móvil compacta */
 
+.document-toolbar{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:1rem;
+  margin:1rem 0;
+  padding:.9rem;
+  border:1px solid var(--line);
+  border-radius:14px;
+  background:#081525
+}
+.document-toolbar h3{margin:.2rem 0}
+.document-toolbar select{
+  max-width:48%;
+  background:#071523;
+  color:var(--text);
+  border:1px solid var(--line);
+  border-radius:10px;
+  padding:.7rem
+}
+.open-doc,.open-result-doc{
+  border:1px solid rgba(79,209,197,.25);
+  background:rgba(79,209,197,.08);
+  color:var(--accent);
+  padding:.5rem .7rem;
+  border-radius:10px;
+  font-weight:800;
+  cursor:pointer
+}
+.library-doc{position:relative}
 
-/* SIP-AI-RAG · interfaz compacta Biblioteca SERUMS-SIP */
+/* Cabecera y selector documental */
 .compact-library-header{padding-bottom:1rem}
 .compact-library-header .subtitle{margin-bottom:0}
 .compact-status{margin-top:.75rem}
 .document-types{padding:0;overflow:hidden}
-.document-types summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:1rem 1.1rem}
+.document-types summary{
+  list-style:none;
+  cursor:pointer;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:1rem;
+  padding:1rem 1.1rem
+}
 .document-types summary::-webkit-details-marker{display:none}
 .document-types summary strong{display:block;font-size:1rem}
-.document-types summary small{display:block;margin-top:.25rem;color:var(--muted);font-size:.82rem;line-height:1.35}
-.details-chevron{font-size:1.35rem;color:var(--accent);transition:transform .2s ease}
+.document-types summary small{
+  display:block;
+  margin-top:.25rem;
+  color:var(--muted);
+  font-size:.82rem;
+  line-height:1.35
+}
+.details-chevron{
+  font-size:1.35rem;
+  color:var(--accent);
+  transition:transform .2s ease
+}
 .document-types[open] .details-chevron{transform:rotate(180deg)}
-.document-type-grid{display:flex;flex-wrap:wrap;gap:.55rem;padding:0 1.1rem 1.1rem}
-.doc-type-filter{border:1px solid var(--line);background:#081525;color:var(--text);border-radius:999px;padding:.62rem .85rem;font:inherit;font-size:.88rem;font-weight:700;cursor:pointer}
-.doc-type-filter.active,.doc-type-filter:focus-visible{border-color:rgba(79,209,197,.55);background:rgba(79,209,197,.12);color:var(--accent)}
+.document-type-grid{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.55rem;
+  padding:0 1.1rem 1.1rem
+}
+.doc-type-filter{
+  border:1px solid var(--line);
+  background:#081525;
+  color:var(--text);
+  border-radius:999px;
+  padding:.62rem .85rem;
+  font:inherit;
+  font-size:.88rem;
+  font-weight:700;
+  cursor:pointer
+}
+.doc-type-filter.active,.doc-type-filter:focus-visible{
+  border-color:rgba(79,209,197,.55);
+  background:rgba(79,209,197,.12);
+  color:var(--accent)
+}
 .compat-metrics{display:none!important}
 
 @media(max-width:760px){
-  .compact-library-header{padding:1.1rem 1rem .8rem}
-  .compact-library-header .eyebrow{font-size:.72rem;margin-bottom:.35rem}
-  .compact-library-header h1{font-size:1.72rem;line-height:1.08;margin:.1rem 0 .3rem}
-  .compact-library-header .subtitle{font-size:.95rem;line-height:1.35}
-  .compact-status{display:none}
-  .app-shell{padding-top:.75rem}
-  .document-types{margin-bottom:.75rem}
-  .document-types summary{padding:.85rem .95rem}
-  .document-types summary small{font-size:.75rem}
-  .document-type-grid{padding:0 .95rem .95rem;gap:.45rem}
-  .doc-type-filter{padding:.55rem .72rem;font-size:.8rem}
-  .module-nav{margin-top:.35rem}
-  .sidebar{display:none}
+  /* El estado existe para app.js, pero no ocupa la portada móvil. */
+  #libraryStatus.compact-status{display:none!important}
+
+  .compact-library-header{
+    padding:.8rem .85rem .65rem;
+    gap:.25rem;
+    border-bottom:1px solid var(--line)
+  }
+  .compact-library-header .eyebrow{font-size:.62rem;margin-bottom:.25rem}
+  .compact-library-header h1{
+    font-size:1.45rem;
+    line-height:1.08;
+    margin:.05rem 0 .2rem
+  }
+  .compact-library-header .subtitle{
+    font-size:.82rem;
+    line-height:1.3
+  }
+
+  .app-shell{
+    width:min(100% - .7rem,1180px);
+    margin:.55rem auto 1.25rem;
+    padding-top:0
+  }
+
+  .document-types{margin-bottom:.55rem}
+  .document-types summary{padding:.72rem .8rem}
+  .document-types summary strong{font-size:.92rem}
+  .document-types summary small{
+    font-size:.68rem;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    max-width:78vw
+  }
+  .document-type-grid{
+    padding:0 .8rem .8rem;
+    gap:.4rem
+  }
+  .doc-type-filter{
+    padding:.48rem .65rem;
+    font-size:.76rem
+  }
+
+  /* Navegación: una sola barra compacta, no cuatro tarjetas grandes. */
+  .module-nav{
+    position:static;
+    display:grid;
+    grid-template-columns:repeat(4,minmax(0,1fr));
+    gap:.3rem;
+    margin:.5rem 0;
+    padding:0;
+    background:transparent
+  }
+  .nav-btn{
+    min-width:0;
+    padding:.58rem .2rem;
+    border-radius:10px;
+    font-size:.72rem;
+    line-height:1.1
+  }
+
+  .sidebar{display:none!important}
   .workspace{display:block}
-  .search-panel{margin-top:.75rem}
+  .search-panel{margin-top:.55rem}
+  .search-panel,.source-view{padding:.8rem}
+  .section-head .eyebrow{font-size:.62rem}
+  .section-head h2{font-size:1.15rem}
+  .search-box{margin:.7rem 0}
+  .empty-state{min-height:145px}
+
+  /* Asistente: reduce presentación y lleva antes al cuadro de consulta. */
+  .chat{
+    min-height:auto;
+    display:flex;
+    flex-direction:column
+  }
+  .chat-head{
+    padding:.8rem;
+    display:block
+  }
+  .chat-head .eyebrow{font-size:.62rem}
+  .chat-head h2{
+    font-size:1.25rem;
+    margin:.15rem 0
+  }
+  .chat-head p{
+    font-size:.82rem;
+    line-height:1.35;
+    margin:.2rem 0
+  }
+  #backendStatus{
+    display:inline-flex;
+    margin-top:.45rem;
+    padding:.38rem .62rem;
+    font-size:.7rem
+  }
+  .messages{
+    padding:.7rem .8rem;
+    min-height:auto;
+    max-height:none
+  }
+  .message.system{
+    margin:0;
+    grid-template-columns:34px 1fr;
+    gap:.55rem
+  }
+  .message.system .avatar{
+    width:34px;
+    height:34px;
+    border-radius:10px;
+    font-size:.62rem
+  }
+  .message.system>div{
+    padding:.65rem .75rem;
+    border-radius:12px
+  }
+  .message.system p{
+    font-size:.8rem;
+    line-height:1.35
+  }
+  .composer{padding:.8rem}
+  .composer textarea{
+    min-height:72px;
+    max-height:150px
+  }
+  .composer-actions{
+    margin-top:.5rem;
+    flex-direction:row;
+    align-items:center
+  }
+  .composer-actions span{font-size:.68rem}
+  .composer-actions button{width:auto}
+}
+
+@media(max-width:430px){
+  .compact-library-header .eyebrow{display:none}
+  .module-nav{gap:.25rem}
+  .nav-btn{font-size:.68rem;padding:.55rem .1rem}
+  .composer-actions span{display:none}
+  .composer-actions button{width:100%}
+}
+
+@media(max-width:560px){
+  .document-toolbar{align-items:stretch;flex-direction:column}
+  .document-toolbar select{max-width:none;width:100%}
 }
