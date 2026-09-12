@@ -1,0 +1,274 @@
+# Ley N.° 32176 - Normas y documentos legales - Ministerio de Salud - Plataforma del Estado Peruano
+
+Fuente oficial: https://www.gob.pe/institucion/minsa/normas-legales/7991994-32176
+PDF oficial: https://cdn.www.gob.pe/uploads/document/file/9775223/7991994-ley-de-fortalecimiento-e-implemetacion-de-las-boticas-publicas-farmaminsa-a-nivel-nacional.PDF?v=1775756771
+
+[[PAGINA 1]]
+7NORMAS LEGALESSábado 30 de noviembre de 2024 El Peruano / 
+las partidas presupuestarias con cargo al presupuesto 
+institucional del Pliego 10 Ministerio de Educación.
+SEGUNDA. Financiamiento
+El funcionamiento e implementación de la Universidad 
+Nacional Intercultural Aimara de Ilave, creada por 
+la presente ley, se realizará con recursos propios, 
+donaciones y legados, recursos del canon y los recursos 
+necesarios y progresivos gestionados en el Ministerio 
+de Economía y Finanzas, el Ministerio de Educación, el 
+Gobierno Regional de Puno y la Municipalidad Provincial 
+de El Collao, con cargo al presupuesto para el ejercicio 
+fiscal del año siguiente a su aprobación.
+TERCERA. Comisión organizadora
+El Ministerio de Educación constituirá la comisión 
+organizadora de la Universidad Nacional Intercultural 
+Aimara de Ilave, integrada por tres académicos de 
+reconocido prestigio, tal como lo dispone el artículo 29 de 
+la Ley 30220, Ley Universitaria.
+CUARTA. Licenciamiento
+La Universidad Nacional Intercultural Aimara de Ilave 
+se adecuará a los lineamientos establecidos por la Ley 
+30220, Ley Universitaria, y demás normas adicionales 
+para la obtención de su licenciamiento.
+Comuníquese a la señora Presidenta de la República 
+para su promulgación.
+En Lima, a los ocho días del mes de noviembre de dos 
+mil veinticuatro.
+EDUARDO SALHUANA CAVIDES
+Presidente del Congreso de la República
+CARMEN PATRICIA JUÁREZ GALLEGOS
+Primera Vicepresidenta del Congreso de la República
+A LA SEÑORA PRESIDENTA DE LA REPÚBLICA
+POR TANTO:
+Mando se publique y cumpla.
+Dado en la Casa de Gobierno, en Lima, a los 
+veintinueve días del mes de noviembre del año dos mil 
+veinticuatro.
+DINA ERCILIA BOLUARTE ZEGARRA
+Presidenta de la República
+GUSTAVO LINO ADRIANZÉN OLAYA
+Presidente del Consejo de Ministros
+2349661-2
+LEY Nº 32176
+LA PRESIDENTA DE LA REPÚBLICA
+POR CUANTO:
+EL CONGRESO DE LA REPÚBLICA;
+Ha dado la Ley siguiente:
+LEY DE FORTALECIMIENTO E IMPLEMENTACIÓN 
+DE LAS BOTICAS PÚBLICAS FARMAMINSA A 
+NIVEL NACIONAL
+Artículo 1. Objeto de la Ley
+La presente ley tiene por objeto el fortalecimiento e 
+implementación de las boticas públicas FARMAMINSA a 
+nivel nacional.
+Artículo 2. Finalidad de la Ley
+La presente ley tiene por finalidad contribuir con el 
+acceso oportuno a productos farmacéuticos y dispositivos 
+médicos esenciales, seguros, eficaces, de calidad y 
+a costo asequible para la población, a través de la 
+implementación de boticas públicas FARMAMINSA a nivel 
+nacional, como estrategia articulada entre el Ministerio de 
+Salud, los gobiernos regionales, los gobiernos locales y 
+otras instituciones públicas.
+Artículo 3 . Definición de las boticas públicas 
+FARMAMINSA
+Para efectos de la presente ley, se consideran boticas 
+públicas FARMAMINSA aquellas oficinas farmacéuticas 
+enmarcadas bajo las disposiciones del Reglamento de 
+Establecimientos Farmacéuticos, aprobado por el Decreto 
+Supremo 014-2011-SA, incluyendo las disposiciones 
+referidas al cumplimiento de las Buenas Prácticas de 
+Oficina Farmacéutica.
+Artículo 4. Implementación de las boticas públicas 
+FARMAMINSA
+4.1 El Ministerio de Salud promueve la 
+implementación de las boticas públicas 
+FARMAMINSA como una estrategia para mejorar 
+el acceso de la población, a nivel nacional, a 
+productos farmacéuticos y dispositivos médicos 
+esenciales, fomentando su uso racional y 
+promoviendo un servicio farmacéutico de 
+calidad como contribución al logro del objetivo 
+terapéutico.
+4.2 Las direcciones de redes integradas de salud, 
+direcciones regionales de salud y gerencias 
+regionales de salud, o las que hagan sus veces 
+a nivel regional,  conducen la implementación 
+y funcionamiento de las boticas públicas 
+FARMAMINSA en el ámbito de su jurisdicción 
+y de acuerdo con las disposiciones que, para 
+estos fines, apruebe el Ministerio de Salud.
+Artículo 5. Fondo Rotatorio para el Financiamiento 
+de las Boticas Públicas FARMAMINSA
+5.1 Se crea el Fondo Rotatorio de las Boticas 
+Públicas FARMAMINSA, de carácter intangible, 
+en la Cuenta Única del Tesoro Público, a cargo 
+del Ministerio de Salud, destinado a financiar 
+la adquisición de productos farmacéuticos y 
+dispositivos médicos esenciales, así como 
+los gastos asociados a su almacenamiento y 
+dispensación. Para tal efecto, se exceptúa su 
+creación de lo dispuesto en el artículo 74 del 
+Decreto Legislativo 1440, Decreto Legislativo 
+del Sistema Nacional de Presupuesto Público.
+5.2 El Fondo se financia con cargo a los recursos 
+del presupuesto institucional del Ministerio de 
+Salud hasta por la suma de S/ 15 000 000,00 
+(QUINCE MILLONES Y 00/100 SOLES) y los 
+ingresos generados en las boticas públicas 
+FARMAMINSA por la venta de productos 
+farmacéuticos y dispositivos médicos 
+esenciales, los cuales se registran en la fuente 
+de financiamiento Recursos Determinados.
+5.3 Los recursos del Fondo se incorporan mediante 
+modificaciones presupuestarias en el nivel 
+institucional a favor de los gobiernos regionales, 
+las que se aprueban mediante decreto supremo 
+refrendado por el ministro de Economía y 
+Finanzas y por el ministro de Salud, a solicitud 
+de este último, para el financiamiento de los fines 
+señalados en el párrafo 5.1. Dichos recursos se 
+incorporan en el presupuesto de las entidades 
+correspondientes en la fuente de financiamiento 
+Recursos Determinados.
+DISPOSICIONES
+COMPLEMENTARIAS FINALES
+PRIMERA. Reglamentación
+El Poder Ejecutivo, a través del Ministerio de 
+Salud, mediante decreto supremo, en coordinación 
+con el Ministerio de Economía y Finanzas, aprueba las 
+disposiciones reglamentarias para el fortalecimiento e
+
+[[PAGINA 2]]
+8 NORMAS LEGALES Sábado 30 de noviembre de 2024  El Peruano /
+implementación de las boticas públicas FARMAMINSA, 
+incluyendo los aspectos referidos a la responsabilidad 
+de su gestión y al financiamiento y uso de los recursos 
+provenientes del fondo creado por el artículo 5, en un 
+plazo no mayor de sesenta días hábiles contados a partir 
+de la entrada en vigor de la presente ley.
+SEGUNDA. Autorización de transferencias 
+financieras
+Se autoriza al Ministerio de Salud a realizar 
+transferencias financieras a favor del fondo rotatorio creado 
+por la presente ley con cargo a su presupuesto institucional 
+sin demandar recursos adicionales al tesoro público.
+Las transferencias financieras autorizadas se aprueban 
+mediante resolución del titular del Ministerio de Salud, 
+previo informe favorable de la oficina de presupuesto, o 
+la que haga sus veces en dicho pliego. La resolución del 
+titular del pliego se publica en el diario oficial El Peruano.
+TERCERA. Adquisición de productos 
+farmacéuticos y dispositivos médicos esenciales
+Se autoriza al Ministerio de Salud, a través del Centro 
+Nacional de Abastecimiento de Recursos Estratégicos 
+en Salud (CENARES), para que, con cargo al fondo 
+rotatorio creado por la presente ley, realice la adquisición 
+de productos farmacéuticos y dispositivos médicos 
+esenciales que se requieran para su dispensación en las 
+boticas públicas FARMAMINSA.
+DISPOSICIÓN
+COMPLEMENTARIA MODIFICATORIA
+ÚNICA.- Modificación del artículo 1 de la Ley 32114, 
+“Ley que continúa el proceso de consolidación del espectro 
+normativo peruano derogando las correspondientes leyes, 
+decretos leyes, decretos de urgencia y resoluciones 
+legislativas y dejando sin efecto decretos supremos, 
+por haber cumplido su finalidad” a fin de incorporar un 
+segundo párrafo en el artículo 1 de la Ley 32114, conforme 
+a los siguientes términos:
+“Artículo 1. Derogación de leyes
+[…]
+El artículo 4 de la Ley 30458, Ley que regula 
+diversas medidas para financiar la ejecución de 
+proyectos de inversión pública en apoyo de gobiernos 
+regionales y locales, los Juegos Panamericanos y 
+Parapanamericanos y la ocurrencia de desastres 
+naturales, no se encuentra comprendido en los 
+alcances de lo dispuesto en el párrafo precedente”.
+Comuníquese a la señora Presidenta de la República 
+para su promulgación.
+En Lima, a los veintiséis días del mes de noviembre de 
+dos mil veinticuatro.
+EDUARDO SALHUANA CAVIDES
+Presidente del Congreso de la República
+CARMEN PATRICIA JUÁREZ GALLEGOS
+Primera Vicepresidenta del Congreso de la República
+A LA SEÑORA PRESIDENTA DE LA REPÚBLICA
+POR TANTO:
+Mando se publique y cumpla.
+Dado en la Casa de Gobierno, en Lima, a los 
+veintinueve días del mes de noviembre del año dos mil 
+veinticuatro.
+DINA ERCILIA BOLUARTE ZEGARRA
+Presidenta de la República
+GUSTAVO LINO ADRIANZÉN OLAYA
+Presidente del Consejo de Ministros
+2349662-1
+PODER EJECUTIVO
+PRESIDENCIA DEL CONSEJO
+DE MINISTROS
+Decreto Supremo que prorroga el Estado de 
+Emergencia en algunos distritos y centros 
+poblados de provincias pertenecientes a los 
+departamentos de Ayacucho, Huancavelica, 
+Junín y Cusco
+DECRETO SUPREMO
+Nº 133-2024-PCM
+LA PRESIDENTA DE LA REPÚBLICA
+CONSIDERANDO:
+Que, el artículo 44 de la Constitución Política del Perú 
+prevé que son deberes primordiales del Estado garantizar 
+la plena vigencia de los derechos humanos, proteger a la 
+población de las amenazas contra su seguridad y promover 
+el bienestar general que se fundamenta en la justicia y en el 
+desarrollo integral y equilibrado de la Nación;
+Que, el artículo 137 de la Constitución Política del 
+Perú establece que el Presidente de la República, con 
+acuerdo del Consejo de Ministros, puede decretar, por 
+plazo determinado, en todo el territorio nacional, o en 
+parte de él, y dando cuenta al Congreso o a la Comisión 
+Permanente, los estados de excepción señalados en 
+dicho artículo, entre los cuales, se encuentra el Estado 
+de Emergencia, en caso de perturbación de la paz o del 
+orden interno, de catástrofe o de graves circunstancias 
+que afecten la vida de la Nación, pudiendo restringirse o 
+suspenderse el ejercicio de los derechos constitucionales 
+relativos a la libertad y la seguridad personales, la 
+inviolabilidad del domicilio, y la libertad de reunión y de 
+tránsito en el territorio comprendidos en los numerales 9, 
+11 y 12 del artículo 2 y en el numeral 24, apartado f) del 
+mismo artículo; disponiendo que en ninguna circunstancia 
+se puede desterrar a nadie; asimismo, establece que el 
+plazo del estado de emergencia no excede de sesenta 
+días y que su prórroga requiere nuevo decreto, así como 
+que las Fuerzas Armadas asumen el control del orden 
+interno si así lo dispone el Presidente de la República;
+Que, el artículo 166 de la Constitución Política del 
+Perú dispone que la Policía Nacional del Perú tiene por 
+finalidad fundamental garantizar, mantener y restablecer el 
+orden interno; así como, prevenir, investigar y combatir la 
+delincuencia;
+Que, el artículo 4 del Decreto Legislativo Nº 1266, Ley 
+de Organización y Funciones del Ministerio del Interior, 
+establece que este ejerce competencia exclusiva a nivel 
+nacional en materia de orden interno y orden público; y, 
+ejerce competencia compartida, en materia de seguridad 
+ciudadana;
+Que, conforme al artículo 1 del Decreto Legislativo Nº 
+1267, Ley de la Policía Nacional del Perú, la Policía Nacional 
+del Perú ejerce competencia funcional y exclusiva a nivel 
+nacional en materia de orden interno y orden público; y, 
+competencia compartida en materia de seguridad ciudadana. 
+En el marco de las mismas, presta protección y ayuda a las 
+personas y a la comunidad; garantiza el cumplimiento de las 
+leyes, la seguridad del patrimonio público y privado; previene, 
+investiga y combate la delincuencia común y organizada y el 
+crimen organizado; vigila y controla las fronteras;
+Que, mediante Decreto Supremo Nº 104-2024-PCM 
+de fecha 1 de octubre de 2024, se prorrogó por el término 
+de sesenta (60) días calendario, a partir del 3 de octubre 
+al 1 de diciembre del 2024, el Estado de Emergencia en 
+los distritos de Ayahuanco, Santillana, Sivia, Llochegua, 
+Canayre, Pucacolpa, Putis y el Centro Poblado de Ccano 
+del distrito de Uchuraccay de la provincia de Huanta y 
+en los distritos de Anco, Ayna, Santa Rosa, Samugari, 
+Anchihuay, Río Magdalena y Unión Progreso de la
