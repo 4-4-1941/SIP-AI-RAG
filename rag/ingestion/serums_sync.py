@@ -86,18 +86,39 @@ def discover_compendia(client):
         resolved.append((url,name,expected))
     return resolved
 
-def discover_norms(client,collection_url,max_sheets=40):
-    found={}; empty=0
+def discover_norms(client,collection_url,expected,max_sheets=40):
+    found={}; occurrences={}; empty=0
     for sheet in range(1,max_sheets+1):
         r=fetch(client,collection_url if sheet==1 else with_sheet(collection_url,sheet)); n=0
+        page_seen=set()
         for url,text in links(r.text,str(r.url)):
             c=canonical(url)
-            if NORM_RE.search(c):
-                if c not in found:n+=1
-                found[c]=text.strip() or found.get(c,"")
+            if not NORM_RE.search(c):
+                continue
+            label=text.strip()
+            occurrences.setdefault(c,[]).append({"sheet":sheet,"texto":label})
+            if c not in page_seen and c not in found:
+                n+=1
+            page_seen.add(c)
+            found[c]=label or found.get(c,"")
         empty=empty+1 if n==0 else 0
         if empty>=2:break
-    return found
+
+    discarded=[]
+    if len(found)==expected+1:
+        # gob.pe expone un enlace normativo auxiliar fuera del conjunto paginado.
+        # El documento espurio es el único candidato que aparece solo en la
+        # primera hoja; las normas reales reaparecen en la paginación.
+        first_sheet_only=[
+            url for url,seen in occurrences.items()
+            if {x["sheet"] for x in seen}=={1}
+        ]
+        if len(first_sheet_only)==1:
+            url=first_sheet_only[0]
+            discarded.append({"url":url,"texto":found[url],"motivo":"enlace auxiliar fuera del conjunto paginado"})
+            del found[url]
+
+    return found,discarded
 
 def discover_pdf(client,norm_url):
     r=fetch(client,norm_url); title=page_heading(r.text)
@@ -146,8 +167,11 @@ def main():
     with httpx.Client(timeout=a.timeout,follow_redirects=True,headers={"User-Agent":USER_AGENT,"Accept-Language":"es-PE,es;q=0.9"}) as client:
         comps=discover_compendia(client); comp_stats=[]
         for cu,cn,expected in comps:
-            norms=discover_norms(client,cu)
-            comp_stats.append({"url":cu,"nombre":cn,"esperadas":expected,"descubiertas":len(norms),"coincide":len(norms)==expected})
+            norms,discarded=discover_norms(client,cu,expected)
+            comp_stats.append({"url":cu,"nombre":cn,"esperadas":expected,"descubiertas":len(norms),
+              "coincide":len(norms)==expected,"descartados":discarded})
+            for x in discarded:
+                print(f'DESCARTADO | {cn} | {x["url"]} | {x["texto"]} | {x["motivo"]}')
             for nu,label in norms.items():
                 d=docs.setdefault(nu,OfficialDocument(nu)); d.compendia.add(cn); d.compendia_urls.add(cu)
                 if label:
@@ -178,7 +202,43 @@ def main():
       "compendios_descubiertos":len(comps),"compendios":comp_stats,
       "documentos_unicos":len(docs),"documentos_procesados":len(items),"documentos_materializados_rag":materialized,
       "fallos":failures,"deduplicacion":"url_oficial","documentos":items}
-    (a.output/"manifest.json").write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+
+    manifest_path=a.output/"manifest.json"; tmp_path=a.output/"manifest.tmp.json"
+    previous=manifest_path.read_bytes() if manifest_path.exists() else None
+    tmp_path.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    try:
+        candidate=json.loads(tmp_path.read_text(encoding="utf-8"))
+        candidate_docs=candidate.get("documentos",[])
+        if candidate.get("compendios_descubiertos")!=EXPECTED_COMPENDIA:
+            raise RuntimeError("Manifest temporal inválido: compendios_descubiertos != 17")
+        if len(candidate.get("compendios",[]))!=EXPECTED_COMPENDIA:
+            raise RuntimeError("Manifest temporal inválido: no contiene 17 compendios")
+        if any(not x.get("coincide") for x in candidate["compendios"]):
+            raise RuntimeError("Manifest temporal inválido: conteo de compendios inconsistente")
+        if not candidate_docs:
+            raise RuntimeError("Manifest temporal inválido: documentos vacío")
+        if candidate.get("documentos_unicos",0)<=0 or candidate.get("documentos_procesados")!=len(candidate_docs):
+            raise RuntimeError("Manifest temporal inválido: totales de documentos")
+        ids=[x.get("id") for x in candidate_docs]; urls=[x.get("url_oficial") for x in candidate_docs]
+        if not all(ids) or len(ids)!=len(set(ids)):
+            raise RuntimeError("Manifest temporal inválido: IDs vacíos o duplicados")
+        if not all(urls) or len(urls)!=len(set(urls)):
+            raise RuntimeError("Manifest temporal inválido: URLs vacías o duplicadas")
+        if any(not x.get("compendios_origen") or not x.get("compendios_urls") for x in candidate_docs):
+            raise RuntimeError("Manifest temporal inválido: documento sin compendio real de origen")
+        if any(re.search(r"^Ver las \\d+ normas$",str(v),re.I)
+               for x in candidate_docs for v in x.get("compendios_origen",[])):
+            raise RuntimeError("Manifest temporal inválido: etiqueta 'Ver las X normas'")
+        pending=sum(1 for x in candidate_docs if not x.get("archivo_rag"))
+        if candidate.get("documentos_materializados_rag",0)+pending!=len(candidate_docs):
+            raise RuntimeError("Manifest temporal inválido: materializados + pendientes != total")
+        tmp_path.replace(manifest_path)
+    except Exception:
+        tmp_path.unlink(missing_ok=True)
+        if previous is not None and not manifest_path.exists():
+            manifest_path.write_bytes(previous)
+        raise
+
     if len(comps)!=EXPECTED_COMPENDIA:return 2
     if not docs:return 3
     if a.materialize and materialized==0:return 4
