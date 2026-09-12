@@ -8,6 +8,7 @@ import httpx
 from pypdf import PdfReader
 
 MASTER_COLLECTION="https://www.gob.pe/institucion/minsa/colecciones/61810"
+COMPENDIA_METADATA=Path("data/metadata/serums/serums-2026-ii-compendios.json")
 DEFAULT_OUTPUT=Path("knowledge/minsa/serums-2026-ii")
 USER_AGENT="SIP-AI-RAG/1.1 (+biblioteca SERUMS; fuente oficial gob.pe)"
 NORM_RE=re.compile(r"/institucion/minsa/normas-legales/\d+")
@@ -70,21 +71,22 @@ def clean_compendium_name(title):
     return title.strip(" .:-") or "Compendio SERUMS"
 
 def discover_compendia(client):
-    r=fetch(client,MASTER_COLLECTION); urls=[]
-    for url,_ in links(r.text,str(r.url)):
-        c=canonical(url)
-        if COLLECTION_RE.search(c) and c!=canonical(MASTER_COLLECTION) and c not in urls:
-            urls.append(c)
-    resolved=[]
-    for c in urls:
-        cr=fetch(client,c); h=page_heading(cr.text)
-        if "serums" in h.lower():
-            resolved.append((c,clean_compendium_name(h)))
-    if len(resolved)!=EXPECTED_COMPENDIA:
-        raise RuntimeError(f"Se esperaban {EXPECTED_COMPENDIA} compendios oficiales y se detectaron {len(resolved)}.")
-    return sorted(resolved,key=lambda x:x[1].lower())
+    data=json.loads(COMPENDIA_METADATA.read_text(encoding="utf-8"))
+    items=data.get("compendios",[])
+    if len(items)!=EXPECTED_COMPENDIA:
+        raise RuntimeError(f"Se esperaban {EXPECTED_COMPENDIA} compendios en metadata y hay {len(items)}.")
+    resolved=[]; seen=set()
+    for item in items:
+        name=str(item.get("nombre") or "").strip()
+        url=canonical(str(item.get("url_oficial") or "").strip())
+        expected=int(item.get("cantidad_normas") or 0)
+        if not name or not url or url in seen:
+            raise RuntimeError("Metadata de compendios incompleta o duplicada.")
+        seen.add(url)
+        resolved.append((url,name,expected))
+    return resolved
 
-def discover_norms(client,collection_url,max_sheets=30):
+def discover_norms(client,collection_url,max_sheets=40):
     found={}; empty=0
     for sheet in range(1,max_sheets+1):
         r=fetch(client,collection_url if sheet==1 else with_sheet(collection_url,sheet)); n=0
@@ -142,13 +144,18 @@ def main():
     ap.add_argument("--timeout",type=float,default=30.0); a=ap.parse_args(); a.output.mkdir(parents=True,exist_ok=True)
     docs={}
     with httpx.Client(timeout=a.timeout,follow_redirects=True,headers={"User-Agent":USER_AGENT,"Accept-Language":"es-PE,es;q=0.9"}) as client:
-        comps=discover_compendia(client)
-        for cu,cn in comps:
-            for nu,label in discover_norms(client,cu).items():
+        comps=discover_compendia(client); comp_stats=[]
+        for cu,cn,expected in comps:
+            norms=discover_norms(client,cu)
+            comp_stats.append({"url":cu,"nombre":cn,"esperadas":expected,"descubiertas":len(norms),"coincide":len(norms)==expected})
+            for nu,label in norms.items():
                 d=docs.setdefault(nu,OfficialDocument(nu)); d.compendia.add(cn); d.compendia_urls.add(cu)
                 if label:
                     d.index_labels.add(label)
                     if not d.title:d.title=label
+        mismatches=[x for x in comp_stats if not x["coincide"]]
+        if mismatches:
+            raise RuntimeError("Conteo oficial inconsistente: "+json.dumps(mismatches,ensure_ascii=False))
         ordered=sorted(docs.values(),key=lambda d:d.norm_url)
         if a.limit>0:ordered=ordered[:a.limit]
         items=[]; materialized=failures=0
@@ -168,7 +175,7 @@ def main():
                  "compendios_urls":sorted(d.compendia_urls),"texto_indice":" | ".join(sorted(d.index_labels)),"estado_validacion":"CORROBORADO_PENDIENTE_PDF_OFICIAL",
                  "error_sincronizacion":str(e)})
     manifest={"id":"SERUMS-2026-II-CORPUS","fuente_maestra":MASTER_COLLECTION,"institucion":"Ministerio de Salud del Perú",
-      "compendios_descubiertos":len(comps),"compendios":[{"url":u,"nombre":n} for u,n in comps],
+      "compendios_descubiertos":len(comps),"compendios":comp_stats,
       "documentos_unicos":len(docs),"documentos_procesados":len(items),"documentos_materializados_rag":materialized,
       "fallos":failures,"deduplicacion":"url_oficial","documentos":items}
     (a.output/"manifest.json").write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
