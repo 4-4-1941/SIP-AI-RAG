@@ -416,8 +416,7 @@ function renderMetadata() {
           `
         )
         .join("")}
-
-      ${
+              ${
         isCorpus && activeDocument.url_oficial
           ? `
             <article class="meta-card">
@@ -487,8 +486,9 @@ function renderMetadata() {
         selectDocument(event.target.value);
       }
     );
-                              }
-  function renderLearning() {
+}
+
+function renderLearning() {
   const target = $("learningResources");
 
   if (!target) return;
@@ -841,9 +841,8 @@ function selectDocument(id) {
     null;
 
   renderMetadata();
-}
-
-function addMessage(
+    }
+  function addMessage(
   role,
   title,
   text
@@ -978,8 +977,9 @@ async function checkBackend() {
     badge.className =
       "mini-status warn";
   }
-                }
-  async function loadLibrary() {
+}
+
+async function loadLibrary() {
   try {
     const [
       catalogResponse,
@@ -1109,14 +1109,6 @@ async function checkBackend() {
         }
       );
 
-    /*
-     * Unificación sin duplicar documentos.
-     *
-     * Si un documento del catálogo base y otro del
-     * corpus SERUMS apuntan a la misma URL oficial,
-     * se conserva una sola entrada.
-     */
-
     const documentMap =
       new Map();
 
@@ -1182,8 +1174,7 @@ async function checkBackend() {
 
   checkBackend();
 }
-
-function bindNavigation() {
+  function bindNavigation() {
   document
     .querySelectorAll(".nav-btn")
     .forEach((button) => {
