@@ -1,0 +1,40 @@
+{
+  "id": "NTS-246-MINSA-DGIESP-2026",
+  "titulo": "Norma Técnica de Salud que establece el Esquema Nacional de Inmunizaciones",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 246-MINSA/DGIESP-2026",
+  "resolucion_aprobatoria": "RM N.° 561-2026-MINSA",
+  "fecha_aprobacion": "2026-06-13",
+  "tema": "Esquema Nacional de Inmunizaciones",
+  "bloque_SERUMS": "Cuidado integral de salud / Inmunizaciones",
+  "subtemas": [
+    "Esquema Nacional de Inmunizaciones",
+    "Inmunizaciones",
+    "Curso de vida"
+  ],
+  "fuentes_oficiales": [
+    {
+      "tipo": "pagina_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "RM N.° 561-2026-MINSA + NTS N.° 246-MINSA/DGIESP-2026",
+      "url": "https://www.gob.pe/institucion/minsa/normas-legales/8265031-561-2026-minsa",
+      "rol_evidencia": "aprobacion_normativa_y_acceso_a_pdf_oficial",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "recursos_pedagogicos": {
+    "ficha_fuente": {
+      "id": "INM-NTS246-001",
+      "titulo": "Ficha normativa — Esquema Nacional de Inmunizaciones 2026",
+      "estado": "VALIDADO_OFICIAL",
+      "motivo": "Identificación normativa contrastada con la publicación oficial del MINSA."
+    }
+  },
+  "reglas_rag": {
+    "no_inferir_esquemas_dosis_intervalos_o_edades_sin_pagina_o_seccion_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "ultima_revision": "2026-09-12"
+}
