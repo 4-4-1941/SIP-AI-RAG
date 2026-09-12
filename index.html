@@ -6,6 +6,7 @@
   <meta name="theme-color" content="#07111f">
   <title>SIP-AI RAG · Biblioteca SERUMS</title>
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/css-multidocumento.patch.css">
 </head>
 <body>
 <header class="topbar">
@@ -20,12 +21,12 @@
 <main class="app-shell">
   <section class="card hero">
     <div class="hero-copy">
-      <span class="kicker">Piloto activo</span>
-      <h2>Persona Adulta Mayor · NTS 207</h2>
-      <p>Explora la fuente oficial, sus modificatorias, anexos priorizados y recursos pedagógicos sin generar contenido fuera de la evidencia cargada.</p>
+      <span class="kicker">Biblioteca multidocumento</span>
+      <h2>Conocimiento oficial para SERUMS</h2>
+      <p>Consulta documentos oficiales, metadatos, fuentes, anexos y evidencia incorporada al sistema RAG.</p>
     </div>
     <div class="hero-grid">
-      <article><strong id="sourceCount">0</strong><span>Fuente documental</span></article>
+      <article><strong id="sourceCount">0</strong><span>Documentos</span></article>
       <article><strong id="annexCount">0</strong><span>Anexos priorizados</span></article>
       <article><strong id="validationState">—</strong><span>Estado documental</span></article>
     </div>
@@ -42,7 +43,7 @@
     <div class="workspace">
       <aside class="card sidebar">
         <h2>Exploración</h2>
-        <p class="muted">Consulta términos presentes en la fuente cargada.</p>
+        <p class="muted">Consulta términos presentes en la biblioteca documental.</p>
         <div id="quickTerms" class="chips"></div>
         <hr>
         <div class="legend">
@@ -53,13 +54,10 @@
 
       <section class="card search-panel">
         <div class="section-head">
-          <div>
-            <p class="eyebrow">Recuperación documental</p>
-            <h2>Buscar evidencia</h2>
-          </div>
+          <div><p class="eyebrow">Recuperación documental</p><h2>Buscar evidencia</h2></div>
         </div>
         <form id="searchForm" class="search-box">
-          <input id="search" autocomplete="off" placeholder="Ej.: VACAM, RM 948, plan de cuidado…" aria-label="Buscar evidencia">
+          <input id="search" autocomplete="off" placeholder="Ej.: VACAM, depresión, diabetes, inmunizaciones…" aria-label="Buscar evidencia">
           <button type="submit">Buscar</button>
         </form>
         <div id="result" class="results empty-state">
@@ -72,18 +70,14 @@
 
   <section id="view-source" class="view">
     <section class="card source-view">
-      <div class="section-head">
-        <div><p class="eyebrow">Trazabilidad</p><h2>Fuente normativa</h2></div>
-      </div>
+      <div class="section-head"><div><p class="eyebrow">Trazabilidad</p><h2>Fuente normativa</h2></div></div>
       <div id="metadata">Cargando metadatos…</div>
     </section>
   </section>
 
   <section id="view-learning" class="view">
     <section class="card source-view">
-      <div class="section-head">
-        <div><p class="eyebrow">Aprendizaje</p><h2>Recursos pedagógicos</h2></div>
-      </div>
+      <div class="section-head"><div><p class="eyebrow">Aprendizaje</p><h2>Recursos pedagógicos</h2></div></div>
       <div id="learningResources"></div>
     </section>
   </section>
@@ -94,18 +88,18 @@
         <div>
           <p class="eyebrow">Consulta asistida</p>
           <h2>Asistente RAG</h2>
-          <p>Primero verifica evidencia local. El modelo remoto solo se usa cuando exista un backend desplegado.</p>
+          <p>Consulta la evidencia disponible en la biblioteca y el corpus RAG.</p>
         </div>
-        <span id="backendStatus" class="mini-status">Backend pendiente</span>
+        <span id="backendStatus" class="mini-status">Comprobando backend…</span>
       </div>
       <div id="out" class="messages">
         <div class="message system">
           <span class="avatar">SIP</span>
-          <div><strong>Consulta documental segura</strong><p>No completaré vacíos con información no respaldada por la biblioteca cargada.</p></div>
+          <div><strong>Consulta documental segura</strong><p>Las respuestas deben mantener trazabilidad hacia la evidencia disponible.</p></div>
         </div>
       </div>
       <form id="queryForm" class="composer">
-        <textarea id="q" placeholder="Pregunta sobre la fuente cargada…" aria-label="Consulta al asistente"></textarea>
+        <textarea id="q" placeholder="Pregunta sobre la biblioteca…" aria-label="Consulta al asistente"></textarea>
         <div class="composer-actions">
           <span>Respuesta con trazabilidad documental</span>
           <button id="send" type="submit">Consultar</button>
@@ -116,7 +110,6 @@
 </main>
 
 <footer>© SIP — SYSTEM INTELLIGENCE PLATFORM · 2026</footer>
-
 <script src="js/config.js"></script>
 <script src="js/api.js"></script>
 <script src="js/app.js"></script>
