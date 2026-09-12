@@ -19,14 +19,23 @@
 </header>
 
 <main class="app-shell">
+  <details class="card document-types help-panel">
+    <summary><span><strong>Cómo usar SIP-AI RAG</strong><small>Consulta documental para todas las profesiones SERUMS</small></span><span class="details-chevron" aria-hidden="true">⌄</span></summary>
+    <div class="help-content">
+      <p><strong>Esta biblioteca es transversal y está destinada a todas las profesiones que participan en SERUMS.</strong> No está limitada a una carrera, especialidad ni tema clínico específico.</p>
+      <p><b>Explorar:</b> escribe libremente una norma, resolución, tema, concepto, programa, intervención, población, procedimiento o término relacionado con la bibliografía oficial.</p>
+      <p><b>Compendios SERUMS 2026-II:</b> permite navegar por las 17 áreas oficiales del MINSA y consultar su bibliografía.</p>
+      <p><b>Fuente:</b> muestra metadatos y trazabilidad del documento seleccionado. <b>Recursos:</b> reúne materiales pedagógicos derivados de evidencia documentada. <b>Asistente RAG:</b> permite formular preguntas y recuperar evidencia del corpus con trazabilidad documental.</p>
+    </div>
+  </details>
+
+  <details class="card document-types compendia-panel">
+    <summary><span><strong>Compendios SERUMS 2026-II · 17</strong><small>Bibliografía oficial MINSA organizada por área</small></span><span class="details-chevron" aria-hidden="true">⌄</span></summary>
+    <div id="serumsCompendia" class="compendia-grid"><span class="muted">Cargando compendios…</span></div>
+  </details>
+
   <details class="card document-types">
-    <summary>
-      <span>
-        <strong>Tipos de documentos</strong>
-        <small>NTS · RM · DS · Directivas · Guías · Documentos técnicos · Anexos</small>
-      </span>
-      <span class="details-chevron" aria-hidden="true">⌄</span>
-    </summary>
+    <summary><span><strong>Tipos de documentos</strong><small>NTS · RM · DS · Directivas · Guías · Documentos técnicos · Anexos</small></span><span class="details-chevron" aria-hidden="true">⌄</span></summary>
     <div class="document-type-grid" aria-label="Tipos de documentos">
       <button type="button" class="doc-type-filter active" data-doc-type="">Todos</button>
       <button type="button" class="doc-type-filter" data-doc-type="NTS">NTS</button>
@@ -40,120 +49,45 @@
   </details>
 
   <nav class="module-nav" aria-label="Módulos">
-    <button class="nav-btn active" data-view="explore">Explorar</button>
-    <button class="nav-btn" data-view="source">Fuente</button>
-    <button class="nav-btn" data-view="learning">Recursos</button>
-    <button class="nav-btn" data-view="assistant">Asistente RAG</button>
+    <button class="nav-btn active" data-view="explore">Explorar</button><button class="nav-btn" data-view="source">Fuente</button><button class="nav-btn" data-view="learning">Recursos</button><button class="nav-btn" data-view="assistant">Asistente RAG</button>
   </nav>
 
-  <section id="view-explore" class="view active">
-    <div class="workspace">
-      <aside class="card sidebar">
-        <h2>Exploración</h2>
-        <p class="muted">Términos disponibles en la biblioteca.</p>
-        <div id="quickTerms" class="chips"></div>
-        <hr>
-        <div class="legend">
-          <span><i class="dot validated"></i> Validado oficial</span>
-          <span><i class="dot pending"></i> Pendiente de verificación</span>
-        </div>
-      </aside>
-
-      <section class="card search-panel">
-        <div class="section-head">
-          <div><p class="eyebrow">Consulta documental</p><h2>Buscar evidencia</h2></div>
-        </div>
-        <form id="searchForm" class="search-box">
-          <input id="search" autocomplete="off" placeholder="Buscar norma, tema, VACAM, inmunizaciones…" aria-label="Buscar evidencia">
-          <button type="submit">Buscar</button>
-        </form>
-        <div id="result" class="results empty-state">
-          <strong>Biblioteca lista para consulta</strong>
-          <p>Escribe un tema o selecciona un tipo de documento.</p>
-        </div>
-      </section>
-    </div>
-  </section>
-
-  <section id="view-source" class="view">
-    <section class="card source-view">
-      <div class="section-head"><div><p class="eyebrow">Trazabilidad</p><h2>Fuente normativa</h2></div></div>
-      <div id="metadata">Cargando metadatos…</div>
+  <section id="view-explore" class="view active"><div class="workspace">
+    <aside class="card sidebar"><h2>Exploración</h2><p class="muted">Términos disponibles en la biblioteca.</p><div id="quickTerms" class="chips"></div><hr><div class="legend"><span><i class="dot validated"></i> Validado oficial</span><span><i class="dot pending"></i> Pendiente de verificación</span></div></aside>
+    <section class="card search-panel"><div class="section-head"><div><p class="eyebrow">Consulta documental</p><h2>Buscar evidencia</h2></div></div>
+      <form id="searchForm" class="search-box"><input id="search" autocomplete="off" placeholder="Buscar en la bibliografía oficial SERUMS…" aria-label="Buscar evidencia"><button type="submit">Buscar</button></form>
+      <div id="result" class="results empty-state"><strong>Biblioteca lista para consulta</strong><p>Escribe libremente una consulta o abre uno de los 17 compendios.</p></div>
     </section>
-  </section>
+  </div></section>
 
-  <section id="view-learning" class="view">
-    <section class="card source-view">
-      <div class="section-head"><div><p class="eyebrow">Aprendizaje</p><h2>Recursos pedagógicos</h2></div></div>
-      <div id="learningResources"></div>
-    </section>
-  </section>
+  <section id="view-source" class="view"><section class="card source-view"><div class="section-head"><div><p class="eyebrow">Trazabilidad</p><h2>Fuente normativa</h2></div></div><div id="metadata">Cargando metadatos…</div></section></section>
+  <section id="view-learning" class="view"><section class="card source-view"><div class="section-head"><div><p class="eyebrow">Aprendizaje</p><h2>Recursos pedagógicos</h2></div></div><div id="learningResources"></div></section></section>
+  <section id="view-assistant" class="view"><section class="card chat"><div class="chat-head"><div><p class="eyebrow">Consulta asistida</p><h2>Asistente RAG</h2><p>Consulta transversal para todas las profesiones SERUMS con evidencia disponible en la biblioteca y el corpus RAG.</p></div><span id="backendStatus" class="mini-status">Comprobando backend…</span></div><div id="out" class="messages"><div class="message system"><span class="avatar">SIP</span><div><strong>Consulta documental segura</strong><p>Las respuestas deben mantener trazabilidad hacia la evidencia disponible.</p></div></div></div><form id="queryForm" class="composer"><textarea id="q" placeholder="Formula una consulta sobre la bibliografía SERUMS…" aria-label="Consulta al asistente"></textarea><div class="composer-actions"><span>Respuesta con trazabilidad documental</span><button id="send" type="submit">Consultar</button></div></form></section></section>
 
-  <section id="view-assistant" class="view">
-    <section class="card chat">
-      <div class="chat-head">
-        <div>
-          <p class="eyebrow">Consulta asistida</p>
-          <h2>Asistente RAG</h2>
-          <p>Consulta la evidencia disponible en la biblioteca y el corpus RAG.</p>
-        </div>
-        <span id="backendStatus" class="mini-status">Comprobando backend…</span>
-      </div>
-      <div id="out" class="messages">
-        <div class="message system">
-          <span class="avatar">SIP</span>
-          <div><strong>Consulta documental segura</strong><p>Las respuestas deben mantener trazabilidad hacia la evidencia disponible.</p></div>
-        </div>
-      </div>
-      <form id="queryForm" class="composer">
-        <textarea id="q" placeholder="Pregunta sobre la biblioteca…" aria-label="Consulta al asistente"></textarea>
-        <div class="composer-actions">
-          <span>Respuesta con trazabilidad documental</span>
-          <button id="send" type="submit">Consultar</button>
-        </div>
-      </form>
-    </section>
-  </section>
-
-  <!-- Compatibilidad con la lógica existente; métricas fuera de la interfaz principal. -->
-  <div class="compat-metrics" aria-hidden="true">
-    <span id="sourceCount">0</span>
-    <span id="annexCount">0</span>
-    <span id="validationState">—</span>
-  </div>
+  <div class="compat-metrics" aria-hidden="true"><span id="sourceCount">0</span><span id="annexCount">0</span><span id="validationState">—</span></div>
 </main>
-
 <footer>© SIP — SYSTEM INTELLIGENCE PLATFORM · 2026</footer>
-<script src="js/config.js"></script>
-<script src="js/api.js"></script>
-<script src="js/app.js"></script>
+<script src="js/config.js"></script><script src="js/api.js"></script><script src="js/app.js"></script>
 <script>
 (() => {
   "use strict";
-  const buttons = document.querySelectorAll(".doc-type-filter");
-  const search = document.getElementById("search");
-  const form = document.getElementById("searchForm");
+  const buttons=document.querySelectorAll(".doc-type-filter"),search=document.getElementById("search"),form=document.getElementById("searchForm");
+  buttons.forEach(button=>button.addEventListener("click",()=>{buttons.forEach(item=>item.classList.remove("active"));button.classList.add("active");const type=button.dataset.docType||"";if(!type){search.value="";search.focus();return;}search.value=type;form.requestSubmit();if(window.innerWidth<=760)document.querySelector(".document-types")?.removeAttribute("open");}));
 
-  buttons.forEach((button) => {
-    button.addEventListener("click", () => {
-      buttons.forEach((item) => item.classList.remove("active"));
-      button.classList.add("active");
-
-      const type = button.dataset.docType || "";
-      if (!type) {
-        search.value = "";
-        search.focus();
-        return;
-      }
-
-      search.value = type;
-      form.requestSubmit();
-      if (window.innerWidth <= 760) {
-        document.querySelector(".document-types")?.removeAttribute("open");
-      }
-    });
-  });
+  fetch("data/metadata/serums/serums-2026-ii-compendios.json")
+    .then(r=>{if(!r.ok)throw new Error("No se pudo cargar compendios");return r.json();})
+    .then(data=>{
+      const box=document.getElementById("serumsCompendia");
+      box.innerHTML=(data.compendios||[]).map(c=>`<button type="button" class="compendium-btn" data-query="${String(c.nombre).replace(/"/g,"&quot;")}"><span><b>${c.sigla}</b><small>${c.nombre}</small></span><em>${c.cantidad_normas}</em></button>`).join("");
+      box.querySelectorAll(".compendium-btn").forEach(btn=>btn.addEventListener("click",()=>{
+        search.value=btn.dataset.query; form.requestSubmit();
+        document.querySelectorAll(".nav-btn").forEach(n=>n.classList.toggle("active",n.dataset.view==="explore"));
+        document.querySelectorAll(".view").forEach(v=>v.classList.toggle("active",v.id==="view-explore"));
+        document.querySelector(".compendia-panel")?.removeAttribute("open");
+        document.getElementById("view-explore")?.scrollIntoView({behavior:"smooth",block:"start"});
+      }));
+    })
+    .catch(()=>{document.getElementById("serumsCompendia").innerHTML='<span class="muted">Compendios no disponibles.</span>';});
 })();
 </script>
-</body>
-</html>
+</body></html>
