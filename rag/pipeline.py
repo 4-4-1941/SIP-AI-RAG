@@ -23,28 +23,45 @@ class RAGPipeline:
             chunks.extend(chunk_document(document))
 
         if chunks:
-            embeddings = await self.embedding_provider.embed_documents([chunk.text for chunk in chunks])
+            embeddings = await self.embedding_provider.embed_documents(
+                [chunk.text for chunk in chunks]
+            )
             self.index.add(chunks, embeddings)
 
-        return {"documents": len(documents), "chunks": len(chunks)}
+        return {
+            "documents": len(documents),
+            "chunks": len(chunks),
+            "indexed": self.index.size,
+        }
 
     async def retrieve(self, query: str, top_k: int = 5) -> dict:
-        if not self.index.size:
+        query = (query or "").strip()
+        if not query or not self.index.size:
             return {"context": "", "citations": [], "matches": []}
 
         query_embedding = await self.embedding_provider.embed_query(query)
-        initial = self.index.search(query_embedding, top_k=max(top_k * 2, top_k))
+        initial = self.index.search(
+            query_embedding,
+            top_k=max(top_k * 2, top_k),
+        )
         ranked = await self.reranker.rerank(query, initial, top_k=top_k)
+
+        citations = build_citations(ranked)
 
         return {
             "context": format_context(ranked),
-            "citations": [citation.__dict__ for citation in build_citations(ranked)],
+            "citations": [citation.__dict__ for citation in citations],
             "matches": [
                 {
                     "chunk_id": item.chunk.chunk_id,
+                    "document_id": item.chunk.document_id,
                     "score": item.score,
                     "title": item.chunk.title,
                     "text": item.chunk.text,
+                    "source_path": item.chunk.source_path,
+                    "pagina": (item.chunk.metadata or {}).get("pagina"),
+                    "seccion": (item.chunk.metadata or {}).get("seccion"),
+                    "anexo": (item.chunk.metadata or {}).get("anexo"),
                 }
                 for item in ranked
             ],
