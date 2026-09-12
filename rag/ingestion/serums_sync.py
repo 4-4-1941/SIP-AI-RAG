@@ -17,16 +17,17 @@ EXPECTED_COMPENDIA=17
 
 class LinkParser(HTMLParser):
     def __init__(self):
-        super().__init__(); self.links=[]; self._href=""; self._text=[]
+        super().__init__(); self.links=[]; self.link_details=[]; self._href=""; self._text=[]; self._attrs={}
     def handle_starttag(self,tag,attrs):
         if tag.lower()=="a":
-            self._href=dict(attrs).get("href") or ""; self._text=[]
+            self._attrs=dict(attrs); self._href=self._attrs.get("href") or ""; self._text=[]
     def handle_data(self,data):
         if self._href:self._text.append(data)
     def handle_endtag(self,tag):
         if tag.lower()=="a" and self._href:
-            self.links.append((self._href," ".join("".join(self._text).split())))
-            self._href=""; self._text=[]
+            text=" ".join("".join(self._text).split())
+            self.links.append((self._href,text)); self.link_details.append((self._href,text,self._attrs))
+            self._href=""; self._text=[]; self._attrs={}
 
 @dataclass
 class OfficialDocument:
@@ -40,6 +41,9 @@ class OfficialDocument:
 def links(html,base):
     p=LinkParser(); p.feed(html)
     return [(urljoin(base,h),t) for h,t in p.links if h]
+def detailed_links(html,base):
+    p=LinkParser(); p.feed(html)
+    return [(urljoin(base,h),t,a) for h,t,a in p.link_details if h]
 def canonical(url):
     p=urlparse(url); return urlunparse((p.scheme or "https",p.netloc,p.path.rstrip("/"),"","",""))
 def with_sheet(url,sheet):
@@ -91,9 +95,17 @@ def discover_norms(client,collection_url,expected,max_sheets=40):
     for sheet in range(1,max_sheets+1):
         r=fetch(client,collection_url if sheet==1 else with_sheet(collection_url,sheet)); n=0
         page_seen=set()
-        for url,text in links(r.text,str(r.url)):
+        for url,text,attrs in detailed_links(r.text,str(r.url)):
             c=canonical(url)
             if not NORM_RE.search(c):
+                continue
+            # Las colecciones incluyen en todas sus hojas la norma de creación
+            # institucional dentro de los menús web y móvil. No es un elemento
+            # del compendio y debe excluirse por su contexto de navegación, no
+            # por una URL o por una posición de página inferida.
+            section=(attrs.get("data-ga-title-section") or "").strip().lower()
+            origin=(attrs.get("data-origin") or "").strip().lower()
+            if section=="menu" or "menu-minsa-norma-de-creacion" in origin:
                 continue
             label=text.strip()
             occurrences.setdefault(c,[]).append({"sheet":sheet,"texto":label})
@@ -104,21 +116,7 @@ def discover_norms(client,collection_url,expected,max_sheets=40):
         empty=empty+1 if n==0 else 0
         if empty>=2:break
 
-    discarded=[]
-    if len(found)==expected+1:
-        # gob.pe expone un enlace normativo auxiliar fuera del conjunto paginado.
-        # El documento espurio es el único candidato que aparece solo en la
-        # primera hoja; las normas reales reaparecen en la paginación.
-        first_sheet_only=[
-            url for url,seen in occurrences.items()
-            if {x["sheet"] for x in seen}=={1}
-        ]
-        if len(first_sheet_only)==1:
-            url=first_sheet_only[0]
-            discarded.append({"url":url,"texto":found[url],"motivo":"enlace auxiliar fuera del conjunto paginado"})
-            del found[url]
-
-    return found,discarded
+    return found,[]
 
 def discover_pdf(client,norm_url):
     r=fetch(client,norm_url); title=page_heading(r.text)
