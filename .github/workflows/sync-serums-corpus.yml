@@ -1,17 +1,25 @@
 name: Sincronizar corpus SERUMS 2026-II
 
-on:
+"on":
   workflow_dispatch: {}
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/sync-serums-corpus.yml"
+      - "rag/ingestion/serums_sync.py"
   schedule:
-    - cron: '17 8 * * 1'
+    - cron: "17 8 * * 1"
 
 permissions:
   contents: write
 
 jobs:
   sync:
+    name: Sincronizar corpus oficial
     runs-on: ubuntu-latest
     timeout-minutes: 60
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -19,41 +27,28 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
       - name: Instalar dependencias
         run: python -m pip install -r backend/requirements.txt
 
+      - name: Validar sintaxis del sincronizador
+        run: python -m py_compile rag/ingestion/serums_sync.py
+
       - name: Sincronizar corpus oficial
         run: python rag/ingestion/serums_sync.py --materialize
 
-      - name: Validar corpus
-        run: |
-          python - <<'PY'
-          import json
-          from pathlib import Path
-          path = Path('knowledge/minsa/serums-2026-ii/manifest.json')
-          if not path.exists():
-              raise SystemExit('Falta manifest.json')
-          data = json.loads(path.read_text(encoding='utf-8'))
-          assert data.get('compendios_descubiertos') == 17, data.get('compendios_descubiertos')
-          assert data.get('documentos_unicos', 0) > 0
-          assert data.get('documentos_materializados_rag', 0) > 0
-          print('VALIDADO')
-          print('Compendios:', data['compendios_descubiertos'])
-          print('Documentos unicos:', data['documentos_unicos'])
-          print('Materializados:', data['documentos_materializados_rag'])
-          print('Fallos:', data.get('fallos', 0))
-          PY
+      - name: Validar corpus generado
+        run: python -c "import json,pathlib; p=pathlib.Path('knowledge/minsa/serums-2026-ii/manifest.json'); assert p.exists(), 'Falta manifest.json'; d=json.loads(p.read_text(encoding='utf-8')); assert d.get('compendios_descubiertos')==17, d.get('compendios_descubiertos'); assert d.get('documentos_unicos',0)>0; assert d.get('documentos_materializados_rag',0)>0; print('VALIDADO', d.get('compendios_descubiertos'), d.get('documentos_unicos'), d.get('documentos_materializados_rag'), d.get('fallos',0))"
 
       - name: Guardar corpus actualizado
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add knowledge/minsa/serums-2026-ii
           if git diff --cached --quiet; then
-            echo 'Sin cambios en el corpus.'
+            echo "Sin cambios en el corpus."
             exit 0
           fi
-          git commit -m 'chore(rag): sincroniza corpus SERUMS 2026-II'
+          git commit -m "chore(rag): sincroniza corpus SERUMS 2026-II"
           git push
