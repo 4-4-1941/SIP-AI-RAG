@@ -92,3 +92,23 @@
   .document-toolbar{align-items:stretch;flex-direction:column}
   .document-toolbar select{max-width:none;width:100%}
 }
+
+
+/* Instrucciones + navegación visible de los 17 compendios SERUMS */
+.help-content{padding:0 1.1rem 1.1rem;color:var(--muted);font-size:.9rem;line-height:1.5}
+.help-content p{margin:.45rem 0}
+.help-content strong,.help-content b{color:var(--text)}
+.compendia-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.55rem;padding:0 1.1rem 1.1rem}
+.compendium-btn{display:flex;align-items:center;justify-content:space-between;gap:.7rem;width:100%;text-align:left;border:1px solid var(--line);background:#081525;color:var(--text);border-radius:12px;padding:.7rem .8rem;cursor:pointer}
+.compendium-btn span{min-width:0;display:block}
+.compendium-btn b{display:block;color:var(--accent);font-size:.78rem}
+.compendium-btn small{display:block;margin-top:.18rem;color:var(--muted);font-size:.72rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.compendium-btn em{font-style:normal;font-weight:800;font-size:.72rem;min-width:28px;text-align:center;padding:.28rem .4rem;border-radius:999px;background:rgba(79,209,197,.1);color:var(--accent)}
+@media(max-width:760px){
+  .help-content{padding:0 .8rem .8rem;font-size:.76rem;line-height:1.4}
+  .help-content p{margin:.35rem 0}
+  .compendia-grid{grid-template-columns:1fr;padding:0 .8rem .8rem;gap:.38rem}
+  .compendium-btn{padding:.55rem .65rem;border-radius:10px}
+  .compendium-btn b{font-size:.72rem}
+  .compendium-btn small{font-size:.66rem}
+}
