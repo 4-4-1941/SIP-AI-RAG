@@ -1,1 +1,39 @@
-
+{
+  "id": "NTS-210-MINSA-CDC-2024",
+  "titulo": "Norma Técnica de Salud para la Vigilancia Epidemiológica de Diabetes",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 210-MINSA/CDC-2024",
+  "resolucion_aprobatoria": "RM N.° 114-2024-MINSA",
+  "fecha_aprobacion": "2024-02-16",
+  "tema": "Vigilancia epidemiológica de diabetes",
+  "bloque_SERUMS": "Salud pública / Vigilancia epidemiológica",
+  "subtemas": [
+    "Diabetes mellitus",
+    "Vigilancia epidemiológica",
+    "Notificación y registro"
+  ],
+  "fuentes_oficiales": [
+    {
+      "tipo": "pagina_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "RM N.° 114-2024-MINSA",
+      "url": "https://www.gob.pe/institucion/minsa/normas-legales/5206615-114-2024-minsa",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "recursos_pedagogicos": {
+    "ficha_fuente": {
+      "id": "CDC-DM-210-001",
+      "titulo": "Ficha normativa — Vigilancia epidemiológica de diabetes",
+      "estado": "VALIDADO_OFICIAL",
+      "motivo": "Basada en la resolución y NTS oficial identificadas."
+    }
+  },
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "estado_validacion": "CORROBORADO_PENDIENTE_PDF_OFICIAL",
+  "ultima_revision": "2026-09-11"
+}

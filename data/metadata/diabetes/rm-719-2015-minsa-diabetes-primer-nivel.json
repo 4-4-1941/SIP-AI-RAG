@@ -1,1 +1,39 @@
-
+{
+  "id": "RM-719-2015-MINSA-DM2",
+  "titulo": "Guía Práctica Clínica para el Diagnóstico, Tratamiento y Control de la Diabetes Mellitus Tipo 2, en el Primer Nivel de Atención",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Guía Técnica / Guía de Práctica Clínica",
+  "resolucion_aprobatoria": "RM N.° 719-2015-MINSA",
+  "fecha_aprobacion": "2015-11-12",
+  "tema": "Diabetes mellitus tipo 2 en primer nivel de atención",
+  "bloque_SERUMS": "Cuidado integral de salud",
+  "subtemas": [
+    "Diagnóstico de diabetes mellitus tipo 2",
+    "Tratamiento",
+    "Control",
+    "Primer nivel de atención"
+  ],
+  "fuentes_oficiales": [
+    {
+      "tipo": "pagina_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "RM N.° 719-2015-MINSA",
+      "url": "https://www.gob.pe/institucion/minsa/normas-legales/193275-719-2015-minsa",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "recursos_pedagogicos": {
+    "ficha_fuente": {
+      "id": "DM2-PNA-719-001",
+      "titulo": "Ficha normativa — DM2 en primer nivel",
+      "estado": "VALIDADO_OFICIAL",
+      "motivo": "Basada en identificación y alcance de la guía oficial."
+    }
+  },
+  "reglas_rag": {
+    "exigir_fuente_pagina_o_seccion_para_afirmaciones_clinicas_o_normativas": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "estado_validacion": "CORROBORADO_PENDIENTE_PDF_OFICIAL",
+  "ultima_revision": "2026-09-11"
+}
