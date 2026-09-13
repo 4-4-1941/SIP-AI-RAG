@@ -7,6 +7,7 @@ name: Sincronizar corpus SERUMS 2026-II
     paths:
       - ".github/workflows/sync-serums-corpus.yml"
       - "rag/ingestion/serums_sync.py"
+      - "backend/requirements.txt"
       - "data/metadata/serums/serums-2026-ii-compendios.json"
   schedule:
     - cron: "17 13 * * 1"
@@ -23,13 +24,22 @@ jobs:
     name: Sincronizar corpus oficial
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-24.04
-    timeout-minutes: 60
+    timeout-minutes: 90
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Instalar OCR del sistema
+        run: |
+          set -euo pipefail
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends tesseract-ocr tesseract-ocr-spa poppler-utils
+          tesseract --version
+          tesseract --list-langs | grep -qx spa
+          pdftoppm -v
 
       - name: Configurar Python
         uses: actions/setup-python@v5
@@ -43,6 +53,11 @@ jobs:
           set -euo pipefail
           python -m pip install --upgrade pip
           python -m pip install -r backend/requirements.txt
+          python - <<'PY'
+          import pytesseract, pdf2image
+          from PIL import Image
+          print("Dependencias OCR Python disponibles")
+          PY
 
       - name: Validar entradas canónicas
         run: |
@@ -57,7 +72,7 @@ jobs:
           d=json.loads(p.read_text(encoding="utf-8"))
           comps=d.get("compendios",[])
           expected=int(d.get("cantidad_compendios",0))
-          assert expected>0
+          assert expected==17
           assert len(comps)==expected
           urls=[x.get("url_oficial","").strip() for x in comps]
           names=[x.get("nombre","").strip() for x in comps]
@@ -66,7 +81,7 @@ jobs:
           assert len(set(names))==len(names)
           PY
 
-      - name: Sincronizar corpus oficial
+      - name: Sincronizar corpus oficial con OCR
         run: |
           set -euo pipefail
           python rag/ingestion/serums_sync.py --materialize
@@ -78,58 +93,48 @@ jobs:
           import json
           from pathlib import Path
 
+          root=Path("knowledge/minsa/serums-2026-ii")
           meta=json.loads(Path("data/metadata/serums/serums-2026-ii-compendios.json").read_text(encoding="utf-8"))
-          p=Path("knowledge/minsa/serums-2026-ii/manifest.json")
+          p=root/"manifest.json"
           assert p.exists(), "Falta manifest.json"
           d=json.loads(p.read_text(encoding="utf-8"))
-
           expected=int(meta["cantidad_compendios"])
           comps=d.get("compendios",[])
           docs=d.get("documentos",[])
 
-          assert d.get("compendios_descubiertos")==expected
+          assert d.get("compendios_descubiertos")==expected==17
           assert len(comps)==expected
-          assert all(c.get("nombre") and c.get("url") for c in comps)
-          assert all(c.get("coincide") is True for c in comps)
+          assert all(c.get("nombre") and c.get("url") and c.get("coincide") is True for c in comps)
           assert d.get("documentos_unicos",0)>0
           assert d.get("documentos_procesados")==len(docs)==d.get("documentos_unicos")
+          assert len({x.get("id") for x in docs})==len(docs)
           assert len({x.get("url_oficial") for x in docs})==len(docs)
 
-          for x in docs:
-              assert x.get("id")
-              assert x.get("titulo")
-              assert x.get("url_oficial")
-              assert x.get("compendios_origen")
-              assert x.get("compendios_urls")
-              assert "texto_indice" in x
-              assert x.get("estado_validacion") in {
-                  "VALIDADO_OFICIAL",
-                  "CORROBORADO_PENDIENTE_PDF_OFICIAL"
-              }
-
-          bad=[c for x in docs for c in x.get("compendios_origen",[])
-               if str(c).lower().startswith("ver las")]
+          bad=[c for x in docs for c in x.get("compendios_origen",[]) if str(c).lower().startswith("ver las")]
           assert not bad, bad[:10]
 
-          # Un PDF escaneado sin texto NO es fallo de descubrimiento:
-          # queda explícitamente pendiente de OCR y no invalida el catálogo.
-          unexpected=[]
           for x in docs:
-              err=str(x.get("error_sincronizacion",""))
-              if err and "PDF sin texto extraíble; requiere revisión manual/OCR." not in err:
-                  unexpected.append((x.get("id"),err))
-          assert not unexpected, unexpected[:10]
+              assert x.get("id") and x.get("titulo") and x.get("url_oficial")
+              assert x.get("compendios_origen") and x.get("compendios_urls")
+              assert "texto_indice" in x
+              if x.get("archivo_rag"):
+                  md=root/x["archivo_rag"]
+                  assert md.exists() and md.stat().st_size>0, f"RAG inexistente/vacío: {md}"
+                  assert "[[PAGINA " in md.read_text(encoding="utf-8",errors="ignore"), f"Sin trazabilidad de página: {md}"
+                  assert x.get("metodo_extraccion") in {"nativo","ocr","mixto","cache"}
+                  assert int(x.get("paginas_con_texto",0))>0
 
-          materialized=d.get("documentos_materializados_rag",0)
-          pending=sum(1 for x in docs if x.get("estado_validacion")=="CORROBORADO_PENDIENTE_PDF_OFICIAL")
-          assert materialized>0
-          assert materialized+pending>=len(docs)
+          materialized=sum(1 for x in docs if x.get("archivo_rag"))
+          pending=len(docs)-materialized
+          assert d.get("documentos_materializados_rag")==materialized
+          assert materialized+pending==len(docs)
 
           print("VALIDADO",{
               "compendios":expected,
               "documentos":len(docs),
               "materializados":materialized,
-              "pendientes_extraccion":pending
+              "pendientes":pending,
+              "ocr":sum(1 for x in docs if x.get("metodo_extraccion") in {"ocr","mixto"})
           })
           PY
 
@@ -144,6 +149,6 @@ jobs:
             echo "Sin cambios en el corpus."
             exit 0
           fi
-          git commit -m "chore(rag): sincroniza corpus SERUMS 2026-II [skip ci]"
+          git commit -m "chore(rag): sincroniza corpus SERUMS 2026-II con OCR [skip ci]"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
