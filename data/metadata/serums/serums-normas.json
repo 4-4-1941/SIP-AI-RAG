@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "baseline_creado": null,
+  "reglas": {
+    "ventana_novedad_horas": 72,
+    "lectura": "por_usuario",
+    "al_vencer": "historial"
+  },
+  "normas": []
+}
