@@ -1,0 +1,8 @@
+# Resolución Directoral 010-2026-DIGEP-MINSA
+
+Ministerio de Salud
+
+Fuente oficial: https://www.gob.pe/institucion/minsa/normas-legales/8591954-010-2026-digep-minsa
+
+[[SECCION PUBLICACION OFICIAL]]
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-PDXDRQN3'); Resolución Directoral N.° 010-2026-DIGEP-MINSA - Normas y documentos legales - Ministerio de Salud - Plataforma del Estado Peruano //global object for fbjs and draftjs if (typeof global === 'undefined') { window.global = window; } Saltar a contenido principal Texto de búsqueda en gob.pe Inicio El Estado MINSA Normas y documentos legales Resolución Directoral N.° 010-2026-DIGEP-MINSA Ministerio de Salud Resolución Directoral N.° 010-2026-DIGEP-MINSA 12 de setiembre de 2026 MODIFICAR el Cronograma para el segundo proceso de adjudicación de plazas SERUMS del año 2026, denominado “Proceso SERUMS 2026-II”, que como ANEXO 1, forma parte integrante de la presente Resolución Directoral. Resolución Directoral N°010-2026-DIGEP-MINSA PDF 484.7 KB Descargar ANEXO 1_ CRONOGRAMA MODIFICADO PROCESO SERUMS 2026-II PDF 330.2 KB Descargar Imprimir Compartir Facebook Twitter Whatsapp Email Guardar Sobre el Estado Peruano El Estado Peruano ¿Qué es Gob.pe? Política de privacidad para el manejo de datos en Gob.pe Directorios nacionales Directorio Nacional de Funcionarios Públicos Directorio Nacional de Redes Sociales Directorio de Establecimientos de Salud Directorio Nacional de Aeropuertos Síguenos
