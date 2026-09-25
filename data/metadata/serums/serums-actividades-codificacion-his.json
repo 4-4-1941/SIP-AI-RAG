@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "id": "SERUMS-OPERATIVO-PROMSA-HIS-2021-2022",
+  "titulo": "Actividades de Promoción de la Salud y codificación HIS relevantes para SERUMS",
+  "tipo": "conocimiento_operativo_estructurado",
+  "fuente": {
+    "titulo": "Manual de Registro y Codificación de las Actividades de Promoción de la Salud 2021-2022",
+    "institucion": "Ministerio de Salud del Perú",
+    "edicion": "2021-2022",
+    "estado_validacion": "EXTRAIDO_DE_DOCUMENTO_PROPORCIONADO",
+    "nota": "Registrar y citar siempre la página/sección del documento fuente. No sustituye al manual ni determina por sí solo vigencia normativa actual."
+  },
+  "alcance_serums": {
+    "uso": [
+      "consulta operativa durante SERUMS",
+      "entrenamiento de registro HIS",
+      "actividades extramurales",
+      "simulación de trabajo con familia y comunidad",
+      "recuperación RAG con trazabilidad documental"
+    ],
+    "escenarios": [
+      "familia",
+      "domicilio",
+      "comunidad",
+      "institucion_educativa",
+      "municipio",
+      "comite_multisectorial"
+    ],
+    "temas": [
+      "promocion_de_la_salud",
+      "salud_familiar",
+      "registro_HIS",
+      "actividades_extramurales"
+    ]
+  },
+  "codigos_confirmados": [
+    {
+      "codigo": "C0009",
+      "actividad": "Sesión educativa",
+      "tipo_codigo": "actividad",
+      "fuente_pagina": 103
+    },
+    {
+      "codigo": "C0010",
+      "actividad": "Sesión demostrativa",
+      "tipo_codigo": "actividad",
+      "fuente_pagina": 103
+    },
+    {
+      "codigo": "C0011",
+      "actividad": "Visita familiar integral",
+      "tipo_codigo": "actividad",
+      "fuente_pagina": 154
+    },
+    {
+      "codigo": "99401",
+      "actividad": "Consejería integral",
+      "tipo_codigo": "CPT",
+      "fuente_pagina": 29
+    },
+    {
+      "codigo": "99499.08",
+      "actividad": "Teleorientación síncrona",
+      "tipo_codigo": "CPT",
+      "fuente_pagina": 29
+    },
+    {
+      "codigo": "C3151",
+      "actividad": "Sesión de entrenamiento a agentes comunitarios de salud",
+      "tipo_codigo": "actividad",
+      "fuente_pagina": 29
+    },
+    {
+      "codigo": "APP136",
+      "actividad": "Familia y vivienda",
+      "tipo_codigo": "APP",
+      "fuente_pagina": 29
+    },
+    {
+      "codigo": "APP108",
+      "actividad": "Actividades con la comunidad",
+      "tipo_codigo": "APP",
+      "fuente_pagina": 29
+    },
+    {
+      "codigo": "APP104",
+      "actividad": "Actividades/Consejo Municipal",
+      "tipo_codigo": "APP",
+      "fuente_pagina": 29
+    },
+    {
+      "codigo": "APP93",
+      "actividad": "Actividad con instituciones educativas",
+      "tipo_codigo": "APP",
+      "fuente_pagina": 29
+    },
+    {
+      "codigo": "APP144",
+      "actividad": "Actividad con docentes",
+      "tipo_codigo": "APP",
+      "fuente_pagina": 29
+    },
+    {
+      "codigo": "APP138",
+      "actividad": "Actividad con agentes comunitarios en salud",
+      "tipo_codigo": "APP",
+      "fuente_pagina": 29
+    },
+    {
+      "codigo": "APP96",
+      "actividad": "Actividad con comité multisectorial",
+      "tipo_codigo": "APP",
+      "fuente_pagina": 29
+    },
+    {
+      "codigo": "C2062",
+      "actividad": "Orientación familiar",
+      "tipo_codigo": "actividad",
+      "fuente_pagina": 29
+    },
+    {
+      "codigo": "C3061",
+      "actividad": "Constitución del Comité Multisectorial",
+      "tipo_codigo": "actividad",
+      "fuente_pagina": 29
+    },
+    {
+      "codigo": "C3071",
+      "actividad": "Movilización social",
+      "tipo_codigo": "actividad",
+      "fuente_pagina": 70
+    },
+    {
+      "codigo": "C7004",
+      "actividad": "Asistencia técnica",
+      "tipo_codigo": "actividad",
+      "fuente_pagina": 70
+    }
+  ],
+  "reglas_operativas": [
+    {
+      "id": "VISITA-FAMILIAR-IDENTIFICACION",
+      "actividad": "Visita de salud familiar",
+      "regla": "Para codificación HIS de la familia intervenida se utiliza el número de ficha familiar; para intervenciones individuales de integrantes se registra el DNI.",
+      "fuente_pagina": 153
+    },
+    {
+      "id": "VISITA-FAMILIAR-PRIMERA",
+      "actividad": "Primera visita familiar integral",
+      "acciones": [
+        "Aplicación de la Ficha Familiar para identificar necesidades de salud y factores de riesgo individuales, familiares, del entorno y vivienda.",
+        "Seguimiento del cumplimiento de paquetes de cuidados integrales por etapa de vida.",
+        "Valoración de la familia según ciclo vital y tipo de familia.",
+        "Referencia comunitaria según necesidades y riesgos al establecimiento de salud correspondiente.",
+        "Consejerías u otras intervenciones sanitarias según necesidades y riesgos identificados."
+      ],
+      "fuente_pagina": 153
+    },
+    {
+      "id": "HIS-VISITA-FAMILIAR",
+      "actividad": "Registro HIS de visita familiar integral",
+      "reglas": [
+        "En Historia Clínica/Ficha Familiar registrar el número de ficha familiar cuando corresponda.",
+        "En Documento de Identidad registrar el DNI del integrante de la familia intervenido.",
+        "En diagnóstico/motivo de consulta/actividad registrar Visita familiar integral.",
+        "En LAB 1 registrar el número de visita.",
+        "En casilleros siguientes registrar las intervenciones sanitarias brindadas según necesidades o riesgos encontrados.",
+        "Para las actividades señaladas en el ejemplo del manual, el Tipo de Diagnóstico se registra como D."
+      ],
+      "codigo_principal": "C0011",
+      "fuente_pagina": 154
+    },
+    {
+      "id": "SEGUNDA-VISITA-FAMILIAR",
+      "actividad": "Segunda visita familiar",
+      "acciones": [
+        "Seguimiento a las citas programadas.",
+        "Elaboración y acuerdos respecto al Plan de Atención Integral a la Familia (PAIFAM).",
+        "Desde la segunda visita se desarrollan actividades de programas presupuestales por curso de vida y familia según necesidades y riesgos identificados."
+      ],
+      "fuente_pagina": 154
+    }
+  ],
+  "programas_y_contextos": [
+    {
+      "programa": "Salud Materno Neonatal",
+      "producto": "3033412 Familias saludables informadas respecto de su salud sexual y reproductiva",
+      "actividad": "5005984 Promoción de prácticas saludables para el cuidado de la salud sexual y reproductiva en familias",
+      "ejemplos": [
+        "Consejería en el hogar a familias de gestantes y puérperas.",
+        "Orientación por agentes comunitarios de salud.",
+        "Sesiones educativas a familias de adolescentes."
+      ],
+      "fuente_paginas": [
+        28,
+        29
+      ]
+    },
+    {
+      "programa": "Enfermedades metaxénicas y zoonóticas",
+      "producto": "3043977 Familia con prácticas saludables para la prevención de enfermedades metaxénicas y zoonóticas",
+      "modalidades": [
+        "actividades educativas",
+        "vigilancia comunitaria",
+        "acciones de mejora o mitigación del entorno comunitario"
+      ],
+      "lugares": [
+        "municipio",
+        "local comunal",
+        "centro de salud",
+        "centro educativo",
+        "iglesia",
+        "vivienda familiar"
+      ],
+      "fuente_paginas": [
+        70,
+        71
+      ]
+    },
+    {
+      "programa": "Prevención del cáncer",
+      "actividad": "5005998 Capacitación a actores sociales para la promoción de prácticas y entornos saludables para la prevención del cáncer en familias",
+      "entornos": [
+        "locales comunitarios",
+        "locales municipales",
+        "instituciones educativas"
+      ],
+      "fuente_pagina": 103
+    }
+  ],
+  "politica_de_uso_rag": {
+    "prioridad_fuente": "documento_oficial",
+    "respuesta_sin_evidencia": "No afirmar códigos, campos LAB, criterios o reglas no presentes en la evidencia recuperada.",
+    "citas_requeridas": [
+      "titulo_fuente",
+      "pagina_o_seccion"
+    ],
+    "vigencia": "Verificar contra normativa/documentación oficial más reciente antes de presentar una regla histórica como vigente.",
+    "separacion": "Este archivo estructura conocimiento operativo; no reemplaza metadata documental ni el documento fuente."
+  }
+}
