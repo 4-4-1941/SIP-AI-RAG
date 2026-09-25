@@ -81,6 +81,31 @@
       "visible_hasta": "2026-09-17T18:39:52.432312+00:00",
       "hash_documento": "255d2d48836d2aace4b89f1aa5179ee155467a48db53b1d922372d2c9dca5421",
       "tipo_novedad": "NUEVA"
+    },
+    {
+      "id": "SERUMS-NORMA-27e0c3fd1de33299",
+      "organismo_emisor": "Ministerio de Salud del Perú",
+      "tipo_documental": "Resolución Ministerial",
+      "numero_norma": "035-2026-MINSA",
+      "titulo": "Ministerio de Salud",
+      "fecha_publicacion": "2026-01-16",
+      "fecha_version": "2026-01-16",
+      "estado_vigencia": "NO_DETERMINADO",
+      "estado_validacion": "VALIDADO_OFICIAL",
+      "relacion_serums": "confirmada",
+      "resumen": "",
+      "impacto_serums": "Requiere lectura de la publicación oficial para determinar el impacto concreto.",
+      "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/7625105-035-2026-minsa",
+      "pdf_oficial": "",
+      "compendios_origen": [],
+      "archivo_rag": "knowledge/normas/serums/035-2026-minsa.md",
+      "pagina_seccion": "publicación oficial",
+      "texto_indice": "Ministerio de Salud 035-2026-MINSA SERUMS",
+      "fecha_deteccion": "2026-09-25T17:58:14.505078+00:00",
+      "fecha_incorporacion": "2026-09-25T17:58:14.505078+00:00",
+      "visible_hasta": "2026-09-28T17:58:14.505078+00:00",
+      "hash_documento": "975f8f360a5cd957aa6bd5df0141e580ac48714655432f68bc2bc25196e1f682",
+      "tipo_novedad": "NUEVA"
     }
   ]
 }
