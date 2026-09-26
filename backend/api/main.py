@@ -11,7 +11,7 @@ from backend.providers.nvidia.provider import NvidiaNIMProvider
 from rag.embeddings.nvidia import NvidiaEmbeddingProvider
 from rag.pipeline import RAGPipeline
 
-app = FastAPI(title=settings.app_name, version="0.2.0")
+app = FastAPI(title=settings.app_name, version="0.3.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -22,8 +22,12 @@ app.add_middleware(
 
 ROOT_DIR = Path(__file__).resolve().parents[2]
 KNOWLEDGE_DIR = ROOT_DIR / "knowledge"
+METADATA_DIR = ROOT_DIR / "data" / "metadata"
+RAG_DIRECTORIES = (KNOWLEDGE_DIR, METADATA_DIR)
+
 _rag: RAGPipeline | None = None
 _rag_ingested = False
+_rag_ingestion_stats: list[dict] = []
 
 
 class ChatRequest(BaseModel):
@@ -31,13 +35,34 @@ class ChatRequest(BaseModel):
 
 
 async def get_rag() -> RAGPipeline:
-    global _rag, _rag_ingested
+    global _rag, _rag_ingested, _rag_ingestion_stats
+
     if _rag is None:
         _rag = RAGPipeline(NvidiaEmbeddingProvider())
+
     if not _rag_ingested:
-        if KNOWLEDGE_DIR.exists():
-            await _rag.ingest_directory(KNOWLEDGE_DIR)
+        stats: list[dict] = []
+        for directory in RAG_DIRECTORIES:
+            if not directory.exists():
+                stats.append({
+                    "directory": str(directory),
+                    "exists": False,
+                    "documents": 0,
+                    "chunks": 0,
+                    "indexed": _rag.index.size,
+                })
+                continue
+
+            result = await _rag.ingest_directory(directory)
+            stats.append({
+                "directory": str(directory),
+                "exists": True,
+                **result,
+            })
+
+        _rag_ingestion_stats = stats
         _rag_ingested = True
+
     return _rag
 
 
@@ -48,7 +73,10 @@ async def health():
         "service": settings.app_name,
         "nvidia_configured": bool(settings.nvidia_api_key),
         "rag_active": bool(_rag and _rag.index.size),
-        "rag_documents_directory": str(KNOWLEDGE_DIR),
+        "rag_documents_directories": [str(path) for path in RAG_DIRECTORIES],
+        "rag_ingested": _rag_ingested,
+        "rag_ingestion_stats": _rag_ingestion_stats,
+        "rag_indexed_chunks": _rag.index.size if _rag else 0,
     }
 
 
