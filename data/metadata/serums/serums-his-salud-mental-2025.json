@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0",
+  "id": "minsa-his-salud-mental-2025",
+  "titulo": "Manual de Registro y Codificación de Actividades en la Atención en Salud Mental",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "manual_HIS",
+  "edicion": "2da edición",
+  "fecha_edicion": "2025-02",
+  "paginas": 117,
+  "rol_evidencia": "FUENTE_OFICIAL",
+  "estado_validacion": "VALIDADO_DOCUMENTO_COMPLETO_LOCALIZADO",
+  "vigencia": "EDICION_2025_PRIORIZADA; verificar modificatorias posteriores",
+  "url_documento": "https://bvs.minsa.gob.pe/local/MINSA/7615.pdf",
+  "archivo_fuente_sugerido": "knowledge/minsa/manual-his-salud-mental-2025.pdf",
+  "uso_rag": [
+    "consulta operativa HIS",
+    "tamizajes",
+    "CIE-10",
+    "CPMSS",
+    "P/D/R",
+    "LAB",
+    "telemedicina",
+    "simulación SERUMS",
+    "formatos"
+  ],
+  "reglas_generales": {
+    "P": "diagnóstico presuntivo: sin certeza o requiere resultado auxiliar",
+    "D": "diagnóstico definitivo: certeza clínica y/o exámenes; una vez por episodio",
+    "R": "diagnóstico repetido: seguimiento posterior del mismo episodio",
+    "condiciones_LAB": {
+      "TPE": "trata de personas",
+      "PTB": "diagnóstico tuberculosis",
+      "DIS": "discapacidad",
+      "JUD": "judicializada",
+      "IE": "actividad en institución educativa"
+    },
+    "telemedicina": {
+      "99499.08": "teleorientación",
+      "99499.01": "teleconsulta",
+      "99499.10": "telemonitoreo",
+      "99499.11": "teleinterconsulta"
+    }
+  },
+  "codigos_operativos_iniciales": [
+    {
+      "codigo": "96150.01",
+      "actividad": "Tamizaje en violencia"
+    },
+    {
+      "codigo": "96150.02",
+      "actividad": "Tamizaje en alcohol y drogas"
+    },
+    {
+      "codigo": "80104",
+      "actividad": "Tamizaje de drogas múltiples"
+    },
+    {
+      "codigo": "96150.03",
+      "actividad": "Tamizaje en trastornos depresivos"
+    },
+    {
+      "codigo": "96150.04",
+      "actividad": "Tamizaje en psicosis"
+    },
+    {
+      "codigo": "96150.06",
+      "actividad": "Tamizaje M-CHAT"
+    },
+    {
+      "codigo": "96150.07",
+      "actividad": "Tamizaje deterioro cognitivo-demencia 60+"
+    },
+    {
+      "codigo": "96150.08",
+      "actividad": "Tamizaje trastornos mentales/comportamiento NNA 6-17"
+    },
+    {
+      "codigo": "99402.09",
+      "actividad": "Consejería de prevención de riesgos en salud mental"
+    },
+    {
+      "codigo": "96100.02",
+      "actividad": "Consejería y orientación psicológica"
+    },
+    {
+      "codigo": "99207",
+      "actividad": "Consulta de salud mental"
+    },
+    {
+      "codigo": "96100",
+      "actividad": "Consulta psicológica"
+    },
+    {
+      "codigo": "99207.01",
+      "actividad": "Intervención individual de salud mental"
+    },
+    {
+      "codigo": "99207.02",
+      "actividad": "Intervención grupal en salud mental"
+    },
+    {
+      "codigo": "99285.01",
+      "actividad": "Intervención en crisis"
+    },
+    {
+      "codigo": "C2111.01",
+      "actividad": "Psicoeducación a la familia"
+    },
+    {
+      "codigo": "99207.04",
+      "actividad": "Psicoeducación a la persona usuaria"
+    },
+    {
+      "codigo": "C0011",
+      "actividad": "Visita familiar integral / visita domiciliaria"
+    },
+    {
+      "codigo": "C0005",
+      "actividad": "Taller para institución educativa"
+    },
+    {
+      "codigo": "C0007",
+      "actividad": "Taller para la familia"
+    },
+    {
+      "codigo": "C2111",
+      "actividad": "Taller psicoeducativo grupal"
+    },
+    {
+      "codigo": "APP93",
+      "actividad": "Actividad con institución educativa"
+    },
+    {
+      "codigo": "APP108",
+      "actividad": "Actividad en comunidad"
+    },
+    {
+      "codigo": "APP136",
+      "actividad": "Actividad con familia"
+    },
+    {
+      "codigo": "APP138",
+      "actividad": "Actividad con agentes comunitarios de salud"
+    },
+    {
+      "codigo": "APP144",
+      "actividad": "Actividad con docentes"
+    },
+    {
+      "codigo": "APP145",
+      "actividad": "Actividad con estudiantes"
+    },
+    {
+      "codigo": "APP146",
+      "actividad": "Actividad con padres de familia"
+    },
+    {
+      "codigo": "APP150",
+      "actividad": "Actividad con autoridades y líderes comunales"
+    },
+    {
+      "codigo": "APP166",
+      "actividad": "Actividad con líderes escolares"
+    }
+  ],
+  "registros_operativos_verificados": [
+    {
+      "caso": "tamizaje_negativo",
+      "reglas": [
+        "registrar tipo de tamizaje",
+        "registrar consejería de prevención de riesgos en salud mental",
+        "marcar D en ambas"
+      ],
+      "pagina_fuente": 10
+    },
+    {
+      "caso": "tamizaje_positivo_depresion",
+      "codigo_tamizaje": "96150.03",
+      "codigo_positividad": "Z133",
+      "descripcion": "Pesquisa de problemas relacionados a la salud mental",
+      "pagina_fuente": 10
+    },
+    {
+      "caso": "tamizaje_positivo_violencia",
+      "codigo_tamizaje": "96150.01",
+      "codigo_positividad": "R456",
+      "descripcion": "Problemas relacionados con violencia",
+      "pagina_fuente": 10
+    },
+    {
+      "caso": "visita_familiar_integral",
+      "codigo": "C0011",
+      "tipo": "D",
+      "lab_1": "número de visita (1,2,3)",
+      "actividad_complementaria": {
+        "codigo": "96154",
+        "descripcion": "Intervención en salud y comportamiento",
+        "tipo": "D"
+      },
+      "pagina_fuente": 65
+    }
+  ],
+  "nota": "Edición 2025 priorizada. El manual contiene reglas LAB adicionales que deben extraerse progresivamente con página/sección."
+}

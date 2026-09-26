@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "id": "minsa-his-promocion-salud-2021-2022",
+  "titulo": "Manual de Registro y Codificación de las Actividades de Promoción de la Salud 2021-2022",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "manual_HIS",
+  "fecha_publicacion": "2022-05-30",
+  "rol_evidencia": "FUENTE_OFICIAL",
+  "estado_validacion": "VALIDADO_FUENTE_OFICIAL",
+  "vigencia": "REQUIERE_CONTRASTE_CON_ACTUALIZACIONES_POSTERIORES",
+  "url_oficial": "https://www.gob.pe/institucion/dirislimasur/informes-publicaciones/3467719-manual-de-registro-y-codificacion-de-las-actividades-de-promocion-de-la-salud",
+  "archivo_fuente_sugerido": "knowledge/minsa/manual-registro-codificacion-promocion-salud-2021-2022.pdf",
+  "uso_rag": [
+    "consulta operativa HIS",
+    "construcción y revisión de formatos",
+    "simulación SERUMS",
+    "actividades extramurales",
+    "citación por página"
+  ],
+  "codigos_operativos_verificados": [
+    {
+      "codigo": "C0009",
+      "actividad": "Sesión educativa"
+    },
+    {
+      "codigo": "C0010",
+      "actividad": "Sesión demostrativa"
+    },
+    {
+      "codigo": "C0011",
+      "actividad": "Visita familiar integral / visita domiciliaria"
+    },
+    {
+      "codigo": "99401",
+      "actividad": "Consejería integral"
+    },
+    {
+      "codigo": "99499.08",
+      "actividad": "Teleorientación síncrona"
+    },
+    {
+      "codigo": "C3151",
+      "actividad": "Sesión de entrenamiento a agentes comunitarios de salud"
+    },
+    {
+      "codigo": "APP136",
+      "actividad": "Familia y vivienda"
+    },
+    {
+      "codigo": "APP108",
+      "actividad": "Actividad en comunidad"
+    },
+    {
+      "codigo": "APP104",
+      "actividad": "Actividad con municipio"
+    },
+    {
+      "codigo": "APP93",
+      "actividad": "Actividad con institución educativa"
+    },
+    {
+      "codigo": "APP144",
+      "actividad": "Actividad con docentes"
+    },
+    {
+      "codigo": "APP138",
+      "actividad": "Actividad con agentes comunitarios de salud"
+    },
+    {
+      "codigo": "APP96",
+      "actividad": "Actividad con comité multisectorial"
+    },
+    {
+      "codigo": "C2062",
+      "actividad": "Orientación familiar"
+    },
+    {
+      "codigo": "C3061",
+      "actividad": "Constitución del comité multisectorial"
+    },
+    {
+      "codigo": "C3071",
+      "actividad": "Movilización social"
+    },
+    {
+      "codigo": "C7004",
+      "actividad": "Asistencia técnica"
+    }
+  ],
+  "reglas_operativas": [
+    {
+      "codigo": "C0011",
+      "actividad": "Visita familiar integral",
+      "reglas": [
+        "ficha familiar para identificar familia cuando corresponda",
+        "DNI para intervención individual",
+        "LAB 1: número de visita",
+        "registrar intervenciones sanitarias realizadas"
+      ],
+      "pagina_fuente": 154
+    }
+  ],
+  "nota": "No reemplaza el PDF. Las respuestas RAG deben conservar documento y página/sección."
+}
