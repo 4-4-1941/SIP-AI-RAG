@@ -1,0 +1,67 @@
+{
+  "id": "MANUAL-HIS-ADULTO-MAYOR-2025",
+  "titulo": "Manual de Registro y Codificación de la Atención de Salud en la Consulta Externa. Curso de Vida Adulto Mayor. Sistema de Información HIS",
+  "institucion": "Ministerio de Salud del Perú",
+  "dependencias": [
+    "Oficina General de Tecnologías de la Información",
+    "Oficina de Gestión de la Información",
+    "Dirección General de Intervenciones Estratégicas en Salud Pública",
+    "Dirección de Intervenciones por Curso de Vida y Cuidado Integral"
+  ],
+  "tipo_documento": "Manual de registro y codificación HIS",
+  "numero_norma": null,
+  "resolucion_aprobatoria": null,
+  "fecha_publicacion": "2025-03",
+  "edicion": "2da edición, marzo 2025",
+  "paginas": 49,
+  "deposito_legal": "2025-02202",
+  "vigencia": {
+    "estado": "edicion_2025_fuente_oficial_bvs_minsa",
+    "modificatorias": []
+  },
+  "tema": "Registro y codificación HIS de la atención de salud de la persona adulta mayor",
+  "subtemas": [
+    "Salud del adulto mayor",
+    "Atención integral de salud",
+    "Visita domiciliaria",
+    "Sistema de Información HIS",
+    "Clasificación Internacional de Enfermedades",
+    "Codificación clínica",
+    "Sistema de registros"
+  ],
+  "curso_de_vida": "Persona adulta mayor",
+  "bloque_SERUMS": "Cuidado integral de salud",
+  "alcance_profesional": "multiprofesional",
+  "profesiones": [],
+  "fuentes_oficiales": [
+    {
+      "tipo": "pdf_oficial",
+      "entidad": "Ministerio de Salud del Perú - Biblioteca Virtual en Salud",
+      "documento": "Manual de Registro y Codificación de la Atención de Salud en la Consulta Externa. Curso de Vida Adulto Mayor. Sistema de Información HIS",
+      "url": "https://bvs.minsa.gob.pe/local/MINSA/7631.pdf",
+      "rol_evidencia": "texto_integral_del_manual",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    },
+    {
+      "tipo": "catalogo_oficial",
+      "entidad": "Ministerio de Salud del Perú - Biblioteca Virtual en Salud",
+      "documento": "Publicación del manual HIS Adulto Mayor 2025",
+      "url": "https://bvs.minsa.gob.pe/blog/category/publicaciones/page/2/",
+      "rol_evidencia": "catalogacion_y_fecha_publicacion",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "archivo_fuente_sugerido": "manual-his-adulto-mayor-2025.pdf",
+  "relacion_normativa": [
+    "NTS N.° 207-MINSA/DGIESP-2023"
+  ],
+  "reglas_rag": {
+    "no_inferir_codigos_his": true,
+    "no_inferir_puntos_de_corte": true,
+    "no_inferir_criterios_clinicos": true,
+    "exigir_fuente_pagina_o_seccion_para_codigos_y_afirmaciones_clinicas": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "estado_validacion": "VALIDADO_FUENTE_OFICIAL",
+  "ultima_revision": "2026-09-28"
+}
