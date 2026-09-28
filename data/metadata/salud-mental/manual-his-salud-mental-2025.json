@@ -1,0 +1,47 @@
+{
+  "id": "MANUAL-HIS-SALUD-MENTAL-2025",
+  "titulo": "Manual de Registro y Codificación de Actividades en la Atención en Salud Mental",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Manual de registro y codificación HIS",
+  "numero_norma": null,
+  "resolucion_aprobatoria": null,
+  "fecha_aprobacion": null,
+  "edicion": "2025",
+  "vigencia": {
+    "estado": "documento_2025_verificado_en_bvs_minsa",
+    "modificatorias": []
+  },
+  "tema": "Registro y codificación de actividades en salud mental",
+  "subtemas": [
+    "Sistema de Información HIS",
+    "Registro de actividades de atención en salud mental",
+    "Codificación de prestaciones de salud mental"
+  ],
+  "curso_de_vida": "Transversal",
+  "bloque_SERUMS": "Salud mental",
+  "alcance_profesional": "multiprofesional",
+  "profesiones": [
+    "Psicología",
+    "Medicina",
+    "Enfermería"
+  ],
+  "fuentes_oficiales": [
+    {
+      "tipo": "pdf_oficial",
+      "entidad": "Ministerio de Salud del Perú - Biblioteca Virtual en Salud",
+      "documento": "Manual de Registro y Codificación de Actividades en la Atención en Salud Mental",
+      "url": "https://bvs.minsa.gob.pe/local/MINSA/7615.pdf",
+      "rol_evidencia": "documento_fuente",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "archivo_fuente_sugerido": "manual-his-salud-mental-2025.pdf",
+  "reglas_rag": {
+    "no_inferir_codigos_his": true,
+    "no_inferir_criterios_diagnosticos": true,
+    "exigir_fuente_pagina_o_seccion_para_afirmaciones_clinicas_o_normativas": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "estado_validacion": "VALIDADO_FUENTE_OFICIAL_PENDIENTE_EXTRACCION_DETALLADA",
+  "ultima_revision": "2026-09-28"
+}
