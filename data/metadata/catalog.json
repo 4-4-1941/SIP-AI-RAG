@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-12",
+  "version": "2026-09-29",
   "titulo": "Catálogo documental SIP-AI-RAG",
   "documentos": [
     {
@@ -31,6 +31,11 @@
     {
       "id": "GT-006-INS-CETS-2026",
       "ruta": "data/metadata/cardiovascular/gt-006-ins-cets-2026-hipertension.json"
+    },
+    {
+      "id": "CDC-MINSA-SALA-SALUD-MENTAL-PRIORIZADOS",
+      "ruta": "data/metadata/salud-mental/cdc-minsa-salud-mental-metadata.json",
+      "estado": "VALIDADO_OFICIAL"
     }
   ]
 }
