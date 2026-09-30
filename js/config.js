@@ -1,5 +1,5 @@
 window.SIP_CONFIG = Object.freeze({
-  API_BASE_URL: "",
+  API_BASE_URL: "https://sip-ai-rag.onrender.com",
   CHAT_ENDPOINT: "/api/chat",
   HEALTH_ENDPOINT: "/health",
   MAX_QUERY_LENGTH: 1200,
