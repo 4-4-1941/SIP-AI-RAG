@@ -1,0 +1,54 @@
+{
+  "id": "RM-686-2024-MINSA",
+  "titulo": "Resolución Ministerial N.° 686-2024-MINSA",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Resolución Ministerial",
+  "numero_norma": "RM N.° 686-2024-MINSA",
+  "fecha_aprobacion": "2024-10-10",
+  "fecha_publicacion_portal": "2024-10-15",
+  "tema": "Fortalecimiento de los servicios de salud mental comunitaria",
+  "subtemas": [
+    "Salud mental comunitaria",
+    "Servicios de salud mental",
+    "Modelo comunitario de atención",
+    "Fortalecimiento de servicios"
+  ],
+  "curso_de_vida": "Transversal",
+  "bloque_SERUMS": "Salud mental",
+  "alcance_profesional": "multiprofesional",
+  "profesiones": [
+    "Psicología",
+    "Medicina",
+    "Enfermería",
+    "Obstetricia",
+    "Trabajo Social",
+    "Tecnología Médica y otras profesiones de salud según competencias"
+  ],
+  "objeto": "Aprobar el Documento Técnico: Plan Nacional de Fortalecimiento de Servicios de Salud Mental Comunitaria 2024-2028.",
+  "fuentes_oficiales": [
+    {
+      "tipo": "pagina_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "Resolución Ministerial N.° 686-2024-MINSA",
+      "url": "https://www.gob.pe/institucion/minsa/normas-legales/6094628-686-2024-minsa",
+      "rol_evidencia": "norma_aprobatoria",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    },
+    {
+      "tipo": "pdf_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "Resolución Ministerial N.° 686-2024-MINSA",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/7087296/6094628-resolucion-ministerial-n-686-2024-minsa%282%29.pdf",
+      "rol_evidencia": "documento_fuente",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "documento_aprobado": "Plan Nacional de Fortalecimiento de Servicios de Salud Mental Comunitaria 2024-2028",
+  "reglas_rag": {
+    "no_inferir_disposiciones_no_contenidas_en_la_fuente": true,
+    "exigir_fuente_pagina_o_seccion_para_afirmaciones_normativas": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "estado_validacion": "VALIDADO_FUENTE_OFICIAL",
+  "ultima_revision": "2026-09-30"
+}

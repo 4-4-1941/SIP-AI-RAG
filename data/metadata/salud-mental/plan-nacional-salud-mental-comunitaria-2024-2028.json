@@ -1,0 +1,48 @@
+{
+  "id": "PLAN-NACIONAL-SALUD-MENTAL-COMUNITARIA-2024-2028",
+  "titulo": "Plan Nacional de Fortalecimiento de Servicios de Salud Mental Comunitaria 2024-2028",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Documento Técnico / Plan Nacional",
+  "resolucion_aprobatoria": "RM N.° 686-2024-MINSA",
+  "fecha_aprobacion": "2024-10-10",
+  "periodo": "2024-2028",
+  "tema": "Fortalecimiento de los servicios de salud mental comunitaria",
+  "subtemas": [
+    "Salud mental comunitaria",
+    "Fortalecimiento de servicios",
+    "Promoción y prevención",
+    "Atención en salud mental",
+    "Rehabilitación y recuperación",
+    "Articulación de servicios"
+  ],
+  "curso_de_vida": "Transversal",
+  "bloque_SERUMS": "Salud mental",
+  "alcance_profesional": "multiprofesional",
+  "profesiones": [
+    "Psicología",
+    "Medicina",
+    "Enfermería",
+    "Obstetricia",
+    "Trabajo Social",
+    "Tecnología Médica y otras profesiones de salud según competencias"
+  ],
+  "fuentes_oficiales": [
+    {
+      "tipo": "pagina_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "RM N.° 686-2024-MINSA y Documento Técnico (Parte 1 y Parte 2)",
+      "url": "https://www.gob.pe/institucion/minsa/normas-legales/6094628-686-2024-minsa",
+      "rol_evidencia": "documento_fuente_y_norma_aprobatoria",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "archivo_fuente_sugerido": "plan-nacional-fortalecimiento-servicios-salud-mental-comunitaria-2024-2028.pdf",
+  "nota_fuente": "El portal oficial MINSA publica el Documento Técnico en dos archivos PDF (Parte 1 y Parte 2); ambos integran el Plan aprobado por la RM N.° 686-2024-MINSA.",
+  "reglas_rag": {
+    "no_inferir_metas_indicadores_ni_disposiciones_no_extraidas": true,
+    "exigir_fuente_pagina_o_seccion_para_afirmaciones_clinicas_normativas_o_de_gestion": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "estado_validacion": "VALIDADO_FUENTE_OFICIAL_PENDIENTE_EXTRACCION_DETALLADA",
+  "ultima_revision": "2026-09-30"
+}
