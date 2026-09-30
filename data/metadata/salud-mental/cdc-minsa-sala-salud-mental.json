@@ -1,0 +1,52 @@
+{
+  "id": "CDC-MINSA-SALA-SALUD-MENTAL",
+  "titulo": "Sala Situacional de Problemas de Salud Mental Priorizados",
+  "institucion": "Ministerio de Salud del Perú - Centro Nacional de Epidemiología, Prevención y Control de Enfermedades",
+  "tipo_documento": "Sala situacional epidemiológica interactiva",
+  "numero_norma": "DS N° 071-MINSA/CDC-V.01",
+  "resolucion_aprobatoria": "RM N° 496-2016/MINSA",
+  "fecha_aprobacion": "2016",
+  "edicion": "actualización dinámica",
+  "vigencia": {
+    "estado": "fuente_oficial_dinamica",
+    "modificatorias": []
+  },
+  "tema": "Vigilancia epidemiológica de problemas de salud mental priorizados",
+  "subtemas": [
+    "Intento de suicidio",
+    "Episodio depresivo moderado y grave",
+    "Primer episodio psicótico",
+    "Vigilancia epidemiológica territorial",
+    "Tendencias temporales de casos notificados"
+  ],
+  "curso_de_vida": "Transversal",
+  "bloque_SERUMS": "Salud mental",
+  "alcance_profesional": "multiprofesional",
+  "profesiones": [
+    "Psicología",
+    "Medicina",
+    "Enfermería"
+  ],
+  "fuentes_oficiales": [
+    {
+      "tipo": "aplicacion_web_oficial_dinamica",
+      "entidad": "CDC Perú - Ministerio de Salud del Perú",
+      "documento": "Sala Situacional de Problemas de Salud Mental Priorizados",
+      "url": "https://app7.dge.gob.pe/maps2/shiny_saludmental_web/",
+      "rol_evidencia": "fuente_epidemiologica_oficial",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "archivo_fuente_sugerido": null,
+  "reglas_rag": {
+    "no_inferir_prevalencia_desde_casos_notificados": true,
+    "no_inferir_incidencia_desde_casos_notificados": true,
+    "no_usar_como_fuente_de_diagnostico_individual": true,
+    "no_usar_como_fuente_de_tratamiento": true,
+    "exigir_periodo_y_ambito_geografico_para_cifras": true,
+    "distinguir_dato_dinamico_de_norma_estatica": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "estado_validacion": "VALIDADO_FUENTE_OFICIAL_DINAMICA",
+  "ultima_revision": "2026-09-29"
+}
