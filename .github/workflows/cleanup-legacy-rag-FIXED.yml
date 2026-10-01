@@ -1,0 +1,48 @@
+name: Limpiar archivos obsoletos RAG
+on:
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Crear carpeta archive
+        run: mkdir -p archive/legacy-rag
+
+      - name: Mover archivos .md obsoletos
+        run: |
+          cd knowledge/minsa/serums-2026-ii
+          for file in *.md; do
+            if ! echo "$file" | grep -qE "ministerio-de-salud|congreso-de-la-rep|presidencia-de-la-rep"; then
+              mv "$file" ../../../archive/legacy-rag/ 2>/dev/null || true
+            fi
+          done
+
+      - name: Mover archivos .metadata.json obsoletos
+        run: |
+          cd knowledge/minsa/serums-2026-ii
+          for file in *.metadata.json; do
+            if ! echo "$file" | grep -qE "ministerio-de-salud|congreso-de-la-rep|presidencia-de-la-rep"; then
+              mv "$file" ../../../archive/legacy-rag/ 2>/dev/null || true
+            fi
+          done
+
+      - name: Mover manifest.json
+        run: |
+          if [ -f "knowledge/minsa/serums-2026-ii/manifest.json" ]; then
+            mv knowledge/minsa/serums-2026-ii/manifest.json archive/legacy-rag/manifest.json.backup || true
+          fi
+
+      - name: Contar archivos movidos
+        run: ls -1 archive/legacy-rag 2>/dev/null | wc -l
+
+      - name: Commit y push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive/legacy-rag/ || true
+          git add -u knowledge/minsa/serums-2026-ii/ || true
+          git commit -m "cleanup: mover archivos obsoletos RAG a archive/legacy-rag" || true
+          git push
