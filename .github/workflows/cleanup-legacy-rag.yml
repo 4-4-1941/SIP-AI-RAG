@@ -1,5 +1,4 @@
 name: Limpiar archivos obsoletos RAG
-
 on:
   workflow_dispatch:
     inputs:
@@ -10,10 +9,8 @@ on:
           - simular
           - mover
         default: simular
-
 permissions:
   contents: write
-
 jobs:
   cleanup:
     runs-on: ubuntu-latest
@@ -35,7 +32,6 @@ jobs:
             done
             return 1
           }
-
           es_activo() {
             for e in $EMISORES; do
               case "$1" in
@@ -44,12 +40,10 @@ jobs:
             done
             return 1
           }
-
           conservar=0
           mover=0
           sin_activo=0
           mkdir -p "$DEST"
-
           for f in "$DIR"/*.md "$DIR"/*.metadata.json; do
             b=$(basename "$f")
             id="${b%%-*}"
@@ -63,7 +57,6 @@ jobs:
               echo "CONSERVADO (sin version activa): $b"
             fi
           done
-
           echo "=============================="
           echo "Modo: $MODO"
           echo "Activos conservados: $conservar"
@@ -71,7 +64,6 @@ jobs:
           echo "Sin version activa (se conservan): $sin_activo"
           echo "manifest.json: NO se toca"
           echo "=============================="
-
       - name: Commit y push (solo en modo mover)
         if: ${{ inputs.modo == 'mover' }}
         run: |
