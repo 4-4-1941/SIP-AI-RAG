@@ -1,281 +1,119 @@
 from __future__ import annotations
 
-import argparse, hashlib, json, re, tempfile, time
-from dataclasses import dataclass, field
-from html.parser import HTMLParser
+import json
+from dataclasses import dataclass
 from pathlib import Path
-from urllib.parse import parse_qs, urlencode, urljoin, urlparse, urlunparse
 
-import httpx
-import pytesseract
-from pdf2image import convert_from_path
-from pypdf import PdfReader
+SUPPORTED_EXTENSIONS = {".txt", ".md", ".json", ".pdf"}
 
-MASTER_COLLECTION="https://www.gob.pe/institucion/minsa/colecciones/61810"
-COMPENDIA_METADATA=Path("data/metadata/serums/serums-2026-ii-compendios.json")
-DEFAULT_OUTPUT=Path("knowledge/minsa/serums-2026-ii")
-USER_AGENT="SIP-AI-RAG/1.2 (+biblioteca SERUMS; OCR; fuente oficial gob.pe)"
-NORM_RE=re.compile(r"/institucion/minsa/normas-legales/\d+")
-EXPECTED_COMPENDIA=17
-MIN_NATIVE_CHARS=40
-OCR_DPI=250
-OCR_LANG="spa"
 
-class LinkParser(HTMLParser):
-    def __init__(self):
-        super().__init__(); self.links=[]; self.link_details=[]; self._href=""; self._text=[]; self._attrs={}
-    def handle_starttag(self,tag,attrs):
-        if tag.lower()=="a":
-            self._attrs=dict(attrs); self._href=self._attrs.get("href") or ""; self._text=[]
-    def handle_data(self,data):
-        if self._href:self._text.append(data)
-    def handle_endtag(self,tag):
-        if tag.lower()=="a" and self._href:
-            text=" ".join("".join(self._text).split())
-            self.links.append((self._href,text)); self.link_details.append((self._href,text,self._attrs))
-            self._href=""; self._text=[]; self._attrs={}
+@dataclass(frozen=True)
+class Document:
+    document_id: str
+    source_path: str
+    title: str
+    text: str
+    metadata: dict | None = None
 
-@dataclass
-class OfficialDocument:
-    norm_url:str
-    title:str=""
-    pdf_url:str=""
-    compendia:set[str]=field(default_factory=set)
-    compendia_urls:set[str]=field(default_factory=set)
-    index_labels:set[str]=field(default_factory=set)
 
-def links(html,base):
-    p=LinkParser(); p.feed(html)
-    return [(urljoin(base,h),t) for h,t in p.links if h]
-
-def detailed_links(html,base):
-    p=LinkParser(); p.feed(html)
-    return [(urljoin(base,h),t,a) for h,t,a in p.link_details if h]
-
-def canonical(url):
-    p=urlparse(url); return urlunparse((p.scheme or "https",p.netloc,p.path.rstrip("/"),"","",""))
-
-def with_sheet(url,sheet):
-    p=urlparse(url); q=parse_qs(p.query); q["sheet"]=[str(sheet)]
-    return urlunparse((p.scheme,p.netloc,p.path,p.params,urlencode(q,doseq=True),""))
-
-def safe_slug(v,fallback):
-    v=re.sub(r"[^a-z0-9]+","-",v.lower()); return (v.strip("-")[:100] or fallback).strip("-")
-
-def gob_id(url):
-    p=[x for x in urlparse(url).path.split("/") if x]
-    return p[-1].split("-",1)[0] if p else hashlib.sha1(url.encode()).hexdigest()[:12]
-
-def fetch(client,url,attempts=3):
-    last=None
-    for i in range(attempts):
-        try:
-            r=client.get(url); r.raise_for_status(); return r
-        except (httpx.HTTPError,httpx.TimeoutException) as e:
-            last=e
-            if i+1<attempts: time.sleep(1.2*(i+1))
-    raise RuntimeError(f"No se pudo recuperar fuente oficial: {url}") from last
-
-def page_heading(html):
-    m=re.search(r"<h1[^>]*>(.*?)</h1>",html,re.I|re.S)
-    if not m:return ""
-    return " ".join(re.sub(r"<[^>]+>"," ",m.group(1)).split())
-
-def discover_compendia(client):
-    data=json.loads(COMPENDIA_METADATA.read_text(encoding="utf-8"))
-    items=data.get("compendios",[])
-    if len(items)!=EXPECTED_COMPENDIA:
-        raise RuntimeError(f"Se esperaban {EXPECTED_COMPENDIA} compendios en metadata y hay {len(items)}.")
-    resolved=[]; seen=set()
-    for item in items:
-        name=str(item.get("nombre") or "").strip()
-        url=canonical(str(item.get("url_oficial") or "").strip())
-        expected=int(item.get("cantidad_normas") or 0)
-        if not name or not url or url in seen:raise RuntimeError("Metadata de compendios incompleta o duplicada.")
-        seen.add(url); resolved.append((url,name,expected))
-    return resolved
-
-def discover_norms(client,collection_url,expected,max_sheets=40):
-    # Conserva la corrección validada: excluir la norma institucional por contexto de menú.
-    found={}; empty=0
-    for sheet in range(1,max_sheets+1):
-        r=fetch(client,collection_url if sheet==1 else with_sheet(collection_url,sheet)); n=0; page_seen=set()
-        for url,text,attrs in detailed_links(r.text,str(r.url)):
-            c=canonical(url)
-            if not NORM_RE.search(c):continue
-            section=(attrs.get("data-ga-title-section") or "").strip().lower()
-            origin=(attrs.get("data-origin") or "").strip().lower()
-            if section=="menu" or "menu-minsa-norma-de-creacion" in origin:continue
-            label=text.strip()
-            if c not in page_seen and c not in found:n+=1
-            page_seen.add(c); found[c]=label or found.get(c,"")
-        empty=empty+1 if n==0 else 0
-        if empty>=2:break
-    return found,[]
-
-def discover_pdf(client,norm_url):
-    r=fetch(client,norm_url); title=page_heading(r.text); candidates=[]
-    for url,_ in links(r.text,str(r.url)):
-        if ".pdf" in url.lower() and "gob.pe" in url:candidates.append(url)
-    for raw in re.findall(r'https?://[^"\'<>\s]+',r.text):
-        raw=raw.replace("\\u0026","&").replace("\\/","/")
-        if "gob.pe" in raw and ".pdf" in raw.lower():candidates.append(raw)
-    unique=list(dict.fromkeys(candidates))
-    return title,unique[0] if unique else ""
-
-def _native_text(page):
-    try:return (page.extract_text() or "").strip()
-    except Exception:return ""
-
-def _ocr_page(pdf_path,page_number):
-    images=convert_from_path(str(pdf_path),dpi=OCR_DPI,first_page=page_number,last_page=page_number,fmt="png",thread_count=1)
-    if not images:return ""
-    try:
-        return (pytesseract.image_to_string(images[0],lang=OCR_LANG,config="--psm 6") or "").strip()
-    finally:
-        for image in images:
-            try:image.close()
-            except Exception:pass
-
-def pdf_to_markdown(data,title,source,pdf):
-    stats={"paginas_total":0,"paginas_texto_nativo":0,"paginas_ocr":0,"paginas_fallidas":0,"paginas_con_texto":0}
-    with tempfile.NamedTemporaryFile(suffix=".pdf") as tmp:
-        tmp.write(data); tmp.flush(); reader=PdfReader(tmp.name)
-        stats["paginas_total"]=len(reader.pages)
-        parts=[f"# {title}","",f"Fuente oficial: {source}",f"PDF oficial: {pdf}",""]
-        for i,page in enumerate(reader.pages,1):
-            text=_native_text(page); method="nativo"
-            # Texto residual muy corto suele ser capa defectuosa de un PDF escaneado.
-            if len(re.sub(r"\s+","",text))<MIN_NATIVE_CHARS:
-                try:
-                    ocr=_ocr_page(Path(tmp.name),i)
-                    if len(re.sub(r"\s+","",ocr))>=MIN_NATIVE_CHARS:
-                        text=ocr; method="ocr"
-                    elif not text:
-                        stats["paginas_fallidas"]+=1; continue
-                except Exception as e:
-                    stats["paginas_fallidas"]+=1
-                    print(f"OCR_FALLO | pagina={i} | {type(e).__name__}: {e}")
-                    if not text:continue
-            if not text:continue
-            stats["paginas_con_texto"]+=1
-            if method=="ocr":stats["paginas_ocr"]+=1
-            else:stats["paginas_texto_nativo"]+=1
-            parts += [f"[[PAGINA {i}]]",text,""]
-        if not stats["paginas_con_texto"]:
-            raise RuntimeError("PDF sin texto recuperable después de extracción nativa y OCR.")
-        if stats["paginas_ocr"] and stats["paginas_texto_nativo"]:method="mixto"
-        elif stats["paginas_ocr"]:method="ocr"
-        else:method="nativo"
-        stats["metodo_extraccion"]=method
-        return "\n".join(parts).strip()+"\n",stats
-
-def extraction_from_existing(path):
-    text=path.read_text(encoding="utf-8",errors="ignore")
-    pages=len(re.findall(r"\[\[PAGINA\s+\d+\]\]",text))
-    return {"metodo_extraccion":"cache","paginas_total":pages,"paginas_texto_nativo":pages,
-            "paginas_ocr":0,"paginas_fallidas":0,"paginas_con_texto":pages}
-
-def sidecar(path,doc,stats):
-    p=path.with_suffix(".metadata.json")
-    payload={"id":f"MINSA-SERUMS-2026-II-{gob_id(doc.norm_url)}","titulo":doc.title or path.stem,
-      "institucion":"Ministerio de Salud del Perú","bibliografia":"SERUMS 2026-II",
-      "compendios_origen":sorted(doc.compendia),"compendios_urls":sorted(doc.compendia_urls),
-      "texto_indice":" | ".join(sorted(doc.index_labels)),"url_oficial":doc.norm_url,"pdf_oficial":doc.pdf_url,
-      "estado_validacion":"VALIDADO_OFICIAL","tipo_fuente":"ocr_pdf_oficial" if stats["metodo_extraccion"]=="ocr" else
-      ("texto_mixto_pdf_oficial" if stats["metodo_extraccion"]=="mixto" else "texto_extraido_pdf_oficial"),
-      **stats,"regla_evidencia":"Conservar página exacta del PDF para afirmaciones documentales."}
-    p.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8"); return p
-
-def existing_rag(out,ident):
-    candidates=sorted(out.glob(f"{ident}-*.md"))
-    return candidates[0] if candidates else None
-
-def materialize(client,doc,out):
-    ident=gob_id(doc.norm_url)
-    cached=existing_rag(out,ident)
-    if cached and cached.stat().st_size>0:
-        stats=extraction_from_existing(cached)
-        return cached,sidecar(cached,doc,stats),stats
-    r=fetch(client,doc.pdf_url)
-    if "pdf" not in r.headers.get("content-type","").lower() and not r.content.startswith(b"%PDF"):
-        raise RuntimeError("El recurso no parece PDF")
-    path=out/f"{ident}-{safe_slug(doc.title,f'documento-{ident}')}.md"
-    markdown,stats=pdf_to_markdown(r.content,doc.title or path.stem,doc.norm_url,doc.pdf_url)
-    path.write_text(markdown,encoding="utf-8")
-    return path,sidecar(path,doc,stats),stats
-
-def main():
-    ap=argparse.ArgumentParser(); ap.add_argument("--output",type=Path,default=DEFAULT_OUTPUT)
-    ap.add_argument("--materialize",action="store_true"); ap.add_argument("--limit",type=int,default=0)
-    ap.add_argument("--timeout",type=float,default=30.0); a=ap.parse_args(); a.output.mkdir(parents=True,exist_ok=True)
-    docs={}
-    with httpx.Client(timeout=a.timeout,follow_redirects=True,headers={"User-Agent":USER_AGENT,"Accept-Language":"es-PE,es;q=0.9"}) as client:
-        comps=discover_compendia(client); comp_stats=[]
-        for cu,cn,expected in comps:
-            norms,discarded=discover_norms(client,cu,expected)
-            comp_stats.append({"url":cu,"nombre":cn,"esperadas":expected,"descubiertas":len(norms),
-              "coincide":len(norms)==expected,"descartados":discarded})
-            for nu,label in norms.items():
-                d=docs.setdefault(nu,OfficialDocument(nu)); d.compendia.add(cn); d.compendia_urls.add(cu)
-                if label:d.index_labels.add(label); d.title=d.title or label
-        mismatches=[x for x in comp_stats if not x["coincide"]]
-        if mismatches:raise RuntimeError("Conteo oficial inconsistente: "+json.dumps(mismatches,ensure_ascii=False))
-        ordered=sorted(docs.values(),key=lambda d:d.norm_url)
-        if a.limit>0:ordered=ordered[:a.limit]
-        items=[]; materialized=failures=0
-        for d in ordered:
+def _sidecar_metadata(path: Path) -> dict:
+    """Carga metadata documental opcional junto al archivo de conocimiento."""
+    candidates = [
+        path.with_suffix(".metadata.json"),
+        path.with_name(f"{path.stem}.json"),
+    ]
+    for candidate in candidates:
+        if candidate.exists() and candidate != path:
             try:
-                t,p=discover_pdf(client,d.norm_url); d.title=t or d.title; d.pdf_url=p
-                state="VALIDADO_OFICIAL" if p else "CORROBORADO_PENDIENTE_PDF_OFICIAL"
-                item={"id":f"MINSA-SERUMS-2026-II-{gob_id(d.norm_url)}","titulo":d.title,"url_oficial":d.norm_url,
-                  "pdf_oficial":p or None,"compendios_origen":sorted(d.compendia),"compendios_urls":sorted(d.compendia_urls),
-                  "texto_indice":" | ".join(sorted(d.index_labels)),"estado_validacion":state}
-                if a.materialize and p:
-                    cp,mp,stats=materialize(client,d,a.output)
-                    item.update({"archivo_rag":cp.name,"metadata_rag":mp.name,**stats}); materialized+=1
-                items.append(item)
-            except Exception as e:
-                failures+=1
-                items.append({"id":f"MINSA-SERUMS-2026-II-{gob_id(d.norm_url)}","titulo":d.title,
-                 "url_oficial":d.norm_url,"pdf_oficial":d.pdf_url or None,"compendios_origen":sorted(d.compendia),
-                 "compendios_urls":sorted(d.compendia_urls),"texto_indice":" | ".join(sorted(d.index_labels)),
-                 "estado_validacion":"CORROBORADO_PENDIENTE_PDF_OFICIAL","error_sincronizacion":str(e)})
-    manifest={"id":"SERUMS-2026-II-CORPUS","fuente_maestra":MASTER_COLLECTION,"institucion":"Ministerio de Salud del Perú",
-      "compendios_descubiertos":len(comps),"compendios":comp_stats,"documentos_unicos":len(docs),
-      "documentos_procesados":len(items),"documentos_materializados_rag":materialized,"fallos":failures,
-      "deduplicacion":"url_oficial","documentos":items}
+                data = json.loads(candidate.read_text(encoding="utf-8"))
+                if isinstance(data, dict):
+                    return data
+            except (OSError, json.JSONDecodeError):
+                pass
+    return {}
 
-    manifest_path=a.output/"manifest.json"; tmp_path=a.output/"manifest.tmp.json"
-    previous=manifest_path.read_bytes() if manifest_path.exists() else None
-    tmp_path.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+
+def _pdf_text(path: Path) -> str:
     try:
-        candidate=json.loads(tmp_path.read_text(encoding="utf-8")); candidate_docs=candidate.get("documentos",[])
-        if candidate.get("compendios_descubiertos")!=EXPECTED_COMPENDIA:raise RuntimeError("Manifest temporal inválido: compendios_descubiertos != 17")
-        if len(candidate.get("compendios",[]))!=EXPECTED_COMPENDIA:raise RuntimeError("Manifest temporal inválido: no contiene 17 compendios")
-        if any(not x.get("coincide") for x in candidate["compendios"]):raise RuntimeError("Manifest temporal inválido: conteo inconsistente")
-        if not candidate_docs:raise RuntimeError("Manifest temporal inválido: documentos vacío")
-        if candidate.get("documentos_unicos",0)<=0 or candidate.get("documentos_procesados")!=len(candidate_docs):
-            raise RuntimeError("Manifest temporal inválido: totales")
-        ids=[x.get("id") for x in candidate_docs]; urls=[x.get("url_oficial") for x in candidate_docs]
-        if not all(ids) or len(ids)!=len(set(ids)):raise RuntimeError("Manifest temporal inválido: IDs")
-        if not all(urls) or len(urls)!=len(set(urls)):raise RuntimeError("Manifest temporal inválido: URLs")
-        if any(not x.get("compendios_origen") or not x.get("compendios_urls") for x in candidate_docs):
-            raise RuntimeError("Manifest temporal inválido: documento sin compendio")
-        if any(re.search(r"^Ver las \d+ normas$",str(v),re.I) for x in candidate_docs for v in x.get("compendios_origen",[])):
-            raise RuntimeError("Manifest temporal inválido: etiqueta 'Ver las X normas'")
-        pending=sum(1 for x in candidate_docs if not x.get("archivo_rag"))
-        if candidate.get("documentos_materializados_rag",0)+pending!=len(candidate_docs):
-            raise RuntimeError("Manifest temporal inválido: materializados + pendientes != total")
-        tmp_path.replace(manifest_path)
-    except Exception:
-        tmp_path.unlink(missing_ok=True)
-        if previous is not None and not manifest_path.exists():manifest_path.write_bytes(previous)
-        raise
-    if len(comps)!=EXPECTED_COMPENDIA:return 2
-    if not docs:return 3
-    if a.materialize and materialized==0:return 4
-    return 0
+        from pypdf import PdfReader
+    except ImportError as exc:
+        raise RuntimeError("Instale pypdf para ingerir PDF.") from exc
 
-if __name__=="__main__":
-    raise SystemExit(main())
+    reader = PdfReader(str(path))
+    pages: list[str] = []
+    for number, page in enumerate(reader.pages, start=1):
+        text = (page.extract_text() or "").strip()
+        if text:
+            pages.append(f"[[PAGINA {number}]]\n{text}")
+    return "\n\n".join(pages)
+
+
+def load_document(path: str | Path) -> Document:
+    file_path = Path(path)
+    suffix = file_path.suffix.lower()
+    if suffix not in SUPPORTED_EXTENSIONS:
+        raise ValueError(f"Formato no soportado: {suffix}")
+
+    metadata: dict | None = None
+
+    if suffix == ".json":
+        data = json.loads(file_path.read_text(encoding="utf-8"))
+        metadata = data if isinstance(data, dict) else None
+        text = json.dumps(data, ensure_ascii=False, indent=2)
+        document_id = str((metadata or {}).get("id") or file_path.stem)
+        title = str((metadata or {}).get("titulo") or file_path.stem)
+
+    elif suffix == ".pdf":
+        text = _pdf_text(file_path)
+        metadata = _sidecar_metadata(file_path)
+        metadata = {
+            **metadata,
+            "tipo_fuente": "pdf",
+            "archivo": file_path.name,
+        }
+        document_id = str(metadata.get("id") or file_path.stem)
+        title = str(metadata.get("titulo") or file_path.stem.replace("-", " "))
+
+    else:
+        text = file_path.read_text(encoding="utf-8")
+        metadata = _sidecar_metadata(file_path) or None
+        document_id = str((metadata or {}).get("id") or file_path.stem)
+        title = str(
+            (metadata or {}).get("titulo")
+            or file_path.stem.replace("-", " ").replace("_", " ")
+        )
+
+    text = text.strip()
+    if not text:
+        raise ValueError(f"Documento vacío o sin texto extraíble: {file_path}")
+
+    return Document(
+        document_id=document_id,
+        source_path=str(file_path),
+        title=title,
+        text=text,
+        metadata=metadata,
+    )
+
+
+def load_directory(path: str | Path) -> list[Document]:
+    directory = Path(path)
+    if not directory.exists():
+        return []
+
+    documents: list[Document] = []
+    for file_path in sorted(directory.rglob("*")):
+        if not file_path.is_file() or file_path.suffix.lower() not in SUPPORTED_EXTENSIONS:
+            continue
+        # Un sidecar acompaña al documento; no debe indexarse como documento independiente.
+        if file_path.name.endswith(".metadata.json"):
+            continue
+        # Excluir manifest.json: es índice del corpus, no contenido
+        if file_path.name == "manifest.json":
+            continue
+        try:
+            documents.append(load_document(file_path))
+        except ValueError:
+            continue
+    return documents
+        
