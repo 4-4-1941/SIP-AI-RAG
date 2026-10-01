@@ -108,8 +108,12 @@ def load_directory(path: str | Path) -> list[Document]:
         # Un sidecar acompaña al documento; no debe indexarse como documento independiente.
         if file_path.name.endswith(".metadata.json"):
             continue
+        # Excluir manifest.json: es índice del corpus, no contenido
+        if file_path.name == "manifest.json":
+            continue
         try:
             documents.append(load_document(file_path))
         except ValueError:
             continue
     return documents
+                
