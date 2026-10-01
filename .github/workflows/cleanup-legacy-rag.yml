@@ -1,48 +1,86 @@
 name: Limpiar archivos obsoletos RAG
+
 on:
   workflow_dispatch:
+    inputs:
+      modo:
+        description: "simular = solo cuenta (no cambia nada) | mover = ejecuta la limpieza"
+        type: choice
+        options:
+          - simular
+          - mover
+        default: simular
+
+permissions:
+  contents: write
 
 jobs:
   cleanup:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Crear carpeta archive
-        run: mkdir -p archive/legacy-rag
 
-      - name: Mover archivos .md obsoletos
+      - name: Clasificar y mover obsoletos
+        env:
+          MODO: ${{ inputs.modo }}
         run: |
-          cd knowledge/minsa/serums-2026-ii
-          for file in *.md; do
-            if ! echo "$file" | grep -qE "ministerio-de-salud|congreso-de-la-rep|presidencia-de-la-rep"; then
-              mv "$file" ../../../archive/legacy-rag/ 2>/dev/null || true
+          set -eu
+          DIR="knowledge/minsa/serums-2026-ii"
+          DEST="archive/legacy-rag"
+          EMISORES="ministerio-de-salud congreso-de-la-rep-blica presidencia-de-la-rep-blica-del-per"
+
+          tiene_activo() {
+            for e in $EMISORES; do
+              if [ -f "$DIR/$1-$e.md" ]; then return 0; fi
+            done
+            return 1
+          }
+
+          es_activo() {
+            for e in $EMISORES; do
+              case "$1" in
+                "$2-$e.md"|"$2-$e.metadata.json") return 0 ;;
+              esac
+            done
+            return 1
+          }
+
+          conservar=0
+          mover=0
+          sin_activo=0
+          mkdir -p "$DEST"
+
+          for f in "$DIR"/*.md "$DIR"/*.metadata.json; do
+            b=$(basename "$f")
+            id="${b%%-*}"
+            if es_activo "$b" "$id"; then
+              conservar=$((conservar+1))
+            elif tiene_activo "$id"; then
+              mover=$((mover+1))
+              if [ "$MODO" = "mover" ]; then mv "$f" "$DEST/"; fi
+            else
+              sin_activo=$((sin_activo+1))
+              echo "CONSERVADO (sin version activa): $b"
             fi
           done
 
-      - name: Mover archivos .metadata.json obsoletos
-        run: |
-          cd knowledge/minsa/serums-2026-ii
-          for file in *.metadata.json; do
-            if ! echo "$file" | grep -qE "ministerio-de-salud|congreso-de-la-rep|presidencia-de-la-rep"; then
-              mv "$file" ../../../archive/legacy-rag/ 2>/dev/null || true
-            fi
-          done
+          echo "=============================="
+          echo "Modo: $MODO"
+          echo "Activos conservados: $conservar"
+          echo "Obsoletos a mover:   $mover"
+          echo "Sin version activa (se conservan): $sin_activo"
+          echo "manifest.json: NO se toca"
+          echo "=============================="
 
-      - name: Mover manifest.json
-        run: |
-          if [ -f "knowledge/minsa/serums-2026-ii/manifest.json" ]; then
-            mv knowledge/minsa/serums-2026-ii/manifest.json archive/legacy-rag/manifest.json.backup || true
-          fi
-
-      - name: Contar archivos movidos
-        run: ls -1 archive/legacy-rag 2>/dev/null | wc -l
-
-      - name: Commit y push
+      - name: Commit y push (solo en modo mover)
+        if: ${{ inputs.modo == 'mover' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add archive/legacy-rag/ || true
-          git add -u knowledge/minsa/serums-2026-ii/ || true
-          git commit -m "cleanup: mover archivos obsoletos RAG a archive/legacy-rag" || true
+          git add -A archive/legacy-rag knowledge/minsa/serums-2026-ii
+          if git diff --cached --quiet; then
+            echo "Nada que mover"
+            exit 0
+          fi
+          git commit -m "cleanup: mover archivos obsoletos RAG a archive/legacy-rag"
           git push
