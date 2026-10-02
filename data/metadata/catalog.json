@@ -49,35 +49,51 @@
     },
     {
       "id": "NTS-221-MINSA-DGIESP-2024",
-      "ruta": "data/metadata/nts-221-minsa-dgiesp-2024-tuberculosis.json"
+      "ruta": "data/metadata/tuberculosis/nts-221-minsa-dgiesp-2024-tuberculosis.json"
     },
     {
       "id": "NTS-227-MINSA-CDC-2025",
-      "ruta": "data/metadata/nts-227-minsa-cdc-2025-muerte-materna.json"
-    },
-    {
-      "id": "NTS-228-MINSA-CDC-2025",
-      "ruta": "data/metadata/nts-228-minsa-cdc-2025-malaria-vigilancia.json"
+      "ruta": "data/metadata/materno/nts-227-minsa-cdc-2025-muerte-materna.json"
     },
     {
       "id": "NTS-229-MINSA-DGIESP-2025",
-      "ruta": "data/metadata/nts-229-minsa-dgiesp-2025-adulto.json"
+      "ruta": "data/metadata/adulto/nts-229-minsa-dgiesp-2025-adulto.json"
     },
     {
       "id": "NTS-230-MINSA-CDC-2025",
-      "ruta": "data/metadata/nts-230-minsa-cdc-2025-arbovirosis.json"
+      "ruta": "data/metadata/arbovirosis/nts-230-minsa-cdc-2025-arbovirosis.json"
     },
     {
       "id": "NTS-231-MINSA-CDC-2025",
-      "ruta": "data/metadata/nts-231-minsa-cdc-2025-carrion.json"
+      "ruta": "data/metadata/epidemiologia/nts-231-minsa-cdc-2025-carrion.json"
     },
     {
       "id": "NTS-233-MINSA-DGIESP-2025",
-      "ruta": "data/metadata/nts-233-minsa-dgiesp-2025-malaria-atencion.json"
+      "ruta": "data/metadata/malaria/nts-233-minsa-dgiesp-2025-malaria-atencion.json"
     },
     {
       "id": "NTS-238-MINSA-DGIESP-2025",
       "ruta": "data/metadata/nino/nts-238-minsa-dgiesp-2025-cred.json"
+    },
+    {
+      "id": "MANUAL-HIS-ADULTO-MAYOR-2025",
+      "ruta": "data/metadata/adulto-mayor/manual-his-adulto-mayor-2025.json"
+    },
+    {
+      "id": "MANUAL-HIS-SALUD-MENTAL-2025",
+      "ruta": "data/metadata/salud-mental/manual-his-salud-mental-2025.json"
+    },
+    {
+      "id": "PLAN-NACIONAL-SALUD-MENTAL-COMUNITARIA-2024-2028",
+      "ruta": "data/metadata/salud-mental/plan-nacional-salud-mental-comunitaria-2024-2028.json"
+    },
+    {
+      "id": "RM-686-2024-MINSA",
+      "ruta": "data/metadata/salud-mental/rm-686-2024-minsa.json"
+    },
+    {
+      "id": "NTS-228-MINSA-CDC-2025",
+      "ruta": "data/metadata/malaria/nts-228-minsa-cdc-2025-malaria-vigilancia.json"
     }
   ]
 }
