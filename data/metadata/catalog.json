@@ -34,7 +34,7 @@
     },
     {
       "id": "CDC-MINSA-SALA-SALUD-MENTAL-PRIORIZADOS",
-      "ruta": "data/metadata/salud-mental/cdc-minsa-salud-mental-metadata.json",
+      "ruta": "data/metadata/salud-mental/cdc-minsa-sala-salud-mental.json",
       "estado": "VALIDADO_OFICIAL"
     },
     {
@@ -46,6 +46,38 @@
       "id": "RM-625-2026-MINSA-NTS-249",
       "ruta": "data/metadata/rm-625-2026-minsa-nts-249-cartera-servicios.json",
       "estado": "VALIDADO_OFICIAL"
+    },
+    {
+      "id": "NTS-221-MINSA-DGIESP-2024",
+      "ruta": "data/metadata/nts-221-minsa-dgiesp-2024-tuberculosis.json"
+    },
+    {
+      "id": "NTS-227-MINSA-CDC-2025",
+      "ruta": "data/metadata/nts-227-minsa-cdc-2025-muerte-materna.json"
+    },
+    {
+      "id": "NTS-228-MINSA-CDC-2025",
+      "ruta": "data/metadata/nts-228-minsa-cdc-2025-malaria-vigilancia.json"
+    },
+    {
+      "id": "NTS-229-MINSA-DGIESP-2025",
+      "ruta": "data/metadata/nts-229-minsa-dgiesp-2025-adulto.json"
+    },
+    {
+      "id": "NTS-230-MINSA-CDC-2025",
+      "ruta": "data/metadata/nts-230-minsa-cdc-2025-arbovirosis.json"
+    },
+    {
+      "id": "NTS-231-MINSA-CDC-2025",
+      "ruta": "data/metadata/nts-231-minsa-cdc-2025-carrion.json"
+    },
+    {
+      "id": "NTS-233-MINSA-DGIESP-2025",
+      "ruta": "data/metadata/nts-233-minsa-dgiesp-2025-malaria-atencion.json"
+    },
+    {
+      "id": "NTS-238-MINSA-DGIESP-2025",
+      "ruta": "data/metadata/nino/nts-238-minsa-dgiesp-2025-cred.json"
     }
   ]
 }
