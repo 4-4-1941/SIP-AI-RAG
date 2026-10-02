@@ -1,1 +1,35 @@
-
+{
+  "id": "NTS-229-MINSA-DGIESP-2025",
+  "titulo": "Norma Técnica de Salud para el Cuidado Integral de Salud de la Persona Adulta",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 229-MINSA/DGIESP-2025",
+  "resolucion_aprobatoria": "RM N.° 310-2025-MINSA",
+  "fecha_aprobacion": "2025-05-07",
+  "vigencia": {
+    "estado": "FUENTE_OFICIAL_VERIFICADA",
+    "modificatorias": []
+  },
+  "tema": "Cuidado integral de salud de la persona adulta",
+  "bloque_SERUMS": "Salud pública y cuidado integral",
+  "alcance_profesional": "multiprofesional",
+  "profesiones": [],
+  "archivo_fuente": "nts-229-minsa-dgiesp-2025-adulto.pdf",
+  "fuentes_oficiales": [
+    {
+      "tipo": "pagina_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "RM N.° 310-2025-MINSA",
+      "url": "https://www.gob.pe/institucion/minsa/normas-legales/6741979-310-2025-minsa",
+      "rol_evidencia": "aprobacion_y_texto_normativo",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "reglas_rag": {
+    "no_inferir_contenido_no_extraido": true,
+    "exigir_fuente_pagina_o_seccion_para_afirmaciones_clinicas_o_normativas": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "estado_validacion": "VALIDADO_FUENTE_OFICIAL_PENDIENTE_EXTRACCION_DETALLADA",
+  "ultima_revision": "2026-09-28"
+}
