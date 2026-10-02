@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-29",
+  "version": "2026-10-02",
   "titulo": "Catálogo documental SIP-AI-RAG",
   "documentos": [
     {
@@ -35,6 +35,16 @@
     {
       "id": "CDC-MINSA-SALA-SALUD-MENTAL-PRIORIZADOS",
       "ruta": "data/metadata/salud-mental/cdc-minsa-salud-mental-metadata.json",
+      "estado": "VALIDADO_OFICIAL"
+    },
+    {
+      "id": "NTS-021-MINSA-DGSP-V03",
+      "ruta": "data/metadata/organizacion-servicios/nts-021-minsa-dgsp-v03-categorias.json",
+      "estado": "VALIDADO_OFICIAL"
+    },
+    {
+      "id": "RM-625-2026-MINSA-NTS-249",
+      "ruta": "data/metadata/organizacion-servicios/rm-625-2026-minsa-nts-249-cartera-servicios.json",
       "estado": "VALIDADO_OFICIAL"
     }
   ]
