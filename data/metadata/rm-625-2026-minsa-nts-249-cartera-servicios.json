@@ -1,1 +1,61 @@
-
+{
+  "id": "RM-625-2026-MINSA-NTS-249",
+  "titulo": "Norma Técnica de Salud de Cartera de servicios de salud de establecimientos de salud, servicios médicos de apoyo y Redes Integradas de Salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 249-MINSA/DGAIN-2026",
+  "resolucion_aprobatoria": "RM N.° 625-2026/MINSA",
+  "fecha_aprobacion": "2026-07-15",
+  "fecha_publicacion": "2026-07-16",
+  "tema": "Cartera de servicios de salud y organización de servicios",
+  "bloque_SERUMS": "Gestión / Organización de servicios",
+  "subtemas": [
+    "Cartera de servicios de salud",
+    "RENACSS",
+    "Redes Integradas de Salud",
+    "Categorías de establecimientos (NTS 021)"
+  ],
+  "modifica": [
+    {
+      "norma": "NTS N.° 021-MINSA/DGSP-V.03 (RM N.° 546-2011/MINSA)",
+      "articulo_modificatorio": "Artículo 5",
+      "cambio": "Reemplaza la denominación 'Actividad de Atención Directa y de Atención de Soporte' (numeral 5.1) por 'Sub UPSS'."
+    }
+  ],
+  "deroga": [
+    "RM N.° 099-2014/MINSA (Directiva Administrativa N.° 197-MINSA/DGSP-V.01)",
+    "RM N.° 1069-2017/MINSA (Directiva Administrativa N.° 242-MINSA/2017/DGAIN)",
+    "RM N.° 391-2020/MINSA"
+  ],
+  "fuentes_oficiales": [
+    {
+      "tipo": "diario_oficial",
+      "entidad": "Diario Oficial El Peruano",
+      "documento": "Resolución Ministerial N.° 625-2026/MINSA",
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/2535379-1",
+      "rol_evidencia": "texto_de_la_resolucion_y_articulos_modificatorios",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    },
+    {
+      "tipo": "pagina_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "RM N.° 625-2026-MINSA y anexos",
+      "url": "https://www.gob.pe/institucion/minsa/normas-legales/8389687-625-2026-minsa",
+      "rol_evidencia": "acceso_a_pdf_oficial_de_la_norma_y_anexos",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "archivo_rag": "knowledge/minsa/rm-625-2026-minsa-nts-249.md",
+  "anexos_pendientes": [
+    "Texto completo de la NTS N.° 249-MINSA/DGAIN-2026 (PDF oficial, partes 1 a 4)",
+    "Anexo 01 Cartera de servicios de salud normativa"
+  ],
+  "reglas_rag": {
+    "no_inferir_prestaciones_por_categoria_sin_anexo_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "estado_anexo": "ANEXO_NO_INCORPORADO",
+  "fecha_verificacion": "2026-10-02",
+  "ultima_revision": "2026-10-02"
+}
