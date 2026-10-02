@@ -39,12 +39,12 @@
     },
     {
       "id": "NTS-021-MINSA-DGSP-V03",
-      "ruta": "data/metadata/organizacion-servicios/nts-021-minsa-dgsp-v03-categorias.json",
+      "ruta": "data/metadata/nts-021-minsa-dgsp-v03-categorias.json",
       "estado": "VALIDADO_OFICIAL"
     },
     {
       "id": "RM-625-2026-MINSA-NTS-249",
-      "ruta": "data/metadata/organizacion-servicios/rm-625-2026-minsa-nts-249-cartera-servicios.json",
+      "ruta": "data/metadata/rm-625-2026-minsa-nts-249-cartera-servicios.json",
       "estado": "VALIDADO_OFICIAL"
     }
   ]
