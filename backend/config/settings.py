@@ -7,14 +7,12 @@ class Settings:
     app_name: str = os.getenv("APP_NAME", "SIP-AI RAG")
     app_env: str = os.getenv("APP_ENV", "development")
     
-    # Lee tus variables de Render. Si faltan, usa estos valores por defecto ACTIVOS.
     nvidia_api_key: str = os.getenv("NVIDIA_API_KEY", "")
     nvidia_base_url: str = os.getenv("NVIDIA_BASE_URL", "https://integrate.api.nvidia.com/v1")
     nvidia_model: str = os.getenv("NVIDIA_MODEL", "meta/llama-3.1-70b-instruct")
-    nvidia_embedding_base_url: str = os.getenv("NVIDIA_EMBEDDING_BASE_URL", "https://integrate.api.nvidia.com/v1")
     
-    # MODELO ACTIVO Y GRATUITO ACTUALMENTE
-    nvidia_embedding_model: str = os.getenv("NVIDIA_EMBEDDING_MODEL", "nvidia/nv-embedqa-4")
+    nvidia_embedding_base_url: str = os.getenv("NVIDIA_EMBEDDING_BASE_URL", "https://integrate.api.nvidia.com/v1")
+    nvidia_embedding_model: str = os.getenv("NVIDIA_EMBEDDING_MODEL", "nvidia/nemotron-3-embed-1b")
     
     timeout_seconds: float = float(os.getenv("REQUEST_TIMEOUT_SECONDS", "60"))
 
