@@ -3,7 +3,7 @@
   "institucion": "Ministerio de Salud del Perú",
   "fecha_preparacion": "2026-10-05",
   "ruta_destino": "knowledge/minsa/manuales-his",
-  "numero_documentos": 12,
+  "numero_documentos": 13,
   "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
   "documentos": [
     {
@@ -101,6 +101,14 @@
       "anio_publicacion": 2025,
       "paginas_total": 59,
       "sha256": "c921e426243365cfe882be6effbd314df4650a315436b4fbe7d9993a3ae1e08d"
+    },
+    {
+      "id": "MINSA-HIS-PROMOCION-SALUD-2024-c0ffb5ea04",
+      "archivo": "Manual-promocion_salud-2024.pdf",
+      "titulo": "Manual de Registro y Codificación de las Actividades de Promoción de la Salud",
+      "anio_publicacion": 2024,
+      "paginas_total": 167,
+      "sha256": "c0ffb5ea049dab68d6675fa19a6046f5b76fba2595c72a36bd8a8c6ef6dbcc02"
     }
   ]
 }

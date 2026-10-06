@@ -1,0 +1,39 @@
+{
+  "id": "MINSA-HIS-PROMOCION-SALUD-2024-c0ffb5ea04",
+  "titulo": "Manual de Registro y Codificación de las Actividades de Promoción de la Salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro y Codificación de las Actividades de Promoción de la Salud. 2da edición. Lima: Ministerio de Salud; 2024. Sistema de Información HIS.",
+  "anio_publicacion": 2024,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Dirección de Promoción de la Salud (DPROM); Oficina General de Tecnologías de la Información (OGTI)",
+  "grupo_etario": "General",
+  "temas": [
+    "promoción de la salud",
+    "registro HIS",
+    "codificación HIS",
+    "atención integral de salud",
+    "programas presupuestales"
+  ],
+  "palabras_clave": [
+    "promoción de la salud",
+    "HIS",
+    "registro",
+    "codificación",
+    "PPoR"
+  ],
+  "idioma": "es",
+  "archivo_origen": "Manual-promocion_salud-2024.pdf",
+  "paginas_total": 167,
+  "sha256": "c0ffb5ea049dab68d6675fa19a6046f5b76fba2595c72a36bd8a8c6ef6dbcc02",
+  "url_oficial": null,
+  "pdf_oficial": "https://bvs.minsa.gob.pe/local/MINSA/7318.pdf",
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique.",
+  "notas_metadatos": [
+    "La ficha de catalogación del documento indica 165 páginas; el archivo PDF tiene 167. Se registra el total del archivo.",
+    "La dirección pdf_oficial proviene de la página 2 del propio PDF (versión digital) y no ha sido verificada en línea.",
+    "El archivo se subió con el nombre «Manual de registro y codificación de las actividades de promoción de la salud.pdf» y se renombró al estándar del repositorio."
+  ]
+}
