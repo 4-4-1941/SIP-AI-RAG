@@ -51,7 +51,7 @@
       "estado_validacion": "VALIDADO_OFICIAL"
     }
   ],
-  "archivo_fuente_sugerido": "manual-his-adulto-mayor-2025.pdf",
+  "archivo_fuente_sugerido": "knowledge/minsa/manuales-his/Manual de Registro y Codificacion de Adulto Mayor_2025.pdf",
   "relacion_normativa": [
     "NTS N.° 207-MINSA/DGIESP-2023"
   ],
@@ -63,5 +63,9 @@
     "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
   },
   "estado_validacion": "VALIDADO_FUENTE_OFICIAL",
-  "ultima_revision": "2026-09-28"
+  "ultima_revision": "2026-09-28",
+  "ficha_tecnica_archivo": "knowledge/minsa/manuales-his/Manual de Registro y Codificacion de Adulto Mayor_2025.metadata.json",
+  "notas_conciliacion": [
+    "Esta ficha registra 49 páginas; la ficha técnica del archivo registra 50 (total del PDF). Se conservan ambos valores."
+  ]
 }

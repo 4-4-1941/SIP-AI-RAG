@@ -29,5 +29,9 @@
   "pdf_oficial": null,
   "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
   "tipo_fuente": "pdf",
-  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique."
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique.",
+  "fichas_tematicas": [
+    "data/metadata/salud-mental/manual-his-salud-mental-2025.json",
+    "data/metadata/serums/serums-his-salud-mental-2025.json"
+  ]
 }

@@ -35,7 +35,7 @@
       "estado_validacion": "VALIDADO_OFICIAL"
     }
   ],
-  "archivo_fuente_sugerido": "manual-his-salud-mental-2025.pdf",
+  "archivo_fuente_sugerido": "knowledge/minsa/manuales-his/Manual-salud_mental-2025.pdf",
   "reglas_rag": {
     "no_inferir_codigos_his": true,
     "no_inferir_criterios_diagnosticos": true,
@@ -43,5 +43,6 @@
     "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
   },
   "estado_validacion": "VALIDADO_FUENTE_OFICIAL_PENDIENTE_EXTRACCION_DETALLADA",
-  "ultima_revision": "2026-09-28"
+  "ultima_revision": "2026-09-28",
+  "ficha_tecnica_archivo": "knowledge/minsa/manuales-his/Manual-salud_mental-2025.metadata.json"
 }

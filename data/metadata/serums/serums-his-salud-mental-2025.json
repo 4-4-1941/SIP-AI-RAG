@@ -11,7 +11,7 @@
   "estado_validacion": "VALIDADO_DOCUMENTO_COMPLETO_LOCALIZADO",
   "vigencia": "EDICION_2025_PRIORIZADA; verificar modificatorias posteriores",
   "url_documento": "https://bvs.minsa.gob.pe/local/MINSA/7615.pdf",
-  "archivo_fuente_sugerido": "knowledge/minsa/manual-his-salud-mental-2025.pdf",
+  "archivo_fuente_sugerido": "knowledge/minsa/manuales-his/Manual-salud_mental-2025.pdf",
   "uso_rag": [
     "consulta operativa HIS",
     "tamizajes",
@@ -200,5 +200,9 @@
       "pagina_fuente": 65
     }
   ],
-  "nota": "Edición 2025 priorizada. El manual contiene reglas LAB adicionales que deben extraerse progresivamente con página/sección."
+  "nota": "Edición 2025 priorizada. El manual contiene reglas LAB adicionales que deben extraerse progresivamente con página/sección.",
+  "ficha_tecnica_archivo": "knowledge/minsa/manuales-his/Manual-salud_mental-2025.metadata.json",
+  "notas_conciliacion": [
+    "Esta ficha registra 117 páginas; la ficha técnica del archivo registra 119 (total del PDF). Se conservan ambos valores."
+  ]
 }
