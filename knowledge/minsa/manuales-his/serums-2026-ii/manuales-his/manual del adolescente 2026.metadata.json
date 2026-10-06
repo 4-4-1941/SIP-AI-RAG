@@ -1,0 +1,34 @@
+{
+  "id": "MINSA-HIS-ADOLESCENTE-2026-4f3004b62a",
+  "titulo": "Manual de Registro y Codificación de la Atención en la Consulta Externa. Etapa de Vida Adolescente",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro y Codificación de la Atención en la Consulta Externa. Etapa de Vida Adolescente. 2026. Sistema de Información HIS.",
+  "anio_publicacion": 2026,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Dirección de Intervenciones por Curso de Vida y Cuidado Integral; Etapa de Vida Adolescente; Oficina General de Tecnologías de la Información",
+  "grupo_etario": "Adolescente",
+  "temas": [
+    "atención integral de salud",
+    "registro HIS",
+    "codificación HIS",
+    "consulta externa",
+    "salud del adolescente"
+  ],
+  "palabras_clave": [
+    "adolescente",
+    "HIS",
+    "registro",
+    "codificación",
+    "consulta externa"
+  ],
+  "idioma": "es",
+  "archivo_origen": "manual del adolescente 2026.pdf",
+  "paginas_total": 44,
+  "sha256": "4f3004b62af7d225ef322bb7ba09692eb3d530c34d201a00b8ba3a895ed6136d",
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "MINSA-HIS-DISCAPACIDAD-2025-11ac726209",
+  "titulo": "Manual de Registro y Codificación de Actividades de la Persona con Discapacidad",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro y Codificación de Actividades de la Persona con Discapacidad. 2025. Sistema de Información HIS.",
+  "anio_publicacion": 2025,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Dirección de Prevención y Control de la Discapacidad",
+  "grupo_etario": "General",
+  "temas": [
+    "discapacidad",
+    "atención de salud",
+    "registro HIS",
+    "codificación HIS"
+  ],
+  "palabras_clave": [
+    "persona con discapacidad",
+    "discapacidad",
+    "HIS",
+    "registro",
+    "codificación"
+  ],
+  "idioma": "es",
+  "archivo_origen": "Manual_Discapacidad_2025.pdf",
+  "paginas_total": 87,
+  "sha256": "11ac726209b761085d574ab84ec1c1c2493a280a06a8e0648bea0b8df5cff9db",
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique."
+}

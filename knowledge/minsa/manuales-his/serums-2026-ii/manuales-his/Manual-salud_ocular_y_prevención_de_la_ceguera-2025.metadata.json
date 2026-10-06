@@ -1,0 +1,38 @@
+{
+  "id": "MINSA-HIS-SALUD-OCULAR-2025-72bec4d61b",
+  "titulo": "Manual de Registro y Codificación de la Atención en la Consulta Externa. Componente de Salud Ocular y Prevención de la Ceguera",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro y Codificación de la Atención en la Consulta Externa. Componente de Salud Ocular y Prevención de la Ceguera. 2025. Sistema de Información HIS.",
+  "anio_publicacion": 2025,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Dirección de Prevención y Control de Enfermedades No Transmisibles, Raras y Huérfanas; Estrategia Sanitaria Nacional de Salud Ocular y Prevención de la Ceguera",
+  "grupo_etario": "General",
+  "temas": [
+    "salud ocular",
+    "prevención de la ceguera",
+    "atención integral de salud",
+    "registro HIS",
+    "codificación HIS"
+  ],
+  "palabras_clave": [
+    "salud ocular",
+    "ceguera",
+    "visión",
+    "HIS",
+    "registro",
+    "codificación"
+  ],
+  "idioma": "es",
+  "archivo_origen": "Manual-salud_ocular_y_prevención_de_la_ceguera-2025.pdf",
+  "paginas_total": 53,
+  "sha256": "72bec4d61b8aea0fa3e354294fcd2487f1b73f68dfd4858e9c009e50541b07e2",
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique.",
+  "notas_metadatos": [
+    "La portada muestra 2024; la catalogación hecha por la Biblioteca del MINSA consigna 2025. Se registra 2025 con esa observación."
+  ]
+}

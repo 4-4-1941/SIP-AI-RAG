@@ -1,0 +1,35 @@
+{
+  "id": "MINSA-HIS-ADULTO-MUJER-VARON-2018-06aecb6d8d",
+  "titulo": "Manual de Registro y Codificación de Actividades en la Atención Integral de Salud de la Etapa de Vida Adulto Mujer y Varón",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro y Codificación de Actividades en la Atención Integral de Salud de la Etapa de Vida Adulto Mujer y Varón. 2018. Sistema de Información HIS.",
+  "anio_publicacion": 2018,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Etapa de Vida Adulto",
+  "grupo_etario": "Adulto",
+  "temas": [
+    "atención integral de salud",
+    "registro HIS",
+    "codificación HIS",
+    "consulta externa",
+    "curso de vida adulto"
+  ],
+  "palabras_clave": [
+    "mujer",
+    "varón",
+    "adulto",
+    "HIS",
+    "registro",
+    "codificación"
+  ],
+  "idioma": "es",
+  "archivo_origen": "Manual de registro y codificación de actividades en la atención integral de Salud de la etapa de vida adulto mujer y varón. Registro y codificación de la atención en consulta externa_ HIS.pdf",
+  "paginas_total": 29,
+  "sha256": "06aecb6d8d330c9c1150604fac9fdaed1b9d376dcc89130a6ca15fa684a6ab3c",
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique."
+}

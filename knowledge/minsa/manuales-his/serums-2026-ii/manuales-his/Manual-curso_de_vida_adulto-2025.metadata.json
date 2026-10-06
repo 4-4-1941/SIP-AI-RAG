@@ -1,0 +1,34 @@
+{
+  "id": "MINSA-HIS-CURSO-VIDA-ADULTO-2025-c955f05310",
+  "titulo": "Manual de Registro y Codificación de Actividades en la Atención Integral de Salud en la Consulta Externa. Curso de Vida Adulto",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro y Codificación de Actividades en la Atención Integral de Salud en la Consulta Externa. Curso de Vida Adulto. 2025. Sistema de Información HIS.",
+  "anio_publicacion": 2025,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Dirección de Intervenciones por Curso de Vida y Cuidado Integral; Etapa de Vida Adulto",
+  "grupo_etario": "Adulto",
+  "temas": [
+    "atención integral de salud",
+    "registro HIS",
+    "codificación HIS",
+    "consulta externa",
+    "curso de vida adulto"
+  ],
+  "palabras_clave": [
+    "adulto",
+    "HIS",
+    "registro",
+    "codificación",
+    "consulta externa"
+  ],
+  "idioma": "es",
+  "archivo_origen": "Manual-curso_de_vida_adulto-2025.pdf",
+  "paginas_total": 52,
+  "sha256": "c955f05310666bc17d5abe287282910caa77deb04012c868ee8c10131353db80",
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique."
+}

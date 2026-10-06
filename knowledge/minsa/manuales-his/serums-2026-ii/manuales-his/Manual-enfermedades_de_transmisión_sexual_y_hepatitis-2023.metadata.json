@@ -1,0 +1,36 @@
+{
+  "id": "MINSA-HIS-ITS-HEPATITIS-2023-8e569f9209",
+  "titulo": "Manual de Registro y Codificación de Actividades de la Dirección de Prevención y Control de VIH-SIDA, Enfermedades de Transmisión Sexual y Hepatitis",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro y Codificación de Actividades de la Dirección de Prevención y Control de VIH-SIDA, Enfermedades de Transmisión Sexual y Hepatitis. 2023. Sistema de Información HIS.",
+  "anio_publicacion": 2023,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Dirección de Prevención y Control de VIH-SIDA, Enfermedades de Transmisión Sexual y Hepatitis (DPVIH)",
+  "grupo_etario": "General",
+  "temas": [
+    "VIH",
+    "SIDA",
+    "infecciones de transmisión sexual",
+    "hepatitis",
+    "registro HIS",
+    "codificación HIS"
+  ],
+  "palabras_clave": [
+    "VIH",
+    "SIDA",
+    "ITS",
+    "hepatitis",
+    "DPVIH",
+    "HIS"
+  ],
+  "idioma": "es",
+  "archivo_origen": "Manual-enfermedades_de_transmisión_sexual_y_hepatitis-2023.pdf",
+  "paginas_total": 82,
+  "sha256": "8e569f9209c34d69f130ffd63b049cdc871430ff68b2221aa3a98728f6c20c4e",
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique."
+}

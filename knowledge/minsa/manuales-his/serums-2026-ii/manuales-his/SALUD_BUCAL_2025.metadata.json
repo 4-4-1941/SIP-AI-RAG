@@ -1,0 +1,33 @@
+{
+  "id": "MINSA-HIS-SALUD-BUCAL-2025-c921e42624",
+  "titulo": "Manual de Registro y Codificación de la Atención en Salud Bucal",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro y Codificación de la Atención en Salud Bucal. 2025. Sistema de Información HIS.",
+  "anio_publicacion": 2025,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Dirección de Salud Bucal",
+  "grupo_etario": "General",
+  "temas": [
+    "salud bucal",
+    "atención de salud",
+    "registro HIS",
+    "codificación HIS"
+  ],
+  "palabras_clave": [
+    "salud bucal",
+    "odontología",
+    "HIS",
+    "registro",
+    "codificación"
+  ],
+  "idioma": "es",
+  "archivo_origen": "SALUD_BUCAL_2025.pdf",
+  "paginas_total": 59,
+  "sha256": "c921e426243365cfe882be6effbd314df4650a315436b4fbe7d9993a3ae1e08d",
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique."
+}

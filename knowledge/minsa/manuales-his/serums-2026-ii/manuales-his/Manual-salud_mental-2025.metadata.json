@@ -1,0 +1,33 @@
+{
+  "id": "MINSA-HIS-SALUD-MENTAL-2025-e71b213326",
+  "titulo": "Manual de Registro y Codificación de Actividades en la Atención en Salud Mental",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro y Codificación de Actividades en la Atención en Salud Mental. 2025. Sistema de Información HIS.",
+  "anio_publicacion": 2025,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Dirección de Salud Mental",
+  "grupo_etario": "General",
+  "temas": [
+    "salud mental",
+    "atención de salud",
+    "registro HIS",
+    "codificación HIS"
+  ],
+  "palabras_clave": [
+    "salud mental",
+    "HIS",
+    "registro",
+    "codificación",
+    "atención"
+  ],
+  "idioma": "es",
+  "archivo_origen": "Manual-salud_mental-2025.pdf",
+  "paginas_total": 119,
+  "sha256": "e71b21332683a88d325977ce1ef3a69f7437f557e76ddfe74a079851d67c22e9",
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique."
+}

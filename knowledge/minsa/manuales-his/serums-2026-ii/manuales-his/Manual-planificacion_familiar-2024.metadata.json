@@ -1,0 +1,37 @@
+{
+  "id": "MINSA-HIS-PLANIFICACION-FAMILIAR-2024-c33c469fb4",
+  "titulo": "Manual de Registro y Codificación de la Atención en la Consulta Externa. Atención de Planificación Familiar",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro y Codificación de la Atención en la Consulta Externa. Atención de Planificación Familiar. 2024. Sistema de Información HIS.",
+  "anio_publicacion": 2024,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Dirección de Salud Sexual y Reproductiva",
+  "grupo_etario": "General",
+  "temas": [
+    "planificación familiar",
+    "salud sexual y reproductiva",
+    "registro HIS",
+    "codificación HIS",
+    "consulta externa"
+  ],
+  "palabras_clave": [
+    "planificación familiar",
+    "anticoncepción",
+    "salud sexual",
+    "salud reproductiva",
+    "HIS"
+  ],
+  "idioma": "es",
+  "archivo_origen": "Manual-planificacion_familiar-2024.pdf",
+  "paginas_total": 66,
+  "sha256": "c33c469fb478270797cb9f3a6f658fee4b1ec2783eb038af5348c19ff88faccb",
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique.",
+  "notas_metadatos": [
+    "La portada indica 2024; la ficha de catalogación del PDF consigna Ministerio de Salud 2023. Se conserva el año de portada y archivo, y se deja registrada la diferencia."
+  ]
+}

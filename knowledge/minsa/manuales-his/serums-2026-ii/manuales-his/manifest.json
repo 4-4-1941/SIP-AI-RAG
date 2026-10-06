@@ -1,0 +1,114 @@
+{
+  "id": "MINSA-MANUALES-HIS",
+  "institucion": "Ministerio de Salud del Perú",
+  "fecha_preparacion": "2026-10-05",
+  "ruta_destino": "knowledge/minsa/manuales-his",
+  "numero_documentos": 13,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "documentos": [
+    {
+      "id": "MINSA-HIS-ADULTO-MUJER-VARON-2018-06aecb6d8d",
+      "archivo": "Manual de registro y codificación de actividades en la atención integral de Salud de la etapa de vida adulto mujer y varón. Registro y codificación de la atención en consulta externa_ HIS.pdf",
+      "titulo": "Manual de Registro y Codificación de Actividades en la Atención Integral de Salud de la Etapa de Vida Adulto Mujer y Varón",
+      "anio_publicacion": 2018,
+      "paginas_total": 29,
+      "sha256": "06aecb6d8d330c9c1150604fac9fdaed1b9d376dcc89130a6ca15fa684a6ab3c"
+    },
+    {
+      "id": "MINSA-HIS-ADULTO-MAYOR-2025-A-b7a138fd42",
+      "archivo": "Manual de Registro y Codificacion de Adulto Mayor_2025.pdf",
+      "titulo": "Manual de Registro y Codificación de la Atención Integral de Salud del Curso de Vida Adulto Mayor",
+      "anio_publicacion": 2025,
+      "paginas_total": 50,
+      "sha256": "b7a138fd4214b12b1966cdfe752aac84ab5e52dca9cc2555b7ce48d1d157f15e"
+    },
+    {
+      "id": "MINSA-HIS-ADULTO-MAYOR-2025-B-e9be592207",
+      "archivo": "MANUAL DE REGISTRO Y CODIFICACION DE LA ATENCION DE SALUD EN LA CONSULTA EXTERNA.PDF",
+      "titulo": "Manual de Registro y Codificación de la Atención de Salud en la Consulta Externa. Curso de Vida Adulto Mayor",
+      "anio_publicacion": 2025,
+      "paginas_total": 50,
+      "sha256": "e9be5922071062a4686c02964de838b89a670cb27ded84f9818d2038cf3c3409"
+    },
+    {
+      "id": "MINSA-HIS-ADOLESCENTE-2026-4f3004b62a",
+      "archivo": "manual del adolescente 2026.pdf",
+      "titulo": "Manual de Registro y Codificación de la Atención en la Consulta Externa. Etapa de Vida Adolescente",
+      "anio_publicacion": 2026,
+      "paginas_total": 44,
+      "sha256": "4f3004b62af7d225ef322bb7ba09692eb3d530c34d201a00b8ba3a895ed6136d"
+    },
+    {
+      "id": "MINSA-HIS-CURSO-VIDA-ADULTO-2025-c955f05310",
+      "archivo": "Manual-curso_de_vida_adulto-2025.pdf",
+      "titulo": "Manual de Registro y Codificación de Actividades en la Atención Integral de Salud en la Consulta Externa. Curso de Vida Adulto",
+      "anio_publicacion": 2025,
+      "paginas_total": 52,
+      "sha256": "c955f05310666bc17d5abe287282910caa77deb04012c868ee8c10131353db80"
+    },
+    {
+      "id": "MINSA-HIS-ITS-HEPATITIS-2023-8e569f9209",
+      "archivo": "Manual-enfermedades_de_transmisión_sexual_y_hepatitis-2023.pdf",
+      "titulo": "Manual de Registro y Codificación de Actividades de la Dirección de Prevención y Control de VIH-SIDA, Enfermedades de Transmisión Sexual y Hepatitis",
+      "anio_publicacion": 2023,
+      "paginas_total": 82,
+      "sha256": "8e569f9209c34d69f130ffd63b049cdc871430ff68b2221aa3a98728f6c20c4e"
+    },
+    {
+      "id": "MINSA-HIS-PLANIFICACION-FAMILIAR-2024-c33c469fb4",
+      "archivo": "Manual-planificacion_familiar-2024.pdf",
+      "titulo": "Manual de Registro y Codificación de la Atención en la Consulta Externa. Atención de Planificación Familiar",
+      "anio_publicacion": 2024,
+      "paginas_total": 66,
+      "sha256": "c33c469fb478270797cb9f3a6f658fee4b1ec2783eb038af5348c19ff88faccb"
+    },
+    {
+      "id": "MINSA-HIS-SALUD-MENTAL-2025-e71b213326",
+      "archivo": "Manual-salud_mental-2025.pdf",
+      "titulo": "Manual de Registro y Codificación de Actividades en la Atención en Salud Mental",
+      "anio_publicacion": 2025,
+      "paginas_total": 119,
+      "sha256": "e71b21332683a88d325977ce1ef3a69f7437f557e76ddfe74a079851d67c22e9"
+    },
+    {
+      "id": "MINSA-HIS-SALUD-OCULAR-2025-72bec4d61b",
+      "archivo": "Manual-salud_ocular_y_prevención_de_la_ceguera-2025.pdf",
+      "titulo": "Manual de Registro y Codificación de la Atención en la Consulta Externa. Componente de Salud Ocular y Prevención de la Ceguera",
+      "anio_publicacion": 2025,
+      "paginas_total": 53,
+      "sha256": "72bec4d61b8aea0fa3e354294fcd2487f1b73f68dfd4858e9c009e50541b07e2"
+    },
+    {
+      "id": "MINSA-HIS-CANCER-2025-3f662a76db",
+      "archivo": "Manual_Cancer_2025.pdf",
+      "titulo": "Manual de Registro y Codificación de las Actividades en Prevención y Control del Cáncer",
+      "anio_publicacion": 2025,
+      "paginas_total": 71,
+      "sha256": "3f662a76db02c9186d2c63e772a8fac67b1eba6821d9732b36f163cd0fe59aef"
+    },
+    {
+      "id": "MINSA-HIS-DISCAPACIDAD-2025-11ac726209",
+      "archivo": "Manual_Discapacidad_2025.pdf",
+      "titulo": "Manual de Registro y Codificación de Actividades de la Persona con Discapacidad",
+      "anio_publicacion": 2025,
+      "paginas_total": 87,
+      "sha256": "11ac726209b761085d574ab84ec1c1c2493a280a06a8e0648bea0b8df5cff9db"
+    },
+    {
+      "id": "MINSA-HIS-TUBERCULOSIS-2025-0b7a869f26",
+      "archivo": "Manual_TBC.pdf",
+      "titulo": "Manual de Registro y Codificación de las Actividades de Prevención y Control de Tuberculosis",
+      "anio_publicacion": 2025,
+      "paginas_total": 50,
+      "sha256": "0b7a869f2616762b1c490cb58b7cf7414c4d3701a33777c914892b18b6eb095d"
+    },
+    {
+      "id": "MINSA-HIS-SALUD-BUCAL-2025-c921e42624",
+      "archivo": "SALUD_BUCAL_2025.pdf",
+      "titulo": "Manual de Registro y Codificación de la Atención en Salud Bucal",
+      "anio_publicacion": 2025,
+      "paginas_total": 59,
+      "sha256": "c921e426243365cfe882be6effbd314df4650a315436b4fbe7d9993a3ae1e08d"
+    }
+  ]
+}

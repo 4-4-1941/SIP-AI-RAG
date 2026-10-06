@@ -1,0 +1,35 @@
+{
+  "id": "MINSA-HIS-CANCER-2025-3f662a76db",
+  "titulo": "Manual de Registro y Codificación de las Actividades en Prevención y Control del Cáncer",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro y Codificación de las Actividades en Prevención y Control del Cáncer. 2025. Sistema de Información HIS.",
+  "anio_publicacion": 2025,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Dirección Ejecutiva de Prevención y Control del Cáncer",
+  "grupo_etario": "General",
+  "temas": [
+    "cáncer",
+    "prevención",
+    "control",
+    "registro HIS",
+    "codificación HIS"
+  ],
+  "palabras_clave": [
+    "cáncer",
+    "prevención",
+    "control del cáncer",
+    "HIS",
+    "registro",
+    "codificación"
+  ],
+  "idioma": "es",
+  "archivo_origen": "Manual_Cancer_2025.pdf",
+  "paginas_total": 71,
+  "sha256": "3f662a76db02c9186d2c63e772a8fac67b1eba6821d9732b36f163cd0fe59aef",
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique."
+}

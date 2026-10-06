@@ -1,0 +1,37 @@
+{
+  "id": "MINSA-HIS-ADULTO-MAYOR-2025-B-e9be592207",
+  "titulo": "Manual de Registro y Codificación de la Atención de Salud en la Consulta Externa. Curso de Vida Adulto Mayor",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro y Codificación de la Atención de Salud en la Consulta Externa. Curso de Vida Adulto Mayor. 2025. Sistema de Información HIS.",
+  "anio_publicacion": 2025,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Curso de Vida Adulto Mayor; Oficina General de Tecnologías de la Información",
+  "grupo_etario": "Adulto mayor",
+  "temas": [
+    "atención integral de salud",
+    "registro HIS",
+    "codificación HIS",
+    "consulta externa",
+    "curso de vida adulto mayor"
+  ],
+  "palabras_clave": [
+    "adulto mayor",
+    "HIS",
+    "registro",
+    "codificación",
+    "consulta externa"
+  ],
+  "idioma": "es",
+  "archivo_origen": "MANUAL DE REGISTRO Y CODIFICACION DE LA ATENCION DE SALUD EN LA CONSULTA EXTERNA.PDF",
+  "paginas_total": 50,
+  "sha256": "e9be5922071062a4686c02964de838b89a670cb27ded84f9818d2038cf3c3409",
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique.",
+  "notas_metadatos": [
+    "Comparte título, autor PDF y paginación con otro archivo Adulto Mayor 2025 recibido, pero el binario es distinto. Mantener ambos separados hasta confirmar si son ediciones diferentes o copias redundantes."
+  ]
+}
