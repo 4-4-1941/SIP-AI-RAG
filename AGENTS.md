@@ -13,6 +13,7 @@
 ### 3. Antes de escribir, mostrar el plan
 - Antes de crear o modificar cualquier archivo, muéstrame la ruta exacta donde lo vas a poner y espera mi confirmación.
 - No toques nada hasta que yo escriba "OK" o "APROBADO".
+- Si estás en un modo automático o CLI, detén tu ejecución (pausa/prompt) inmediatamente tras mostrar el plan y espera mi entrada de texto.
 
 ### 4. Respetar la estructura existente
 - NO cambies la estructura del proyecto. NO muevas archivos de lugar sin pedirme permiso.
@@ -21,3 +22,6 @@
 ### 5. Al terminar
 - Dime exactamente qué archivos tocaste y por qué.
 - Si algo no salió como esperaba, dímelo. No lo escondas.
+
+### 6. Ejecución de comandos
+- NUNCA ejecutes comandos de instalación (`npm install`, `pip install`, etc.) o de eliminación de archivos/ramas (`rm`, `git branch -D`) de forma automática. Explica con claridad que hará el cambio. Pide permiso explícito primero.
