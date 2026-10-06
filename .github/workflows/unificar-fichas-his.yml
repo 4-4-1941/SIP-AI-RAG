@@ -1,1 +1,101 @@
+name: Unificar fichas HIS Adulto Mayor y Salud Mental
 
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/unificar-fichas-his.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  unificar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Enlazar fichas con su PDF real
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json, sys
+          from pathlib import Path
+
+          K = "knowledge/minsa/manuales-his/"
+          AM_PDF = K + "Manual de Registro y Codificacion de Adulto Mayor_2025.pdf"
+          AM_FT = K + "Manual de Registro y Codificacion de Adulto Mayor_2025.metadata.json"
+          SM_PDF = K + "Manual-salud_mental-2025.pdf"
+          SM_FT = K + "Manual-salud_mental-2025.metadata.json"
+          AM_T = "data/metadata/adulto-mayor/manual-his-adulto-mayor-2025.json"
+          SM_T = "data/metadata/salud-mental/manual-his-salud-mental-2025.json"
+          SM_S = "data/metadata/serums/serums-his-salud-mental-2025.json"
+
+          for p in (AM_PDF, AM_FT, SM_PDF, SM_FT, AM_T, SM_T, SM_S):
+              if not Path(p).exists():
+                  print("Falta un archivo esperado:", p)
+                  sys.exit(1)
+
+          def leer(p):
+              raw = Path(p).read_bytes()
+              return json.loads(raw.decode("utf-8-sig")), (b"\r\n" in raw)
+
+          def guardar(p, d, crlf):
+              txt = json.dumps(d, ensure_ascii=False, indent=2) + "\n"
+              if crlf:
+                  txt = txt.replace("\n", "\r\n")
+              Path(p).write_bytes(txt.encode("utf-8"))
+
+          def nota(d, texto):
+              notas = d.setdefault("notas_conciliacion", [])
+              if texto not in notas:
+                  notas.append(texto)
+
+          cambios = 0
+
+          # Fichas tematicas (data/metadata): ruta real al PDF + enlace a la ficha tecnica
+          trabajos = [
+              (AM_T, AM_PDF, AM_FT,
+               "Esta ficha registra 49 páginas; la ficha técnica del archivo registra 50 (total del PDF). Se conservan ambos valores."),
+              (SM_T, SM_PDF, SM_FT, None),
+              (SM_S, SM_PDF, SM_FT,
+               "Esta ficha registra 117 páginas; la ficha técnica del archivo registra 119 (total del PDF). Se conservan ambos valores."),
+          ]
+          for ruta, pdf, ft, texto in trabajos:
+              d, crlf = leer(ruta)
+              antes = json.dumps(d, sort_keys=True)
+              d["archivo_fuente_sugerido"] = pdf
+              d["ficha_tecnica_archivo"] = ft
+              if texto:
+                  nota(d, texto)
+              if json.dumps(d, sort_keys=True) != antes:
+                  guardar(ruta, d, crlf)
+                  cambios += 1
+
+          # Fichas tecnicas (knowledge): enlace a su ficha tematica
+          enlaces = [
+              (AM_FT, [AM_T]),
+              (SM_FT, [SM_T, SM_S]),
+          ]
+          for ruta, lista in enlaces:
+              d, crlf = leer(ruta)
+              if d.get("fichas_tematicas") != lista:
+                  d["fichas_tematicas"] = lista
+                  guardar(ruta, d, crlf)
+                  cambios += 1
+
+          print("Fichas actualizadas:", cambios)
+          PY
+
+          git add -A data/metadata knowledge/minsa/manuales-his
+          if git diff --cached --quiet; then
+            echo "Sin cambios que guardar."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Unificar fichas HIS: rutas reales al PDF y enlaces entre ficha tematica y ficha tecnica"
+          git push
