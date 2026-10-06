@@ -1,1 +1,66 @@
+name: Mover manuales HIS
 
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/mover-manuales-his.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Ordenar manuales HIS
+        run: |
+          set -euo pipefail
+          SRC="knowledge/minsa/manuales-his/serums-2026-ii/manuales-his"
+          DST="knowledge/minsa/manuales-his"
+          META="data/metadata/manuales-his"
+
+          if [ ! -d "$SRC" ]; then
+            echo "Nada que mover: la ruta repetida ya no existe."
+            exit 0
+          fi
+
+          # 1) Borrar el archivo vacio (menos de 1 KB) creado por error
+          PLACEHOLDER="$META/Manual-curso_de_vida_adulto-2025.pdf"
+          if [ -f "$PLACEHOLDER" ] && [ "$(wc -c < "$PLACEHOLDER")" -lt 1024 ]; then
+            git rm -q -- "$PLACEHOLDER"
+          fi
+
+          # 2) manifest.json va a data/metadata/manuales-his
+          mkdir -p "$META"
+          if [ -f "$SRC/manifest.json" ]; then
+            git mv -- "$SRC/manifest.json" "$META/manifest.json"
+          fi
+
+          # 3) PDFs y fichas suben un nivel (se cuentan antes y despues)
+          ANTES=$(find "$SRC" -maxdepth 1 -type f ! -name manifest.json | wc -l)
+          find "$SRC" -maxdepth 1 -type f -print0 | while IFS= read -r -d '' f; do
+            git mv -- "$f" "$DST/$(basename "$f")"
+          done
+
+          # 4) Comprobar antes de guardar
+          DESPUES=$(find "$DST" -maxdepth 1 -type f | wc -l)
+          PDFS=$(find "$DST" -maxdepth 1 -type f -iname "*.pdf" | wc -l)
+          FICHAS=$(find "$DST" -maxdepth 1 -type f -name "*.metadata.json" | wc -l)
+          echo "Archivos movidos: $DESPUES de $ANTES | PDFs: $PDFS | Fichas: $FICHAS"
+          if [ "$DESPUES" -ne "$ANTES" ]; then
+            echo "Algo no coincide, no se guarda nada."
+            exit 1
+          fi
+
+          # Quitar las carpetas repetidas que quedaron vacias
+          find "knowledge/minsa/manuales-his/serums-2026-ii" -depth -type d -empty -delete
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Ordenar manuales HIS: PDFs y fichas en knowledge/minsa/manuales-his, manifest en data/metadata/manuales-his"
+          git push
