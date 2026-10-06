@@ -3,7 +3,7 @@
   "institucion": "Ministerio de Salud del Perú",
   "fecha_preparacion": "2026-10-05",
   "ruta_destino": "knowledge/minsa/manuales-his",
-  "numero_documentos": 13,
+  "numero_documentos": 12,
   "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
   "documentos": [
     {
@@ -17,18 +17,10 @@
     {
       "id": "MINSA-HIS-ADULTO-MAYOR-2025-A-b7a138fd42",
       "archivo": "Manual de Registro y Codificacion de Adulto Mayor_2025.pdf",
-      "titulo": "Manual de Registro y Codificación de la Atención Integral de Salud del Curso de Vida Adulto Mayor",
-      "anio_publicacion": 2025,
-      "paginas_total": 50,
-      "sha256": "b7a138fd4214b12b1966cdfe752aac84ab5e52dca9cc2555b7ce48d1d157f15e"
-    },
-    {
-      "id": "MINSA-HIS-ADULTO-MAYOR-2025-B-e9be592207",
-      "archivo": "MANUAL DE REGISTRO Y CODIFICACION DE LA ATENCION DE SALUD EN LA CONSULTA EXTERNA.PDF",
       "titulo": "Manual de Registro y Codificación de la Atención de Salud en la Consulta Externa. Curso de Vida Adulto Mayor",
       "anio_publicacion": 2025,
       "paginas_total": 50,
-      "sha256": "e9be5922071062a4686c02964de838b89a670cb27ded84f9818d2038cf3c3409"
+      "sha256": "b7a138fd4214b12b1966cdfe752aac84ab5e52dca9cc2555b7ce48d1d157f15e"
     },
     {
       "id": "MINSA-HIS-ADOLESCENTE-2026-4f3004b62a",
