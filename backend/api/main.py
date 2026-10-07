@@ -69,6 +69,8 @@ async def _ingest_rag() -> None:
 
 async def _ingest_rag_in_background() -> None:
     global _rag_ingestion_error
+    # Let Uvicorn bind its listener before synchronous PDF loading runs.
+    await asyncio.sleep(1)
     try:
         await _ingest_rag()
     except Exception as exc:
