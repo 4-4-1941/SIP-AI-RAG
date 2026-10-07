@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from array import array
 from pathlib import Path
 
 from rag.chunking.chunker import chunk_document
@@ -8,6 +9,9 @@ from rag.embeddings.provider import EmbeddingProvider
 from rag.ingestion.loader import load_directory
 from rag.retrieval.memory_index import MemoryVectorIndex
 from rag.reranking.base import PassThroughReranker, Reranker
+
+
+EMBEDDING_INGEST_BATCH_SIZE = 16
 
 
 class RAGPipeline:
@@ -23,10 +27,18 @@ class RAGPipeline:
             chunks.extend(chunk_document(document))
 
         if chunks:
-            embeddings = await self.embedding_provider.embed_documents(
-                [chunk.text for chunk in chunks]
-            )
-            self.index.add(chunks, embeddings)
+            compact_embeddings: list[array] = []
+            for start in range(0, len(chunks), EMBEDDING_INGEST_BATCH_SIZE):
+                batch_chunks = chunks[start : start + EMBEDDING_INGEST_BATCH_SIZE]
+                batch_embeddings = await self.embedding_provider.embed_documents(
+                    [chunk.text for chunk in batch_chunks]
+                )
+                compact_embeddings.extend(
+                    array("f", embedding) for embedding in batch_embeddings
+                )
+                del batch_embeddings
+
+            self.index.add(chunks, compact_embeddings)
 
         return {
             "documents": len(documents),
