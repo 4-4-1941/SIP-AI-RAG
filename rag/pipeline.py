@@ -11,7 +11,7 @@ from rag.retrieval.memory_index import MemoryVectorIndex
 from rag.reranking.base import PassThroughReranker, Reranker
 
 
-EMBEDDING_INGEST_BATCH_SIZE = 16
+EMBEDDING_INGEST_BATCH_SIZE = 64
 
 
 class RAGPipeline:
