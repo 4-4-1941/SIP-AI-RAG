@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import asyncio
 from contextlib import asynccontextmanager
 from pathlib import Path
 
@@ -21,57 +22,80 @@ _rag: RAGPipeline | None = None
 _rag_ingested = False
 _rag_ingestion_stats: list[dict] = []
 _rag_ingestion_error: str | None = None
+_rag_ingestion_task: asyncio.Task | None = None
 
 
 class ChatRequest(BaseModel):
     message: str = Field(min_length=1, max_length=4000)
 
 
-async def get_rag() -> RAGPipeline:
+async def _ingest_rag() -> None:
     global _rag, _rag_ingested, _rag_ingestion_stats, _rag_ingestion_error
 
     if _rag is None:
         _rag = RAGPipeline(NvidiaEmbeddingProvider())
 
-    if not _rag_ingested:
-        stats: list[dict] = []
-        try:
-            for directory in RAG_DIRECTORIES:
-                if not directory.exists():
-                    stats.append({
-                        "directory": str(directory),
-                        "exists": False,
-                        "documents": 0,
-                        "chunks": 0,
-                        "indexed": _rag.index.size,
-                    })
-                    continue
+    if _rag_ingested:
+        return
 
-                result = await _rag.ingest_directory(directory)
+    stats: list[dict] = []
+    try:
+        for directory in RAG_DIRECTORIES:
+            if not directory.exists():
                 stats.append({
                     "directory": str(directory),
-                    "exists": True,
-                    **result,
+                    "exists": False,
+                    "documents": 0,
+                    "chunks": 0,
+                    "indexed": _rag.index.size,
                 })
+                continue
 
-            _rag_ingestion_stats = stats
-            _rag_ingested = True
-            _rag_ingestion_error = None
-        except Exception as exc:
-            _rag_ingestion_stats = stats
-            _rag_ingestion_error = f"{type(exc).__name__}: {exc}"
-            raise
+            result = await _rag.ingest_directory(directory)
+            stats.append({
+                "directory": str(directory),
+                "exists": True,
+                **result,
+            })
+
+        _rag_ingestion_stats = stats
+        _rag_ingested = True
+        _rag_ingestion_error = None
+    except Exception as exc:
+        _rag_ingestion_stats = stats
+        _rag_ingestion_error = f"{type(exc).__name__}: {exc}"
+        raise
+
+
+async def _ingest_rag_in_background() -> None:
+    global _rag_ingestion_error
+    try:
+        await _ingest_rag()
+    except Exception as exc:
+        _rag_ingestion_error = f"{type(exc).__name__}: {exc}"
+
+
+async def get_rag() -> RAGPipeline:
+    global _rag, _rag_ingestion_task
+
+    if _rag is None:
+        _rag = RAGPipeline(NvidiaEmbeddingProvider())
+
+    if not _rag_ingested:
+        if _rag_ingestion_task is None or _rag_ingestion_task.done():
+            _rag_ingestion_task = asyncio.create_task(_ingest_rag_in_background())
+        await _rag_ingestion_task
+
+        if not _rag_ingested:
+            raise RuntimeError(_rag_ingestion_error or "La ingesta RAG no terminó.")
 
     return _rag
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    global _rag_ingestion_error
-    try:
-        await get_rag()
-    except Exception as exc:
-        _rag_ingestion_error = f"{type(exc).__name__}: {exc}"
+    global _rag_ingestion_task
+    _rag_ingestion_task = asyncio.create_task(_ingest_rag_in_background())
     yield
 
 
@@ -94,7 +118,7 @@ async def root():
 @app.get("/health")
 async def health():
     return {
-        "status": "ok" if _rag_ingestion_error is None else "degraded",
+        "status": "ok" if _rag_ingested and _rag_ingestion_error is None else "degraded",
         "service": settings.app_name,
         "nvidia_configured": bool(settings.nvidia_api_key),
         "rag_active": bool(_rag and _rag.index.size),
@@ -147,4 +171,3 @@ async def chat(payload: ChatRequest):
         raise
     except Exception as exc:
         raise HTTPException(status_code=502, detail=str(exc)) from exc
-        
