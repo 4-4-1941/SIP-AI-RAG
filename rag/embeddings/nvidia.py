@@ -8,6 +8,9 @@ from backend.config.settings import settings
 from rag.embeddings.provider import EmbeddingProvider
 
 
+EMBEDDING_BATCH_SIZE = 64
+
+
 def _embeddings_url() -> str:
     base_url = settings.nvidia_embedding_base_url.rstrip("/")
     if base_url.endswith("/embeddings"):
@@ -78,7 +81,14 @@ def get_nvidia_embeddings_passage(texts: list[str]) -> list[list[float]]:
 
 class NvidiaEmbeddingProvider(EmbeddingProvider):
     async def embed_documents(self, texts: list[str]) -> list[list[float]]:
-        return await asyncio.to_thread(get_nvidia_embeddings_passage, texts)
+        embeddings: list[list[float]] = []
+        for start in range(0, len(texts), EMBEDDING_BATCH_SIZE):
+            batch = texts[start : start + EMBEDDING_BATCH_SIZE]
+            batch_embeddings = await asyncio.to_thread(
+                get_nvidia_embeddings_passage, batch
+            )
+            embeddings.extend(batch_embeddings)
+        return embeddings
 
     async def embed_query(self, text: str) -> list[float]:
         embeddings = await asyncio.to_thread(get_nvidia_embeddings, [text])
