@@ -1,0 +1,59 @@
+{
+  "document_id": "rd-491-2025-dg-incn",
+  "file_name": "rd-491-2025-dg-incn.pdf",
+  "title": "Resolución Directoral N.° 491-2025-DG-INCN",
+  "document_type": "resolucion_directoral",
+  "issuing_entity": "Ministerio de Salud del Perú — Instituto Nacional de Ciencias Neurológicas",
+  "resolution_number": "491-2025-DG-INCN",
+  "year": 2025,
+  "publication_date": "2025-12-03",
+  "language": "es",
+  "subject": "Aprobación de la Guía Técnica de Procedimiento: Movilización Temprana en Pacientes Post Operado",
+  "summary": "La Resolución Directoral, fechada en Lima el 3 de diciembre de 2025, aprueba la Guía Técnica de Procedimiento «Movilización Temprana en Pacientes Post Operado», elaborada por el Departamento de Enfermería del Instituto Nacional de Ciencias Neurológicas. Encarga a la Jefatura del Departamento de Enfermería su implementación, aplicación, monitoreo, supervisión y cumplimiento; deja sin efecto los actos resolutivos que se opongan a la resolución y dispone su publicación en el Portal de Transparencia del INCN.",
+  "keywords": [
+    "INCN",
+    "enfermería",
+    "movilización temprana",
+    "paciente postoperado",
+    "seguridad del paciente",
+    "guía técnica de procedimiento",
+    "cuidados hospitalarios",
+    "rehabilitación"
+  ],
+  "related_pdf": "rd-491-2025-dg-incn.pdf",
+  "page_count": 22,
+  "source_type": "documento_normativo_institucional",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "contenido_parcial_verificado",
+  "verified_content": {
+    "document_heading": "Resolución Directoral",
+    "date_on_document": "Lima, 03 de diciembre de 2025",
+    "approved_document": "Guía Técnica de Procedimiento: Movilización Temprana en Pacientes Post Operado",
+    "articles": [
+      {
+        "article": 1,
+        "action": "Aprobar la guía técnica indicada, que forma parte integrante de la resolución."
+      },
+      {
+        "article": 2,
+        "action": "Encargar al Departamento de Enfermería la implementación, aplicación, monitoreo, supervisión y cumplimiento."
+      },
+      {
+        "article": 3,
+        "action": "Dejar sin efecto los actos resolutivos que se opongan o contravengan la resolución."
+      },
+      {
+        "article": 4,
+        "action": "Disponer la publicación y difusión en el Portal de Transparencia del INCN."
+      }
+    ]
+  },
+  "verification_notes": [
+    "Los metadatos y el resumen se basan en el texto extraído de las páginas 1 a 4 del PDF adjunto.",
+    "El documento contiene 22 páginas; no se ha verificado aquí el contenido íntegro de la guía técnica incorporada.",
+    "El número de resolución aparece parcialmente degradado por OCR en algunas páginas; el nombre del archivo indica RD-491-2025-DG-INCN y debe contrastarse con la imagen original de la portada antes de marcarlo como verificación oficial.",
+    "No se ha comprobado una URL oficial ni la vigencia normativa externa.",
+    "Contrastar este esquema con el formato exacto consumido por SIP-AI-RAG antes de incorporarlo al repositorio."
+  ]
+}
