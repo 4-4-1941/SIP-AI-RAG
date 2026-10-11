@@ -1,0 +1,25 @@
+{
+  "document_id": "rm-682-2025-minsa",
+  "file_name": "resolucion-ministerial-n-682-2025-minsa.pdf",
+  "title": "Resolución Ministerial N.° 682-2025-MINSA",
+  "document_type": "resolucion_ministerial",
+  "issuing_entity": "Ministerio de Salud del Perú (MINSA)",
+  "resolution_number": "682-2025-MINSA",
+  "year": 2025,
+  "language": "es",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "publication_date": null,
+  "subject": null,
+  "keywords": [],
+  "summary": null,
+  "validity_status": "no_verificado",
+  "related_pdf": "resolucion-ministerial-n-682-2025-minsa.pdf",
+  "extraction_status": "pendiente",
+  "verification_notes": [
+    "Metadatos preliminares construidos únicamente a partir del nombre del archivo.",
+    "El contenido íntegro del PDF no pudo extraerse en esta sesión.",
+    "No completar asunto, fecha de publicación, resumen, palabras clave ni vigencia sin revisar el documento original.",
+    "Contrastar este esquema con el formato exacto consumido por SIP-AI-RAG antes de incorporarlo al repositorio."
+  ]
+}
