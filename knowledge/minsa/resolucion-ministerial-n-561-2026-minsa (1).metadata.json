@@ -1,0 +1,35 @@
+{
+  "document_id": "rm-561-2026-minsa",
+  "file_name": "resolucion-ministerial-n-561-2026-minsa (1).pdf",
+  "title": "Resolución Ministerial N.° 561-2026/MINSA",
+  "document_type": "resolucion_ministerial",
+  "issuing_entity": "Ministerio de Salud del Perú (MINSA)",
+  "resolution_number": "561-2026-MINSA",
+  "year": 2026,
+  "publication_date": null,
+  "language": "es",
+  "subject": "Aprueba la NTS N.° 246-MINSA/DGIESP-2026, Norma Técnica de Salud que establece el Esquema Nacional de Inmunizaciones",
+  "summary": "Art. 1: aprueba la NTS 246-MINSA/DGIESP-2026. Art. 2: deja sin efecto las RM N.° 884-2022/MINSA, 099-2023/MINSA, 218-2024/MINSA, 474-2025/MINSA, 709-2025/MINSA y 403-2026/MINSA. Art. 3: encarga su publicación en la sede digital del MINSA (p.3).",
+  "keywords": [
+    "esquema nacional de inmunizaciones",
+    "NTS 246",
+    "vacunas",
+    "deroga resoluciones"
+  ],
+  "related_pdf": "resolucion-ministerial-n-561-2026-minsa (1).pdf",
+  "page_count": 3,
+  "sha256": "075b876e5343f29ba71be50d54109d12feaa3af34659178f889c7a768203c925",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "escaneado_ocr_completo",
+  "verified_content": {
+    "p.3": "Artículos 1, 2 y 3"
+  },
+  "verification_notes": [
+    "Metadatos extraídos de las primeras páginas del PDF el 11-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "La fecha no se leyó por OCR en el PDF. El archivo nts-246-minsa-dgiesp-2026.md del repo registra 13 de junio de 2026 desde gob.pe; no se re-verificó aquí.",
+    "El PDF trae solo la resolución (3 págs.); la NTS está en los archivos parte-1 y parte-2."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre."
+}

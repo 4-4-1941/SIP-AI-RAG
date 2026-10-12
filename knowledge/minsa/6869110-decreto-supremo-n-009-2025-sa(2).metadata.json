@@ -1,0 +1,37 @@
+{
+  "document_id": "ds-009-2025-sa",
+  "file_name": "6869110-decreto-supremo-n-009-2025-sa(2).pdf",
+  "title": "Decreto Supremo N.° 009-2025-SA",
+  "document_type": "decreto_supremo",
+  "issuing_entity": "Poder Ejecutivo / Ministerio de Salud del Perú",
+  "decree_number": "009-2025-SA",
+  "year": 2025,
+  "publication_date": null,
+  "language": "es",
+  "subject": "Aprueba el Reglamento de la Ley N.° 31756, Ley que promueve la donación de órganos y tejidos humanos para trasplante con fines terapéuticos",
+  "summary": "Decreto Supremo que aprueba el Reglamento de la Ley N.° 31756. En los considerandos (pp.1-2) cita la Ley General de Salud (Ley 26842) y establece que la autorización para extraer y procesar órganos y tejidos de donante cadavérico se presume, salvo declaración del titular o excepción de la Ley.",
+  "keywords": [
+    "donación de órganos",
+    "trasplante",
+    "Ley 31756",
+    "reglamento",
+    "bioética"
+  ],
+  "related_pdf": "6869110-decreto-supremo-n-009-2025-sa(2).pdf",
+  "page_count": 28,
+  "sha256": "f5bb61475310b36ca2a79150895ab1ba2adf44f03dabd9702a5132c3b8a90abf",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "escaneado_ocr_parcial",
+  "verified_content": {
+    "pp.1-2": "Título del decreto y considerandos leídos por OCR; la fecha de publicación y el articulado no se leyeron"
+  },
+  "verification_notes": [
+    "Metadatos extraídos de las primeras páginas del PDF el 11-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "PDF escaneado (sin texto): solo se leyeron por OCR las páginas 1 y 2.",
+    "No se leyó la fecha de publicación ni el articulado (28 págs.).",
+    "El nombre del archivo empieza con un número tipo gob.pe y termina en «(2)»: es una copia repetida; no se verificó el enlace oficial."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre."
+}

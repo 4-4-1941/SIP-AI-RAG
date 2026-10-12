@@ -1,0 +1,40 @@
+{
+  "document_id": "nts-246-minsa-dgiesp-2026-parte-1",
+  "file_name": "nts-n-246-minsa-digiesp-2026-parte-1 (1).pdf",
+  "title": "NTS N.° 246-MINSA/DGIESP-2026, Norma Técnica de Salud que establece el Esquema Nacional de Inmunizaciones (parte 1)",
+  "document_type": "norma_tecnica_salud",
+  "issuing_entity": "Ministerio de Salud del Perú — DGIESP",
+  "technical_standard_number": "246-MINSA/DGIESP-2026",
+  "year": 2026,
+  "publication_date": null,
+  "language": "es",
+  "subject": "Esquema Nacional de Inmunizaciones por curso de vida",
+  "summary": "Parte 1 (97 págs.). Finalidad: contribuir a disminuir la morbimortalidad por enfermedades inmunoprevenibles. Objetivo general: establecer el esquema nacional de inmunizaciones por curso de vida (p.1). Aprobada por la RM N.° 561-2026-MINSA (ver el JSON de esa resolución).",
+  "keywords": [
+    "inmunizaciones",
+    "esquema nacional",
+    "vacunas",
+    "curso de vida",
+    "NTS 246",
+    "DGIESP"
+  ],
+  "related_pdf": "nts-n-246-minsa-digiesp-2026-parte-1 (1).pdf",
+  "page_count": 97,
+  "sha256": "c5b99b342967d8d0820ac2427fc4551bf435a8a9ba40a9894bf7b93784ecd6b4",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "escaneado_ocr_parcial",
+  "verified_content": {
+    "p.1": "Título, finalidad, objetivos y ámbito de aplicación",
+    "pp.2-3": "Base legal"
+  },
+  "verification_notes": [
+    "Metadatos extraídos de las primeras páginas del PDF el 11-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "PDF escaneado: solo se leyeron por OCR las páginas 1 a 3.",
+    "El nombre del archivo escribe «digiesp»; el documento dice «DGIESP».",
+    "No inferir vacunas, dosis, edades ni intervalos sin leer la página exacta.",
+    "Parte 2 está en un archivo aparte; empieza en el Anexo 8."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre."
+}

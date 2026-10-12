@@ -1,0 +1,39 @@
+{
+  "document_id": "nts-238-minsa-dgiesp-2025-parte-1",
+  "file_name": "nts-n-238-minsa-dgiesp-2025-parte-1.pdf",
+  "title": "NTS N.° 238-MINSA/DGIESP-2025, Norma Técnica de Salud para el Control de Crecimiento y Desarrollo del Niño (parte 1)",
+  "document_type": "norma_tecnica_salud",
+  "issuing_entity": "Ministerio de Salud del Perú — DGIESP",
+  "technical_standard_number": "238-MINSA/DGIESP-2025",
+  "year": 2025,
+  "publication_date": null,
+  "language": "es",
+  "subject": "Control de crecimiento y desarrollo (CRED) del niño de 0 hasta 11 años, 11 meses y 29 días",
+  "summary": "Parte 1 (68 págs.) de la NTS. Finalidad: contribuir a mejorar el estado de salud, nutrición y desarrollo del niño de 0 a 11 años, 11 meses y 29 días; objetivo: establecer las disposiciones técnicas y administrativas del control CRED; aplicación obligatoria en establecimientos de salud públicos, privados y mixtos (p.1).",
+  "keywords": [
+    "CRED",
+    "crecimiento y desarrollo",
+    "niño",
+    "norma técnica de salud",
+    "DGIESP",
+    "consejería"
+  ],
+  "related_pdf": "nts-n-238-minsa-dgiesp-2025-parte-1.pdf",
+  "page_count": 68,
+  "sha256": "3206143b4ebf0351a3d579babf3be828eac136a339c04bd84a7e4bd42e48e869",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "escaneado_ocr_parcial",
+  "verified_content": {
+    "p.1": "Título, finalidad, objetivo y ámbito de aplicación",
+    "p.2": "Base legal (D.S. 007-2020-SA, Ley de Salud Mental, entre otros)"
+  },
+  "verification_notes": [
+    "Metadatos extraídos de las primeras páginas del PDF el 11-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "PDF escaneado: solo se leyeron por OCR las páginas 1 a 3.",
+    "El número «238» y el año salen del nombre del archivo; el sello del encabezado no se leyó con claridad por OCR.",
+    "Es la parte 1: falta confirmar si existe una parte 2 (anexos) y la resolución ministerial que la aprueba."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre."
+}

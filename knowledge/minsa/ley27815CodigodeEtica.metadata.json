@@ -1,0 +1,35 @@
+{
+  "document_id": "ley-27815-codigo-etica-funcion-publica",
+  "file_name": "ley27815CodigodeEtica.pdf",
+  "title": "Ley N.° 27815, Ley del Código de Ética de la Función Pública",
+  "document_type": "ley",
+  "issuing_entity": "Congreso de la República del Perú",
+  "law_number": "27815",
+  "year": null,
+  "publication_date": null,
+  "language": "es",
+  "subject": "Código de Ética de la Función Pública",
+  "summary": "Texto de la Ley 27815 con concordancias (p.1: R.C. N.° 368-2003-CG). Inicia con el Capítulo I, De la función pública, y el Artículo 1, Ámbito de aplicación.",
+  "keywords": [
+    "ética pública",
+    "función pública",
+    "Ley 27815",
+    "servidor público"
+  ],
+  "related_pdf": "ley27815CodigodeEtica.pdf",
+  "page_count": 5,
+  "sha256": "8035e4b424508001a055363f43856a37ee73fb3102a65380f6c739df7708c836",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "texto_extraible_parcial_verificado",
+  "verified_content": {
+    "p.1": "Título, concordancia R.C. 368-2003-CG, Capítulo I, Art. 1"
+  },
+  "verification_notes": [
+    "Metadatos extraídos de las primeras páginas del PDF el 11-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "El año de la ley no figura en las páginas leídas; no se completó.",
+    "No se verificaron modificatorias ni vigencia."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre."
+}

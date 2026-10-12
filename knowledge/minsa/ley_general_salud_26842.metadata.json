@@ -1,0 +1,35 @@
+{
+  "document_id": "ley-26842-general-de-salud",
+  "file_name": "ley_general_salud_26842.pdf",
+  "title": "Ley N.° 26842, Ley General de Salud",
+  "document_type": "ley",
+  "issuing_entity": "Congreso de la República del Perú",
+  "law_number": "26842",
+  "year": null,
+  "publication_date": null,
+  "language": "es",
+  "subject": "Ley General de Salud",
+  "summary": "Texto de la Ley General de Salud: contenido por títulos (Título Preliminar; Título Primero: derechos, deberes y responsabilidades concernientes a la salud individual; Título Segundo, etc.) en la p.1.",
+  "keywords": [
+    "Ley General de Salud",
+    "derechos del paciente",
+    "salud individual",
+    "salud pública"
+  ],
+  "related_pdf": "ley_general_salud_26842.pdf",
+  "page_count": 20,
+  "sha256": "6de6f99f6f9301a4f4634820c4e1dcb0bddcbe7f5b6f4d9496b08c0c4c635f9d",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "texto_extraible_parcial_verificado",
+  "verified_content": {
+    "p.1": "Título y contenido por títulos"
+  },
+  "verification_notes": [
+    "Metadatos extraídos de las primeras páginas del PDF el 11-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "El año de la ley no figura en las páginas leídas; no se completó.",
+    "Versión «solo textos» (metadato del PDF): no se verificó si incluye todas las modificatorias."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre."
+}

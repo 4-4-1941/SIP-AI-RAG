@@ -1,0 +1,37 @@
+{
+  "document_id": "nts-246-minsa-dgiesp-2026-parte-2",
+  "file_name": "nts-n-246-minsa-digiesp-2026-parte-2 (1).pdf",
+  "title": "NTS N.° 246-MINSA/DGIESP-2026, Esquema Nacional de Inmunizaciones (parte 2: desde el Anexo 8)",
+  "document_type": "norma_tecnica_salud",
+  "issuing_entity": "Ministerio de Salud del Perú — DGIESP",
+  "technical_standard_number": "246-MINSA/DGIESP-2026",
+  "year": 2026,
+  "publication_date": null,
+  "language": "es",
+  "subject": "Anexos de la NTS 246-2026, a partir del Anexo 8: tasa de ESAVI severos atribuidos a la vacunación y tiempo de aparición",
+  "summary": "Parte 2 (43 págs.). Empieza con el Anexo 8, «Tasa de ESAVI severos atribuidos a la vacunación y tiempo de aparición», con notas a pie sobre relación temporal y causal (pp.1-2).",
+  "keywords": [
+    "ESAVI",
+    "eventos supuestamente atribuidos a vacunación",
+    "anexos",
+    "inmunizaciones",
+    "NTS 246"
+  ],
+  "related_pdf": "nts-n-246-minsa-digiesp-2026-parte-2 (1).pdf",
+  "page_count": 43,
+  "sha256": "544ade98a970e3f4e1cfcc852f30dca1f9dcbbdfecc3e0dd2b2afec01c5d0569",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "escaneado_ocr_parcial",
+  "verified_content": {
+    "p.1": "Anexo 8 y su tabla (lectura OCR con ruido)",
+    "p.2": "Notas a) a f) del Anexo 8"
+  },
+  "verification_notes": [
+    "Metadatos extraídos de las primeras páginas del PDF el 11-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "PDF escaneado: solo se leyeron por OCR las páginas 1 y 2; la tabla del Anexo 8 salió con ruido y no debe citarse sin ver la imagen.",
+    "Un encabezado de la p.2 se lee como «2025» por OCR; el resto del documento dice 2026."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre."
+}

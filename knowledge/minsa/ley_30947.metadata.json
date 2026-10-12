@@ -1,0 +1,35 @@
+{
+  "document_id": "ley-30947-salud-mental",
+  "file_name": "ley_30947.pdf",
+  "title": "Ley N.° 30947, Ley de Salud Mental",
+  "document_type": "ley",
+  "issuing_entity": "Congreso de la República del Perú",
+  "law_number": "30947",
+  "year": 2019,
+  "publication_date": "2019-05-23",
+  "language": "es",
+  "subject": "Ley de Salud Mental",
+  "summary": "Ley de Salud Mental. Capítulo I, Disposiciones generales; Artículo 1, Objeto: establecer el marco legal para garantizar el acceso a servicios de salud mental (p.1).",
+  "keywords": [
+    "salud mental",
+    "Ley 30947",
+    "acceso a servicios",
+    "derechos"
+  ],
+  "related_pdf": "ley_30947.pdf",
+  "page_count": 9,
+  "sha256": "adba2f56be645237c8685c2aa203bc697979790aaa8febc2e1a1cd9f6add9e90",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "texto_extraible_parcial_verificado",
+  "verified_content": {
+    "p.1": "Firma digital de Editora Perú con fecha 23/05/2019; título y Art. 1"
+  },
+  "verification_notes": [
+    "Metadatos extraídos de las primeras páginas del PDF el 11-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "La fecha 2019-05-23 sale de la firma digital de Editora Perú en el encabezado de la página 1.",
+    "No se verificó vigencia ni modificatorias."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre."
+}

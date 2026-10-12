@@ -1,0 +1,35 @@
+{
+  "document_id": "cioms-2016-pautas-eticas",
+  "file_name": "CIOMS-EthicalGuideline_SP_WEB.pdf",
+  "title": "Pautas éticas internacionales para la investigación relacionada con la salud con seres humanos",
+  "document_type": "guia_internacional",
+  "issuing_entity": "CIOMS (Consejo de Organizaciones Internacionales de las Ciencias Médicas) con la OMS",
+  "year": 2016,
+  "publication_date": null,
+  "language": "es",
+  "subject": "Pautas éticas internacionales para la investigación en salud con seres humanos (versión en español, Ginebra 2016)",
+  "summary": "Documento internacional elaborado por CIOMS en colaboración con la OMS. La portada indica Ginebra, 2016. No es una norma peruana.",
+  "keywords": [
+    "CIOMS",
+    "ética de la investigación",
+    "seres humanos",
+    "pautas éticas",
+    "OMS"
+  ],
+  "related_pdf": "CIOMS-EthicalGuideline_SP_WEB.pdf",
+  "page_count": 152,
+  "sha256": "f99a2cc07d25547fc1f5a02faf815f91799e583ea529b9748ddffe855a94ebeb",
+  "source_type": "documento_internacional_no_normativo_peruano",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "texto_extraible_parcial_verificado",
+  "verified_content": {
+    "p.1": "Título, CIOMS/OMS, Ginebra 2016"
+  },
+  "verification_notes": [
+    "Metadatos extraídos de las primeras páginas del PDF el 11-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "Solo se leyeron las páginas 1-2; el contenido de las pautas no se revisó.",
+    "Documento internacional: no citarlo como norma del MINSA."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre."
+}

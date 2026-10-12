@@ -1,0 +1,35 @@
+{
+  "document_id": "diresa-junin-ppt-nt-018-referencia",
+  "file_name": "Sistema de referencia y contrareferencia.pdf",
+  "title": "Presentación DIRESA Junín: Norma Técnica del Sistema de Referencia y Contrarreferencia (NT N.° 018-MINSA/DGSP-V.01)",
+  "document_type": "presentacion_institucional",
+  "issuing_entity": "Dirección Regional de Salud de Junín — Dirección Ejecutiva de Salud de las Personas",
+  "year": null,
+  "publication_date": null,
+  "language": "es",
+  "subject": "Presentación sobre la NT N.° 018-MINSA/DGSP-V.01 «Norma Técnica del Sistema de Referencia y Contrarreferencia de los Establecimientos del Ministerio de Salud»",
+  "summary": "Presentación de PowerPoint (25 págs.) de la DIRESA Junín sobre la NT 018-MINSA/DGSP-V.01. NO es el texto de la norma.",
+  "keywords": [
+    "referencia",
+    "contrarreferencia",
+    "NT 018-MINSA/DGSP-V.01",
+    "DIRESA Junín"
+  ],
+  "related_pdf": "Sistema de referencia y contrareferencia.pdf",
+  "page_count": 25,
+  "sha256": "589bdca57c287d39fe618430ccbe80adb51c613f9dc2291afcaec624a7b0938a",
+  "source_type": "presentacion_institucional_no_normativa",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "texto_extraible_parcial_verificado",
+  "verified_content": {
+    "p.1": "Título, entidad y número de la norma citada"
+  },
+  "verification_notes": [
+    "Metadatos extraídos de las primeras páginas del PDF el 11-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "Es una presentación de una DIRESA, no la norma. No usarla como fuente normativa.",
+    "Falta conseguir el texto oficial de la NT 018-MINSA/DGSP-V.01 y verificar su vigencia.",
+    "No se vio año ni fecha de la presentación."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre."
+}

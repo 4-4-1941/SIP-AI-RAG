@@ -1,0 +1,38 @@
+{
+  "document_id": "rm-233-2020-minsa-etica-investigacion",
+  "file_name": "rm_233-2020-minsa.pdf",
+  "title": "Documento técnico: Consideraciones éticas para la investigación en salud con seres humanos (RM N.° 233-2020/MINSA)",
+  "document_type": "documento_tecnico_con_resolucion",
+  "issuing_entity": "Ministerio de Salud del Perú — con el Instituto Nacional de Salud",
+  "resolution_number": "233-2020-MINSA",
+  "year": 2020,
+  "publication_date": null,
+  "language": "es",
+  "subject": "Consideraciones éticas para la investigación en salud con seres humanos",
+  "summary": "Documento técnico de 17 págs. con contenidos: introducción, finalidad, objetivos, base legal, ámbito, consideraciones éticas (7.1 investigación en salud con seres humanos; 7.2 Comités de Ética en Investigación). La p.17 contiene el «Se resuelve» que aprueba el documento técnico (Art. 1) y el Art. 2 sobre el INS.",
+  "keywords": [
+    "ética de la investigación",
+    "seres humanos",
+    "comités de ética",
+    "INS",
+    "documento técnico"
+  ],
+  "related_pdf": "rm_233-2020-minsa.pdf",
+  "page_count": 17,
+  "sha256": "f724b6b652c1d8c8498a7fd2756684a645731de0e0eab14d8c47b85b2f823f27",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "escaneado_ocr_parcial",
+  "verified_content": {
+    "p.2": "Contenidos",
+    "p.16": "Cita el Informe 314-2020-OGAJ/MINSA",
+    "p.17": "SE RESUELVE, Art. 1 y 2"
+  },
+  "verification_notes": [
+    "Metadatos extraídos de las primeras páginas del PDF el 11-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "El número 233-2020 y el año salen del nombre del archivo; no se leyeron en las páginas con OCR.",
+    "No se leyó la fecha de la resolución."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre."
+}

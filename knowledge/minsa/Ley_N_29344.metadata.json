@@ -1,0 +1,37 @@
+{
+  "document_id": "ley-29344-aseguramiento-universal",
+  "file_name": "Ley_N_29344.pdf",
+  "title": "Ley N.° 29344, Ley Marco de Aseguramiento Universal en Salud",
+  "document_type": "ley",
+  "issuing_entity": "Congreso de la República del Perú",
+  "law_number": "29344",
+  "year": 2009,
+  "publication_date": "2009-04-09",
+  "language": "es",
+  "subject": "Ley Marco de Aseguramiento Universal en Salud",
+  "summary": "Extracto de 4 páginas del diario oficial El Peruano del jueves 9 de abril de 2009 (p.1) que contiene el inicio de la Ley 29344 (Capítulo I, Disposiciones generales, Art. 1 Objeto).",
+  "keywords": [
+    "aseguramiento universal",
+    "Ley 29344",
+    "AUS",
+    "SIS",
+    "seguro de salud"
+  ],
+  "related_pdf": "Ley_N_29344.pdf",
+  "page_count": 4,
+  "sha256": "eee7813dd821c800d40f547688547b6afd00ed8ed19aab703e4bed40557078f0",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "texto_extraible_parcial_verificado",
+  "verified_content": {
+    "p.1": "Encabezado de El Peruano, Lima, jueves 9 de abril de 2009",
+    "pp.1-2": "Texto «LEY MARCO DE ASEGURAMIENTO UNIVERSAL EN SALUD, Capítulo I, Artículo 1»"
+  },
+  "verification_notes": [
+    "Metadatos extraídos de las primeras páginas del PDF el 11-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "La fecha 2009-04-09 es la del diario donde aparece la ley, tomada del encabezado.",
+    "No se verificó que las 4 páginas contengan la ley completa ni su vigencia actual (modificatorias)."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre."
+}

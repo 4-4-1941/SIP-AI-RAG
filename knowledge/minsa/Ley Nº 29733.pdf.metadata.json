@@ -1,0 +1,37 @@
+{
+  "document_id": "ley-29733-datos-personales",
+  "file_name": "Ley Nº 29733.pdf.pdf",
+  "title": "Ley N.° 29733, Ley de Protección de Datos Personales, y su Reglamento (D.S. N.° 003-2013-JUS)",
+  "document_type": "ley_con_reglamento_compilado",
+  "issuing_entity": "Congreso de la República / Poder Ejecutivo (compilación de Editora Perú)",
+  "law_number": "29733",
+  "year": null,
+  "publication_date": null,
+  "language": "es",
+  "subject": "Ley de Protección de Datos Personales y su Reglamento aprobado por Decreto Supremo N.° 003-2013-JUS",
+  "summary": "Compilación «Normas Legales Actualizadas» de Editora Perú (p.1) con el texto de la Ley 29733 y de su Reglamento, D.S. 003-2013-JUS.",
+  "keywords": [
+    "protección de datos personales",
+    "Ley 29733",
+    "reglamento",
+    "datos de salud",
+    "privacidad"
+  ],
+  "related_pdf": "Ley Nº 29733.pdf.pdf",
+  "page_count": 31,
+  "sha256": "eff8ffa8ef16ce6a5aabeca62bd5f09384684205e888464bb24a734c206ecdcd",
+  "source_type": "documento_normativo_oficial_compilado",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "texto_extraible_parcial_verificado",
+  "verified_content": {
+    "p.1": "Portada: Ley 29733 y Reglamento D.S. 003-2013-JUS (Editora Perú)"
+  },
+  "verification_notes": [
+    "Metadatos extraídos de las primeras páginas del PDF el 11-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "El año de la Ley 29733 no figura en las páginas leídas; no se completó.",
+    "El archivo tiene doble extensión (.pdf.pdf); conviene renombrarlo a «Ley N° 29733.pdf» junto con este JSON.",
+    "Compilación de editorial: la versión vigente debe contrastarse con la fuente oficial."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre."
+}

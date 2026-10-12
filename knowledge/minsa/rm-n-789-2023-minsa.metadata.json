@@ -1,0 +1,37 @@
+{
+  "document_id": "rm-789-2023-minsa",
+  "file_name": "rm-n-789-2023-minsa.pdf",
+  "title": "Resolución Ministerial N.° 789-2023/MINSA (con la NTS N.° 203-MINSA/DGIESP-2023)",
+  "document_type": "resolucion_ministerial_con_anexo_nts",
+  "issuing_entity": "Ministerio de Salud del Perú (MINSA)",
+  "resolution_number": "789-2023-MINSA",
+  "year": 2023,
+  "publication_date": null,
+  "language": "es",
+  "subject": "Aprueba la NTS N.° 203-MINSA/DGIESP-2023, Norma Técnica de Salud para el Cuidado Integral de Salud de las Personas Adultas Mayores",
+  "summary": "Art. 1: aprueba la NTS 203-MINSA/DGIESP-2023 para el cuidado integral de salud de las personas adultas mayores. Art. 2: deroga la RM 529-2006/MINSA que aprobó la NTS 043-MINSA/DGSP-V.01. Art. 3: encarga su publicación en la sede digital. El PDF (78 págs.) incluye la NTS como anexo.",
+  "keywords": [
+    "adulto mayor",
+    "NTS 203",
+    "cuidado integral",
+    "persona adulta mayor",
+    "DGIESP"
+  ],
+  "related_pdf": "rm-n-789-2023-minsa.pdf",
+  "page_count": 78,
+  "sha256": "87438a8fe2a50bbfd186dab178b27aad48adf62988c8bbbd0df23118a6fd7aaf",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "validity_status": "no_verificado_en_fuente_externa",
+  "extraction_status": "texto_extraible_con_espacios_rotos",
+  "verified_content": {
+    "pp.1-3": "Visto y Artículos 1 a 3"
+  },
+  "verification_notes": [
+    "Metadatos extraídos de las primeras páginas del PDF el 11-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "El texto extraído tiene palabras pegadas; revisar la página exacta antes de citar.",
+    "El número 203 sale del texto de la RM («NTS N°203»); la fecha de la RM no se leyó.",
+    "No se revisó el contenido de la NTS (anexo)."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre."
+}
