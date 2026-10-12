@@ -1,0 +1,67 @@
+{
+  "document_id": "dl-1490-fortalece-alcances-telesalud",
+  "file_name": "Decreto_Legislativo_1490 Telesalud.pdf",
+  "title": "Decreto Legislativo N.° 1490, Decreto Legislativo que fortalece los alcances de la telesalud",
+  "document_type": "decreto_legislativo",
+  "issuing_entity": "Poder Ejecutivo del Perú (Presidencia de la República)",
+  "legislative_decree_number": "1490",
+  "year": 2020,
+  "publication_date": "2020-05-10",
+  "language": "es",
+  "subject": "Fortalecimiento de los alcances de la telesalud; modifica los artículos 2 y 3 de la Ley N.° 30421, Ley Marco de Telesalud",
+  "summary": "Objeto: fortalecer los alcances de la telesalud (Art. 1, p.2). Modifica el ámbito de aplicación (Ley 30421, art. 2) y las definiciones de telesalud, telemedicina, teleconsulta, teleinterconsulta, teleorientación, telemonitoreo e interoperabilidad (Ley 30421, art. 3) (p.2-3). Establece los tipos de telemedicina (Art. 4), reglas de prescripción y receta electrónica (Art. 5), condiciones del servicio con supervisión de SUSALUD (Art. 6), implementación por IPRESS y obligatoriedad de telemonitoreo, teleorientación y telegestión en emergencia nacional o alerta roja (Art. 7), consentimiento informado (Art. 8), protección de datos personales (Art. 9), datos abiertos (Art. 10), Red Nacional de Telesalud (Art. 11), financiamiento (Art. 12) y refrendo (Art. 13) (p.3). Disposiciones complementarias finales: gratuidad de acceso, canal digital gob.pe/telesalud y reglamentación en 15 días (p.3).",
+  "keywords": [
+    "telesalud",
+    "telemedicina",
+    "teleconsulta",
+    "teleinterconsulta",
+    "teleorientación",
+    "telemonitoreo",
+    "receta electrónica",
+    "consentimiento informado",
+    "protección de datos personales",
+    "Red Nacional de Telesalud",
+    "IPRESS",
+    "COVID-19",
+    "Ley 30421",
+    "Decreto Legislativo 1490"
+  ],
+  "related_pdf": "Decreto_Legislativo_1490 Telesalud.pdf",
+  "page_count": 3,
+  "sha256": "625bbb10fe4ec050107d7ecf0c3927fa0e86d0a26d197ebd7cdec1e36737e942",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "official_gazette": "El Peruano, Normas Legales, domingo 10 de mayo de 2020, págs. 20-22 de la edición (código 1866212-2)",
+  "validity_status": "vigente_verificado_con_normas_complementarias",
+  "extraction_status": "texto_extraible_completo_verificado",
+  "related_norms_cited": [
+    "Ley N.° 30421, Ley Marco de Telesalud (modificada en sus artículos 2 y 3 por este decreto)",
+    "Decreto Legislativo N.° 1303 (citado como modificatoria de la Ley 30421)",
+    "Decreto Supremo N.° 003-2019-SA, reglamento anterior de la Ley 30421 (derogado por el D.S. 005-2021-SA, art. 3 del decreto)",
+    "Decreto Supremo N.° 005-2021-SA, reglamento de la Ley 30421 y de este decreto (ver su PDF en la misma carpeta)",
+    "Ley N.° 31011 (delegación de facultades legislativas)",
+    "Decreto Supremo N.° 008-2020-SA (Emergencia Sanitaria por COVID-19)"
+  ],
+  "verified_content": {
+    "p.1": "Firma digital de Editora Perú (10/05/2020). Contiene al inicio el final de OTRA norma (lenguas originarias, ajena a telesalud) y, desde la mitad, el encabezado y considerandos del Decreto Legislativo N.° 1490.",
+    "p.2": "Considerandos finales, Art. 1 (Objeto), Art. 2 (modifica art. 2 de la Ley 30421), Art. 3 (modifica art. 3 de la Ley 30421: definiciones), Art. 4 a 8 (tipos de telemedicina, prescripción, condiciones, implementación, consentimiento informado)",
+    "p.3": "Art. 9 a 13, disposiciones complementarias finales (primera a tercera), firmas y fecha (Dado en Lima, 9 de mayo de 2020); al final inicia el Decreto Legislativo N.° 1491 (ajeno a telesalud)"
+  },
+  "verification_notes": [
+    "Metadatos extraídos del texto completo del PDF (3 páginas) el 12-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "La fecha de publicación 2020-05-10 sale de la firma digital y del encabezado de El Peruano; la fecha de expedición es 9 de mayo de 2020 (p.1 y p.3).",
+    "El PDF mezcla texto de otras normas (final de la norma de lenguas originarias en p.1 e inicio del D.L. 1491 en p.3): no usar ese texto como contenido de este decreto.",
+    "El Art. 13 del texto dice 'Decreto Supremo' en lugar de 'Decreto Legislativo'; se conserva tal como figura en el original.",
+    "Vigencia contrastada con el D.S. 005-2021-SA y la R.M. 664-2025/MINSA del repositorio; el alcance está limitado a esas normas.",
+    "En el texto del decreto la reglamentación se atribuye a un decreto supremo; ese reglamento es el D.S. 005-2021-SA, expedido el 22-ene-2021."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre. No mezclar con el texto de otras normas que aparecen en las mismas páginas.",
+  "validity_evidence": [
+    "El D.S. 005-2021-SA (2021) lo reglamenta y confirma en sus considerandos que modificó la Ley 30421.",
+    "La R.M. 664-2025/MINSA (2025) se apoya en la Ley 30421 modificada y en el reglamento de este decreto."
+  ],
+  "validity_scope_limit": "Verificado solo contra las normas del repositorio, hasta la R.M. 664-2025/MINSA (2025). No se contrastó con El Peruano en línea ni con modificatorias posteriores.",
+  "cross_analysis": {
+    "ver": "Decreto Supremo N° 005-2021-SA.metadata.json (campo cross_analysis: jerarquía y correspondencia de artículos)"
+  }
+}

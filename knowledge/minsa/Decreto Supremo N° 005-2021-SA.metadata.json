@@ -1,0 +1,118 @@
+{
+  "document_id": "ds-005-2021-sa-reglamento-telesalud",
+  "file_name": "Decreto Supremo N° 005-2021-SA.pdf",
+  "title": "Decreto Supremo N.° 005-2021-SA, que aprueba el Reglamento de la Ley N.° 30421, Ley Marco de Telesalud, y del Decreto Legislativo N.° 1490, Decreto Legislativo que fortalece los alcances de la Telesalud",
+  "document_type": "decreto_supremo",
+  "issuing_entity": "Poder Ejecutivo del Perú (Ministerio de Salud)",
+  "decree_number": "005-2021-SA",
+  "year": 2021,
+  "publication_date": "2021-01-23",
+  "issue_date": "2021-01-22",
+  "language": "es",
+  "subject": "Reglamento de la Ley Marco de Telesalud (Ley 30421) y del D.L. 1490",
+  "summary": "Art. 1 del decreto aprueba el Reglamento (4 títulos, 16 capítulos, 47 artículos, 3 disposiciones complementarias finales y 3 transitorias); Art. 3 deroga el D.S. 003-2019-SA (p.1). Título I Generalidades: objeto, ámbito (todo el sector salud), definiciones, Política Nacional y Sectorial de Telesalud, Plan Nacional, Red Nacional y estándares de calidad (p.1-4). Título II Telesalud: condiciones de la prestación, del personal y de las TIC, organización de servicios, implementación, políticas, capacitación, consentimiento informado (Art. 19), confidencialidad y seguridad de la información, datos abiertos, interoperabilidad y responsabilidades del personal de salud (p.4-7). Título III Telemedicina y otros servicios: tipos, servicios, personal, registro de la prestación, prescripción de medicamentos (Art. 38), telegestión, información-educación-comunicación y telecapacitación (p.7-9). Título IV: financiamiento, calidad, supervisión, derechos en salud e interés nacional (p.9-10). Disposiciones finales: plazos de 90 días hábiles (documentos normativos), 180 días hábiles (Política Nacional) y 6 meses (implementación de telemedicina en IPRESS) (p.10). Transitorias: Receta Única Estandarizada, receta electrónica con firma electrónica en el sector público y firma manuscrita hasta implementar la firma digital en 2 años (p.10).",
+  "keywords": [
+    "telesalud",
+    "reglamento",
+    "telemedicina",
+    "teleconsulta",
+    "teleinterconsulta",
+    "telemonitoreo",
+    "telegestión",
+    "telecapacitación",
+    "receta electrónica",
+    "firma digital",
+    "consentimiento informado",
+    "interoperabilidad",
+    "Red Nacional de Telesalud",
+    "Política Nacional y Sectorial de Telesalud",
+    "Plan Nacional de Telesalud",
+    "IPRESS",
+    "DIRESA",
+    "DIRIS",
+    "Ley 30421",
+    "Decreto Legislativo 1490",
+    "DS 005-2021-SA"
+  ],
+  "related_pdf": "Decreto Supremo N° 005-2021-SA.pdf",
+  "page_count": 10,
+  "sha256": "22bb1d843d8b0418454ec3483039fb0eb28e20fc405b4efc27145591c724e068",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "official_gazette": "El Peruano, Normas Legales, sábado 23 de enero de 2021, págs. 23-32 de la edición (código 1922320-2); firma digital de Editora Perú 23/01/2021",
+  "signatories": "Francisco Rafael Sagasti Hochhausler (Presidente de la República); Pilar E. Mazzetti Soler (Ministra de Salud). Dado en Lima el 22 de enero de 2021.",
+  "validity_status": "vigente_verificado_con_normas_complementarias",
+  "validity_evidence": [
+    "El texto del propio decreto (Art. 3) deroga el D.S. 003-2019-SA y lo reemplaza como reglamento de la Ley 30421.",
+    "La R.M. N.° 664-2025/MINSA (NTS 235 Telesalud, 2025) lo cita en sus considerandos como el reglamento aplicable (Art. 4 sobre Política Nacional y Sectorial de Telesalud)."
+  ],
+  "validity_scope_limit": "Verificado solo contra las normas del repositorio, hasta la R.M. 664-2025/MINSA (2025). No se contrastó con El Peruano en línea ni con modificatorias posteriores.",
+  "extraction_status": "texto_extraible_completo_verificado",
+  "related_norms_cited": [
+    "Ley N.° 30421, Ley Marco de Telesalud (reglamentada)",
+    "Decreto Legislativo N.° 1490 (reglamentado; su Tercera Disposición Complementaria Final ordena este reglamento)",
+    "Decreto Legislativo N.° 1303 (citado como modificatoria de la Ley 30421)",
+    "Decreto Supremo N.° 003-2019-SA (derogado por el Art. 3 de este decreto)",
+    "Ley N.° 29158, Ley Orgánica del Poder Ejecutivo",
+    "Constitución Política del Perú, art. 118 numeral 8"
+  ],
+  "verified_content": {
+    "p.1 (ed. 23)": "Encabezado, considerandos, Art. 1 a 4 del decreto (aprobación, financiamiento, derogación del D.S. 003-2019-SA, refrendo); Título I, Art. 1 a 3 del Reglamento (inicio de definiciones)",
+    "p.2 (ed. 24)": "Continuación de definiciones y acrónimos (Art. 3)",
+    "p.3 (ed. 25)": "Art. 4 (Política Nacional y Sectorial) y Art. 5 (Plan Nacional de Telesalud)",
+    "p.4 (ed. 26)": "Art. 6 (Red Nacional), Art. 7 (estándares de calidad), Título II, Art. 8 y 9",
+    "p.5 (ed. 27)": "Art. 10 a 16 (condiciones, TIC, organización, servicios, implementación, formulación de políticas)",
+    "p.6 (ed. 28)": "Art. 17 a 25 (políticas, capacitación, consentimiento informado, confidencialidad, datos abiertos, seguridad)",
+    "p.7 (ed. 29)": "Art. 26 a 34 (responsabilidades, interoperabilidad, neutralidad tecnológica, personal de salud, tipos de telemedicina)",
+    "p.8 (ed. 30)": "Art. 35 a 38 (registro de la prestación, prescripción de medicamentos)",
+    "p.9 (ed. 31)": "Art. 39 a 45 (telegestión, IEC, telecapacitación, financiamiento, calidad, supervisión, derechos)",
+    "p.10 (ed. 32)": "Art. 47 (interés nacional), disposiciones complementarias finales y transitorias; al final inicia la R.M. 076-2021/MINSA (ajena a telesalud)"
+  },
+  "cross_analysis": {
+    "jerarquia_normativa": "Ley 30421 (2016) → D.L. 1490 (2020, modifica arts. 2 y 3 de la ley) → D.S. 005-2021-SA (2021, reglamenta ambas) → R.M. 664-2025/MINSA (2025, NTS 235 de Telesalud, se basa en estas normas).",
+    "correspondencias": [
+      {
+        "tema": "Incorporación de telesalud en la cartera de servicios de las IPRESS",
+        "ley_30421": "Art. 9",
+        "dl_1490": "Art. 7",
+        "ds_005_2021_sa": "Art. 14 y Disp. Compl. Final 3.ª"
+      },
+      {
+        "tema": "Red Nacional de Telesalud",
+        "dl_1490": "Art. 11",
+        "ds_005_2021_sa": "Art. 6"
+      },
+      {
+        "tema": "Consentimiento informado",
+        "dl_1490": "Art. 8",
+        "ds_005_2021_sa": "Art. 19"
+      },
+      {
+        "tema": "Datos abiertos",
+        "dl_1490": "Art. 10",
+        "ds_005_2021_sa": "Art. 21 y 22"
+      },
+      {
+        "tema": "Prescripción y receta electrónica",
+        "dl_1490": "Art. 5",
+        "ds_005_2021_sa": "Art. 38 y Disp. Compl. Transitorias 1.ª y 2.ª"
+      },
+      {
+        "tema": "Tipos de telemedicina",
+        "dl_1490": "Art. 4",
+        "ds_005_2021_sa": "Art. 31"
+      }
+    ],
+    "alertas_para_el_rag": [
+      "El D.S. 003-2019-SA ya no es el reglamento: fue derogado por este decreto. Citar siempre el D.S. 005-2021-SA.",
+      "Para definiciones de telesalud y telemedicina usar el texto de la Ley 30421 modificada por el D.L. 1490 (arts. 2 y 3), no el original de 2016.",
+      "Las disposiciones transitorias (receta única estandarizada, firma manuscrita) eran provisionales hasta que el Minsa implementara receta electrónica y firma digital; no afirmar que siguen en uso sin verificar normas posteriores."
+    ]
+  },
+  "verification_notes": [
+    "Metadatos extraídos del texto completo del PDF (10 páginas) el 12-oct-2026 con pdftotext.",
+    "La correspondencia de artículos entre D.L. 1490 y este reglamento se tomó de los títulos de artículo del PDF; verificar el texto exacto antes de citar un artículo concreto.",
+    "El PDF incluye al final texto de otra norma (R.M. 076-2021/MINSA): no usarlo como contenido de este decreto."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre. Para jerarquía y vigencia, citar la relación entre Ley 30421, D.L. 1490, este decreto y la R.M. 664-2025/MINSA."
+}

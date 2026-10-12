@@ -1,0 +1,61 @@
+{
+  "document_id": "ley-30421-marco-telesalud",
+  "file_name": "Ley Nº 3042 Telesalud.pdf",
+  "title": "Ley N.° 30421, Ley Marco de Telesalud",
+  "document_type": "ley",
+  "issuing_entity": "Congreso de la República del Perú",
+  "law_number": "30421",
+  "year": 2016,
+  "publication_date": "2016-04-02",
+  "language": "es",
+  "subject": "Ley Marco de Telesalud",
+  "summary": "Título preliminar: principios de la telesalud (universalidad, equidad, eficiencia, calidad del servicio, descentralización, desarrollo social) (p.1). Art. 1 objeto, Art. 2 ámbito de aplicación, Art. 3 definiciones (telesalud, telemedicina, interoperabilidad), Art. 4 Minsa como ente rector y Plan Nacional de Telesalud, Art. 5-7 Comisión Nacional de Telesalud (Conatel): creación, conformación y funciones (p.1-2). Art. 8 ejes de desarrollo, Art. 9 incorporación progresiva en la cartera de servicios de las IPRESS, Art. 10 financiamiento por IAFAS, Art. 11 interoperabilidad, Art. 12 seguridad de la información, Art. 13 fortalecimiento de capacidades (p.2-3 de la edición). Seis disposiciones complementarias finales, incluida la declaración de interés nacional y la reglamentación en 120 días (p.2).",
+  "keywords": [
+    "telesalud",
+    "Ley Marco de Telesalud",
+    "Ley 30421",
+    "Conatel",
+    "Plan Nacional de Telesalud",
+    "telemedicina",
+    "interoperabilidad",
+    "seguridad de la información",
+    "IPRESS",
+    "IAFAS",
+    "ente rector Minsa"
+  ],
+  "related_pdf": "Ley Nº 3042 Telesalud.pdf",
+  "page_count": 2,
+  "sha256": "d8576162989b1b120748e780ac0b8fd180c3f1f7cbc83ff1cc69ed7aaa807cf5",
+  "source_type": "documento_normativo_oficial",
+  "source_url": null,
+  "official_gazette": "El Peruano, Normas Legales, sábado 2 de abril de 2016, págs. 582202-582203 de la edición (código 1363168-1)",
+  "validity_status": "vigente_verificado_con_normas_complementarias",
+  "extraction_status": "texto_extraible_completo_verificado",
+  "related_norms_cited": [
+    "Decreto Legislativo N.° 1490 (modifica los artículos 2 y 3 de esta ley; ver su PDF en la misma carpeta)",
+    "Decreto Legislativo N.° 1303 (citado como modificatoria de esta ley)",
+    "Decreto Supremo N.° 005-2021-SA, reglamento vigente de esta ley (deroga al D.S. 003-2019-SA)",
+    "Decreto Supremo N.° 028-2005-MTC, Plan Nacional de Telesalud (vigente transitoriamente según la disposición complementaria tercera)",
+    "Artículo 108 de la Constitución Política del Perú (promulgación tras observaciones del Ejecutivo)"
+  ],
+  "verified_content": {
+    "p.1": "Título preliminar (principios), Título I Generalidades: Art. 1 a 6 (inicio de la conformación de Conatel)",
+    "p.2": "Fin del Art. 6, Art. 7 a 13 y disposiciones complementarias finales primera a sexta; fórmula de promulgación (Lima, 1 de abril de 2016) y firmas del Congreso"
+  },
+  "verification_notes": [
+    "Metadatos extraídos del texto completo del PDF (2 páginas) el 12-oct-2026; no se contrastaron con la fuente oficial en línea.",
+    "El texto del PDF es la versión original publicada en 2016. Según el Decreto Legislativo N.° 1490 (otro PDF de esta carpeta), los artículos 2 (ámbito) y 3 (definiciones) fueron reemplazados en 2020: para esos dos artículos, priorizar el texto del D.L. 1490.",
+    "La fecha 2016-04-02 sale del encabezado de El Peruano; la ley fue promulgada el 1 de abril de 2016 tras reconsideración del Congreso (p.2).",
+    "El nombre del archivo dice '3042' pero el contenido corresponde a la Ley N.° 30421; se conserva el nombre real del archivo en file_name y related_pdf.",
+    "Vigencia contrastada con D.L. 1490, D.S. 005-2021-SA y R.M. 664-2025/MINSA del repositorio; el alcance está limitado a esas normas."
+  ],
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre. Para los artículos 2 y 3 indicar que fueron modificados por el D.L. 1490 (2020).",
+  "validity_evidence": [
+    "El D.L. 1490 (2020) y el D.S. 005-2021-SA (2021) la modifican y reglamentan, por lo que sigue siendo la ley marco.",
+    "La R.M. 664-2025/MINSA (2025) cita su artículo 1 y el literal a) de su artículo 3 como base de la norma técnica de telesalud."
+  ],
+  "validity_scope_limit": "Verificado solo contra las normas del repositorio, hasta la R.M. 664-2025/MINSA (2025). No se contrastó con El Peruano en línea ni con modificatorias posteriores.",
+  "cross_analysis": {
+    "ver": "Decreto Supremo N° 005-2021-SA.metadata.json (campo cross_analysis: jerarquía y correspondencia de artículos)"
+  }
+}
