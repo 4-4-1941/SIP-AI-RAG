@@ -1,1 +1,34 @@
-
+{
+  "schema_version": "1.0",
+  "source": {
+    "filename": "Guía de Práctica Clínica para el Diagnóstico y Tratamiento de la Enfermedad de Membrana Hialina.pdf",
+    "relative_path": "Guía de Práctica Clínica para el Diagnóstico y Tratamiento de la Enfermedad de Membrana Hialina.pdf",
+    "format": "pdf",
+    "sha256": "a305e74f5d3b391771c65ec9b7490f88cd297aa53aba405140388f7f58607382"
+  },
+  "title": "Guía de Práctica Clínica para el Diagnóstico y Tratamiento de la Enfermedad de Membrana Hialina",
+  "page_count": 4,
+  "extraction": {
+    "method": "pypdf",
+    "text_characters": 4678,
+    "pages_with_little_or_no_text": []
+  },
+  "pages": [
+    {
+      "page": 1,
+      "text": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nGuía de Práctica Clínica para el diagnóstico \ny tratamiento de Enfermedad de \nMembrana Hialina \n - Versión extensa - \n \n \n \n \n \n \n \n \n \n \n \n \n \n     \n \n \n \nUNIDAD DE ANÁLISIS Y GENERACIÓN DE EVIDENCIAS EN \nSALUD PÚBLICA \nGUÍA DE PRÁCTICA CLÍNICA \nCiudad de Lima / Perú / octubre 2018 \n "
+    },
+    {
+      "page": 2,
+      "text": "Guía de Práctica Clínica para el Diagnóstico y Tratamiento de la Enfermedad de Membrana Hialina \nen Recién Nacidos \n  \n \n \nGRUPO ELABORADOR DE LA GUÍA \n \nGRUPO ELABORADOR DE GUÍAS DEL COMPONENTE NEONATAL DEL \nMINISTERIO DE SALUD-GUÍA DE PRÁCTICA CLÍNICA DE ENFERMEDAD DE \nMEMBRANA HIALINA\n \nLuis Andrés Tapia Monsalve \nMédico Cirujano \nEquipo Técnico del Componente  Neonatal \nDirección General de Intervenciones \nEstratégicas en Salud Pública \nMinisterio de Salud \n \n \nSonia Elena Hermoza del Pozo \nPediatra  \nJefa del Servicio de  Neonatología \nHospital María Auxiliadora \n \nLuz Hortencia Parra Galván  \nPediatra Neonatóloga \nMédico Auditor \nServicio de Neonatología \nHospital María Auxiliadora \n \n \nMilagro Aurora Raffo Neyra \nPediatra Neonatóloga \nSociedad Peruana de Pediatría \n \n \nMichael Soto Rodríguez \nPediatra Neonatólogo \nJefe del Servicio de Neonatología \nHospital Daniel Alcides Carrión \n \nRichard Yván Muñoz Carrasco \nPediatra \nHospital Nacional Dos de Mayo \n \nMarcos Francisco Polar Castillo \nPediatra  \nJefe del Servicio de Neonatología \nHospital Nacional Dos de Mayo \nGRUPO DE EXPERTOS METODOLÓGICOS \n \nKaren Viviana Huamán Sánchez \nLicenciada en Enfermería \nMetodóloga \nUnidad de Análisis y Generación de \nEvidencias en Salud Pública \nInstituto Nacional de Salud \n \n \nCelia Castillo Villacrez \nMedico Intensivista \nMagister en Epidemiología Clínica  \nMBA Administración en Salud \nMetodóloga \nUnidad de Análisis y Generación de \nEvidencias en Salud Pública \nInstituto Nacional de Salud \nPatricia Caballero Ñopo \nMetodóloga \nMédico Infectólogo \nMagister en Salud Pública \nResponsable de la  \nUnidad de Análisis y Generación de \nEvidencias en Salud Pública \nInstituto Nacional de Salud \n \nNora Reyes Puma \nMetodóloga  \nMédico Cirujano \nMagister en Salud Pública \nUnidad de Análisis y Generación de \nEvidencias en Salud Pública  \nInstituto Nacional de Salud "
+    },
+    {
+      "page": 3,
+      "text": "Guía de Práctica Clínica para el Diagnóstico y Tratamiento de la Enfermedad de Membrana Hialina \nen Recién Nacidos \n  \n \n \nPANEL DE EXPERTOS CLÍNICOS \nCarmen Rosa Dávila Aliaga \nPediatra Neonatóloga \nInstituto Nacional Materno Perinatal \n \nJulia Rosmary Hinojosa Pérez \nPediatra \nInstituto Nacional Materno Perinatal \n \nMaría del Pilar Medina Alva \nPediatra Neonatóloga \nInstituto Nacional Materno Perinatal \n \nFaye Aguilar Aguilar \nPediatra Neonatóloga \nInstituto Nacional de Salud del Niño-San \nBorja \n \nCarlos Alfonso Lomparte Ywanaga \nPediatra Neonatólogo \nInstituto Nacional de Salud del Niño- \nBreña \n \nCarlos Alberto Bazán Mendoza \nPediatra Neonatóloga \nHospital Nacional Docente Madre Niño \nSan Bartolomé \n \nJulio Cesar Sanchez Tonohuye \nNeonatólogo Pediatra \nHospital Nacional Santa Rosa \n \nRosario Inés López Alguiar \nNeonatóloga Pediatra \nHospital Nacional Arzobispo Loayza \n \nMaría Luz Rospigliosi López \nNeonatóloga \nHospital Nacional Cayetano Heredia \n \nSandra Cecilia Rado Peralta \nPediatra \nHospital Nacional Cayetano Heredia \n \nLilian Mercedes Díaz Regalado \nPediatra \nHospital Nacional San José \n \nMario Eduardo Izquierdo Hernandez \nMédico Cirujano \nResponsable del Componente  Neonatal \nDirección General de Intervenciones \nEstratégicas en Salud Pública \nMinisterio de Salud\nREPRESENTANTES DE LOS PACIENTES \n \nMadres de recién nacidos en cuidados intensivos neonatales  de Hospitales de Lima \nMetropolitana y Callao. \n \n \n \n \n \n \n "
+    },
+    {
+      "page": 4,
+      "text": "Guía de Práctica Clínica para el Diagnóstico y Tratamiento de la Enfermedad de Membrana Hialina \nen Recién Nacidos \n  \n \n \n \nGENERALIDADES DE LA GPC \n \nI. Alcance y objetivos de la GPC \nLa presente GPC aborda el diagnóstico y tratamiento de recién nacidos con enfermedad de \nmembrana hialina. \n \nII. Objetivo general \nBrindar recomendaciones informadas por la evidencia para el diagnóstico y tratamiento de \nrecién nacidos con enfermedad de membrana hialina. \n2.1. Objetivos Específicos \n- Determinar los parámetros diagnósticos de la enfermedad de membrana hialina en recién \nnacidos. \n- Determinar las intervenciones más efectivas y seguras para el tratamiento de la Enfermedad \nde Membrana Hialina. \nIII. Población y usuarios diana \n \nPoblación: La presente GPC presenta recomendaciones para el diagnóstico y tratamiento de \nrecién nacidos ≤ 36 SEG con enfermedad de membrana hialina. \n \nUsuarios: Esta GPC establece recome ndaciones que podrán ser utilizadas por: medico  \nasistencial a cargo de la atención del recién nacido. "
+    }
+  ]
+}

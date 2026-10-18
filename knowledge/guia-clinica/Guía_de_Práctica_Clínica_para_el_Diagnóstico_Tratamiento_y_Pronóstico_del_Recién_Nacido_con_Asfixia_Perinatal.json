@@ -1,1 +1,34 @@
-
+{
+  "schema_version": "1.0",
+  "source": {
+    "filename": "Guía de Práctica Clínica para el Diagnóstico, Tratamiento y Pronóstico del Recién Nacido con Asfixia Perinatal.pdf",
+    "relative_path": "Guía de Práctica Clínica para el Diagnóstico, Tratamiento y Pronóstico del Recién Nacido con Asfixia Perinatal.pdf",
+    "format": "pdf",
+    "sha256": "1767050997742fdd6219611ea1595e02b0b1e7c2d37f4517e061b226c8ee1da5"
+  },
+  "title": "Guía de Práctica Clínica para el Diagnóstico, Tratamiento y Pronóstico del Recién Nacido con Asfixia Perinatal",
+  "page_count": 4,
+  "extraction": {
+    "method": "pypdf",
+    "text_characters": 5479,
+    "pages_with_little_or_no_text": []
+  },
+  "pages": [
+    {
+      "page": 1,
+      "text": "Guía de Práctica Clínica para el Diagnóstico, Tratamiento y Pronóstico del Recién Nacido a \ntérmino con Asfixia Perinatal  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nGuía de Práctica Clínica para el Diagnóstico, \nTratamiento y Pronóstico del Recién Nacido \ncon Asfixia Perinatal  \n - Versión extensa - \n \n \n \n \n \n \n \n \n \n \n \n \n \n     \n \n \n  \nUNIDAD DE ANÁLISIS Y GENERACIÓN DE EVIDENCIAS EN SALUD PÚBLICA \nGUÍA DE PRÁCTICA CLÍNICA  \nCiudad de Lima / Perú / diciembre 2018 \n \n"
+    },
+    {
+      "page": 2,
+      "text": "Guía de Práctica Clínica para el Diagnóstico, Tratamiento y Pronóstico del Recién Nacido \na término con Asfixia Perinatal  \n \nGRUPO ELABORADOR DE LA GUÍA \n \n \nGRUPO ELABORADOR DEL COMITÉ DE EXPERTOS EN SALUD \nNEONATAL DEL MINISTERIO DE SALUD \n \nCarmen Rosa Dávila Aliaga \nPediatra Neonatóloga  \nInstituto Nacional Materno Perinatal \n \nJulia Rosmary Hinojosa Perez \nPediatra Neonatóloga  \nInstituto Nacional Materno Perinatal \n \nMaria del Pilar Medina Alva \nNeuróloga Pediatra \nInstituto Nacional Materno Perinatal \n \nFaye Aguilar Aguilar \nPediatra Neonatóloga  \nInstituto Nacional de Salud del Niño-\nSan Borja \n \nCarlos Alfonso Lomparte Ywanaga \nPediatra Neonatólogo  \nInstituto Nacional de Salud del Niño- \nBreña \n \nCarlos Alberto Bazán Mendoza \nPediatra Neonatólogo  \nHospital Nacional Docente Madre Niño \nSan Bartolome \n \nJulio Cesar Sánchez Tonohuye \nPediatra Neonatólogo  \nHospital de Apoyo Santa Rosa \n \nRosario Inés López Alguiar \nPediatra Neonatóloga  \nHospital Nacional Arzobispo Loayza \n \nMaría Luz Rospigliosi López \nPediatra Neonatóloga  \nHospital Nacional Cayetano Heredia \n \nSandra Cecilia Rado Peralta \nPediatra \nHospital Nacional Cayetano Heredia \n \nLilian Mercedes Diaz Regalado \nPediatra \nHospital San José del Callao \n \nMario Eduardo Izquierdo Hernández \nMédico \nResponsable de Salud Neonatal \nDirección General de Intervenciones \nEstratégicas en Salud Pública \nMinisterio de Salud \n \n \n \nGRUPO DE EXPERTOS METODOLÓGICOS \n \nBeatriz Catherine Bonilla Untiveros \nLicenciada en Nutrición \nMagister en Nutrición y Alimentos \nMetodóloga \nUnidad de Análisis y Generación de \nEvidencias en Salud Pública \nInstituto Nacional de Salud \n \n \n \n \nKaren Viviana Huamán Sánchez \nLicenciada en Enfermería \nMetodóloga \nUnidad de Análisis y Generación de \nEvidencias en Salud Pública \nInstituto Nacional de Salud \n \n \n \n \n \n "
+    },
+    {
+      "page": 3,
+      "text": "Guía de Práctica Clínica para el  Diagnóstico, Tratamiento y Pronóstico del Recién Nacido a \ntérmino con Asfixia Perinatal  \n \n   \n  \nGloria María Carmona Clavijo \nLicenciada en Obstetricia \nMagister en Salud Pública \nMetodóloga \nUnidad de Análisis y Generación de \nEvidencias en Salud Pública \nInstituto Nacional de Salud \n \nCelia Maribel Castillo Villacrez \nMedico Intensivista \nMagister en Epidemiologia Clínica \nMagister en Administración de Empresas \nMetodóloga \nUnidad de Análisis y Generación de \nEvidencias en Salud Pública \nInstituto Nacional de Salud \n \nElizabeth Irene Anaya Ramírez \nLicenciada en Biología \nMagister en Salud Pública \nMetodóloga \nUnidad de Análisis y Generación de \nEvidencias en Salud Pública \nInstituto Nacional de Salud \n \nNora Reyes Puma \nMédico Cirujano \nMagister en Salud Pública \nMetodóloga \nUnidad de Análisis y Generación de \nEvidencias en Salud Pública \nInstituto Nacional de Salud \n \n \nPatricia Caballero Ñopo \nMédico Infectólogo \nMagister en Salud Pública \nMetodóloga \nResponsable de la  \nUnidad de Análisis y Generación de \nEvidencias en Salud Pública \nInstituto Nacional de Salud \n \n \n \n \n \n \n \nPANEL DE EXPERTOS CLÍNICOS \n \nSonia Elena Hermoza del Pozo \nPediatra \nHospital Maria Auxiliadora \n \nMichael Soto Rodriguez \nPediatra \nHospital Nacional Daniel Alcides Carrión \n \nLuz Hortencia Parra Galvan \nPediatra y Auditora Medica \nHospital Maria Auxiliadora \n \nMilagro Aurora Raffo Neyra \nPediatra \nSociedad Peruana de Pediatria \n \n \n \nDiana Kelly Casasola Canales \nPediatra Neonatóloga \nHospital Nacional Edgardo Rebagliati \nMartins \n \nLuis Andres Tapia Monsalve \nMédico \nEquipo Técnico de Salud Neonatal \nDirección General de Intervenciones \nEstratégicas en Salud Publica \nMinisterio de Salud \n \n \n \n \n "
+    },
+    {
+      "page": 4,
+      "text": " Guía de Práctica Clínica para el  Diagnóstico, Tratamiento y Pronóstico del Recién Nacido \na término con Asfixia Neonatal  \n  \n \n \nGENERALIDADES DE LA GPC \n \nI. Alcance y objetivos de la GPC \nLa presente GPC aborda el manejo (diagnóstico, tratamiento y pronóstico) del recién \nnacido con asfixia perinatal. Las recomendaciones cubren los aspectos de la atención \nclínica de recién nacidos con sospecha o confirmación de asfixia perinatal. \n \nII. Objetivo general \nBrindar recomendaciones informadas por la evidencia para el diagnóstico, trat amiento y \npronóstico del recién nacido con asfixia perinatal. \n \n2.1. Objetivos Específicos \n- Determinar la evidencia científica para el diagnóstico de la asfixia perinatal en el recién \nnacido. \n- Determinar la evidencia científica para el tratamiento del rec ién nacido con asfixia \nperinatal. \n- Determinar la evidencia científica para el pronóstico del recién nacido con asfixia \nperinatal. \n \nIII. Población y usuarios diana \n \nPoblación: La presente GPC presenta recomendaciones para el diagnóstico, tratamiento \ny pronóstico del recién nacido con edad gestacional mayor o igual a 35 semanas con \nasfixia perinatal. \n \nUsuarios: Esta GPC establece recomendaciones que podrán ser utilizadas por el equipo \nmultidisciplinario que brinda atención al recién nacido con sospecha o  diagnóstico de \nasfixia perinatal (médico general, pediatras, neonatólogos, neurólogos, personal de \nenfermería) \n "
+    }
+  ]
+}
