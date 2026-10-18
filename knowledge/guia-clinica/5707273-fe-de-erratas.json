@@ -1,1 +1,29 @@
-
+{
+  "schema_version": "1.0",
+  "source": {
+    "filename": "5707273-fe-de-erratas.pdf",
+    "relative_path": "5707273-fe-de-erratas.pdf",
+    "format": "pdf",
+    "sha256": "2d2cb3707113f9fe92baf9bb2bcca1d391aec749b236883126bbe44df954664a"
+  },
+  "title": "5707273-fe-de-erratas",
+  "page_count": 2,
+  "extraction": {
+    "method": "pypdf",
+    "text_characters": 1,
+    "pages_with_little_or_no_text": [
+      1,
+      2
+    ]
+  },
+  "pages": [
+    {
+      "page": 1,
+      "text": ""
+    },
+    {
+      "page": 2,
+      "text": ""
+    }
+  ]
+}
