@@ -1,0 +1,1766 @@
+{
+ "meta": {
+  "carrera": "Enfermería",
+  "alcance": "143 preguntas exclusivas de Enfermería (no aparecen en ninguna otra carrera del banco oficial MINSA 2025-I a 2026-II)",
+  "estado": "clasificación por IA, pendiente de revisión humana",
+  "clasificado_por": "Claude (IA); criterio propio leyendo cada enunciado contra el temario de la carrera; NO es dato oficial del MINSA",
+  "fecha": "2026-10-14",
+  "fuente_banco": "examen oficial MINSA",
+  "definiciones": {
+   "confianza": "alta = eje y subeje claros; media = eje claro, subeje dudoso o con otra opción posible; baja = ambigua (eje o subeje discutible)",
+   "subeje": "ítem del temario de la convocatoria donde salió la pregunta; si solo respalda la sub-área se indica la sub-área; null si el temario no lo respalda",
+   "eje_fuente": "temario de esa convocatoria (PDF) y página donde figura el ítem o área"
+  },
+  "temarios_usados": {
+   "2025-I": "estructura distinta (118 ítems)",
+   "2025-II / 2026-I / 2026-II": "idéntica (92 ítems)"
+  },
+  "conteo": {
+   "total": 143,
+   "por_eje": {
+    "Cuidado Integral de Salud": 87,
+    "Salud Pública": 29,
+    "Ética e Interculturalidad": 12,
+    "Gestión de Servicios de Salud": 13,
+    "Investigación": 2
+   },
+   "por_tipo": {
+    "caso aplicado": 96,
+    "definición conceptual": 47
+   },
+   "por_confianza": {
+    "media": 35,
+    "alta": 100,
+    "baja": 8
+   }
+  },
+  "ambiguas": [
+   "Q0129",
+   "Q0620",
+   "Q0646",
+   "Q1903",
+   "Q1927",
+   "Q1928",
+   "Q1929",
+   "Q1933"
+  ]
+ },
+ "clasificaciones": [
+  {
+   "id": "Q0101",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Paquete del cuidado integral de salud del joven",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.5 Paquete del cuidado integral de salud del joven"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0102",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.21 Manejo inicial de las emergencias obstétricas diagnóstico, estabilización y referencia (respuesta rápida)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.21 Manejo inicial de las emergencias obstétricas diagnóstico, estabilización y referencia (respuesta rápida)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0104",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.12 Atención integral de las infecciones de transmisión sexual, VIH y hepatitis: consejerías, tamizaje, diagnóstico, tratamiento y seguimiento de casos",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.12 Atención integral de las infecciones de transmisión sexual, VIH y hepatitis: consejerías, tamizaje, diagnóstico, tratamiento y seguimiento de casos"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0105",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.13 Prevención combinada del VIH: consejería, tamizaje, seguimiento de casos",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.13 Prevención combinada del VIH: consejería, tamizaje, seguimiento de casos"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0106",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Prevención y control de anemia y otros problemas de malnutrición",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.11 Prevención y control de anemia y otros problemas de malnutrición"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0109",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 Paquete del cuidado integral de salud prenatal",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.3 Paquete del cuidado integral de salud prenatal"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0110",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0111",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0112",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.11 Vigilancia en salud pública y epidemiológica (definición, componentes, usos y aplicaciones)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 1: Métodos y aplicaciones de salud pública > 1.11 Vigilancia en salud pública y epidemiológica (definición, componentes, usos y aplicaciones)"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0113",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.9 Prevención y control del Cáncer: identificación de factores de riesgo, prevención primaria y secundaria, con énfasis en cáncer de cuello uterino, mama, próstata, colon recto, piel",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.9 Prevención y control del Cáncer: identificación de factores de riesgo, prevención primaria y secundaria, con énfasis en cáncer de cuello uterino, mama, próstata, colon recto, piel"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0114",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.2 Intervenciones de promoción de la salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 3: Promocion de la salud y prevención del riesgo y daño > 3.2 Intervenciones de promoción de la salud"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0115",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.15 Prevención y control de enfermedades no transmisibles",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.15 Prevención y control de enfermedades no transmisibles"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0116",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Paquete del cuidado integral de salud del adulto mayor",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.7 Paquete del cuidado integral de salud del adulto mayor"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0118",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.11 Prevención y control de anemia y otros problemas de malnutrición",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.11 Prevención y control de anemia y otros problemas de malnutrición"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0119",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Ética en la función pública (trato digno y humanización de la atención; confidencialidad y manejo de la información)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > Sub-área 1: Ética, bioética > 1.2 Ética en la función pública (trato digno y humanización de la atención; confidencialidad y manejo de la información)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0120",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Paquete del cuidado integral de salud del niño",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.4 Paquete del cuidado integral de salud del niño"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0121",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.10 Brotes, epidemias, pandemias y endemias",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 1: Métodos y aplicaciones de salud pública > 1.10 Brotes, epidemias, pandemias y endemias"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0122",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.18 Infecciones asociadas a la atención de salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.18 Infecciones asociadas a la atención de salud"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0123",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Prevención y control de anemia y otros problemas de malnutrición",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.11 Prevención y control de anemia y otros problemas de malnutrición"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0124",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Paquete del cuidado integral de salud del niño",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.4 Paquete del cuidado integral de salud del niño"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0125",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.18 Infecciones asociadas a la atención de salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.18 Infecciones asociadas a la atención de salud"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0128",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0129",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Derechos y deberes de las personas usuarias de los servicios de salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > Sub-área 1: Ética, bioética > 1.5 Derechos y deberes de las personas usuarias de los servicios de salud"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q0130",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Prevención y control de la Tuberculosis: búsqueda activa de casos, terapia preventiva, diagnóstico, tratamiento y seguimiento de casos, canasta PAN TB y medidas de control de infecciones en tuberculosis en los servicios de salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.10 Prevención y control de la Tuberculosis: búsqueda activa de casos, terapia preventiva, diagnóstico, tratamiento y seguimiento de casos, canasta PAN TB y medidas de control de infecciones en tuberculosis en los servicios de salud"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0131",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Paquete del cuidado integral de salud del adulto mayor",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-I - Enfermería (SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/enfermeria.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.7 Paquete del cuidado integral de salud del adulto mayor"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0611",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.9 Prevención y control del Cáncer: identificación de factores de riesgo, prevención primaria y secundaria, con énfasis en cáncer de cuello uterino, mama, próstata, colon recto, piel",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.9 Prevención y control del Cáncer: identificación de factores de riesgo, prevención primaria y secundaria, con énfasis en cáncer de cuello uterino, mama, próstata, colon recto, piel"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0612",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Clasificación de establecimientos de salud por categorías",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > Sub-área 2: Organización de los servicios de salud > 2.2 Clasificación de establecimientos de salud por categorías"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0615",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "Sub-área 1: Ética, bioética",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > Sub-área 1: Ética, bioética"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0616",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.17 Exposición a metales pesados y otras sustancias químicas (factores de riesgo, manifestaciones clínicas)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.17 Exposición a metales pesados y otras sustancias químicas (factores de riesgo, manifestaciones clínicas)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0618",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.13 Sistema de Vigilancia Epidemiológica en el país (notificación de enfermedades, composición, difusión de información)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 1: Métodos y aplicaciones de salud pública > 1.13 Sistema de Vigilancia Epidemiológica en el país (notificación de enfermedades, composición, difusión de información)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0619",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Paquete de cuidado integral de salud del adolescente",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.4 Paquete de cuidado integral de salud del adolescente"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0620",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.1 Comunicación y diálogo intercultural en salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > Sub-área 2: Atención intercultural en salud > 2.1 Comunicación y diálogo intercultural en salud"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q0621",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.4 Paquete de cuidado integral de salud del adolescente",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.4 Paquete de cuidado integral de salud del adolescente"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0622",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.15 Prevención y control de enfermedades no transmisibles",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.15 Prevención y control de enfermedades no transmisibles"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0626",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Análisis estratégico institucional (misión, visión, valores de la organización y FODA)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > Sub-área 1: Planificación y presupuesto en salud > 1.2 Análisis estratégico institucional (misión, visión, valores de la organización y FODA)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0629",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.6 Etapas y niveles de prevención (primaria, secundaria, terciaria y cuaternaria)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 1: Métodos y aplicaciones de salud pública > 1.6 Etapas y niveles de prevención (primaria, secundaria, terciaria y cuaternaria)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0630",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.8 Sistemas de información y TICs en salud (HIS, receta electrónica, Historia clínica y SIS)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 2: Salud comunitaria > 2.8 Sistemas de información y TICs en salud (HIS, receta electrónica, Historia clínica y SIS)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0632",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Diversidad cultural, promoción de la inclusión y la equidad",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > Sub-área 2: Atención intercultural en salud > 2.2 Diversidad cultural, promoción de la inclusión y la equidad"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0635",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Cuidado integral en salud por curso de vida para la persona, familia y comunidad (definición, componentes, enfoques)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.2 Cuidado integral en salud por curso de vida para la persona, familia y comunidad (definición, componentes, enfoques)"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0636",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "4.2 Clima organizacional y Cultura organizacional",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > Sub-área 4: Sistema de gestión de la calidad > 4.2 Clima organizacional y Cultura organizacional"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0640",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.12 Análisis de situacional de salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 1: Métodos y aplicaciones de salud pública > 1.12 Análisis de situacional de salud"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0641",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Determinantes ambientales de salud (entorno, ambiente, saneamiento básico)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 2: Salud comunitaria > 2.2 Determinantes ambientales de salud (entorno, ambiente, saneamiento básico)"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0645",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.21 Manejo inicial de las emergencias obstétricas diagnóstico, estabilización y referencia (respuesta rápida)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.21 Manejo inicial de las emergencias obstétricas diagnóstico, estabilización y referencia (respuesta rápida)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0646",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > Sub-área 4: Sistema de gestión de la calidad > 4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q0647",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > Sub-área 2: Atención intercultural en salud > 2.3 Atención en salud con enfoque intercultural y pertinencia cultural"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0648",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Paquete del cuidado integral de salud del adulto mayor",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.7 Paquete del cuidado integral de salud del adulto mayor"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0649",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.10 Prevención y control de la Tuberculosis: búsqueda activa de casos, terapia preventiva, diagnóstico, tratamiento y seguimiento de casos, canasta PAN TB y medidas de control de infecciones en tuberculosis en los servicios de salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.10 Prevención y control de la Tuberculosis: búsqueda activa de casos, terapia preventiva, diagnóstico, tratamiento y seguimiento de casos, canasta PAN TB y medidas de control de infecciones en tuberculosis en los servicios de salud"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0651",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0654",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Paquete del cuidado integral de salud del niño",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.4 Paquete del cuidado integral de salud del niño"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0656",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Paquete del cuidado integral de salud del adulto",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.6 Paquete del cuidado integral de salud del adulto"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0657",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.10 Prevención y Control de infecciones (conceptos diferencias y usos)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 1: Métodos y aplicaciones de salud pública > 1.10 Prevención y Control de infecciones (conceptos diferencias y usos)"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0658",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.4 Promoción del Parto vertical",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > Sub-área 2: Atención intercultural en salud > 2.4 Promoción del Parto vertical"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0660",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.11 Gestión y manejo de los residuos sólidos (importancia en la salud comunitaria)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 2: Salud comunitaria > 2.11 Gestión y manejo de los residuos sólidos (importancia en la salud comunitaria)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0661",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.4 Paquete del cuidado integral de salud del niño",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.4 Paquete del cuidado integral de salud del niño"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0662",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0664",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.15 Prevención y control de enfermedades no transmisibles",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.15 Prevención y control de enfermedades no transmisibles"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0665",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Paquete de cuidado integral de salud del adolescente",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.4 Paquete de cuidado integral de salud del adolescente"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0671",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Paquete del cuidado integral de salud del niño",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.4 Paquete del cuidado integral de salud del niño"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0672",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > Sub-área 4: Sistema de gestión de la calidad > 4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0674",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Paquete del cuidado integral de salud del niño",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.4 Paquete del cuidado integral de salud del niño"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0677",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "Sub-área 1: Ética, bioética",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > Sub-área 1: Ética, bioética"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0682",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Telesalud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > Sub-área 2: Organización de los servicios de salud > 2.7 Telesalud"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0686",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0688",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > Sub-área 2: Atención intercultural en salud > 2.3 Atención en salud con enfoque intercultural y pertinencia cultural"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0689",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Gestión de la Historia Clínica",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > Sub-área 2: Organización de los servicios de salud > 2.5 Gestión de la Historia Clínica"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0690",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > Sub-área 4: Sistema de gestión de la calidad > 4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0694",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.4 Gestión del riesgo en situaciones de emergencias y desastres en salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 3: Promocion de la salud y prevención del riesgo y daño > 3.4 Gestión del riesgo en situaciones de emergencias y desastres en salud"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0695",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Prevención y control de anemia y otros problemas de malnutrición",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.11 Prevención y control de anemia y otros problemas de malnutrición"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0696",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.18 Infecciones asociadas a la atención de salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.18 Infecciones asociadas a la atención de salud"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0697",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "Sub-área 2: Organización de los servicios de salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > Sub-área 2: Organización de los servicios de salud"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0698",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.1 Comunicación y diálogo intercultural en salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > Sub-área 2: Atención intercultural en salud > 2.1 Comunicación y diálogo intercultural en salud"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0701",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 3: Promocion de la salud y prevención del riesgo y daño > 3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0702",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0707",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Paquete de cuidado integral de salud del adolescente",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.4 Paquete de cuidado integral de salud del adolescente"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0708",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.5 Medicina tradicional, complementaria y alternativa",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2025-II - Enfermería (SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > Sub-área 2: Atención intercultural en salud > 2.5 Medicina tradicional, complementaria y alternativa"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1901",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral)"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1902",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.6 Paquete del cuidado integral de salud del adulto",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.6 Paquete del cuidado integral de salud del adulto"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1903",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.8 Cuidados de la salud mental de las personas",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.8 Cuidados de la salud mental de las personas"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q1904",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.6 Etapas y niveles de prevención (primaria, secundaria, terciaria y cuaternaria)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 1: Métodos y aplicaciones de salud pública > 1.6 Etapas y niveles de prevención (primaria, secundaria, terciaria y cuaternaria)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1906",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Prevención y control de la Tuberculosis: búsqueda activa de casos, terapia preventiva, diagnóstico, tratamiento y seguimiento de casos, canasta PAN TB y medidas de control de infecciones en tuberculosis en los servicios de salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.10 Prevención y control de la Tuberculosis: búsqueda activa de casos, terapia preventiva, diagnóstico, tratamiento y seguimiento de casos, canasta PAN TB y medidas de control de infecciones en tuberculosis en los servicios de salud"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1907",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Proceso de atención de enfermería",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.3 Proceso de atención de enfermería"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1908",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.5 Historia natural del proceso salud enfermedad",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 1: Métodos y aplicaciones de salud pública > 1.5 Historia natural del proceso salud enfermedad"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1909",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1910",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Proceso de atención de enfermería",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.3 Proceso de atención de enfermería"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1912",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.8 Cuidados de la salud mental de las personas",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.8 Cuidados de la salud mental de las personas"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1913",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.11 Prevención y control de anemia y otros problemas de malnutrición",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.11 Prevención y control de anemia y otros problemas de malnutrición"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1914",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1915",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1916",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Prevención y control de la Tuberculosis: búsqueda activa de casos, terapia preventiva, diagnóstico, tratamiento y seguimiento de casos, canasta PAN TB y medidas de control de infecciones en tuberculosis en los servicios de salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.10 Prevención y control de la Tuberculosis: búsqueda activa de casos, terapia preventiva, diagnóstico, tratamiento y seguimiento de casos, canasta PAN TB y medidas de control de infecciones en tuberculosis en los servicios de salud"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1917",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.3 Bioseguridad (enfocado a la protección de las personas y medio ambiente, conceptos, usos y aplicación)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 3: Promocion de la salud y prevención del riesgo y daño > 3.3 Bioseguridad (enfocado a la protección de las personas y medio ambiente, conceptos, usos y aplicación)"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1918",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Proceso de atención de enfermería",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.3 Proceso de atención de enfermería"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1919",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Prevención y control de la Tuberculosis: búsqueda activa de casos, terapia preventiva, diagnóstico, tratamiento y seguimiento de casos, canasta PAN TB y medidas de control de infecciones en tuberculosis en los servicios de salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.10 Prevención y control de la Tuberculosis: búsqueda activa de casos, terapia preventiva, diagnóstico, tratamiento y seguimiento de casos, canasta PAN TB y medidas de control de infecciones en tuberculosis en los servicios de salud"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1920",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.9 Vigilancia en salud pública y epidemiológica (definición, componentes, usos y aplicaciones)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 1: Métodos y aplicaciones de salud pública > 1.9 Vigilancia en salud pública y epidemiológica (definición, componentes, usos y aplicaciones)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1921",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1922",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1923",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Prevención y control de anemia y otros problemas de malnutrición",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.11 Prevención y control de anemia y otros problemas de malnutrición"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1924",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1925",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 Paquete del cuidado integral de salud prenatal",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.3 Paquete del cuidado integral de salud prenatal"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1927",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.8 Cuidados de la salud mental de las personas",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.8 Cuidados de la salud mental de las personas"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q1928",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.8 Cuidados de la salud mental de las personas",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.8 Cuidados de la salud mental de las personas"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q1929",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.14 Accesibilidad a los servicios de salud (barreras sociales, geográficas, económicas y culturales)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 2: Salud comunitaria > 2.14 Accesibilidad a los servicios de salud (barreras sociales, geográficas, económicas y culturales)"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q1930",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.12 Atención integral de las infecciones de transmisión sexual, VIH y hepatitis: consejerías, tamizaje, diagnóstico, tratamiento y seguimiento de casos",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.12 Atención integral de las infecciones de transmisión sexual, VIH y hepatitis: consejerías, tamizaje, diagnóstico, tratamiento y seguimiento de casos"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1931",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1932",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.1 Determinantes sociales de la salud (intermedios y estructurales)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 2: Salud comunitaria > 2.1 Determinantes sociales de la salud (intermedios y estructurales)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1933",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Prevención y control de anemia y otros problemas de malnutrición",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.11 Prevención y control de anemia y otros problemas de malnutrición"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q1934",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Participación social y comunitaria",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 2: Salud comunitaria > 2.3 Participación social y comunitaria"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1935",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Prevención y control de la Tuberculosis: búsqueda activa de casos, terapia preventiva, diagnóstico, tratamiento y seguimiento de casos, canasta PAN TB y medidas de control de infecciones en tuberculosis en los servicios de salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.10 Prevención y control de la Tuberculosis: búsqueda activa de casos, terapia preventiva, diagnóstico, tratamiento y seguimiento de casos, canasta PAN TB y medidas de control de infecciones en tuberculosis en los servicios de salud"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1936",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Conceptos básicos de salud pública (definiciones, FESP)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 1: Métodos y aplicaciones de salud pública > 1.1 Conceptos básicos de salud pública (definiciones, FESP)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1937",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Paquete del cuidado integral de salud del niño",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.4 Paquete del cuidado integral de salud del niño"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1938",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Proceso de atención de enfermería",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.3 Proceso de atención de enfermería"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1939",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Sistema de referencia y contrarreferencia de los establecimientos de salud (definición, niveles, criterios y procedimientos)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > Sub-área 2: Organización de los servicios de salud > 2.4 Sistema de referencia y contrarreferencia de los establecimientos de salud (definición, niveles, criterios y procedimientos)"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1940",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.12 Atención integral de las infecciones de transmisión sexual, VIH y hepatitis: consejerías, tamizaje, diagnóstico, tratamiento y seguimiento de casos",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.12 Atención integral de las infecciones de transmisión sexual, VIH y hepatitis: consejerías, tamizaje, diagnóstico, tratamiento y seguimiento de casos"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1941",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.11 Prevención y control de anemia y otros problemas de malnutrición",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.11 Prevención y control de anemia y otros problemas de malnutrición"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1942",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.11 Uso racional de medicamentos y su impacto en la salud pública",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 1: Métodos y aplicaciones de salud pública > 1.11 Uso racional de medicamentos y su impacto en la salud pública"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1943",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > Sub-área 2: Atención intercultural en salud > 2.3 Atención en salud con enfoque intercultural y pertinencia cultural"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1944",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.4 Paquete de cuidado integral de salud del adolescente",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.4 Paquete de cuidado integral de salud del adolescente"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1945",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Prevención y control de anemia y otros problemas de malnutrición",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.11 Prevención y control de anemia y otros problemas de malnutrición"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1946",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.1 Determinantes sociales de la salud (intermedios y estructurales)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 2: Salud comunitaria > 2.1 Determinantes sociales de la salud (intermedios y estructurales)"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1947",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Participación social y comunitaria",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 2: Salud comunitaria > 2.3 Participación social y comunitaria"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1948",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.8 Cuidados de la salud mental de las personas",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.8 Cuidados de la salud mental de las personas"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1949",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.13 Sistema de Vigilancia Epidemiológica en el país (notificación de enfermedades, composición, difusión de información)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 1: Métodos y aplicaciones de salud pública > 1.13 Sistema de Vigilancia Epidemiológica en el país (notificación de enfermedades, composición, difusión de información)"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1950",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1951",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.14 Prevención de la trasmisión materno infantil del VIH, sífilis y hepatitis B",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.14 Prevención de la trasmisión materno infantil del VIH, sífilis y hepatitis B"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1952",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.14 Prevención de la trasmisión materno infantil del VIH, sífilis y hepatitis B",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.14 Prevención de la trasmisión materno infantil del VIH, sífilis y hepatitis B"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1953",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Paquete del cuidado integral de salud del adulto mayor",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.7 Paquete del cuidado integral de salud del adulto mayor"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1954",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Sistema de referencia y contrarreferencia de los establecimientos de salud (definición, niveles, criterios y procedimientos)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > Sub-área 2: Organización de los servicios de salud > 2.4 Sistema de referencia y contrarreferencia de los establecimientos de salud (definición, niveles, criterios y procedimientos)"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1955",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.14 Accesibilidad a los servicios de salud (barreras sociales, geográficas, económicas y culturales)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 2: Salud comunitaria > 2.14 Accesibilidad a los servicios de salud (barreras sociales, geográficas, económicas y culturales)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1956",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.5 Atención de la persona con el esquema regular de vacunación en todas las etapas de vida, prevención y control de ESAVI y cadena de frío"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1957",
+   "eje": "Investigación",
+   "tipo": "caso aplicado",
+   "subeje": "2.1 Instrumentos de recolección de datos y su validación",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-I - Enfermería (SERUMS 2026 I/TEMARIO 2026 I/enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: INVESTIGACIÓN > Sub-área 2: Metodología de la investigación > 2.1 Instrumentos de recolección de datos y su validación"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2779",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Clasificación de establecimientos de salud por categorías",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-II - Enfermería (SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-3-enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > Sub-área 2: Organización de los servicios de salud > 2.2 Clasificación de establecimientos de salud por categorías"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2781",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.1 Atención Primaria de salud (conceptos y principios)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-II - Enfermería (SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-3-enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.1 Atención Primaria de salud (conceptos y principios)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2782",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Paquete del cuidado integral de salud del niño",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-II - Enfermería (SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-3-enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.4 Paquete del cuidado integral de salud del niño"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2784",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Plan de salud local",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-II - Enfermería (SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-3-enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 2: Salud comunitaria > 2.7 Plan de salud local"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2788",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "3.2 Control de inventario y stock de medicamentos",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-II - Enfermería (SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-3-enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > Sub-área 3: Administración de los servicios de salud > 3.2 Control de inventario y stock de medicamentos"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2791",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-II - Enfermería (SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-3-enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 3: Promocion de la salud y prevención del riesgo y daño > 3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones)"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2797",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Paquete del cuidado integral de salud del niño",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-II - Enfermería (SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-3-enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.4 Paquete del cuidado integral de salud del niño"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2809",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.8 Cuidados de la salud mental de las personas",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-II - Enfermería (SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-3-enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.8 Cuidados de la salud mental de las personas"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2819",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.13 Sistema de Vigilancia Epidemiológica en el país (notificación de enfermedades, composición, difusión de información)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-II - Enfermería (SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-3-enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 1: Métodos y aplicaciones de salud pública > 1.13 Sistema de Vigilancia Epidemiológica en el país (notificación de enfermedades, composición, difusión de información)"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2820",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.4 Paquete del cuidado integral de salud del niño",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-II - Enfermería (SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-3-enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.4 Paquete del cuidado integral de salud del niño"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2825",
+   "eje": "Investigación",
+   "tipo": "definición conceptual",
+   "subeje": "3.1 Elaboración y publicación de los resultados de investigación",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-II - Enfermería (SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-3-enfermeria-temario-serums.pdf)",
+    "pagina": 3,
+    "apartado": "ÁREA: INVESTIGACIÓN > Sub-área 3: Ejecución de la investigación > 3.1 Elaboración y publicación de los resultados de investigación"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2829",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.18 Infecciones asociadas a la atención de salud",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-II - Enfermería (SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-3-enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 2: Temas transversales (atención primaria de salud; cuidado integral) > 2.18 Infecciones asociadas a la atención de salud"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2832",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Epidemiologia (conceptos básicos, mediciones e indicadores)",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-II - Enfermería (SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-3-enfermeria-temario-serums.pdf)",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > Sub-área 1: Métodos y aplicaciones de salud pública > 1.2 Epidemiologia (conceptos básicos, mediciones e indicadores)"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2840",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Paquete del cuidado integral de salud del niño",
+   "eje_fuente": {
+    "temario": "Temario SERUMS 2026-II - Enfermería (SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-3-enfermeria-temario-serums.pdf)",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > Sub-área 1: Temas específicos (atención primaria de salud; cuidado integral) > 1.4 Paquete del cuidado integral de salud del niño"
+   },
+   "confianza": "alta"
+  }
+ ]
+}
