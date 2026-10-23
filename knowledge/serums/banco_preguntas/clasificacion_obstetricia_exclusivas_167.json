@@ -1,0 +1,2228 @@
+{
+ "meta": {
+  "carrera": "Obstetricia",
+  "total": 167,
+  "marca": "análisis propio, clasificación por IA pendiente de revisión humana",
+  "criterio_tipo": "caso aplicado = el enunciado plantea una situación concreta, un paciente, un servicio o un cálculo y pide una decisión, diagnóstico, clasificación o resultado aplicado; definición conceptual = pide definir, nombrar o recordar un concepto, norma o dato.",
+  "criterio_confianza": "alta = eje, ítem y tipo claros; media = eje claro pero ítem o tipo dudoso (o el temario solo respalda la sub-área); baja = ambigua.",
+  "temarios": {
+   "2025-I": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+   "2025-II": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+   "2026-I": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+   "2026-II": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf"
+  },
+  "nota_temarios": "2025-II, 2026-I y 2026-II tienen el mismo temario de Obstetricia (89 ítems); 2025-I tiene otra estructura (113 ítems) y otra numeración en Salud Pública, Ética e Interculturalidad, Investigación y Gestión. Cada pregunta se ligó al temario de su convocatoria. El temario de Obstetricia no tiene ítem propio de atención del parto, puerperio ni recién nacido: esas preguntas se ligaron a los ítems de emergencias obstétricas, cuidados prenatales o lactancia según el enunciado.",
+  "ambiguas": [
+   {
+    "id": "Q1217",
+    "nota": "Cesárea con recién nacido de 1300 g: el enunciado depende de un dato truncado; se asignó CI-2.5 (lactancia materna) como aproximación; también podría ser CI-1.4 o CI-2.10."
+   },
+   {
+    "id": "Q2304",
+    "nota": "Demoras en la atención de una muerte materna (modelo de las tres demoras): SP-2.14 (accesibilidad) como aproximación; también podría ser SP-1.13 (vigilancia de la mortalidad materna)."
+   },
+   {
+    "id": "Q3129",
+    "nota": "Atención de un parto en periodo expulsivo sin factores de riesgo; el temario no tiene ítem específico de atención del parto: se asignó CI-1.1 solo por contexto (cuidados perinatales)."
+   }
+  ],
+  "conflictos_de_eje": [],
+  "conteos": {
+   "ejes": {
+    "Cuidado Integral de Salud": 101,
+    "Ética e Interculturalidad": 17,
+    "Salud Pública": 33,
+    "Gestión de Servicios de Salud": 11,
+    "Investigación": 5
+   },
+   "tipo": {
+    "definición conceptual": 75,
+    "caso aplicado": 92
+   },
+   "confianza": {
+    "alta": 120,
+    "media": 44,
+    "baja": 3
+   },
+   "convocatoria": {
+    "2025-I": 27,
+    "2025-II": 56,
+    "2026-I": 47,
+    "2026-II": 37
+   }
+  }
+ },
+ "preguntas": [
+  {
+   "id": "Q0289",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.8 Prevención de la trasmisión materno infantil del VIH, sífilis y hepatitis B.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0290",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Código de ética y deontología profesional.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0291",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.15 Análisis situacional de salud - Sala situacional de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.15"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0292",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.5 Lactancia materna.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0293",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Lactancia materna.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0294",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Salud bucal en la gestante (medidas preventivas).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0295",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Cuidado integral de la niña, adolescente, joven, adulta y adulta mayor en salud sexual reproductiva.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0296",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.13 Medidas preventivas en salud bucal a la persona con énfasis en técnica de cepillado y uso de hilo dental.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.13"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0297",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.12 Prevención y control de enfermedades no transmisibles (factores de riesgo).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0298",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.15 Esquema nacional de vacunación en el Perú.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.15"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0299",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Cuidados en el periodo prenatal.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0300",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Cuidados en el periodo prenatal.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0301",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Cuidados en el periodo prenatal.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0302",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0303",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.16 Prevención y control de la Tuberculosis: búsqueda activa de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.16"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0304",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.10"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0305",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "3.1 Gestión de Recursos Humanos (concepto, marco legal, subsistemas).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 4,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 3: ADMINISTRACIÓN DE LOS SERVICIOS DE SALUD > 3.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0306",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.10 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0307",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.5 Atención humanizada que incluye promoción del parto vertical.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.5"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0308",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.14 Uso racional de medicamentos y su impacto en la salud pública.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.14"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0309",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Cuidados en el periodo prenatal.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0310",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.7 Prevención y control del Cáncer (Identificación de factores de riesgo prevención primaria y secundaria) con énfasis en cáncer de cuello uterino y mama.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0311",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.14 Uso racional de medicamentos y su impacto en la salud pública.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.14"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0312",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Violencia sexual y violencia basada en género.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0313",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.10 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0314",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0315",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Cuidado integral de la niña, adolescente, joven, adulta y adulta mayor en salud sexual reproductiva.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/obstetricia.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1170",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.8 Prevención de la trasmisión materno infantil del VIH, sífilis y hepatitis B.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1171",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Conceptos básicos de salud pública (definiciones, FESP).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1172",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Atención primaria en salud (enfoques y principios).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1173",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.17 Exposición a metales pesados y otras sustancias químicas (factores de riesgo, manifestaciones clínicas).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.17"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1174",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Cuidado integral de la niña, adolescente, joven, adulta y adulta mayor en salud sexual reproductiva.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1175",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.5 Violencia sexual y violencia basada en género.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.5"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1176",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.7 Prevención y control del Cáncer (Identificación de factores de riesgo prevención primaria y secundaria) con énfasis en cáncer de cuello uterino y mama.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1177",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.12 Prevención y control de enfermedades no transmisibles (factores de riesgo).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.12"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1178",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.7 Prevención y control del Cáncer (Identificación de factores de riesgo prevención primaria y secundaria) con énfasis en cáncer de cuello uterino y mama.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1179",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1180",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.13 Medidas preventivas en salud bucal a la persona con énfasis en técnica de cepillado y uso de hilo dental.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.13"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1181",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Cuidados en el periodo prenatal.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1182",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.8 Aspectos legales en obstetricia.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1183",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Salud bucal en la gestante (medidas preventivas).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1184",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Cuidado de la salud mental de las personas (conceptos básicos).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1185",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1186",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Cuidados en el periodo prenatal.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1187",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.10 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1188",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.6 Trabajo intersectorial en salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.6"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1189",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.16 Prevención y control de la Tuberculosis: búsqueda activa de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.16"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1190",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.14 Accesibilidad a los servicios de salud (barreras sociales, geográficas, económicas y culturales).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.14"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1191",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1192",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Cuidado integral de la niña, adolescente, joven, adulta y adulta mayor en salud sexual reproductiva.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1193",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Atención primaria en salud (enfoques y principios).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1195",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.10 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1196",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.7 Prevención y control del Cáncer (Identificación de factores de riesgo prevención primaria y secundaria) con énfasis en cáncer de cuello uterino y mama.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1197",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.5 Lactancia materna.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1198",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.16 Prevención y control de la Tuberculosis: búsqueda activa de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.16"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1199",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Determinantes ambientales de salud (entorno, ambiente, saneamiento básico, desarrollo sostenible).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1200",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.4 Sectorización y ficha familiar.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1201",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Sectorización y ficha familiar.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1202",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.13 Sistema de Vigilancia Epidemiológica en el país (notificación de enfermedades, composición, difusión de información)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.13"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1204",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.8 Prevención de la trasmisión materno infantil del VIH, sífilis y hepatitis B.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1205",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1206",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Cuidados en el periodo prenatal.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1207",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Atención preconcepcional.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1208",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Atención primaria en salud (enfoques y principios).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1209",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.6 Planificación familiar.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1210",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.5 Gestión de la Historia Clínica",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1211",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.10 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.10"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1212",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Cuidado integral de la niña, adolescente, joven, adulta y adulta mayor en salud sexual reproductiva.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1213",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Promoción del Parto vertical",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1214",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Cuidados en el periodo prenatal.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1215",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Plan de salud local.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1216",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1217",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Lactancia materna.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q1218",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Plan de salud local.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1219",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Participación social y comunitaria.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1220",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Código de ética y deontología profesional",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1221",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1222",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Conceptos básicos de salud pública (definiciones, FESP).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1223",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 Participación social y comunitaria.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1224",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Atención preconcepcional.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1225",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.16 Prevención y control de la Tuberculosis: búsqueda activa de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.16"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1226",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.15 Esquema nacional de vacunación en el Perú.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.15"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1227",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Promoción del Parto vertical",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2278",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.6 Planificación familiar.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2280",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2281",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "3.1 Gestión de Recursos Humanos (definición, asistencia y permanencia)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 3: ADMINISTRACIÓN DE LOS SERVICIOS DE SALUD > 3.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2282",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2283",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.1 Determinantes sociales de salud (intermedios y estructurales).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2284",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Sectorización y ficha familiar.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2285",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.10 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2286",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Epidemiologia (conceptos básicos, mediciones e indicadores).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2287",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Determinantes ambientales de salud (entorno, ambiente, saneamiento básico, desarrollo sostenible).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2288",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.9 Prevención combinada del VIH: consejería, tamizaje, seguimiento de casos.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2289",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.8 Aspectos legales en obstetricia.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2292",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2293",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.16 Prevención y control de la Tuberculosis: búsqueda activa de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.16"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2294",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.12 Análisis de situacional de salud",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2296",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Cuidado integral de la niña, adolescente, joven, adulta y adulta mayor en salud sexual reproductiva.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2297",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "3.3 Coordinación intersectorial y alianzas estratégicas",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 3: ADMINISTRACIÓN DE LOS SERVICIOS DE SALUD > 3.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2298",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2301",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2303",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "3.2 Control de inventario y stock de medicamentos",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 3: ADMINISTRACIÓN DE LOS SERVICIOS DE SALUD > 3.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2304",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.14 Accesibilidad a los servicios de salud (barreras sociales, geográficas, económicas y culturales).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.14"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q2305",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Promoción del Parto vertical",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2306",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2307",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Atención integral de las infecciones de transmisión sexual, VIH y hepatitis B y C: consejerías, tamizaje, seguimiento de casos.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2309",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.9 Vigilancia en salud pública y epidemiológica (definición, componentes, usos y aplicaciones)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.9"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2310",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2311",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.4 Infecciones asociadas a la atención de salud.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2312",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.15 Esquema nacional de vacunación en el Perú.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.15"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2313",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2314",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.9 Vigilancia en salud pública y epidemiológica (definición, componentes, usos y aplicaciones)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2315",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.17 Exposición a metales pesados y otras sustancias químicas (factores de riesgo, manifestaciones clínicas).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.17"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2316",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.7 Prevención y control del Cáncer (Identificación de factores de riesgo prevención primaria y secundaria) con énfasis en cáncer de cuello uterino y mama.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2317",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Gestión y manejo de los residuos sólidos (importancia en la salud comunitaria).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2318",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "3.1 Gestión de Recursos Humanos (definición, asistencia y permanencia)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 3: ADMINISTRACIÓN DE LOS SERVICIOS DE SALUD > 3.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2319",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Prevención de la estigma y discriminación étnica - cultural, a poblaciones claves y vulnerables y otras.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2320",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Salud bucal en la gestante (medidas preventivas).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2321",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Sistema de referencia y contrarreferencia de los establecimientos de salud (definición, niveles, criterios y procedimientos)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2322",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Atención preconcepcional.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2323",
+   "eje": "Investigación",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Procesamiento y análisis de datos",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: INVESTIGACIÓN > SUB-ÁREA 2: METODOLOGÍA DE LA INVESTIGACIÓN > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2325",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Violencia sexual y violencia basada en género.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2327",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.12 Prevención y control de enfermedades no transmisibles (factores de riesgo).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.12"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2328",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Atención integral de las infecciones de transmisión sexual, VIH y hepatitis B y C: consejerías, tamizaje, seguimiento de casos.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2329",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Violencia sexual y violencia basada en género.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2330",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2332",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2333",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.1 Determinantes sociales de salud (intermedios y estructurales).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2334",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2335",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.9 Prevención combinada del VIH: consejería, tamizaje, seguimiento de casos.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.9"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3078",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Prevención de la estigma y discriminación étnica - cultural, a poblaciones claves y vulnerables y otras.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3079",
+   "eje": "Investigación",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Tipos de investigación (descriptivo, analítico y experimental)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: INVESTIGACIÓN > SUB-ÁREA 1: CONCEPTOS Y CLASIFICACIÓN DE LAS INVESTIGACIONES > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3081",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Atención preconcepcional.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3083",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Cuidados en el periodo prenatal.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3084",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3085",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.17 Exposición a metales pesados y otras sustancias químicas (factores de riesgo, manifestaciones clínicas).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.17"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3087",
+   "eje": "Investigación",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Enfoques (cualitativo, cuantitativo y mixto)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: INVESTIGACIÓN > SUB-ÁREA 1: CONCEPTOS Y CLASIFICACIÓN DE LAS INVESTIGACIONES > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3088",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Medicina tradicional, complementaria y alternativa",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3090",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Conceptos básicos de salud pública (definiciones, FESP).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3094",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Análisis estratégico institucional (misión, visión, valores de la organización y FODA)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3096",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Promoción del Parto vertical",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3097",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Aspectos legales en obstetricia.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3098",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.12 Prevención y control de enfermedades no transmisibles (factores de riesgo).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3099",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.9 Alimentación y Nutrición e inocuidad alimentaria.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.9"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3100",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.7 Prevención y control del Cáncer (Identificación de factores de riesgo prevención primaria y secundaria) con énfasis en cáncer de cuello uterino y mama.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3101",
+   "eje": "Investigación",
+   "tipo": "caso aplicado",
+   "subeje": "3.1 Elaboración y publicación de los resultados de investigación.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: INVESTIGACIÓN > SUB-ÁREA 3: EJECUCIÓN DE LA INVESTIGACIÓN > 3.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3102",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3104",
+   "eje": "Investigación",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Tipos de investigación (descriptivo, analítico y experimental)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: INVESTIGACIÓN > SUB-ÁREA 1: CONCEPTOS Y CLASIFICACIÓN DE LAS INVESTIGACIONES > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3107",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3108",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Cuidados en el periodo prenatal.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3109",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3110",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Violencia sexual y violencia basada en género.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3111",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Epidemiologia (conceptos básicos, mediciones e indicadores).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3112",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Cuidado integral de la niña, adolescente, joven, adulta y adulta mayor en salud sexual reproductiva.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3114",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3115",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3119",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3120",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.10 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3122",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Infecciones asociadas a la atención de salud.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3124",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.4 Demografía en salud (Transición demográfica y epidemiológica, indicadores de estructura y dinámica poblacional)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3125",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.16 Prevención y control de la Tuberculosis: búsqueda activa de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.16"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3126",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Planeamiento Estratégico: concepto, marco legal",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3127",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Derechos y deberes de los usuarios de los servicios de salud",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3128",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3129",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Cuidados en el periodo prenatal.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q3130",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Manejo inicial de las emergencias obstétricas: Diagnóstico, estabilización y referencia (respuesta rápida).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3133",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Plan de salud local.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-4-obstetricia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.7"
+   },
+   "confianza": "alta"
+  }
+ ]
+}
