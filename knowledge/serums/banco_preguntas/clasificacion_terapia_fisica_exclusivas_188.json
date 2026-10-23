@@ -1,0 +1,2509 @@
+{
+ "meta": {
+  "carrera": "Tecnología Médica - Terapia Física",
+  "total": 188,
+  "marca": "análisis propio, clasificación por IA pendiente de revisión humana",
+  "criterio_tipo": "caso aplicado = el enunciado plantea una situación concreta, un paciente, un servicio o un cálculo y pide una decisión, diagnóstico, clasificación o resultado aplicado; definición conceptual = pide definir, nombrar o recordar un concepto, norma o dato.",
+  "criterio_confianza": "alta = eje, ítem y tipo claros; media = eje claro pero ítem o tipo dudoso (o el temario solo respalda la sub-área); baja = ambigua.",
+  "temarios": {
+   "2025-I": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+   "2025-II": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+   "2026-I": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+   "2026-II": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf"
+  },
+  "nota_temarios": "2025-II, 2026-I y 2026-II tienen el mismo temario de Terapia Física y Rehabilitación; 2025-I tiene otra estructura y otra numeración. Cada pregunta se ligó al temario de su convocatoria. El archivo de 2026-I se llama \"tm-optometria-temario-serums.pdf\" pero su contenido es el de Terapia Física. El temario no incluye ITS/VIH ni enfermedades respiratorias virales como ítems propios.",
+  "ambiguas": [
+   {
+    "id": "Q0437",
+    "nota": "Manejo de COVID-19 leve: COVID no figura como ítem del temario; se asignó SP-1.10 (brotes, epidemias y pandemias) como aproximación."
+   },
+   {
+    "id": "Q1665",
+    "nota": "Neumonía adquirida en la comunidad: el temario no tiene ítem de enfermedades respiratorias; se asignó CI-2.7 (vacunación) como aproximación."
+   },
+   {
+    "id": "Q1667",
+    "nota": "Gestante con hemorragia y shock: el temario no tiene ítem de emergencias obstétricas; se asignó CI-1.1 solo por contexto de evaluación y manejo inicial."
+   },
+   {
+    "id": "Q1704",
+    "nota": "Caso de influenza con madre gestante: el temario no tiene ítem de enfermedades respiratorias virales; se asignó CI-2.7 (vacunación) como aproximación."
+   },
+   {
+    "id": "Q2567",
+    "nota": "VIH/ITS: no figura en el temario de Terapia Física; se asignó SP-1.2 (epidemiología) como aproximación."
+   }
+  ],
+  "conflictos_de_eje": [],
+  "conteos": {
+   "ejes": {
+    "Cuidado Integral de Salud": 84,
+    "Salud Pública": 56,
+    "Gestión de Servicios de Salud": 20,
+    "Ética e Interculturalidad": 25,
+    "Investigación": 3
+   },
+   "tipo": {
+    "definición conceptual": 84,
+    "caso aplicado": 104
+   },
+   "confianza": {
+    "media": 62,
+    "baja": 5,
+    "alta": 121
+   },
+   "convocatoria": {
+    "2025-I": 24,
+    "2025-II": 85,
+    "2026-I": 25,
+    "2026-II": 54
+   }
+  }
+ },
+ "preguntas": [
+  {
+   "id": "Q0436",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 Cuidado integral de salud en la persona con discapacidad por curso de vida.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0437",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.10 Brotes, epidemias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.10"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q0438",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0439",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.6 Prevención y control de la Tuberculosis: búsqueda activa de casos y seguimiento de casos, y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0440",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Cuidado de la salud mental de las personas (conceptos básicos).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0441",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 Cuidado integral de salud en la persona con discapacidad por curso de vida.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0442",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Esquema nacional de vacunación en el Perú.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0443",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Cuidado integral de salud en la persona con discapacidad por curso de vida.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0444",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0445",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0446",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.1 Atención Primaria de salud (conceptos y principios).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0447",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.5 Intervenciones de rehabilitación basadas en comunidad.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.5"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0448",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.5 Prevención y control del Cáncer (Identificación de factores de riesgo prevención primaria y secundaria) con énfasis en cáncer de cuello uterino, mama, próstata, colon recto, piel.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0449",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.12 Medidas preventivas en salud bucal a la persona con énfasis en técnica de cepillado y uso de hilo dental.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0450",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Aplicación de pruebas, instrumentos y escalas de valoración físico- funcionales.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0451",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Sistema de referencia y contrarreferencia de los establecimientos de salud (definición, niveles, criterios, procesos y procedimientos).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0452",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0453",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Aplicación de pruebas, instrumentos y escalas de valoración físico- funcionales.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0454",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Control de vectores y plagas.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.10"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0455",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0456",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0457",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.6 Trabajo intersectorial en salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.6"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0458",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0459",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Aplicación de pruebas, instrumentos y escalas de valoración físico- funcionales.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-terapia-fisica-y-rehabilitacion.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1632",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Historia natural del proceso salud enfermedad",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1633",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Gestión de la Historia Clínica",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1634",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Esquema nacional de vacunación en el Perú.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1635",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1636",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.6 Etapas y niveles de prevención (primaria, secundaria, terciaria y cuaternaria)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1637",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Análisis estratégico institucional (misión, visión, valores de la organización y FODA)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1638",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.11 Uso racional de medicamentos y su impacto en la salud pública",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.11"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1639",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1640",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.13 Accesibilidad a los servicios de salud (barreras sociales, geográficas, económicas y culturales)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.13"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1641",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.4 Bioseguridad (enfocado a la protección de las personas y medio ambiente, conceptos, usos y aplicación).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1642",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1643",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Medicina tradicional, complementaria y alternativa",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1644",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Salud ocupacional (Prevención y control riesgos laborales, identificación de riesgos psicosocial en el trabajador de salud).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1645",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Sistema de referencia y contrarreferencia de los establecimientos de salud (definición, niveles, criterios y procedimientos)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1646",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "3.4 Bioseguridad (enfocado a la protección de las personas y medio ambiente, conceptos, usos y aplicación).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1647",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.3 Intervenciones de rehabilitación basadas en comunidad.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1648",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.4 Promoción del Parto vertical",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1649",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Ética en la función pública (trato digno y humanización de la atención; confidencialidad y manejo de la información)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1650",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1651",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Cuidado integral en salud por curso de vida para la persona, familia y comunidad (definición, componentes, enfoques).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1652",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.4 Bioseguridad (enfocado a la protección de las personas y medio ambiente, conceptos, usos y aplicación).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1653",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Derechos y deberes de los usuarios de los servicios de salud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1654",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.5 Prevención y control del Cáncer (Identificación de factores de riesgo prevención primaria y secundaria) con énfasis en cáncer de cuello uterino, mama, próstata, colon recto, piel.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1655",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Prevención de riesgos de discapacidad y alteración de la funcionalidad física.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1656",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Planeamiento Estratégico: concepto, marco legal",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1657",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "3.1 Gestión de Recursos Humanos (definición, asistencia y permanencia)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 3: ADMINISTRACIÓN DE LOS SERVICIOS DE SALUD > 3.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1658",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.6 Derechos del usuario con énfasis en la persona con discapacidad.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.6"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1659",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.1 Comunicación y diálogo intercultural en salud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1660",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.5 Prevención y control del Cáncer (Identificación de factores de riesgo prevención primaria y secundaria) con énfasis en cáncer de cuello uterino, mama, próstata, colon recto, piel.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1661",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1662",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.4 Cuidado de la salud mental de las personas (conceptos básicos).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1663",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Derechos y deberes de los usuarios de los servicios de salud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1664",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Cuidado integral en salud por curso de vida para la persona, familia y comunidad (definición, componentes, enfoques).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1665",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Esquema nacional de vacunación en el Perú.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q1666",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.11 Uso racional de medicamentos y su impacto en la salud pública",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1667",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q1668",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 Participación social y comunitaria.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1669",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1670",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Clasificación de establecimientos de salud por categorías",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1671",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "3.1 Gestión de Recursos Humanos (definición, asistencia y permanencia)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 3: ADMINISTRACIÓN DE LOS SERVICIOS DE SALUD > 3.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1672",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.8 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1673",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 Cuidado integral de salud en la persona con discapacidad por curso de vida.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1674",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Derechos y deberes de los usuarios de los servicios de salud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1675",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.2 Información, educación y comunicación para la salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1676",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.11 Uso racional de medicamentos y su impacto en la salud pública",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.11"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1677",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 Cuidado integral de salud en la persona con discapacidad por curso de vida.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1678",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Plan de salud local.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.7"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1679",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Planeamiento Institucional: PEI, POI (definición, elaboración, seguimiento y evaluación)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1680",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.12 Medidas preventivas en salud bucal a la persona con énfasis en técnica de cepillado y uso de hilo dental.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1681",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.1 Determinantes sociales de la salud (intermedios y estructurales).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1682",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.6 Derechos del usuario con énfasis en la persona con discapacidad.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1683",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.1 Determinantes sociales de la salud (intermedios y estructurales).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1684",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Prevención y control del Cáncer (Identificación de factores de riesgo prevención primaria y secundaria) con énfasis en cáncer de cuello uterino, mama, próstata, colon recto, piel.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1685",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1686",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1687",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Participación social y comunitaria.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1688",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.5 Uso racional y conservación de equipos biomédicos y materiales de terapia física y rehabilitación.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.5"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1689",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1690",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.7 Pruebas diagnósticas (sensibilidad, especificidad, valor predictivo positivo, valor predictivo negativo)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1691",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Cuidado de la salud mental de las personas (conceptos básicos).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1692",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Prevención de la estigma y discriminación étnica - cultural, a poblaciones claves y vulnerables y otras.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1693",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Código de ética y deontología profesional",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1694",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1695",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Prevención y control de la Tuberculosis: búsqueda activa de casos y seguimiento de casos, y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.6"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1696",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.3 Intervenciones de rehabilitación basadas en comunidad.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1697",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.5 Gestión de la Historia Clínica",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1698",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Participación social y comunitaria.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1699",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.4 Bioseguridad (enfocado a la protección de las personas y medio ambiente, conceptos, usos y aplicación).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1700",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.6 Etapas y niveles de prevención (primaria, secundaria, terciaria y cuaternaria)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.6"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1701",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "4.2 Clima organizacional y Cultura organizacional",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1702",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1703",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Aplicación de pruebas, instrumentos y escalas de valoración físico- funcionales. REHABILITACIÓN",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1704",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Esquema nacional de vacunación en el Perú.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q1705",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.12 Medidas preventivas en salud bucal a la persona con énfasis en técnica de cepillado y uso de hilo dental.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1706",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Sectorización y ficha familiar.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1707",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1708",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.6 Etapas y niveles de prevención (primaria, secundaria, terciaria y cuaternaria)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1709",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Planeamiento Institucional: PEI, POI (definición, elaboración, seguimiento y evaluación)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1710",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1711",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Código de ética y deontología profesional",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1712",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Análisis estratégico institucional (misión, visión, valores de la organización y FODA)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1713",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.10 Prevención y Control de infecciones (conceptos diferencias y usos)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1714",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1715",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.9 Prevención y control de enfermedades no transmisibles (factores de riesgo).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1716",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2552",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.5 Medicina tradicional, complementaria y alternativa",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.5"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2553",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.12 Análisis de situacional de salud",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2554",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.13 Accesibilidad a los servicios de salud (barreras sociales, geográficas, económicas y culturales)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.13"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2555",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.6 Prevención de la estigma y discriminación étnica - cultural, a poblaciones claves y vulnerables y otras.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2556",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2558",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2560",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.6 Derechos del usuario con énfasis en la persona con discapacidad.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2561",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2562",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.6 Derechos del usuario con énfasis en la persona con discapacidad.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2563",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2564",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.8 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2565",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2566",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2567",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Epidemiologia (conceptos básicos, mediciones e indicadores).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.2"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q2568",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.6 Derechos del usuario con énfasis en la persona con discapacidad.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.6"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2569",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.11 Salud ocupacional (Prevención y control riesgos laborales, identificación de riesgos psicosocial en el trabajador de salud).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2570",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "4.2 Clima organizacional y Cultura organizacional",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2571",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2572",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2573",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.1 Determinantes sociales de la salud (intermedios y estructurales).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2574",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 Cuidado integral de salud en la persona con discapacidad por curso de vida.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2575",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2576",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2577",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Plan de salud local.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2578",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Derechos y deberes de los usuarios de los servicios de salud",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/tm-optometria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3398",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Aplicación de pruebas, instrumentos y escalas de valoración físico- funcionales. REHABILITACIÓN",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3399",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3400",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 UPSS y Cartera de servicios de Salud",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3401",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3402",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.6 Gestión del riesgo en situaciones de emergencias y desastres en salud.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3403",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3404",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Aplicación de pruebas, instrumentos y escalas de valoración físico- funcionales. REHABILITACIÓN",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3405",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.5 Prevención y control del Cáncer (Identificación de factores de riesgo prevención primaria y secundaria) con énfasis en cáncer de cuello uterino, mama, próstata, colon recto, piel.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3407",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Telesalud",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3408",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Causalidad y Riesgo (definición, criterios de Dolly Hill, medición de riesgo individual poblacional, etc.)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3409",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Ética en la función pública (trato digno y humanización de la atención; confidencialidad y manejo de la información)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3410",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3411",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.6 Etapas y niveles de prevención (primaria, secundaria, terciaria y cuaternaria)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3412",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Determinantes ambientales de salud (entorno, ambiente, saneamiento básico).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3413",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.6 Derechos del usuario con énfasis en la persona con discapacidad.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3414",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.12 Medidas preventivas en salud bucal a la persona con énfasis en técnica de cepillado y uso de hilo dental.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3415",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "3.2 Información, educación y comunicación para la salud.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3416",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.4 Promoción del Parto vertical",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3417",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Planeamiento Estratégico: concepto, marco legal",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3418",
+   "eje": "Investigación",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Procesamiento y análisis de datos",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: INVESTIGACIÓN > SUB-ÁREA 2: METODOLOGÍA DE LA INVESTIGACIÓN > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3419",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3420",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.4 Demografía en salud (Transición demográfica y epidemiológica, indicadores de estructura y dinámica poblacional)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3421",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3422",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.6 Prevención y control de la Tuberculosis: búsqueda activa de casos y seguimiento de casos, y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3423",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.5 Medicina tradicional, complementaria y alternativa",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3424",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Código de ética y deontología profesional",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3425",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Esquema nacional de vacunación en el Perú.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3426",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3427",
+   "eje": "Investigación",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Tipos de investigación (descriptivo, analítico y experimental)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: INVESTIGACIÓN > SUB-ÁREA 1: CONCEPTOS Y CLASIFICACIÓN DE LAS INVESTIGACIONES > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3428",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Salud ocupacional (Prevención y control riesgos laborales, identificación de riesgos psicosocial en el trabajador de salud).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3429",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 UPSS y Cartera de servicios de Salud",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3430",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.1 Determinantes sociales de la salud (intermedios y estructurales).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3431",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.9 Prevención y control de enfermedades no transmisibles (factores de riesgo).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.9"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3432",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Cuidado integral de salud en la persona con discapacidad por curso de vida.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3433",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.1 Comunicación y diálogo intercultural en salud",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3434",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.13 Accesibilidad a los servicios de salud (barreras sociales, geográficas, económicas y culturales)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.13"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3435",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3436",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3437",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Plan de salud local.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3438",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Esquema nacional de vacunación en el Perú.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3439",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.4 Bioseguridad (enfocado a la protección de las personas y medio ambiente, conceptos, usos y aplicación).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3440",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3441",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.9 Alimentación y Nutrición e inocuidad alimentaria",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.9"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3442",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Evaluación funcional Fisioterapéutica",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3443",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.11 Uso racional de medicamentos y su impacto en la salud pública",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3444",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3445",
+   "eje": "Investigación",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Tipos de investigación (descriptivo, analítico y experimental)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: INVESTIGACIÓN > SUB-ÁREA 1: CONCEPTOS Y CLASIFICACIÓN DE LAS INVESTIGACIONES > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3446",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Ética en la función pública (trato digno y humanización de la atención; confidencialidad y manejo de la información)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3448",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Aplicación de pruebas, instrumentos y escalas de valoración físico- funcionales. REHABILITACIÓN",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3449",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.7 Pruebas diagnósticas (sensibilidad, especificidad, valor predictivo positivo, valor predictivo negativo)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3450",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.11 Infecciones asociadas a la atención de salud.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q3451",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Diversidad cultural, promoción de la inclusión y la equidad",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3452",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.10 Prevención y Control de infecciones (conceptos diferencias y usos)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.10"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q3453",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.6 Derechos del usuario con énfasis en la persona con discapacidad.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-c-tm-en-terapia-fisica-y-rh-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.6"
+   },
+   "confianza": "media"
+  }
+ ]
+}
