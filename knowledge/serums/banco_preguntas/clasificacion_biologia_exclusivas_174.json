@@ -1,0 +1,2311 @@
+{
+ "meta": {
+  "carrera": "Biología",
+  "total": 174,
+  "marca": "análisis propio, clasificación por IA pendiente de revisión humana",
+  "criterio_tipo": "caso aplicado = el enunciado plantea una situación concreta, un paciente, un servicio o un cálculo y pide una decisión, diagnóstico, clasificación o resultado aplicado; definición conceptual = pide definir, nombrar o recordar un concepto, norma o dato.",
+  "criterio_confianza": "alta = eje, ítem y tipo claros; media = eje claro pero ítem o tipo dudoso (o el temario solo respalda la sub-área); baja = ambigua.",
+  "temarios": {
+   "2025-I": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+   "2025-II": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+   "2026-I": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+   "2026-II": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf"
+  },
+  "nota_temarios": "2025-II, 2026-I y 2026-II tienen el mismo temario de Biología (83 ítems); 2025-I tiene otra estructura (106 ítems) con otra numeración en Salud Pública, Ética e Interculturalidad, Investigación y Gestión (los ítems propios de laboratorio CUI 1.1-1.5 y el resto de Cuidado Integral se mantienen). Cada pregunta se ligó al temario de su convocatoria. Las preguntas de procedimientos de laboratorio se ligaron a CUI 1.2 y las de bioseguridad de laboratorio a CUI 1.2 o a Salud Pública 3.3 según el enunciado.",
+  "ambiguas": [
+   {
+    "id": "Q0553",
+    "nota": "Enunciado truncado sobre el refuerzo de la prevención y control de una enfermedad en el centro de salud; se asignó CI-2.11 (infecciones asociadas a la atención de salud) como aproximación."
+   }
+  ],
+  "conflictos_de_eje": [],
+  "conteos": {
+   "ejes": {
+    "Cuidado Integral de Salud": 82,
+    "Ética e Interculturalidad": 25,
+    "Gestión de Servicios de Salud": 26,
+    "Salud Pública": 39,
+    "Investigación": 2
+   },
+   "tipo": {
+    "definición conceptual": 38,
+    "caso aplicado": 136
+   },
+   "confianza": {
+    "alta": 132,
+    "media": 41,
+    "baja": 1
+   },
+   "convocatoria": {
+    "2025-I": 28,
+    "2025-II": 96,
+    "2026-I": 34,
+    "2026-II": 16
+   }
+  }
+ },
+ "preguntas": [
+  {
+   "id": "Q0006",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.9 Prevención y control de enfermedades no transmisibles (factores de riesgo).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0014",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 UPS de patología clínica (indicadores de calidad, indicadores de gestión, equipamiento, infraestructura) según nivel de atención.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0017",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Código de ética y deontología profesional.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0020",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0026",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Estudios y análisis epidemiológicos relacionados con la salud humana, higiene y salud ambiental.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0029",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Planeamiento Institucional: PEI, POI (definición, elaboración, seguimiento y evaluación).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0036",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Derechos y deberes de los usuarios de los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0037",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.8 Prevención de la estigma y discriminación étnica, cultural, y en otras poblaciones clave y vulnerables.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: INTERCULTURALIDAD > 2.8"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0039",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Infecciones asociadas a la atención de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0045",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "3.2 Gestión Logística (Abastecimiento y Distribución de Medicamentos e Insumos; Gestión de Almacenes y Control de Stock).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 4,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 3: ADMINISTRACIÓN DE LOS SERVICIOS DE SALUD > 3.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0046",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "4.1 Garantía y mejora de la calidad de los servicios de salud (auditoria, acreditación, seguridad del paciente, proceso de mejora continua).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 4,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0049",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Análisis estratégico institucional (misión, visión, valores de la organización y FODA).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0054",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Procedimientos mínimos de laboratorio por nivel de atención (inmunología, bioquímica, hematología, microbiología, biología molecular ).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0055",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.6 Esquema nacional de vacunación en el Perú.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0057",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Código de ética y deontología profesional.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0065",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.8 Atención integral de las infecciones de transmisión sexual, VIH y hepatitis B y C: pruebas de laboratorio.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0066",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Prevención y control de la Tuberculosis: búsqueda activa de casos, diagnóstico de laboratorio, seguimiento de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0068",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0072",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.9 Prevención y control de enfermedades no transmisibles (factores de riesgo).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0073",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.14 Embarazo, parto, puerperio normal (pruebas de laboratorio).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.14"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0074",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.6 Esquema nacional de vacunación en el Perú.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0077",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0079",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0081",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.10 Exposición a metales pesados y otras sustancias químicas (biomarcadores de exposición).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0083",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Derechos y deberes de los usuarios de los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0089",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Detección temprana de cáncer infantil (identificación de signos y síntomas para la detección temprana cáncer infantil.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0094",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0096",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/biologo.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0511",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0512",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Epidemiologia (conceptos básicos, mediciones e indicadores)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0513",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0514",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Gestión y manejo de los residuos sólidos (importancia en la salud comunitaria).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.11"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0515",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Conceptos básicos de salud pública (definiciones, FESP)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0516",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Telesalud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0517",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Gestión de la Historia Clínica",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0518",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Determinantes ambientales de salud (entorno, ambiente, saneamiento básico).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0519",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.1 Paquete del cuidado integral de salud por curso de vida (conceptos básicos).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0520",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.14 Accesibilidad a los servicios de salud (barreras sociales, geográficas, económicas y culturales).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.14"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0521",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Ética en la función pública (trato digno y humanización de la atención; confidencialidad y manejo de la información)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0522",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Intervenciones comunitarias en salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.5"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0523",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Telesalud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0524",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Cuidado de la salud mental de las personas (conceptos básicos).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0526",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0527",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0528",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.1 Comunicación y diálogo intercultural en salud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0529",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.4 Gestión del riesgo en situaciones de emergencias y desastres en salud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0530",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.1 Determinantes sociales de la salud (intermedios y estructurales).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0531",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Prevención y control de la Tuberculosis: búsqueda activa de casos, diagnóstico de laboratorio, seguimiento de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0532",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Control de vectores y plagas.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0533",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0534",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "3.3 Bioseguridad (enfocado a la protección de las personas y medio ambiente, conceptos, usos y aplicación)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0535",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Prevención y control del Cáncer: énfasis factores de riesgo y vacunas, toma de muestra VPH, estudio de lámina periférica.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0536",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0537",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.13 Prevención y control de enfermedades metaxénicas y zoonóticas.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.13"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0538",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Detección temprana de cáncer infantil (identificación de signos y síntomas para la detección temprana cáncer infantil.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0539",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Esquema nacional de vacunación en el Perú.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0541",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "4.2 Clima organizacional y Cultura organizacional",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0542",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Ética en la función pública (trato digno y humanización de la atención; confidencialidad y manejo de la información)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0543",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Clasificación de establecimientos de salud por categorías",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0544",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.1 Comunicación y diálogo intercultural en salud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0545",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Detección temprana de cáncer infantil (identificación de signos y síntomas para la detección temprana cáncer infantil.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0546",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.14 Embarazo, parto, puerperio normal (pruebas de laboratorio).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.14"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0547",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Redes integradas de salud (RIS)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0548",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Planeamiento Institucional: PEI, POI (definición, elaboración, seguimiento y evaluación)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0549",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.1 Comunicación y diálogo intercultural en salud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0550",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Gestión y manejo de los residuos sólidos (importancia en la salud comunitaria).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0551",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Código de ética y deontología profesional",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0552",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "4.2 Clima organizacional y Cultura organizacional",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0553",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Infecciones asociadas a la atención de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.11"
+   },
+   "confianza": "baja"
+  },
+  {
+   "id": "Q0554",
+   "eje": "Investigación",
+   "tipo": "caso aplicado",
+   "subeje": "2.1 Instrumentos de recolección de datos y su validación",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: INVESTIGACIÓN > SUB-ÁREA 2: METODOLOGÍA DE LA INVESTIGACIÓN > 2.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0555",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Esquema nacional de vacunación en el Perú.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0556",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0557",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 UPS de patología clínica (indicadores de calidad, indicadores de gestión, equipamiento, infraestructura) según nivel de atención.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0558",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Prevención y control de la Tuberculosis: búsqueda activa de casos, diagnóstico de laboratorio, seguimiento de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0559",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.6 Prevención de la estigma y discriminación étnico - cultural a poblaciones clave y vulnerables y otras",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0560",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0561",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0562",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Código de ética y deontología profesional",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0563",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Ética en la función pública (trato digno y humanización de la atención; confidencialidad y manejo de la información)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0564",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0565",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.9 Prevención y control de enfermedades no transmisibles (factores de riesgo).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0566",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Exposición a metales pesados y otras sustancias químicas (biomarcadores de exposición).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0567",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.13 Prevención y control de enfermedades metaxénicas y zoonóticas.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.13"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0568",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0569",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Ética en la función pública (trato digno y humanización de la atención; confidencialidad y manejo de la información)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0570",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Cuidado de la salud mental de las personas (conceptos básicos).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0571",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Medicina tradicional, complementaria y alternativa",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0573",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0574",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Prevención y control del Cáncer: énfasis factores de riesgo y vacunas, toma de muestra VPH, estudio de lámina periférica.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0575",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.13 Prevención y control de enfermedades metaxénicas y zoonóticas.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.13"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0576",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0577",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.8 Atención integral de las infecciones de transmisión sexual, VIH y hepatitis B y C: pruebas de laboratorio.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0578",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Exposición a metales pesados y otras sustancias químicas (biomarcadores de exposición).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0579",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Infecciones asociadas a la atención de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0580",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0581",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0582",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Exposición a metales pesados y otras sustancias químicas (biomarcadores de exposición).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0583",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0584",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0585",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Diversidad cultural, promoción de la inclusión y la equidad",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0586",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.13 Prevención y control de enfermedades metaxénicas y zoonóticas.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.13"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0587",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0588",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0589",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Prevención y control de la Tuberculosis: búsqueda activa de casos, diagnóstico de laboratorio, seguimiento de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0590",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.2 Información, educación y comunicación para la salud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0591",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Derechos y deberes de los usuarios de los servicios de salud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0592",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "4.2 Clima organizacional y Cultura organizacional",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0593",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.2 Información, educación y comunicación para la salud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0594",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.13 Prevención y control de enfermedades metaxénicas y zoonóticas.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.13"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0596",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.14 Accesibilidad a los servicios de salud (barreras sociales, geográficas, económicas y culturales).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.14"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0597",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0598",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.9 Vigilancia en salud pública y epidemiológica (definición, componentes, usos y aplicaciones)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0599",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0600",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.8 Sistemas de información y TICs en salud (HIS, receta electrónica, Historia clínica y SIS)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.8"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0601",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.3 Participación social y comunitaria.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0602",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Control de vectores y plagas.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0603",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.9 Prevención y control de enfermedades no transmisibles (factores de riesgo).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0604",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.7 Telesalud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.7"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0605",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.8 Atención integral de las infecciones de transmisión sexual, VIH y hepatitis B y C: pruebas de laboratorio.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0606",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.3 Bioseguridad (enfocado a la protección de las personas y medio ambiente, conceptos, usos y aplicación)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0607",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.14 Accesibilidad a los servicios de salud (barreras sociales, geográficas, económicas y culturales).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.14"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0608",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "3.3 Coordinación intersectorial y alianzas estratégicas",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 3: ADMINISTRACIÓN DE LOS SERVICIOS DE SALUD > 3.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0609",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Planeamiento Institucional: PEI, POI (definición, elaboración, seguimiento y evaluación)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0610",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Derechos y deberes de los usuarios de los servicios de salud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1862",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Infecciones asociadas a la atención de salud.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1863",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.12 Análisis de situacional de salud",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1864",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.13 Sistema de Vigilancia Epidemiológica en el país (notificación de enfermedades, composición, difusión de información)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.13"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1865",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.2 Información, educación y comunicación para la salud",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1866",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.11 Uso racional de medicamentos y su impacto en la salud pública",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1867",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.4 Demografía en salud (Transición demográfica y epidemiológica, indicadores de estructura y dinámica poblacional)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1868",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Análisis estratégico institucional (misión, visión, valores de la organización y FODA)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1869",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Prevención y control de la Tuberculosis: búsqueda activa de casos, diagnóstico de laboratorio, seguimiento de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1870",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.12 Salud ocupacional (Prevención y control riesgos laborales, identificación de riesgos psicosocial en el trabajador de salud).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1872",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Gestión y manejo de los residuos sólidos (importancia en la salud comunitaria).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1873",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1874",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1877",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.9 Prevención y control de enfermedades no transmisibles (factores de riesgo).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1879",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "3.2 Control de inventario y stock de medicamentos",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 3: ADMINISTRACIÓN DE LOS SERVICIOS DE SALUD > 3.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1880",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Análisis estratégico institucional (misión, visión, valores de la organización y FODA)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1881",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1882",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Detección temprana de cáncer infantil (identificación de signos y síntomas para la detección temprana cáncer infantil.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1883",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Ética en la función pública (trato digno y humanización de la atención; confidencialidad y manejo de la información)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1884",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1885",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Derechos y deberes de los usuarios de los servicios de salud",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1886",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.3 Bioseguridad (enfocado a la protección de las personas y medio ambiente, conceptos, usos y aplicación)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1888",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "4.2 Clima organizacional y Cultura organizacional",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1889",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "3.2 Control de inventario y stock de medicamentos",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 3: ADMINISTRACIÓN DE LOS SERVICIOS DE SALUD > 3.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1890",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.12 Análisis de situacional de salud",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1891",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.9 Prevención y control de enfermedades no transmisibles (factores de riesgo).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1892",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.1 Determinantes sociales de la salud (intermedios y estructurales).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1893",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.12 Medidas preventivas en salud bucal a la persona con énfasis en técnica de cepillado y uso de hilo dental.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.12"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1894",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.1 Paquete del cuidado integral de salud por curso de vida (conceptos básicos).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1895",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1896",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Prevención de la estigma y discriminación étnico - cultural a poblaciones clave y vulnerables y otras",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1897",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1898",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Derechos y deberes de los usuarios de los servicios de salud",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q1899",
+   "eje": "Investigación",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Tipos de investigación (descriptivo, analítico y experimental)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: INVESTIGACIÓN > SUB-ÁREA 1: CONCEPTOS Y CLASIFICACIÓN DE LAS INVESTIGACIONES > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q1900",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Prevención de la estigma y discriminación étnico - cultural a poblaciones clave y vulnerables y otras",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.6"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2677",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.5 Procedimientos mínimos de laboratorio por nivel de atención (inmunología, bioquímica, hematología, microbiología, biología molecular ).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2679",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.8 Atención integral de las infecciones de transmisión sexual, VIH y hepatitis B y C: pruebas de laboratorio.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2682",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Control de vectores y plagas.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2685",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "3.4 Liderazgo de los servicios de salud",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 3: ADMINISTRACIÓN DE LOS SERVICIOS DE SALUD > 3.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2700",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.8 Atención integral de las infecciones de transmisión sexual, VIH y hepatitis B y C: pruebas de laboratorio.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2709",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Prevención y control de la Tuberculosis: búsqueda activa de casos, diagnóstico de laboratorio, seguimiento de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2714",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.13 Prevención y control de enfermedades metaxénicas y zoonóticas.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.13"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2716",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.11 Infecciones asociadas a la atención de salud.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2717",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2718",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2734",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Procedimientos generales de laboratorio (bioseguridad, esterilización y desinfección, desecho de muestras y materiales infectados).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2736",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.13 Prevención y control de enfermedades metaxénicas y zoonóticas.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.13"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2738",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.1 Determinantes sociales de la salud (intermedios y estructurales).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2741",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Proceso de atención del usuario del laboratorio.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2767",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.8 Atención integral de las infecciones de transmisión sexual, VIH y hepatitis B y C: pruebas de laboratorio.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2772",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Proceso de atención del usuario del laboratorio.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-9-biologia-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  }
+ ]
+}
