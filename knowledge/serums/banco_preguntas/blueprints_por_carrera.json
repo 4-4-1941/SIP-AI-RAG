@@ -1,0 +1,580 @@
+{
+ "Biología": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 25,
+   "ejes": {
+    "Cuidado integral": 24,
+    "Salud pública": 30,
+    "Gestión": 24,
+    "Ética e interculturalidad": 15,
+    "Investigación": 7
+   },
+   "tipo": {
+    "caso_aplicado": 69,
+    "definicion_conceptual": 31
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 17,
+   "ejes": {
+    "Cuidado integral": 18,
+    "Salud pública": 34,
+    "Gestión": 23,
+    "Ética e interculturalidad": 15,
+    "Investigación": 10
+   },
+   "tipo": {
+    "caso_aplicado": 66,
+    "definicion_conceptual": 34
+   }
+  }
+ },
+ "Enfermería": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 32,
+   "ejes": {
+    "Cuidado integral": 33,
+    "Salud pública": 30,
+    "Gestión": 19,
+    "Ética e interculturalidad": 11,
+    "Investigación": 7
+   },
+   "tipo": {
+    "caso_aplicado": 59,
+    "definicion_conceptual": 41
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 14,
+   "ejes": {
+    "Cuidado integral": 28,
+    "Salud pública": 31,
+    "Gestión": 19,
+    "Ética e interculturalidad": 10,
+    "Investigación": 12
+   },
+   "tipo": {
+    "caso_aplicado": 53,
+    "definicion_conceptual": 47
+   }
+  }
+ },
+ "Farmacia y Bioquímica": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 22,
+   "ejes": {
+    "Cuidado integral": 28,
+    "Salud pública": 27,
+    "Gestión": 22,
+    "Ética e interculturalidad": 14,
+    "Investigación": 9
+   },
+   "tipo": {
+    "caso_aplicado": 54,
+    "definicion_conceptual": 46
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 11,
+   "ejes": {
+    "Cuidado integral": 24,
+    "Salud pública": 28,
+    "Gestión": 22,
+    "Ética e interculturalidad": 12,
+    "Investigación": 14
+   },
+   "tipo": {
+    "caso_aplicado": 54,
+    "definicion_conceptual": 46
+   }
+  }
+ },
+ "Ingeniería Sanitaria": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 22,
+   "ejes": {
+    "Cuidado integral": 21,
+    "Salud pública": 34,
+    "Gestión": 24,
+    "Ética e interculturalidad": 12,
+    "Investigación": 9
+   },
+   "tipo": {
+    "caso_aplicado": 59,
+    "definicion_conceptual": 41
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 10,
+   "ejes": {
+    "Cuidado integral": 16,
+    "Salud pública": 35,
+    "Gestión": 24,
+    "Ética e interculturalidad": 14,
+    "Investigación": 11
+   },
+   "tipo": {
+    "caso_aplicado": 62,
+    "definicion_conceptual": 38
+   }
+  }
+ },
+ "Medicina Humana": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 24,
+   "ejes": {
+    "Cuidado integral": 33,
+    "Salud pública": 29,
+    "Gestión": 20,
+    "Ética e interculturalidad": 11,
+    "Investigación": 7
+   },
+   "tipo": {
+    "caso_aplicado": 62,
+    "definicion_conceptual": 38
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 13,
+   "ejes": {
+    "Cuidado integral": 27,
+    "Salud pública": 32,
+    "Gestión": 21,
+    "Ética e interculturalidad": 9,
+    "Investigación": 11
+   },
+   "tipo": {
+    "caso_aplicado": 55,
+    "definicion_conceptual": 45
+   }
+  }
+ },
+ "Medicina Veterinaria": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 24,
+   "ejes": {
+    "Cuidado integral": 28,
+    "Salud pública": 28,
+    "Gestión": 22,
+    "Ética e interculturalidad": 13,
+    "Investigación": 9
+   },
+   "tipo": {
+    "caso_aplicado": 60,
+    "definicion_conceptual": 40
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 13,
+   "ejes": {
+    "Cuidado integral": 17,
+    "Salud pública": 32,
+    "Gestión": 26,
+    "Ética e interculturalidad": 15,
+    "Investigación": 10
+   },
+   "tipo": {
+    "caso_aplicado": 64,
+    "definicion_conceptual": 36
+   }
+  }
+ },
+ "Nutrición": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 27,
+   "ejes": {
+    "Cuidado integral": 27,
+    "Salud pública": 31,
+    "Gestión": 22,
+    "Ética e interculturalidad": 15,
+    "Investigación": 5
+   },
+   "tipo": {
+    "caso_aplicado": 52,
+    "definicion_conceptual": 48
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 13,
+   "ejes": {
+    "Cuidado integral": 28,
+    "Salud pública": 30,
+    "Gestión": 20,
+    "Ética e interculturalidad": 14,
+    "Investigación": 8
+   },
+   "tipo": {
+    "caso_aplicado": 44,
+    "definicion_conceptual": 56
+   }
+  }
+ },
+ "Obstetricia": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 22,
+   "ejes": {
+    "Cuidado integral": 34,
+    "Salud pública": 26,
+    "Gestión": 19,
+    "Ética e interculturalidad": 13,
+    "Investigación": 8
+   },
+   "tipo": {
+    "caso_aplicado": 56,
+    "definicion_conceptual": 44
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 8,
+   "ejes": {
+    "Cuidado integral": 32,
+    "Salud pública": 27,
+    "Gestión": 16,
+    "Ética e interculturalidad": 12,
+    "Investigación": 13
+   },
+   "tipo": {
+    "caso_aplicado": 57,
+    "definicion_conceptual": 43
+   }
+  }
+ },
+ "Odontología": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 19,
+   "ejes": {
+    "Cuidado integral": 31,
+    "Salud pública": 31,
+    "Gestión": 20,
+    "Ética e interculturalidad": 11,
+    "Investigación": 7
+   },
+   "tipo": {
+    "caso_aplicado": 66,
+    "definicion_conceptual": 34
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 10,
+   "ejes": {
+    "Cuidado integral": 29,
+    "Salud pública": 31,
+    "Gestión": 19,
+    "Ética e interculturalidad": 10,
+    "Investigación": 11
+   },
+   "tipo": {
+    "caso_aplicado": 59,
+    "definicion_conceptual": 41
+   }
+  }
+ },
+ "Psicología": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 20,
+   "ejes": {
+    "Cuidado integral": 29,
+    "Salud pública": 29,
+    "Gestión": 21,
+    "Ética e interculturalidad": 13,
+    "Investigación": 8
+   },
+   "tipo": {
+    "caso_aplicado": 49,
+    "definicion_conceptual": 51
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 8,
+   "ejes": {
+    "Cuidado integral": 27,
+    "Salud pública": 29,
+    "Gestión": 22,
+    "Ética e interculturalidad": 12,
+    "Investigación": 10
+   },
+   "tipo": {
+    "caso_aplicado": 46,
+    "definicion_conceptual": 54
+   }
+  }
+ },
+ "Tecnología Médica - Laboratorio Clínico": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 33,
+   "ejes": {
+    "Cuidado integral": 27,
+    "Salud pública": 29,
+    "Gestión": 22,
+    "Ética e interculturalidad": 12,
+    "Investigación": 10
+   },
+   "tipo": {
+    "caso_aplicado": 52,
+    "definicion_conceptual": 48
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 15,
+   "ejes": {
+    "Cuidado integral": 23,
+    "Salud pública": 33,
+    "Gestión": 21,
+    "Ética e interculturalidad": 11,
+    "Investigación": 12
+   },
+   "tipo": {
+    "caso_aplicado": 53,
+    "definicion_conceptual": 47
+   }
+  }
+ },
+ "Tecnología Médica - Optometría": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 26,
+   "ejes": {
+    "Cuidado integral": 25,
+    "Salud pública": 31,
+    "Gestión": 20,
+    "Ética e interculturalidad": 13,
+    "Investigación": 11
+   },
+   "tipo": {
+    "caso_aplicado": 55,
+    "definicion_conceptual": 45
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 9,
+   "ejes": {
+    "Cuidado integral": 22,
+    "Salud pública": 33,
+    "Gestión": 19,
+    "Ética e interculturalidad": 12,
+    "Investigación": 14
+   },
+   "tipo": {
+    "caso_aplicado": 56,
+    "definicion_conceptual": 44
+   }
+  }
+ },
+ "Tecnología Médica - Radiología": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 27,
+   "ejes": {
+    "Cuidado integral": 25,
+    "Salud pública": 29,
+    "Gestión": 22,
+    "Ética e interculturalidad": 14,
+    "Investigación": 10
+   },
+   "tipo": {
+    "caso_aplicado": 50,
+    "definicion_conceptual": 50
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 12,
+   "ejes": {
+    "Cuidado integral": 18,
+    "Salud pública": 33,
+    "Gestión": 23,
+    "Ética e interculturalidad": 16,
+    "Investigación": 10
+   },
+   "tipo": {
+    "caso_aplicado": 42,
+    "definicion_conceptual": 58
+   }
+  }
+ },
+ "Tecnología Médica - Terapia Física": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 19,
+   "ejes": {
+    "Cuidado integral": 25,
+    "Salud pública": 32,
+    "Gestión": 21,
+    "Ética e interculturalidad": 12,
+    "Investigación": 10
+   },
+   "tipo": {
+    "caso_aplicado": 57,
+    "definicion_conceptual": 43
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 6,
+   "ejes": {
+    "Cuidado integral": 26,
+    "Salud pública": 31,
+    "Gestión": 19,
+    "Ética e interculturalidad": 10,
+    "Investigación": 14
+   },
+   "tipo": {
+    "caso_aplicado": 55,
+    "definicion_conceptual": 45
+   }
+  }
+ },
+ "Tecnología Médica - Terapia Ocupacional": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 27,
+   "ejes": {
+    "Cuidado integral": 27,
+    "Salud pública": 29,
+    "Gestión": 21,
+    "Ética e interculturalidad": 13,
+    "Investigación": 10
+   },
+   "tipo": {
+    "caso_aplicado": 57,
+    "definicion_conceptual": 43
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 12,
+   "ejes": {
+    "Cuidado integral": 22,
+    "Salud pública": 34,
+    "Gestión": 20,
+    "Ética e interculturalidad": 11,
+    "Investigación": 13
+   },
+   "tipo": {
+    "caso_aplicado": 57,
+    "definicion_conceptual": 43
+   }
+  }
+ },
+ "Tecnología Médica - Terapia del Lenguaje": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 28,
+   "ejes": {
+    "Cuidado integral": 24,
+    "Salud pública": 31,
+    "Gestión": 21,
+    "Ética e interculturalidad": 13,
+    "Investigación": 11
+   },
+   "tipo": {
+    "caso_aplicado": 54,
+    "definicion_conceptual": 46
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 14,
+   "ejes": {
+    "Cuidado integral": 19,
+    "Salud pública": 34,
+    "Gestión": 21,
+    "Ética e interculturalidad": 13,
+    "Investigación": 13
+   },
+   "tipo": {
+    "caso_aplicado": 53,
+    "definicion_conceptual": 47
+   }
+  }
+ },
+ "Trabajo Social": {
+  "historico": {
+   "preguntas": 400,
+   "sin_clasificar": 0,
+   "confianza_baja": 18,
+   "ejes": {
+    "Cuidado integral": 29,
+    "Salud pública": 27,
+    "Gestión": 23,
+    "Ética e interculturalidad": 15,
+    "Investigación": 6
+   },
+   "tipo": {
+    "caso_aplicado": 63,
+    "definicion_conceptual": 37
+   }
+  },
+  "reciente": {
+   "preguntas": 100,
+   "sin_clasificar": 0,
+   "confianza_baja": 9,
+   "ejes": {
+    "Cuidado integral": 32,
+    "Salud pública": 24,
+    "Gestión": 24,
+    "Ética e interculturalidad": 12,
+    "Investigación": 8
+   },
+   "tipo": {
+    "caso_aplicado": 59,
+    "definicion_conceptual": 41
+   }
+  }
+ }
+}
