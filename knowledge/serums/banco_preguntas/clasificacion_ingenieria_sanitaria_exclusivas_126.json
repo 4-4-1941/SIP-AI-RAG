@@ -1,0 +1,1681 @@
+{
+ "meta": {
+  "carrera": "Ingeniería Sanitaria",
+  "total": 126,
+  "marca": "análisis propio, clasificación por IA pendiente de revisión humana",
+  "criterio_tipo": "caso aplicado = el enunciado plantea una situación concreta, un paciente, un servicio o un cálculo y pide una decisión, diagnóstico, clasificación o resultado aplicado; definición conceptual = pide definir, nombrar o recordar un concepto, norma o dato.",
+  "criterio_confianza": "alta = eje, ítem y tipo claros; media = eje claro pero ítem o tipo dudoso (o el temario solo respalda la sub-área); baja = ambigua.",
+  "temarios": {
+   "2025-I": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+   "2025-II": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+   "2026-I": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+   "2026-II": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf"
+  },
+  "nota_temarios": "2025-II, 2026-I y 2026-II tienen el mismo temario de Ingeniería Sanitaria (78 ítems); 2025-I tiene otra estructura (103 ítems) con otra numeración en Salud Pública, Ética e Interculturalidad, Investigación y Gestión (los ítems propios de Ingeniería Sanitaria CUI 1.1-1.4 y el resto de Cuidado Integral se mantienen). Cada pregunta se ligó al temario de su convocatoria. Las preguntas sobre agua, excretas, residuos sólidos y enfermedades transmitidas por alimentos se ligaron a los ítems propios CUI 1.1 a 1.4.",
+  "ambiguas": [],
+  "conflictos_de_eje": [],
+  "conteos": {
+   "ejes": {
+    "Cuidado Integral de Salud": 72,
+    "Salud Pública": 41,
+    "Gestión de Servicios de Salud": 6,
+    "Ética e Interculturalidad": 6,
+    "Investigación": 1
+   },
+   "tipo": {
+    "caso aplicado": 82,
+    "definición conceptual": 44
+   },
+   "confianza": {
+    "alta": 91,
+    "media": 35
+   },
+   "convocatoria": {
+    "2025-I": 23,
+    "2025-II": 59,
+    "2026-I": 24,
+    "2026-II": 20
+   }
+  }
+ },
+ "preguntas": [
+  {
+   "id": "Q0160",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0161",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Cuidado integral en salud por curso de vida para la persona, familia y comunidad (definición, componentes, enfoques).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0162",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0163",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0164",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0165",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Prevención y control de la Tuberculosis: búsqueda activa de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0166",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Determinantes ambientales de salud (entorno, ambiente, saneamiento básico).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0168",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0169",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Determinantes ambientales de salud (entorno, ambiente, saneamiento básico).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0170",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Trabajo intersectorial en salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.6"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0171",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Control de vectores y plagas.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0172",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Determinantes ambientales de salud (entorno, ambiente, saneamiento básico).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0173",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Prevención y control de enfermedades transmitidas por alimentos.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0174",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0175",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.11 Vigilancia en salud pública y epidemiológica (definición, componentes, usos y aplicaciones).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0177",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0178",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0179",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Prevención y control de enfermedades transmitidas por alimentos.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0180",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0181",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.9 Redes integradas de salud (RIS).",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.9"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0182",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Prevención y control de enfermedades transmitidas por alimentos.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0183",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0184",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-I",
+    "temario": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/ingenieria-sanitaria.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0796",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "4.2 Clima organizacional y Cultura organizacional",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0798",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0799",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Disposición y eliminación de excretas y aguas servidas.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0800",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0801",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0802",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0804",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0805",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Disposición y eliminación de excretas y aguas servidas.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0806",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0807",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0808",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Clasificación de establecimientos de salud por categorías",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0811",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Determinantes ambientales de salud (entorno, ambiente, saneamiento básico).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0812",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.6 Trabajo intersectorial en salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.6"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0813",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0814",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0815",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.13 Accesibilidad a los servicios de salud (barreras sociales, geográficas, económicas y culturales).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.13"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0816",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0817",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.12 Salud ocupacional (Prevención y control riesgos laborales, identificación de riesgos psicosocial en el trabajador de salud).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0820",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0821",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0822",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0823",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "2.1 Comunicación y diálogo intercultural en salud",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0825",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0826",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Prevención y control de enfermedades transmitidas por alimentos.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0829",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0830",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0832",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Prevención y control de la Tuberculosis: búsqueda activa de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0834",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Determinantes ambientales de salud (entorno, ambiente, saneamiento básico).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0835",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0836",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0837",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.9 Vigilancia en salud pública y epidemiológica (definición, componentes, usos y aplicaciones)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0838",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Cuidado integral en salud por curso de vida para la persona, familia y comunidad (definición, componentes, enfoques).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0839",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Clasificación de establecimientos de salud por categorías",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0841",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.11 Gestión y manejo de los residuos sólidos (importancia en la salud comunitaria).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0842",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Determinantes ambientales de salud (entorno, ambiente, saneamiento básico).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0843",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Disposición y eliminación de excretas y aguas servidas.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0845",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Prevención y control de enfermedades transmitidas por alimentos.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0846",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0847",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Ética en la función pública (trato digno y humanización de la atención; confidencialidad y manejo de la información)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0848",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.11 Gestión y manejo de los residuos sólidos (importancia en la salud comunitaria).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0849",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0850",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.1 Determinantes sociales de la salud (intermedios y estructurales).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0851",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Disposición y eliminación de excretas y aguas servidas.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0852",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0853",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Análisis estratégico institucional (misión, visión, valores de la organización y FODA)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 1: PLANIFICACIÓN Y PRESUPUESTO EN SALUD > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0854",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Control de vectores y plagas.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0855",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.9 Exposición a metales pesados y otras sustancias químicas (factores de riesgo, manifestaciones clínicas).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0856",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.5 Prevención y control de la Tuberculosis: búsqueda activa de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0858",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Sectorización y ficha familiar.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0859",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Determinantes ambientales de salud (entorno, ambiente, saneamiento básico).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0860",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Control de vectores y plagas.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0861",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0863",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0864",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.4 Sectorización y ficha familiar.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.4"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0866",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0869",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0870",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q0871",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.8 Sistemas de información y TICs en salud (HIS, Historia clínica y SIS)",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.8"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q0872",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.9 Exposición a metales pesados y otras sustancias químicas (factores de riesgo, manifestaciones clínicas).",
+   "eje_fuente": {
+    "convocatoria": "2025-II",
+    "temario": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2018",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.2 Información, educación y comunicación para la salud",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2019",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2020",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2021",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.12 Análisis de situacional de salud",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2022",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 Atención en salud con enfoque intercultural y pertinencia cultural",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2027",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.5 Medicina tradicional, complementaria y alternativa Prevención de la estigma y discriminación étnico - cultural a poblaciones clave y vulnerables, y otras.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2028",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.7 Prevención y control de anemia y otros problemas de malnutrición.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2031",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.12 Prevención y control de enfermedades metaxénicas y zoonóticas.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2032",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Disposición y eliminación de excretas y aguas servidas.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2033",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.9 Vigilancia en salud pública y epidemiológica (definición, componentes, usos y aplicaciones)",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2035",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.2 Determinantes ambientales de salud (entorno, ambiente, saneamiento básico).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2036",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Prevención y control de enfermedades transmitidas por alimentos.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2037",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2039",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.2 Disposición y eliminación de excretas y aguas servidas.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2041",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Cuidado integral en salud por curso de vida para la persona, familia y comunidad (definición, componentes, enfoques).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2042",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.8 Prevención y control de enfermedades no transmisibles (factores de riesgo).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.8"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2043",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2044",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.11 Medidas preventivas en salud bucal a la persona con énfasis en técnica de cepillado y uso de hilo dental.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.11"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2047",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.9 Exposición a metales pesados y otras sustancias químicas (factores de riesgo, manifestaciones clínicas).",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.9"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2048",
+   "eje": "Investigación",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Procesamiento y análisis de datos",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: INVESTIGACIÓN > SUB-ÁREA 2: METODOLOGÍA DE LA INVESTIGACIÓN > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2051",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Diversidad cultural, promoción de la inclusión y la equidad",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 2: ATENCIÓN INTERCULTURAL EN SALUD > 2.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2052",
+   "eje": "Ética e Interculturalidad",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Derechos y deberes de los usuarios de los servicios de salud",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: ÉTICA E INTERCULTURALIDAD > SUB-ÁREA 1: ÉTICA, BIOÉTICA > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2054",
+   "eje": "Gestión de Servicios de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.3 UPSS y Cartera de servicios de Salud",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 3,
+    "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 2: ORGANIZACIÓN DE LOS SERVICIOS DE SALUD > 2.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2055",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2026-I",
+    "temario": "Zip/SERUMS 2026 I/TEMARIO 2026 I/ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2901",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "2.1 Determinantes sociales de la salud (intermedios y estructurales).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2904",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2905",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.1 Gestión y manejo de residuos sólidos en Establecimientos de Salud y Servicios Médicos de Apoyo.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2908",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2910",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2911",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "2.10 Control de vectores y plagas.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 2: SALUD COMUNITARIA > 2.10"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2913",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.8 Brotes, epidemias, epizootias, pandemias y endemias.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.8"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2916",
+   "eje": "Salud Pública",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Epidemiologia (conceptos básicos, mediciones e indicadores)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 1: MÉTODOS Y APLICACIONES DE SALUD PÚBLICA > 1.2"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2917",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.3 Bioseguridad (enfocado a la protección de las personas y medio ambiente, conceptos, usos y aplicación)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.3"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2918",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2919",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2921",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.3 Evaluación de calidad de agua de consumo humano.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2922",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.5 Prevención y control de la Tuberculosis: búsqueda activa de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2924",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "1.2 Disposición y eliminación de excretas y aguas servidas.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2928",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.1"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2929",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "definición conceptual",
+   "subeje": "2.2 Cuidado integral en salud por curso de vida para la persona, familia y comunidad (definición, componentes, enfoques).",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.2"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2930",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.12 Prevención y control de enfermedades metaxénicas y zoonóticas.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.12"
+   },
+   "confianza": "media"
+  },
+  {
+   "id": "Q2933",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "2.12 Prevención y control de enfermedades metaxénicas y zoonóticas.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 2,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.12"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2934",
+   "eje": "Cuidado Integral de Salud",
+   "tipo": "caso aplicado",
+   "subeje": "1.4 Prevención y control de enfermedades transmitidas por alimentos.",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4"
+   },
+   "confianza": "alta"
+  },
+  {
+   "id": "Q2938",
+   "eje": "Salud Pública",
+   "tipo": "caso aplicado",
+   "subeje": "3.1 Promoción de la salud (Conceptos, estrategias, enfoques, escenarios, ejes temáticos e intervenciones)",
+   "eje_fuente": {
+    "convocatoria": "2026-II",
+    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-12-ingenieria-sanitaria-temario-serums.pdf",
+    "pagina": 1,
+    "apartado": "ÁREA: SALUD PÚBLICA > SUB-ÁREA 3: PROMOCION DE LA SALUD Y PREVENCIÓN DEL RIESGO Y DAÑO > 3.1"
+   },
+   "confianza": "media"
+  }
+ ]
+}
