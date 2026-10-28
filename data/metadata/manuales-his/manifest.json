@@ -3,7 +3,7 @@
   "institucion": "Ministerio de Salud del Perú",
   "fecha_preparacion": "2026-10-05",
   "ruta_destino": "knowledge/minsa/manuales-his",
-  "numero_documentos": 13,
+  "numero_documentos": 14,
   "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
   "documentos": [
     {
@@ -109,6 +109,14 @@
       "anio_publicacion": 2024,
       "paginas_total": 167,
       "sha256": "c0ffb5ea049dab68d6675fa19a6046f5b76fba2595c72a36bd8a8c6ef6dbcc02"
+    },
+    {
+      "id": "MINSA-HIS-PUEBLOS-INDIGENAS-2022-762e026891",
+      "archivo": "Actividades de Registro y  codificacion de Pueblos Indigenos_ Etnias_14.01.22 (1).pdf",
+      "titulo": "Manual de Registro y Codificación según grupo étnico de Actividades de la Dirección de Pueblos Indígenas u Originarios",
+      "anio_publicacion": 2022,
+      "paginas_total": 22,
+      "sha256": "762e026891723a2964b11c83605dc4117fe91349a5c2f9ff0162a5a3e054f975"
     }
   ]
 }
