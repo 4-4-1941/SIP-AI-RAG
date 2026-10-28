@@ -8,10 +8,10 @@
   "temarios": {
    "2025-I": "Zip/SERUMS 2025 I/BLOQUES TEMATICOS POR CARRERA 2025 I/tm-en-optometria.pdf",
    "2025-II": "Zip/SERUMS 2025 II/BLOQUES TEMATICOS POR CARRERA 2025 II/tm-optometria-temario-serums.pdf",
-   "2026-I": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-d-tm-optometria-temario-serums.pdf",
+   "2026-I": "7910367-7-d-tm-optometria-temario-serums.pdf (temario Optometría 2026-I entregado por el usuario el 27/10/2026; ruta dentro del ZIP no verificada)",
    "2026-II": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-d-tm-optometria-temario-serums.pdf"
   },
-  "nota_temarios": "2025-II y 2026-II tienen el mismo temario de Optometría (80 ítems); 2025-I tiene otra estructura (105 ítems) y sus códigos no coinciden. En el ZIP, el archivo de temario 2026-I rotulado Optometría contiene el de Terapia Física; las 12 preguntas de 2026-I se ligaron al temario 2026-II. Cada pregunta se ligó al temario de su convocatoria.",
+  "nota_temarios": "2025-II y 2026-II tienen el mismo temario de Optometría (80 ítems); 2025-I tiene otra estructura (105 ítems) y sus códigos no coinciden. En el ZIP, el archivo de temario 2026-I rotulado Optometría contiene el de Terapia Física. El 27/10/2026 se recibió el temario real de Optometría 2026-I (3 páginas, 80 ítems): sus textos y páginas coinciden con el de 2026-II, así que las 12 preguntas de 2026-I (Q2428 a Q2439) ahora se ligan a ese temario sin cambiar ítem, página ni peso. Cada pregunta se ligó al temario de su convocatoria.",
   "ambiguas": [
    {
     "id": "Q0353",
@@ -1294,7 +1294,7 @@
    "subeje": "1.4 Refracción Ciclopléjica.",
    "eje_fuente": {
     "convocatoria": "2026-I",
-    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-d-tm-optometria-temario-serums.pdf",
+    "temario": "7910367-7-d-tm-optometria-temario-serums.pdf (temario Optometría 2026-I entregado por el usuario el 27/10/2026; ruta dentro del ZIP no verificada)",
     "pagina": 2,
     "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.4",
     "nota_temario": "El archivo de temario de Optometría 2026-I del ZIP contiene el de Terapia Física; se usó el temario 2026-II (misma estructura que 2025-II)."
@@ -1308,7 +1308,7 @@
    "subeje": "4.1 Garantía y mejora de la calidad de los servicios de salud (seguridad del paciente, proceso de mejora continua)",
    "eje_fuente": {
     "convocatoria": "2026-I",
-    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-d-tm-optometria-temario-serums.pdf",
+    "temario": "7910367-7-d-tm-optometria-temario-serums.pdf (temario Optometría 2026-I entregado por el usuario el 27/10/2026; ruta dentro del ZIP no verificada)",
     "pagina": 3,
     "apartado": "ÁREA: GESTIÓN DE SERVICIOS DE SALUD > SUB-ÁREA 4: SISTEMA DE GESTIÓN DE LA CALIDAD > 4.1",
     "nota_temario": "El archivo de temario de Optometría 2026-I del ZIP contiene el de Terapia Física; se usó el temario 2026-II (misma estructura que 2025-II)."
@@ -1322,7 +1322,7 @@
    "subeje": "1.7 Tamizaje y atención de enfermedades oculares de interés en salud pública (enf. Externas del parpado y conjuntiva, retinopatía de la prematuridad, errores de refracción, catarata, glaucoma, retinopatía diabética, baja visión entre otros).",
    "eje_fuente": {
     "convocatoria": "2026-I",
-    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-d-tm-optometria-temario-serums.pdf",
+    "temario": "7910367-7-d-tm-optometria-temario-serums.pdf (temario Optometría 2026-I entregado por el usuario el 27/10/2026; ruta dentro del ZIP no verificada)",
     "pagina": 2,
     "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.7",
     "nota_temario": "El archivo de temario de Optometría 2026-I del ZIP contiene el de Terapia Física; se usó el temario 2026-II (misma estructura que 2025-II)."
@@ -1336,7 +1336,7 @@
    "subeje": "2.5 Prevención y control de la Tuberculosis: búsqueda activa de casos y medidas de control de infecciones en Tuberculosis en los servicios de salud.",
    "eje_fuente": {
     "convocatoria": "2026-I",
-    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-d-tm-optometria-temario-serums.pdf",
+    "temario": "7910367-7-d-tm-optometria-temario-serums.pdf (temario Optometría 2026-I entregado por el usuario el 27/10/2026; ruta dentro del ZIP no verificada)",
     "pagina": 2,
     "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.5",
     "nota_temario": "El archivo de temario de Optometría 2026-I del ZIP contiene el de Terapia Física; se usó el temario 2026-II (misma estructura que 2025-II)."
@@ -1350,7 +1350,7 @@
    "subeje": "1.7 Tamizaje y atención de enfermedades oculares de interés en salud pública (enf. Externas del parpado y conjuntiva, retinopatía de la prematuridad, errores de refracción, catarata, glaucoma, retinopatía diabética, baja visión entre otros).",
    "eje_fuente": {
     "convocatoria": "2026-I",
-    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-d-tm-optometria-temario-serums.pdf",
+    "temario": "7910367-7-d-tm-optometria-temario-serums.pdf (temario Optometría 2026-I entregado por el usuario el 27/10/2026; ruta dentro del ZIP no verificada)",
     "pagina": 2,
     "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.7",
     "nota_temario": "El archivo de temario de Optometría 2026-I del ZIP contiene el de Terapia Física; se usó el temario 2026-II (misma estructura que 2025-II)."
@@ -1364,7 +1364,7 @@
    "subeje": "2.7 Prevención y control de anemia y otros problemas de malnutrición.",
    "eje_fuente": {
     "convocatoria": "2026-I",
-    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-d-tm-optometria-temario-serums.pdf",
+    "temario": "7910367-7-d-tm-optometria-temario-serums.pdf (temario Optometría 2026-I entregado por el usuario el 27/10/2026; ruta dentro del ZIP no verificada)",
     "pagina": 2,
     "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.7",
     "nota_temario": "El archivo de temario de Optometría 2026-I del ZIP contiene el de Terapia Física; se usó el temario 2026-II (misma estructura que 2025-II)."
@@ -1378,7 +1378,7 @@
    "subeje": "1.7 Tamizaje y atención de enfermedades oculares de interés en salud pública (enf. Externas del parpado y conjuntiva, retinopatía de la prematuridad, errores de refracción, catarata, glaucoma, retinopatía diabética, baja visión entre otros).",
    "eje_fuente": {
     "convocatoria": "2026-I",
-    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-d-tm-optometria-temario-serums.pdf",
+    "temario": "7910367-7-d-tm-optometria-temario-serums.pdf (temario Optometría 2026-I entregado por el usuario el 27/10/2026; ruta dentro del ZIP no verificada)",
     "pagina": 2,
     "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.7",
     "nota_temario": "El archivo de temario de Optometría 2026-I del ZIP contiene el de Terapia Física; se usó el temario 2026-II (misma estructura que 2025-II)."
@@ -1392,7 +1392,7 @@
    "subeje": "1.7 Tamizaje y atención de enfermedades oculares de interés en salud pública (enf. Externas del parpado y conjuntiva, retinopatía de la prematuridad, errores de refracción, catarata, glaucoma, retinopatía diabética, baja visión entre otros).",
    "eje_fuente": {
     "convocatoria": "2026-I",
-    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-d-tm-optometria-temario-serums.pdf",
+    "temario": "7910367-7-d-tm-optometria-temario-serums.pdf (temario Optometría 2026-I entregado por el usuario el 27/10/2026; ruta dentro del ZIP no verificada)",
     "pagina": 2,
     "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.7",
     "nota_temario": "El archivo de temario de Optometría 2026-I del ZIP contiene el de Terapia Física; se usó el temario 2026-II (misma estructura que 2025-II)."
@@ -1406,7 +1406,7 @@
    "subeje": "1.7 Tamizaje y atención de enfermedades oculares de interés en salud pública (enf. Externas del parpado y conjuntiva, retinopatía de la prematuridad, errores de refracción, catarata, glaucoma, retinopatía diabética, baja visión entre otros).",
    "eje_fuente": {
     "convocatoria": "2026-I",
-    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-d-tm-optometria-temario-serums.pdf",
+    "temario": "7910367-7-d-tm-optometria-temario-serums.pdf (temario Optometría 2026-I entregado por el usuario el 27/10/2026; ruta dentro del ZIP no verificada)",
     "pagina": 2,
     "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.7",
     "nota_temario": "El archivo de temario de Optometría 2026-I del ZIP contiene el de Terapia Física; se usó el temario 2026-II (misma estructura que 2025-II)."
@@ -1420,7 +1420,7 @@
    "subeje": "2.4 Cuidado de la salud mental de las personas (conceptos básicos).",
    "eje_fuente": {
     "convocatoria": "2026-I",
-    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-d-tm-optometria-temario-serums.pdf",
+    "temario": "7910367-7-d-tm-optometria-temario-serums.pdf (temario Optometría 2026-I entregado por el usuario el 27/10/2026; ruta dentro del ZIP no verificada)",
     "pagina": 2,
     "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 2: TEMAS TRANSVERSALES (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 2.4",
     "nota_temario": "El archivo de temario de Optometría 2026-I del ZIP contiene el de Terapia Física; se usó el temario 2026-II (misma estructura que 2025-II)."
@@ -1434,7 +1434,7 @@
    "subeje": "1.3 Optometría Clínica.",
    "eje_fuente": {
     "convocatoria": "2026-I",
-    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-d-tm-optometria-temario-serums.pdf",
+    "temario": "7910367-7-d-tm-optometria-temario-serums.pdf (temario Optometría 2026-I entregado por el usuario el 27/10/2026; ruta dentro del ZIP no verificada)",
     "pagina": 2,
     "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.3",
     "nota_temario": "El archivo de temario de Optometría 2026-I del ZIP contiene el de Terapia Física; se usó el temario 2026-II (misma estructura que 2025-II)."
@@ -1448,7 +1448,7 @@
    "subeje": "1.2 Urgencias Oculares.",
    "eje_fuente": {
     "convocatoria": "2026-I",
-    "temario": "Zip/SERUMS 2026 II/Contenidos Temáticos de la Evaluación para el SERUMS 2026-II por carrera profesional/8412657-7-d-tm-optometria-temario-serums.pdf",
+    "temario": "7910367-7-d-tm-optometria-temario-serums.pdf (temario Optometría 2026-I entregado por el usuario el 27/10/2026; ruta dentro del ZIP no verificada)",
     "pagina": 1,
     "apartado": "ÁREA: CUIDADO INTEGRAL DE SALUD > SUB-ÁREA 1: TEMAS ESPECÍFICOS (ATENCIÓN PRIMARIA DE SALUD; CUIDADO INTEGRAL) > 1.2",
     "nota_temario": "El archivo de temario de Optometría 2026-I del ZIP contiene el de Terapia Física; se usó el temario 2026-II (misma estructura que 2025-II)."
