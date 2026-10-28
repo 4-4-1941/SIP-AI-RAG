@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-02",
+  "version": "2026-10-27",
   "titulo": "Catálogo documental SIP-AI-RAG",
   "documentos": [
     {
@@ -94,6 +94,10 @@
     {
       "id": "NTS-228-MINSA-CDC-2025",
       "ruta": "data/metadata/malaria/nts-228-minsa-cdc-2025-malaria-vigilancia.json"
+    },
+    {
+      "id": "MANUAL-HIS-PUEBLOS-INDIGENAS-2022",
+      "ruta": "data/metadata/manuales-his/his-pueblos-indigenas-2022.json"
     }
   ]
 }
