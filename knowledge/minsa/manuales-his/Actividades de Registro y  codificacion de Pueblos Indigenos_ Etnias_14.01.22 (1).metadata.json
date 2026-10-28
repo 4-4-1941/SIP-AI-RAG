@@ -1,0 +1,35 @@
+{
+  "id": "MINSA-HIS-PUEBLOS-INDIGENAS-2022-762e026891",
+  "titulo": "Manual de Registro y Codificación según grupo étnico de Actividades de la Dirección de Pueblos Indígenas u Originarios",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro y Codificación según grupo étnico de Actividades de la Dirección de Pueblos Indígenas u Originarios. Sistema de Información HIS. 2022.",
+  "anio_publicacion": 2022,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Dirección de Pueblos Indígenas u Originarios",
+  "grupo_etario": "General",
+  "temas": [
+    "pueblos indígenas",
+    "pertenencia étnica",
+    "atención de salud",
+    "registro HIS",
+    "codificación HIS"
+  ],
+  "palabras_clave": [
+    "pueblos indígenas",
+    "etnia",
+    "pertenencia étnica",
+    "HIS",
+    "registro",
+    "codificación"
+  ],
+  "idioma": "es",
+  "archivo_origen": "Actividades de Registro y  codificacion de Pueblos Indigenos_ Etnias_14.01.22 (1).pdf",
+  "paginas_total": 22,
+  "sha256": "762e026891723a2964b11c83605dc4117fe91349a5c2f9ff0162a5a3e054f975",
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique."
+}
