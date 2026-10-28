@@ -1,0 +1,784 @@
+{
+ "modulo": "his-pueblos-indigenas-2022",
+ "manual": "Manual de Registro y Codificación según grupo étnico de Actividades de la Dirección de Pueblos Indígenas u Originarios, MINSA, 2022",
+ "archivo": "knowledge/minsa/manuales-his/Actividades de Registro y  codificacion de Pueblos Indigenos_ Etnias_14.01.22 (1).pdf",
+ "paginas_pdf": 22,
+ "marca": "análisis propio, extracción del PDF pendiente de revisión humana",
+ "estado": "REVIEW_REQUIRED",
+ "base_normativa": "R.M. N.° 975-2017/MINSA, Directiva Administrativa N.° 240-MINSA/2017/INS (pertenencia étnica en el sistema de información de salud), citada por el manual en la p.9",
+ "vigencia": "No verificada: confirmar si la directiva y el manual siguen vigentes y si existe edición posterior",
+ "avisos": [
+  "La tabla impresa del manual (pp. 8-9) tiene 59 filas: salta del código 40 (Quechuas) al 42 (Resigaro) y no incluye a Secoya. Aquí quedan 60 filas: Resígaro = 41 y Secoya = 42, según los manuales HIS de DIRESA Junín 2020 y DIRESA La Libertad.",
+  "El índice del manual numera las actividades 5.1 a 5.7, pero el cuerpo las numera distinto (por ejemplo, el tamizaje de enfermedades crónicas aparece como 5.3 y las inmunizaciones como 5.4); aquí se usan los nombres y las páginas, no esos números.",
+  "Códigos revisados el 27/10/2026: 2019 y 2017 se corrigen a Z019 y Z017 (confirmados en los manuales HIS de Adulto 2025, Adulto Mayor 2025 y Planificación Familiar 2024). E6690 = sobrepeso (confirmado). R456 se nombra 'problemas relacionados con la violencia' en los manuales HIS (en CIE-10, R45.6 es violencia física). R05X solo aparece en este manual. 90657 (influenza pediátrica) y 90658 (influenza adulto) son ambas válidas."
+ ],
+ "codificacion_etnica": [
+  {
+   "codigo_pertinencia_etnica": 1,
+   "pueblo": "ACHUAR",
+   "otras_denominaciones": "ACHUAL, ACHUARE, ACHUALE",
+   "lengua": "ACHUAR",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 2,
+   "pueblo": "AIMARA",
+   "otras_denominaciones": "ARU",
+   "lengua": "AIMARA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 3,
+   "pueblo": "AMAHUACA",
+   "otras_denominaciones": "YORA",
+   "lengua": "AMAHUACA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 4,
+   "pueblo": "ARABELA",
+   "otras_denominaciones": "TAPUEYOCUACA, CHIRIPUNO",
+   "lengua": "ARABELA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 5,
+   "pueblo": "ASHANINKA",
+   "otras_denominaciones": "CAMPA ASHANINKA",
+   "lengua": "ASHANINKA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 6,
+   "pueblo": "ASHENINKA",
+   "otras_denominaciones": "ASHANINKA DEL GRAN PAJONAL",
+   "lengua": "ASHANINKA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 7,
+   "pueblo": "AWAJÚN",
+   "otras_denominaciones": "AGUARUNA, AENTS",
+   "lengua": "AWAJÚN",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 8,
+   "pueblo": "BORA",
+   "otras_denominaciones": "BOORAA, MIAMUNA, MIRANHA, MIRANYA",
+   "lengua": "BORA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 9,
+   "pueblo": "CAPANAHUA",
+   "otras_denominaciones": "NUNQUENCALBO, BUSKIPANI",
+   "lengua": "CAPANAHUA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 10,
+   "pueblo": "CASHINAHUA",
+   "otras_denominaciones": "HUNI KUIN, CAXINAHUA, KACHINAHUA",
+   "lengua": "CASHINAHUA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 11,
+   "pueblo": "CHAMICURO",
+   "otras_denominaciones": "CAMIKODIO, CHAMICOLOS",
+   "lengua": "CHAMICURO",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 12,
+   "pueblo": "CHAPRA",
+   "otras_denominaciones": "SHAPRA",
+   "lengua": "KANDOZI-CHAPRA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 13,
+   "pueblo": "CHITONAHUA",
+   "otras_denominaciones": "YORA, MURUNAHUA",
+   "lengua": "YAMINAHUA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 14,
+   "pueblo": "ESE EJA",
+   "otras_denominaciones": "ESE´EJJA. HUARAYO, TIATINAGUA",
+   "lengua": "ESE EJA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 15,
+   "pueblo": "HARAKBUT",
+   "otras_denominaciones": "AMARAKAERI, WACHIPAERI, ARASAERI, KISAMBERI, PUKIRIERI, TOYOERI, SAPITERI",
+   "lengua": "HARAKBUT",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 16,
+   "pueblo": "IKIYU",
+   "otras_denominaciones": "IKITO, IQUITO, AMACACORE, QUITURRAN",
+   "lengua": "IKITU",
+   "pagina": 8,
+   "nota": "El manual imprime IKIYU en la columna de pueblo y IKITU en la de lengua; otras fuentes MINSA escriben Ikitu."
+  },
+  {
+   "codigo_pertinencia_etnica": 17,
+   "pueblo": "IÑAPARI",
+   "otras_denominaciones": "INAPARI, INAMARI, KUSHITIRENI",
+   "lengua": "IÑAPARI",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 18,
+   "pueblo": "ISCONAHUA",
+   "otras_denominaciones": "ISCONAWA. ISKOBAKEBO",
+   "lengua": "ISCONAHUA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 19,
+   "pueblo": "JAQARU",
+   "otras_denominaciones": "AIMARA, LUPINO, AIMARA CENTRAL, CAUQUI, ARU",
+   "lengua": "JAQARU",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 20,
+   "pueblo": "JIBARO",
+   "otras_denominaciones": "JIBARO DEL RIO CORRIENTES, SHIWIAR, SIWARO",
+   "lengua": "ACHUAR",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 21,
+   "pueblo": "KAKATAIBO",
+   "otras_denominaciones": "UNI, UNIBO",
+   "lengua": "KAKATAIBO",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 22,
+   "pueblo": "KAKINTE",
+   "otras_denominaciones": "POYENISATI",
+   "lengua": "KAKINTE",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 23,
+   "pueblo": "KANDOZI",
+   "otras_denominaciones": "CANDOSHI, CHAPRA, CHAPARA, MURATO",
+   "lengua": "KANDOZI-CHAPRA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 24,
+   "pueblo": "KICHWA",
+   "otras_denominaciones": "QUICHUA, INGA, LAMAS, SANTARROSINOS",
+   "lengua": "QUECHUA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 25,
+   "pueblo": "KUKAMA KUKAMIRIA",
+   "otras_denominaciones": "COCAMA, COCAMILLA, XIBITAONA",
+   "lengua": "KUKAMA KUKAMIRIA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 26,
+   "pueblo": "MADIJA",
+   "otras_denominaciones": "CULINA, MADIHA, KOLINA",
+   "lengua": "MADIJA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 27,
+   "pueblo": "MAIJUNA",
+   "otras_denominaciones": "OREJÓN, MAIJIKI",
+   "lengua": "MAIJUNA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 28,
+   "pueblo": "MARINAHUA",
+   "otras_denominaciones": "ONOCOIN, YORA",
+   "lengua": "SHARANAHUA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 29,
+   "pueblo": "MASHCO PIRO",
+   "otras_denominaciones": "",
+   "lengua": "YINE",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 30,
+   "pueblo": "MASTANAHUA",
+   "otras_denominaciones": "YORA",
+   "lengua": "SHARANAHUA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 31,
+   "pueblo": "MATSÉS",
+   "otras_denominaciones": "MAYORUNA",
+   "lengua": "MATSÉS",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 32,
+   "pueblo": "MATSIGENKA",
+   "otras_denominaciones": "MACHIGUENGA, MATSIGUENGA, MACHIGANGA, MATSIGANGA",
+   "lengua": "MATSIGENKA",
+   "pagina": 8
+  },
+  {
+   "codigo_pertinencia_etnica": 33,
+   "pueblo": "MUNICHE",
+   "otras_denominaciones": "MUNICHI",
+   "lengua": "MUNICHE",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 34,
+   "pueblo": "MURUI MUINANI",
+   "otras_denominaciones": "HUITOTO",
+   "lengua": "MURUI MUINANI",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 35,
+   "pueblo": "NAHUA",
+   "otras_denominaciones": "YORA",
+   "lengua": "NAHUA",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 36,
+   "pueblo": "NANTI",
+   "otras_denominaciones": "MATSIGENKA",
+   "lengua": "NANTI",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 37,
+   "pueblo": "NOMATSIGENGA",
+   "otras_denominaciones": "NOMACHIGUENGA, ATIRI",
+   "lengua": "NOMATSIGENGA",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 38,
+   "pueblo": "OCAINA",
+   "otras_denominaciones": "DUCAIYA, DYO´XAIYA",
+   "lengua": "OCAINA",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 39,
+   "pueblo": "OMAGUA",
+   "otras_denominaciones": "OMAGUA, YETÉ, ARIANA, PARIANA, UMAWA",
+   "lengua": "OMAGUA",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 40,
+   "pueblo": "QUECHUAS",
+   "otras_denominaciones": "Los pueblos quechuas no tienen otra denominación, más sí un conjunto de identidades; entre las que se encuentran: Chopccas, Huancas, Chankas, Huaylas, Qéros, Cañaris, Kana",
+   "lengua": "QUECHUAS",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 41,
+   "pueblo": "RESIGARO",
+   "otras_denominaciones": "RESIGERO",
+   "lengua": "RESIGARO",
+   "pagina": 9,
+   "codigo_impreso_manual": 42,
+   "nota": "El manual imprime 42; los manuales HIS de DIRESA Junín 2020 y DIRESA La Libertad numeran Resígaro 41 y Secoya 42. Pendiente de confirmar en el anexo de la Directiva 240-MINSA/2017/INS."
+  },
+  {
+   "codigo_pertinencia_etnica": 42,
+   "pueblo": "SECOYA",
+   "otras_denominaciones": "AIDO PAI",
+   "lengua": "SECOYA",
+   "pagina": null,
+   "fuente": "No figura en el manual 2022. Fuentes secundarias MINSA: Guía de registro HIS 2020 (DIRESA Junín) y anexo de manual de DIRESA La Libertad.",
+   "estado": "REVIEW_REQUIRED"
+  },
+  {
+   "codigo_pertinencia_etnica": 43,
+   "pueblo": "SHARANAHUA",
+   "otras_denominaciones": "ONICOIN, YORA",
+   "lengua": "SHARANAHUA",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 44,
+   "pueblo": "SHAWI",
+   "otras_denominaciones": "CHAYAWITA, CAMPO, PIIYAPI, TSHAHUI",
+   "lengua": "SHAWI",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 45,
+   "pueblo": "SHIPIBO-KONIBO",
+   "otras_denominaciones": "SHIPIBO, JONI, CHICERO-CONVIVO",
+   "lengua": "SHIPIBO-KONIBO",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 46,
+   "pueblo": "SHIWILU",
+   "otras_denominaciones": "JEBERO, XEBERO, SHIWILA",
+   "lengua": "SHIWILU",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 47,
+   "pueblo": "TIKUNA",
+   "otras_denominaciones": "TICUNA, DUUXUGU",
+   "lengua": "TIKUNA",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 48,
+   "pueblo": "URARINA",
+   "otras_denominaciones": "ITUCALI, KACHA, EDZE, LTUKALE",
+   "lengua": "URARINAS",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 49,
+   "pueblo": "URO",
+   "otras_denominaciones": "URU",
+   "lengua": "URO (LENGUA EXTINTA)",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 50,
+   "pueblo": "VACACOCHA",
+   "otras_denominaciones": "AUSHIRI, A'ÉWA, AWSHIRA, ABIJRA, ABISHIRA",
+   "lengua": "AWSHIRA (LENGUA EXTINTA)",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 51,
+   "pueblo": "WAMPIS",
+   "otras_denominaciones": "HUAMBIZA, SHUAR-HUAMPIS",
+   "lengua": "WAMPIS",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 52,
+   "pueblo": "YAGUA",
+   "otras_denominaciones": "YIHAMWO, NIHAMWO",
+   "lengua": "YAGUA",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 53,
+   "pueblo": "YAMINAHUA",
+   "otras_denominaciones": "YAMIMAHUA, JJAMIMAWA, YORA",
+   "lengua": "YAMINAHUA",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 54,
+   "pueblo": "YANESHA",
+   "otras_denominaciones": "AMUESHA, AMAGE, AMUEXIA",
+   "lengua": "YANESHA",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 55,
+   "pueblo": "YINE",
+   "otras_denominaciones": "PIRO, PIRA, SIMIRINCHE, CHOTAQUIRO",
+   "lengua": "YINE",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 56,
+   "pueblo": "AFROPERUANO",
+   "otras_denominaciones": "ZAMBO, MULATO, NEGRO, MORENO",
+   "lengua": "ESPAÑOL",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 57,
+   "pueblo": "BLANCO",
+   "otras_denominaciones": "BLANCO",
+   "lengua": "ESPAÑOL",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 58,
+   "pueblo": "MESTIZO",
+   "otras_denominaciones": "MESTIZO, CHOLO",
+   "lengua": "ESPAÑOL",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 59,
+   "pueblo": "ASIATICO DESCENDIENTE",
+   "otras_denominaciones": "CHINO, PONJA",
+   "lengua": "JAPONES, COREANO, CHINO, ESPAÑOL",
+   "pagina": 9
+  },
+  {
+   "codigo_pertinencia_etnica": 60,
+   "pueblo": "OTRO",
+   "otras_denominaciones": "GITANO, ROM, CALE",
+   "lengua": "ESPAÑOL, CALE",
+   "pagina": 9
+  }
+ ],
+ "registro_pertenencia_etnica": {
+  "criterio": "Autoidentificación. Se aplica a personas de todas las edades, hombres y mujeres, de ámbitos urbanos y rurales, que acceden a un establecimiento de salud (p.10).",
+  "pregunta": "¿Por sus costumbres y por sus antepasados, usted se siente o se considera…? (p.11)",
+  "reglas": [
+   "No suponer la respuesta ni inducirla.",
+   "No identificar por apariencia física, ropa o idioma.",
+   "En menores o personas con impedimentos se considera el dato del responsable.",
+   "De ser necesario, formular la pregunta en la lengua materna.",
+   "Se debe respetar su respuesta."
+  ],
+  "paginas": "10-11"
+ },
+ "definiciones_operacionales": [
+  {
+   "termino": "Contacto inicial",
+   "sintesis": "Pueblo indígena o sus miembros que han iniciado interrelación con la sociedad mayoritaria, con vinculación esporádica con otras culturas; alta vulnerabilidad a epidemias.",
+   "pagina": 7
+  },
+  {
+   "termino": "Contacto reciente",
+   "sintesis": "Situación inmediata a las primeras interacciones directas con la sociedad mayoritaria, hasta que estas se vuelven sostenidas; extrema vulnerabilidad ante enfermedades transmisibles.",
+   "pagina": 7
+  },
+  {
+   "termino": "Pueblo indígena en aislamiento",
+   "sintesis": "Pueblo o parte de él sin relaciones sociales sostenidas con la sociedad nacional, o que las ha descontinuado por voluntad propia o por experiencias traumáticas.",
+   "pagina": 7
+  },
+  {
+   "termino": "Grupo étnico cultural",
+   "sintesis": "Grupo de personas que comparten una cultura y una experiencia histórica común.",
+   "pagina": 7
+  }
+ ],
+ "tipos_de_diagnostico": {
+  "P": "Presuntivo: solo cuando no hay certeza o se requiere un resultado de laboratorio; es provisional.",
+  "D": "Definitivo: hay certeza por evaluación clínica o exámenes; se escribe una sola vez por evento (en crónicas, una vez).",
+  "R": "Repetido: el paciente vuelve para seguimiento del mismo episodio después del diagnóstico definitivo.",
+  "pagina": 10
+ },
+ "codigos_his": [
+  {
+   "codigo": "99384",
+   "tipo": "CPMS",
+   "descripcion": "Evaluación integral (niño, adolescente, adulto, adulto mayor)",
+   "categoria": "Atención integral de salud",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Se coloca como primer diagnóstico al iniciar toda atención. Tipo de diagnóstico: siempre 'D'. LAB 1, 2, 3… según el n.º de atención o sesión.",
+   "fuente": "Pueblos Indígenas 2022 p.12",
+   "estado": "",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "C8002",
+   "tipo": "CPMS",
+   "descripcion": "Plan de atención integral (según este manual)",
+   "categoria": "Atención integral de salud",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Tipo de diagnóstico: siempre 'D'. LAB 1: '1' cuando se elabora el plan; 'TA' cuando se ejecuta (recibió todas las prestaciones). En Salud Mental 2025 el mismo código figura como plan de continuidad de cuidados: confirmar en el catálogo CPMS (D-14 de HIS-FICHAS-MOTOR).",
+   "fuente": "Pueblos Indígenas 2022 p.12-13",
+   "estado": "Código repetido con otro significado: confirmar",
+   "ya_en_app": true
+  },
+  {
+   "codigo": "CI:1",
+   "tipo": "LAB",
+   "descripcion": "Población indígena en contacto inicial (valor del campo LAB)",
+   "categoria": "Contacto inicial y contacto reciente",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "En el 1.er casillero de LAB: CI:1 para contacto inicial.",
+   "fuente": "Pueblos Indígenas 2022 p.13",
+   "estado": "",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "CR:2",
+   "tipo": "LAB",
+   "descripcion": "Población indígena en contacto reciente (valor del campo LAB)",
+   "categoria": "Contacto inicial y contacto reciente",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "En el 1.er casillero de LAB: CR:2 para contacto reciente.",
+   "fuente": "Pueblos Indígenas 2022 p.13",
+   "estado": "",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "R51",
+   "tipo": "CIE10",
+   "descripcion": "Cefalea (ejemplo de atención en contacto inicial)",
+   "categoria": "Contacto inicial y contacto reciente",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Aparece como ejemplo con LAB 1 = 1 (contacto inicial).",
+   "fuente": "Pueblos Indígenas 2022 p.13",
+   "estado": "Código de ejemplo",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "J00",
+   "tipo": "CIE10",
+   "descripcion": "Resfrío común (ejemplo de atención en contacto reciente)",
+   "categoria": "Contacto inicial y contacto reciente",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Aparece como ejemplo con LAB 1 = 2 (contacto reciente).",
+   "fuente": "Pueblos Indígenas 2022 p.13",
+   "estado": "Código de ejemplo",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "96150.01",
+   "tipo": "CPMS",
+   "descripcion": "Tamizaje en violencia",
+   "categoria": "Tamizaje en violencia",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Tamizaje negativo: 1.º 'Tamizaje en violencia' y 2.º 'Consejería de prevención de riesgos en salud mental'; ambos tipo 'D'. En el HC/DNI se anota el DNI del usuario. Para gestante se coloca 'G' en el 1.º LAB de la primera actividad.",
+   "fuente": "Pueblos Indígenas 2022 p.14",
+   "estado": "",
+   "ya_en_app": true
+  },
+  {
+   "codigo": "99402.09",
+   "tipo": "CPMS",
+   "descripcion": "Consejería de prevención de riesgos en salud mental",
+   "categoria": "Tamizaje en violencia",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Se registra después del tamizaje (negativo o positivo). Tipo de diagnóstico: 'D'.",
+   "fuente": "Pueblos Indígenas 2022 p.14",
+   "estado": "",
+   "ya_en_app": true
+  },
+  {
+   "codigo": "R456",
+   "tipo": "CIE10",
+   "descripcion": "Problemas relacionados con violencia (tamizaje positivo)",
+   "categoria": "Tamizaje en violencia",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Tamizaje positivo: 1.º tamizaje, 2.º problemas relacionados con violencia, 3.º consejería; todos tipo 'D'. Todo caso positivo requiere la Ficha de valoración de riesgos en víctimas de violencia; si el resultado es moderado o severo se coordina con el Centro de Emergencia Mujer y el servicio de salud mental. El manual imprime el código como R456.",
+   "fuente": "Pueblos Indígenas 2022 p.14",
+   "estado": "Nombre según manuales HIS; en CIE-10, R45.6 es violencia física",
+   "ya_en_app": true
+  },
+  {
+   "codigo": "Z019",
+   "tipo": "CPMS",
+   "descripcion": "Valoración clínica de factores de riesgo",
+   "categoria": "Valoración clínica de enfermedades crónicas no transmisibles",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "El manual la define como actividad 3000015. En los ejemplos impresos el código aparece como 2019 con LAB 1 = DNT. Tipo 'D'. Incluye IMC, perímetro abdominal, estilos de vida y presión arterial (25 minutos). Confirmar el código en el catálogo CPMS.",
+   "fuente": "Pueblos Indígenas 2022 p.15-16",
+   "estado": "Corregido: el manual imprime 2019; la forma correcta es Z019 (confirmada en manuales HIS 2024-2025)",
+   "ya_en_app": false,
+   "codigo_impreso_manual": "2019"
+  },
+  {
+   "codigo": "99401.13",
+   "tipo": "CPMS",
+   "descripcion": "Consejería en estilos de vida saludable",
+   "categoria": "Valoración clínica de enfermedades crónicas no transmisibles",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Tipo 'D'. Se registra siempre después de la valoración clínica de factores de riesgo.",
+   "fuente": "Pueblos Indígenas 2022 p.16",
+   "estado": "",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "E6690",
+   "tipo": "CIE10",
+   "descripcion": "Sobrepeso (según el ejemplo impreso)",
+   "categoria": "Valoración clínica de enfermedades crónicas no transmisibles",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Se registra cuando se identifican factores de riesgo y hay sobrepeso. El manual imprime E6690: confirmar el código en el catálogo.",
+   "fuente": "Pueblos Indígenas 2022 p.16",
+   "estado": "Confirmado: sobrepeso (manuales HIS)",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "Z017",
+   "tipo": "CPMS",
+   "descripcion": "Examen de laboratorio",
+   "categoria": "Valoración clínica de enfermedades crónicas no transmisibles",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Se registra cuando hay factores de riesgo y el médico indica laboratorio. El manual imprime 2017: confirmar el código en el catálogo.",
+   "fuente": "Pueblos Indígenas 2022 p.16",
+   "estado": "Corregido: el manual imprime 2017; la forma correcta es Z017 (confirmada en manuales HIS 2024-2025)",
+   "ya_en_app": false,
+   "codigo_impreso_manual": "2017"
+  },
+  {
+   "codigo": "90658",
+   "tipo": "CPMS",
+   "descripcion": "Vacuna contra la influenza estacional (3 años a más)",
+   "categoria": "Inmunizaciones por curso de vida",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Tipo 'D'. El LAB se deja en blanco por ser dosis única para la edad. 90658 = influenza adulto (estacional); 90657 = influenza pediátrica (estacional). Ambas son válidas; la app ya tiene 90657.",
+   "fuente": "Pueblos Indígenas 2022 p.17",
+   "estado": "Confirmado: válido (adulto)",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "A970",
+   "tipo": "CIE10",
+   "descripcion": "Dengue sin señales de alarma (caso probable)",
+   "categoria": "Enfermedades metaxénicas",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Dengue probable: 1.º diagnóstico según tipo de dengue con tipo 'P'; 2.º toma de muestra con tipo 'D'; 3.º administración de tratamiento con '1' al iniciar y 'TA' al terminar, si corresponde. El tratamiento depende de la evaluación clínica.",
+   "fuente": "Pueblos Indígenas 2022 p.18",
+   "estado": "",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "U2142",
+   "tipo": "CPMS",
+   "descripcion": "Toma de muestra para diagnóstico (dengue)",
+   "categoria": "Enfermedades metaxénicas",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Tipo de diagnóstico: 'D'.",
+   "fuente": "Pueblos Indígenas 2022 p.18",
+   "estado": "",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "C0010",
+   "tipo": "CPMS",
+   "descripcion": "Sesión demostrativa en preparación de alimentos (familias con niños menores de 36 meses y gestantes)",
+   "categoria": "Actividades preventivas promocionales",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Tipo 'D'. En el HC/DNI va la información del niño o niña. LAB 1: tema, 'ALI' preparación de alimentos (incluye lavado de manos; familias con niños de 6 a 11 meses) o 'LME' técnicas de amamantamiento (familias con recién nacidos y menores de 6 meses). La actividad se identifica con el código 3325104 del programa.",
+   "fuente": "Pueblos Indígenas 2022 p.18-19",
+   "estado": "",
+   "ya_en_app": true
+  },
+  {
+   "codigo": "87635",
+   "tipo": "CPMS",
+   "descripcion": "Prueba molecular PCR (COVID-19)",
+   "categoria": "Diagnósticos COVID-19",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Código de procedimiento del listado COVID-19 del manual.",
+   "fuente": "Pueblos Indígenas 2022 p.20",
+   "estado": "",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "87635.01",
+   "tipo": "CPMS",
+   "descripcion": "Prueba rápida serológica (COVID-19)",
+   "categoria": "Diagnósticos COVID-19",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "Código de procedimiento del listado COVID-19 del manual.",
+   "fuente": "Pueblos Indígenas 2022 p.20",
+   "estado": "",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "R05X",
+   "tipo": "CIE10",
+   "descripcion": "Tos (COVID-19)",
+   "categoria": "Diagnósticos COVID-19",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "El manual lo imprime pegado al código 87635.01 en el listado.",
+   "fuente": "Pueblos Indígenas 2022 p.20",
+   "estado": "Aparece solo en el manual de Pueblos Indígenas 2022 (listado COVID); no confirmado en otros manuales",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "R06.0",
+   "tipo": "CIE10",
+   "descripcion": "Falta de aire / disnea (COVID-19)",
+   "categoria": "Diagnósticos COVID-19",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "",
+   "fuente": "Pueblos Indígenas 2022 p.20",
+   "estado": "",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "R07.0",
+   "tipo": "CIE10",
+   "descripcion": "Dolor de garganta (COVID-19)",
+   "categoria": "Diagnósticos COVID-19",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "",
+   "fuente": "Pueblos Indígenas 2022 p.20",
+   "estado": "",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "R50.9",
+   "tipo": "CIE10",
+   "descripcion": "Fiebre, no especificada (COVID-19)",
+   "categoria": "Diagnósticos COVID-19",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "",
+   "fuente": "Pueblos Indígenas 2022 p.20",
+   "estado": "",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "Z20.8",
+   "tipo": "CIE10",
+   "descripcion": "Contacto con y exposición a otras enfermedades transmisibles (COVID-19)",
+   "categoria": "Diagnósticos COVID-19",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "",
+   "fuente": "Pueblos Indígenas 2022 p.20",
+   "estado": "",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "Z03.8",
+   "tipo": "CIE10",
+   "descripcion": "Observación de otras enfermedades y afecciones sospechosas (COVID-19)",
+   "categoria": "Diagnósticos COVID-19",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "",
+   "fuente": "Pueblos Indígenas 2022 p.20",
+   "estado": "",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "U07.1",
+   "tipo": "CIE10",
+   "descripcion": "COVID-19, virus identificado",
+   "categoria": "Diagnósticos COVID-19",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "",
+   "fuente": "Pueblos Indígenas 2022 p.20",
+   "estado": "",
+   "ya_en_app": false
+  },
+  {
+   "codigo": "U07.2",
+   "tipo": "CIE10",
+   "descripcion": "COVID-19, virus no identificado",
+   "categoria": "Diagnósticos COVID-19",
+   "grupo": "Pueblos indígenas",
+   "notaRegistro": "",
+   "fuente": "Pueblos Indígenas 2022 p.20",
+   "estado": "",
+   "ya_en_app": false
+  }
+ ],
+ "par_metadata": "knowledge/minsa/manuales-his/Actividades de Registro y  codificacion de Pueblos Indigenos_ Etnias_14.01.22 (1).metadata.json"
+}
