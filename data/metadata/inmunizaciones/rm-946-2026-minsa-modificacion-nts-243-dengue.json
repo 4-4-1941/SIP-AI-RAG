@@ -1,0 +1,163 @@
+{
+  "id": "RM-946-2026-MINSA-MODIFICACION-NTS-243-DENGUE",
+  "titulo": "Resolución Ministerial que modifica la NTS N.° 243-MINSA/DGIESP-2026 sobre vacunación contra el virus del dengue (tetravalente) en regiones priorizadas",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Resolución Ministerial modificatoria",
+  "numero_documento": "Resolución Ministerial N.° 946-2026/MINSA",
+  "fecha_aprobacion": "2026-10-22",
+  "norma_modificada": {
+    "numero": "NTS N.° 243-MINSA/DGIESP-2026",
+    "titulo": "Norma Técnica de Salud que establece la vacunación contra el virus del dengue (tetravalente) en regiones priorizadas",
+    "resolucion_aprobatoria_original": "Resolución Ministerial N.° 076-2026/MINSA",
+    "modificatoria_previa_mencionada": "Resolución Ministerial N.° 623-2026/MINSA"
+  },
+  "tema": "Vacunación contra el dengue; criterios administrativos, ámbito de aplicación, coadministración con otras vacunas, registro de puntos de vacunación, insumos y evaluación previa.",
+  "bloque_SERUMS": "Inmunizaciones y salud pública",
+  "alcance_profesional": "multiprofesional",
+  "profesiones": [
+    "Medicina",
+    "Enfermería",
+    "Obstetricia",
+    "Profesionales y personal de salud involucrado en inmunizaciones, según competencias"
+  ],
+  "resumen_ejecutivo": "La RM N.° 946-2026/MINSA modifica apartados específicos de la NTS N.° 243-MINSA/DGIESP-2026. Los cambios incluyen objetivos específicos y personal/instituciones comprendidos, ámbito de aplicación, regla sobre administración simultánea o antecedente reciente de otras vacunas, registro de puntos de vacunación en HISMINSA/SIHCE, jeringas y agujas, y preguntas clave previas a la vacunación.",
+  "modificaciones": [
+    {
+      "id": "MOD-01",
+      "seccion": "Numeral II. Objetivos; subnumeral 2.2, literal b)",
+      "tipo": "modificacion_textual",
+      "contenido": "Establece pautas administrativas para trabajadores de salud de MINSA, DIRESA, GERESA, DIRIS de Lima Metropolitana, EsSalud, Sanidades de las Fuerzas Armadas y Sanidad de la Policía Nacional del Perú, en programación, ejecución, evaluación, supervisión y coordinación de acciones relativas a la vacunación contra el dengue.",
+      "fuente_pdf": {
+        "archivo": "8756134-resolucion-ministerial-n-946-2026-minsa.pdf",
+        "pagina": 3
+      }
+    },
+    {
+      "id": "MOD-02",
+      "seccion": "Numeral III. Ámbito de aplicación",
+      "tipo": "modificacion_textual",
+      "contenido": "La NTS es de aplicación y cumplimiento para MINSA, EsSalud, Sanidades de las Fuerzas Armadas, Sanidad de la Policía Nacional del Perú y establecimientos de salud de DIRESA, GERESA y DIRIS de Lima Metropolitana.",
+      "fuente_pdf": {
+        "archivo": "8756134-resolucion-ministerial-n-946-2026-minsa.pdf",
+        "pagina": 3
+      }
+    },
+    {
+      "id": "MOD-03",
+      "seccion": "Numeral V. Disposiciones generales; subnumeral 5.4",
+      "tipo": "modificacion_textual",
+      "contenido": "La vacuna contra el dengue no será administrada simultáneamente con otras vacunas ni cuando exista antecedente de vacunación en los últimos treinta (30) días. Excepcionalmente, puede administrarse simultáneamente con la vacuna contra el Virus del Papiloma Humano (VPH).",
+      "fuente_pdf": {
+        "archivo": "8756134-resolucion-ministerial-n-946-2026-minsa.pdf",
+        "pagina": 3
+      },
+      "nota_seguridad": "Reproducir la regla como aparece en la modificatoria y consultar el texto normativo oficial íntegro antes de tomar decisiones clínicas."
+    },
+    {
+      "id": "MOD-04",
+      "seccion": "Numeral VI. Disposiciones específicas; subnumeral 6.5 Sistema de información",
+      "tipo": "modificacion_textual",
+      "contenido": "Los puntos de vacunación para la actividad de vacunación contra el virus del dengue deben registrarse en el Módulo Actividades Complementarias del HISMINSA / Módulo de inmunizaciones del SIHCE, en la actividad “VACUNACIÓN CONTRA EL DENGUE”.",
+      "fuente_pdf": {
+        "archivo": "8756134-resolucion-ministerial-n-946-2026-minsa.pdf",
+        "pagina": 4
+      }
+    },
+    {
+      "id": "MOD-05",
+      "seccion": "Anexo N.° 01. Descripción de la vacuna contra el dengue",
+      "tipo": "modificacion_textual",
+      "contenido": "Para reconstituir: jeringa descartable de 5 ml y aguja de 21G x 1½” o la que esté disponible. Para administrar: jeringa de 1 ml con aguja auto retráctil de 25G x 5/8” y/o jeringa descartable de 1 ml con aguja de 25G x 5/8”.",
+      "fuente_pdf": {
+        "archivo": "8756134-resolucion-ministerial-n-946-2026-minsa.pdf",
+        "pagina": 4
+      },
+      "nota": "La lectura de la medida de la aguja para reconstitución se transcribió de la imagen escaneada; verificar visualmente el PDF oficial si se requiere precisión tipográfica."
+    },
+    {
+      "id": "MOD-06",
+      "seccion": "Anexo N.° 05. Preguntas claves previo a la vacunación",
+      "tipo": "modificacion_textual",
+      "contenido": "El formulario incluye criterios sobre: edad de 10 a 59 años, 11 meses y 29 días; residencia mayor a 30 días en distrito priorizado; sospecha o diagnóstico de dengue en los últimos 6 meses; consentimiento informado firmado por padre, madre o tutor; alergias a medicamentos o alimentos; reacciones a vacunas; reacciones adversas tras primera dosis; tratamiento inmunosupresor o inmunodeficiencia; embarazo o lactancia; enfermedad aguda moderada o grave con o sin fiebre; y antecedentes de moretones, hematomas, petequias o sangrados frecuentes.",
+      "reglas_explícitas_del_anexo": [
+        "Si la respuesta a la pregunta 3 es “Sí”, se pospone la vacunación hasta cumplir los 6 meses luego de la infección por dengue.",
+        "Si la respuesta a la pregunta 4 es “No”, no se procederá a la vacunación.",
+        "Si al menos una de las respuestas de las preguntas 5 a 10 es “Sí”, no procede la vacunación.",
+        "Si la respuesta a la pregunta 11 es “Sí”, pasa a consulta médica para evaluación y decisión médica sobre la administración de la vacuna."
+      ],
+      "fuente_pdf": {
+        "archivo": "8756134-resolucion-ministerial-n-946-2026-minsa.pdf",
+        "paginas": [
+          4,
+          5
+        ]
+      },
+      "nota": "El escaneo presenta saltos de tabla entre las páginas 4 y 5. Para decisiones clínicas, contrastar la numeración y el formulario con el anexo oficial completo."
+    }
+  ],
+  "articulos_resolutivos": [
+    {
+      "articulo": "Artículo 1",
+      "contenido": "Modificar la NTS N.° 243-MINSA/DGIESP-2026 conforme al Anexo integrante de la Resolución Ministerial."
+    },
+    {
+      "articulo": "Artículo 2",
+      "contenido": "Encargar a la Oficina de Transparencia y Anticorrupción de la Secretaría General la publicación de la Resolución Ministerial y su Anexo en la sede digital del MINSA, en la misma fecha de publicación en el Diario Oficial El Peruano."
+    }
+  ],
+  "fuentes_oficiales": [
+    {
+      "tipo": "documento_fuente_adjuntado",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "Resolución Ministerial N.° 946-2026/MINSA",
+      "archivo": "8756134-resolucion-ministerial-n-946-2026-minsa.pdf",
+      "fecha_del_documento": "2026-10-22",
+      "rol_evidencia": "Texto de la resolución y anexo modificatorio",
+      "estado_validacion": "EXTRACCION_OCR_REVISADA_CONTRA_PAGINAS_RENDERIZADAS"
+    },
+    {
+      "tipo": "norma_referenciada",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "NTS N.° 243-MINSA/DGIESP-2026",
+      "resolucion_aprobatoria": "RM N.° 076-2026/MINSA",
+      "rol_evidencia": "Norma modificada; no sustituye la consulta de su texto íntegro"
+    }
+  ],
+  "indexacion": {
+    "palabras_clave": [
+      "RM 946-2026-MINSA",
+      "NTS 243-MINSA/DGIESP-2026",
+      "vacunación contra el dengue",
+      "vacuna tetravalente dengue",
+      "inmunizaciones",
+      "HISMINSA",
+      "SIHCE",
+      "VPH",
+      "consentimiento informado",
+      "distritos priorizados",
+      "registro nominal",
+      "jeringas y agujas"
+    ],
+    "preguntas_de_recuperacion": [
+      "¿Qué resolución modifica la NTS de vacunación contra el dengue?",
+      "¿Qué establece la RM 946-2026/MINSA sobre administrar la vacuna contra el dengue junto con otras vacunas?",
+      "¿Dónde deben registrarse los puntos de vacunación contra el dengue?",
+      "¿Qué preguntas clave deben revisarse antes de vacunar contra el dengue?",
+      "¿Qué insumos de jeringa y aguja señala la modificatoria para reconstituir y administrar la vacuna contra el dengue?"
+    ],
+    "reglas_rag": {
+      "no_inferir_contenido_no_extraido": true,
+      "exigir_fuente_pagina_o_seccion_para_afirmaciones_clinicas_o_normativas": true,
+      "distinguir_norma_modificatoria_de_texto_consolidado": true,
+      "no_asumir_que_el_resumen_reemplaza_la_NTS_completa": true,
+      "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+    }
+  },
+  "estado_validacion": "METADATOS_Y_CAMBIOS_EXTRAIDOS_DEL_PDF_ADJUNTO; PENDIENTE_VERIFICACION_CON_PUBLICACION_OFICIAL_WEB_Y_TEXTO_CONSOLIDADO",
+  "limitaciones": [
+    "El PDF adjunto es un escaneo de cinco páginas; el texto se obtuvo mediante OCR y revisión visual.",
+    "Este JSON estructura la resolución modificatoria y no contiene el texto íntegro de la NTS N.° 243.",
+    "Antes de usarlo como fuente clínica operativa, verificar la publicación oficial y contrastar la NTS consolidada con todas sus modificatorias."
+  ],
+  "ultima_revision": "2026-10-28"
+}
