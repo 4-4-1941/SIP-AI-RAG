@@ -1,0 +1,87 @@
+{
+  "id": "MINSA-RESOLUCION-MINISTERIAL-N-115-2026-MINSA",
+  "id_fuente_oficial": "MINSA-SERUMS-2026-II-7785003",
+  "titulo": "Resolución Ministerial N.° 115-2026-MINSA - Normas y documentos legales - Ministerio de Salud - Plataforma del Estado Peruano",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Resolución Ministerial",
+  "numero_norma": "RM N.° 115-2026-MINSA",
+  "fecha_aprobacion": null,
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/7785003-115-2026-minsa",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/9510516/7785003-resolucion-ministerial-n-115-2026-minsa.pdf?v=1772112815",
+  "fuentes_oficiales": [
+    {
+      "tipo": "pdf_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "Resolución Ministerial N.° 115-2026-MINSA - Normas y documentos legales - Ministerio de Salud - Plataforma del Estado Peruano",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/9510516/7785003-resolucion-ministerial-n-115-2026-minsa.pdf?v=1772112815",
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "7785003-resolucion-ministerial-n-115-2026-minsa.pdf",
+  "huella_sha256_pdf_fuente": "fee7320bcaa38ed2edad84bf68aac0e06d2d38eb4b8cbdaa84201d0f4ff6b184",
+  "paginas_pdf": 4,
+  "paginas_con_texto": 4,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "texto_nativo_pdf",
+  "ocr_aplicado": false,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "VALIDADO_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 4,
+    "paginas_con_texto": 4,
+    "caracteres_texto_extraido": 10900
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-115-2026-MINSA-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "MINISTERIO DE SALUD No 115- 202G/hiusA \nn \t(4.TE8QE(20  dej  2026  \nVisto, el Expediente N° DGAIN020230000632, que contiene el Informe N° D000376-\n2023-DGAIN-DIPOS-MINSA, el Informe N° D000116-2024-DGAIN-DIPOS-MINSA, el Informe \nN° D000201-2024-DGAIN-DIPOS-MINSA, el Informe N° D000362-2024-DGAIN-DIPOS-\nMINSA, el Informe N° D000094-2025-DGAIN-DIPOS-MINSA y el Informe N° D000477-2025-\nDGAIN-DIPOS-MINSA de la Dirección General de Aseguramiento e Intercambio Prestacional, \nasí como, el Informe N° D000014-2023-DGOS-DIMON-GCB-MINSA de la Dirección General de \nOperaciones en Salud; y el Informe N° D000049-2026-0GAJ-MINSA, elaborado por la Oficina \nGeneral de Asesoría Jurídica; y, \nCONSIDERANDO: \nQue, los numerales I, ll y VI del Título Preliminar de la Ley N° 26842, Ley General de \nSalud, establecen que la salud es condición indispensable del desarrollo humano y medio \nfundamental para alcanzar el bienestar individual y colectivo; que la protección de la salud es \nde interés público y por tanto es responsabilidad del Estado regularla, vigilarla y promoverla; y \nque es de interés público la provisión de servicios de salud, cualquiera sea la persona o \ninstitución que los provea, siendo responsabilidad del Estado promover las condiciones que \ngaranticen una adecuada cobertura de prestaciones de salud a la población, en términos \nialmente aceptables de seguridad, oportunidad y calidad; \nQue, el numeral 1) del artículo 3 del Decreto Legislativo N° 1161, que aprueba la Ley de \nOrganización y Funciones del Ministerio de Salud, establece que el Ministerio de Salud es \ncompetente en la Salud de las Personas; \nQue, el artículo 4 del Decreto Legislativo N° 1161, dispone que el Sector Salud está \nconformado por el Ministerio de Salud, como organismo rector, las entidades adscritas a él y \naquellas instituciones públicas y privadas de nivel nacional, regional y local, y las personas \nnaturales que realizan actividades vinculadas a las competencias establecidas en dicha Ley, y \nque tienen impacto directo o indirecto en la salud, individual o colectiva; \nQue, el artículo 4-A del precitado Decreto Legislativo, modificado por el Decreto \nLegislativo N° 1504, Decreto Legislativo que fortalece al Instituto Nacional de Salud para la \nprevención y control de las enfermedades, refiere que la potestad rectora del Ministerio de Salud \ncomprende la facultad que tiene para normar, supervisar, fiscalizar y, cuando corresponda, \nsancionar, en los ámbitos que comprenden la materia de salud, así como que la rectoría en \nJ. DEOIOS"
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-115-2026-MINSA-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "materia de salud dentro del sector la ejerce el Ministerio de Salud por cuenta propia o, por \ndelegación expresa, a través de sus organismos públicos adscritos y, dentro del marco y los \nlímites establecidos en la mencionada ley, la Ley Orgánica del Poder Ejecutivo, las normas \nsustantivas que regulan la actividad sectorial y, las normas que rigen el proceso de \ndescentralización. Asimismo, que el Ministerio de Salud, ente rector del Sistema Nacional de \nSalud, y dentro del ámbito de sus competencias, determina la política, regula y supervisa la \nprestación de los servicios de salud, a nivel nacional, en las siguientes instituciones: Essalud, \nSanidad de la Policía Nacional del Perú, Sanidad de las Fuerzas Armadas, instituciones de \nsalud del gobierno nacional y de los gobiernos regionales y locales, y demás instituciones \npúblicas, privadas y público-privadas; \nQue, los literales a) y e) del artículo 5 del Decreto Legislativo N° 1161, modificado por el \nDecreto Legislativo N° 1504, establecen que son funciones rectoras del Ministerio de Salud, \nconducir, regular y supervisar el Sistema Nacional de Salud, así como, regular y dictar normas \nde organización para la oferta de salud, de los diferentes prestadores que brindan atenciones, \npara que en conjunto sean integrales, complementarias, de calidad, y que preste cobertura de \nmanera equitativa y eficiente a las necesidades de atención de toda la población; \nQue, el literal a) del artículo 7 del Decreto Legislativo N°1161, modificado por la Ley N° \n30895, Ley que fortalece la función rectora del Ministerio de Salud, señala que el Ministerio de \nSalud cumple la función específica de regular la organización y prestación de servicios de salud; \nQue, el artículo 98 del Reglamento de Organización y Funciones del Ministerio de Salud, \naprobado por Decreto Supremo N° 008-2017-SA, establece que la Dirección General \nAseguramiento e Intercambio Prestacional es el órgano de línea del Ministerio de Salud, \ndependiente del Viceministerio de Prestaciones y Aseguramiento en Salud, responsable de \nproponer normatividad en materia de organización y gestión de servicios en salud; \nQue, los literales a) y g) del artículo 102 del precitado reglamento, establecen que son \nfunciones de la Dirección de Intercambio Prestacional, Organización y Servicios de Salud, \nformular las políticas sectoriales, normas, lineamientos, estándares y demás documentos en \nmateria de organización, funcionamiento, gestión y control de los servicios de salud; así como, \nmonitorear y evaluar sus resultados, así como, formular normas, requisitos y condiciones para \nla operación y funcionamiento de los establecimientos de salud y servicios médicos de apoyo, \norientados a garantizar la calidad de sus prestaciones; \nQue, el literal e) del numeral 15.1 del artículo 15 de la Ley N° 26842, Ley General de \nSalud, modificado por la Ley N°29414, Ley que establece los derechos de las personas usuarias \nde los servicios de salud, dispone que toda persona tiene derecho a obtener servicios, \nmedicamentos y productos sanitarios adecuados y necesarios para prevenir, promover, \nconservar o restablecer su salud, según lo requiera la salud del usuario, garantizando su acceso \nen forma oportuna y equitativa; \nQue, el artículo 10 del Reglamento de la Ley N° 29414, Ley que establece los derechos \nde las personas usuarias de los servicios de salud, aprobado mediante Decreto Supremo N° \n027-2015-SA, señala que toda persona tiene derecho a obtener servicios, medicamentos y \nproductos sanitarios adecuados y necesarios para prevenir, promover, conservar o restablecer \nsu salud, según lo requiera la salud de la persona usuaria, de acuerdo a las guías de práctica \nclínica, el uso racional de los recursos y según la capacidad de oferta de la IPRESS y cobertura \ncontratada con la IAFAS; así como, que la IPRESS y UGIPRESS deben garantizar el acceso a \nlos servicios, medicamentos y productos sanitarios en forma oportuna y equitativa a fin de \nsatisfacer la necesidad de sus personas usuarias, en el marco de los compromisos asumidos \ncon la IAFAS y la normatividad vigente;"
+    },
+    {
+      "marcador_cita": "[[PAGINA 3]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-115-2026-MINSA-P0003",
+      "pagina_pdf": 3,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "1 \n°ffinnoco \nC ALVAHADO CH \nMINISTERIO DE SALUD No \t 1115-202G111iN5A \ncVÁN,a, \tck  Yeselco  dei 202e \nQue, el Reglamento de Establecimientos de Salud y Servicios Médicos de Apoyo, \naprobado mediante Decreto Supremo N° 013-2006-SA, tiene como objeto establecer los \nrequisitos y condiciones para la operación y funcionamiento de los establecimientos de salud y \nservicios médicos de apoyo, orientados a garantizar la calidad de sus prestaciones, así como \nlos mecanismos para la verificación, control y evaluación de su cumplimiento; \nQue, la Novena Disposición Complementaria del precitado reglamento dispone que, por \nResolución del Ministerio de Salud, se expedirán las normas sanitarias aplicables a cada uno \nde los establecimientos de salud y servicios médicos de apoyo mencionados en los artículos \n45, 52 y 85 de dicho reglamento, y las que sean necesarias para su aplicación; \nQue, la NTS N° 021-MINSA/DGSP-V.03 Noma Técnica de Salud \"Categorías de \nEstablecimientos del Sector Salud\", aprobada mediante Resolución Ministerial N° 546-\n2011/MINSA, regula en la organización de los servicios de salud a las unidades productoras de \nservicios de salud; \nQue, el numeral 5.1 de la precitada norma técnica de salud, define a la Unidad \nProductora de Servicios de Salud como la Unidad Productora de Servicios organizada para \ndesarrollar funciones homogéneas y producir determinados servicios de salud, en relación \ndirecta con su nivel de complejidad; \nQue, es necesario establecer los criterios técnicos para la organización y el \nfuncionamiento de la Unidad Productora de Servicios de Salud Cuidados Intensivos, en los \nestablecimientos de salud; \nQue, de acuerdo a lo señalado en los documentos del visto, la Dirección General de \nAseguramiento e Intercambio Prestacional, en el marco de sus funciones, ha elaborado la \n\"Norma Técnica de Salud Unidad Productora de Servicios de Salud Cuidados Intensivos\", con \nla finalidad de contribuir a mejorar la calidad, seguridad y oportunidad de la atención de salud \nde los pacientes en estado crítico en los establecimientos de salud a nivel nacional que cuentan \ncon Unidad Productora de Servicios de Salud Cuidados Intensivos; \nEstando a lo propuesto por la Dirección General de Aseguramiento e Intercambio \nPrestacional;"
+    },
+    {
+      "marcador_cita": "[[PAGINA 4]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-115-2026-MINSA-P0004",
+      "pagina_pdf": 4,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Con el visado de la Dirección General de Aseguramiento e Intercambio Prestacional, de \nla Dirección General de Operaciones en Salud, de la Oficina General de Asesoría Jurídica y del \nViceministerio de Prestaciones y Aseguramiento en Salud; y; \nDe conformidad con lo dispuesto en el Decreto Legislativo N° 1161, que aprueba la Ley \nde Organización y Funciones del Ministerio de Salud, modificado por la Ley N° 30895, Ley que \nfortalece la función rectora del Ministerio de Salud, así como, por el Decreto Legislativo N° 1504, \nDecreto Legislativo que fortalece al Instituto Nacional de Salud para la prevención y control de \nlas enfermedades; y el Decreto Supremo N°008-2017- SA, que aprueba el Reglamento de \nOrganización y Funciones del Ministerio de Salud, modificado por los Decretos Supremos N° \n011-2017-SA y N° 032-2017-SA; \nSE RESUELVE: \nArtículo 1.- Aprobar la NTS N° 2'--I -MINSA/DGAIN-2026, Norma Técnica de Salud \nUnidad Productora de Servicios de Salud Cuidados Intensivos — UPSS Cuidados Intensivos, \nque como Anexo forma parte integrante de la presente Resolución Ministerial, y que se publica \nen la sede digital del Ministerio de Salud. \nArtículo 2.- Dejar sin efecto la Resolución Ministerial N° 489-2005-MINSA, que aprueba \nla NT N° 031-MINSA/DGSP-V.01: \"Norma Técnica de los Servicios de Cuidados Intensivos e \nIntermedios\", y la Resolución Ministerial N° 161-2020-MINSA, que modifica la NT N° 031-\nMINSA/DGSP-V.01: \"Norma Técnica de los Servicios de Cuidados Intensivos e Intermedios\", \naprobada mediante Resolución Ministerial N° 489-2005-MINSA. \nArtículo 3.- Encargar a la Oficina de Transparencia y Anticorrupción de la Secretaría \nGeneral la publicación de la presente Resolución Ministerial y su Anexo en la sede digital del \nMinisterio de Salud (www.gob.pe/nninsa),  en la misma fecha de publicación de la presente \nresolución en el diario oficial El Peruano. \nRegístrese, comu uese y publíquese. \n• \nLUIS NAPOLE0 OZ AVILÉS \nMinistro de Salud"
+    }
+  ]
+}

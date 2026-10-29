@@ -1,0 +1,127 @@
+{
+  "id": "MINSA-ANEXO-321-MINSA-2021",
+  "id_fuente_oficial": null,
+  "titulo": "ANEXO 321 MINSA 2021",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Documento normativo",
+  "numero_norma": null,
+  "fecha_aprobacion": null,
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "fuentes_oficiales": [
+    {
+      "tipo": "archivo_local",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "ANEXO 321 MINSA 2021",
+      "url": null,
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "ANEXO 321 MINSA 2021.pdf",
+  "huella_sha256_pdf_fuente": "e1774e2ff6b9bcbbe01d56addef5c5c1907bbc8847f8b1a2939bb21d99639d30",
+  "paginas_pdf": 8,
+  "paginas_con_texto": 8,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "ocr_local_windows_es_ES",
+  "ocr_aplicado": true,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 8,
+    "paginas_con_texto": 8,
+    "caracteres_texto_extraido": 19033
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-ANEXO-321-MINSA-2021-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "«a10 De A. HOLGUIN ANEXO Modificación de la Directiva Administrativa NO 321-MINSAlDGlESP-2021 , Directiva Administrativa que establece las Disposiciones para la Vigilancia, Prevención y Control de la Salud de los trabajadores con riesgo de exposición a SARS-CoV-2 1. Modificar el artículo IV, el mismo que queda redactado de la siguiente manera: \"IV. BASE LEGAL Ley NO 26842, Ley General de Salud, y sus modificatorias. Ley NO 29733, Ley de protección de datos personales, y su modificatoria. Ley NO 29783, Ley de Seguridad y Salud en el Trabajo, y sus modificatorias. Decreto Legislativo NO 1161, Ley de Organización y Funciones del Ministerio de Salud, y sus modificatorias. Decreto Supremo NO 005-2012-TR, que aprueba el Reglamento de la Ley NO 29783, Ley de Seguridad y Salud en el Trabajo, y sus modificatorias. Decreto Supremo NO 008-2017-SA, que aprueba el Reglamento de Organización y Funciones del Ministerio de Salud, y sus modificatorias. Decreto Supremo NO 010-2020-TR, Decreto Supremo que desarrolla disposiciones para el Sector Privado, sobre el trabajo remoto previsto en el Decreto de Urgencia NO 026-2020, Decreto de Urgencia que establece medidas excepcionales y temporales para prevenir la propagación del COVID — 19, y su modificatoña. Decreto Supremo NO 008-2020-SA, que declara en Emergencia Sanitaria a nivel nacional por el plazo de noventa (90) días calendario y dicta medidas de prevención y control del COVID-19, y sus prórrogas. Decreto Supremo NO 016-2022-PCM, Decreto Supremo que declara Estado de Emergencia Nacional por las circunstancias que afectan la vida y salud de las personas como consecuencia de la COVID-19 y establece nuevas medidas para el restablecimiento de la convivencia social, sus modificatoñas y prórrogas. Resolución Ministerial NO 312-2011/M/NSA, que aprueba el Documento Técnico: Protocolos de Exámenes Médico Ocupacionales y Guías de Diagnóstico de los Exámenes Médicos Obligatoños por Actividad, y sus modificatorias. Resolución Ministerial NO 506-2012-MINSA, que aprueba la Directiva Sanitaria NO 046-MINSA/DGE-V.OI que establece la Notificación de Enfermedades y Eventos Sujetos a Vigilancia Epidemiológica en Salud Pública, y su modificatoria. Resolución Ministerial NO 545-2012/MINSA, que aprueba la Directiva Sanitaria NO 047-MINSA/DGE-V.OI: \"Notificación de Brotes, Epidemias y otros eventos de importancia para la Salud Pública\"."
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-ANEXO-321-MINSA-2021-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "2. AÑO DE Modificación de la Directiva Administrativa NO 321-MlNSA/DGlESP-2021. Directiva Administrativa que establece las Disposiciones para la Vigilancia, Prevención y Control de la Salud de los trabajadores con riesgo de exposición a SARS-CoV-2 • Resolución Ministerial NO 021-2016/MlNSA, que aprueba el perfil de competencias del médico ocupacional. • Resolución Ministerial NO 055-2020-TR, que aprueba la \"Guía para la prevención del Coronavirus en el ámbito laboral, o Resolución Ministerial NO 183-2020-MINSA, que aprueba la Directiva Sanitaria NO 287-MlNSA/2020/DGlESP, Directiva Administrativa que regula los procesos, registros y accesos a la información para garantizar e/ seguimiento integral de los casos sospechosos y confirmados de COVID-19 (Sistema Integrado para COVID-19- SICOVlD-19), y su modificatoria. • Resolución Ministerial NO 558-2021/MlNSA que aprueba el Documento Técnico: Lineamientos para la Confección de Mascarillas Faciales Textiles de Uso Comunitario Reutilizables y su modificatoria. • Resolución Ministerial NO 834-2021/MlNSA que aprueba el Documento Técnico: Manejo ambulatorio de personas afectadas por la COVID-19 en el Perú, y su modificatoria. • Resolución Ministerial NO 881-2021/MlNSA, que aprueba la Directiva Sanitaria NO 135-MlNSA/CDC-2021 \"Directiva Sanitaria para la Vigilancia Epidemiológica de la enfermedad por coronavirus (COVID- 19) en el Perú\". • Resolución Ministerial NO 1218-2021/MlNSA, que aprueba la NT S NO 178-MlNSA/DGlESP-2021, Norma Técnica de Salud para la Prevención y Control de la COVID-19 en el Perú y modificatoria. ' Modificar los sub numerales 5.1.1 y 5.1.34 del numeral 5.1 del artículo V; los mismos que quedan redactados de la siguiente manera: V. DISPOSICIONES GENERALES 5.1 Definiciones Operativas: 5.1.1 Aislamiento en el ámbito comunitario: Es el procedimiento por el cual a una persona considerada como caso sospechoso, probable o confirmado de COVID-19, y que no requiere hospitalización, se le indica aislamiento domiciliario. Durante el aislamiento, se le restringe el desplazamiento fuera de su vivienda o centro de aislamiento por un lapso de siete (7) días a diez (10) días, según 10 establecido en la Resolución Ministerial N0834-2021/MlNSA y sus modificatorias, contados a partir de la fecha de inicio de síntomas del caso. 5.1.34 Reincorporación al trabajo: Proceso de retorno a laborar cuando el trabajador, que fue diagnosticado con COVID-19, está de alta por el Médico tratante, el cual debe ser revisado por el médico del servicio de salud y seguridad en el trabajo o el que haga sus veces. 2"
+    },
+    {
+      "marcador_cita": "[[PAGINA 3]]",
+      "id": "MINSA-ANEXO-321-MINSA-2021-P0003",
+      "pagina_pdf": 3,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "3. 4. 5. Modificación de la Directiva Administrativa NO 321-MlNSA/DGlESP-2021. Directiva Administrativa que establece las Disposiciones para la Vigilancia, Prevención y Control de la Salud de los trabajadores con riesgo de exposición a SARS.CoV-2 Modificar el literal a) del numeral 6.1 del artículo VI, el mismo que queda redactado de la siguiente manera: \"VI. DISPOSICIONES ESPECÍFICAS 6.1 Disposiciones preliminares Los empleadores deben garantizar un ambiente seguro de trabajo, a. verificando que de preferencia todos los empleados estén debidamente vacunados para la COVID-19. Modificar el literal d) del numeral 6.1 del artículo VI, el mismo que queda redactado de la siguiente manera: 'CVI. DISPOSICIONES ESPECÍFICAS 6.1 Disposiciones preliminares d. En todo centro laboral, a través del Servicio de Seguridad y Salud en el Trabajo en el centro de trabajo, se debe elaborar el \"Plan para la vigilancia, prevención y control de la COVID-19 en el trabajo\", el mismo que debe ser remitido al Comité de Seguridad y Salud en el Trabajo o al Supervisor de Seguridad y Salud en el Trabajo, según corresponda, para su aprobación en un plazo máximo de cuarenta y ocho (48) horas a partir de su recepción. Modificar los sub numerales 6.2.1 y 6.2.4 del numeral 6.2 del artículo VI, los mismos que quedan redactados de la siguiente manera: \"VI. DISPOSICIONES ESPECÍFICAS 6.2 Disposiciones para el regreso o reincorporación al trabajo 6.2.1 Disposiciones para el regreso al trabajo Se establece e/ proceso de regreso a/ trabajo de aquellos trabajadores que estuvieron en aislamiento social obligatorio, que no son actualmente caso sospechoso ni confirmado de COVID-19, bajo los siguientes criterios: • EI retorno o reincorporación del personal con factores de riesgo para COVID-19, se efectuará considerando tarea, distanciamiento, ventilación y jornada laboral. 3"
+    },
+    {
+      "marcador_cita": "[[PAGINA 4]]",
+      "id": "MINSA-ANEXO-321-MINSA-2021-P0004",
+      "pagina_pdf": 4,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "Modificación de la Directiva Administrativa NO 321-MlNSXDGlESP-2021. Directiva Administrativa que establece las Disposiciones para la Vigilancia, Prevención y Control de la Salud de los trabajadores con riesgo de exposición a SARS-CoV-2 6.2.4 • Se recomienda que los trabajadores con vacunación incompleta o pendiente deben presentarse al servicio de seguridad y salud en el trabajo, o quien haga sus veces, para completar su esquema de vacunación y retornar a/ trabajo presencial, remoto o mixto de acuerdo a la necesidad de servicio. Disposiciones para el regreso o reincorporación al trabajo de trabajadores con factores de riesgo para COVID-19 Para la reanudación del trabajo presencial de los trabajadores integrantes de los grupos de riesgo se debe tener en consideración 10 siguiente: a) La información clínica disponible (antecedentes y/o informes médicos o data médica) debe ser valorada por eI Médico del servicio de salud y seguridad en el trabajo o quien hagas sus veces, para precisar el estado de salud y riesgo labora/ individual de cada trabajador. b) Los trabajadores que se encuentren en alguno de los grupos de riesgo definidos por el Médico ocupacional realizan trabajo presencial, remoto o mixto de acuerdo a la necesidad del servicio. 6. 7. 8. 9. 10. A HOLGUIN Dejar sin efecto los sub numerales 5.1.33 y 5.1.38 del numeral 5.1 del artículo V. Dejar sin efecto los literales h) e i) del numeral 6.1 del artículo VI. Incorporar el sub numeral 6.5.7 del numeral 6.5 del artículo VI, conforme al siguiente texto: \"6.5.7 Disponer que, la definición de la valoración de la aptitud o certificado de aptitud o evaluación de la aptitud en la presente Directiva Administrativa consiste en la evaluación médica realizada por el médico del servicio de seguridad y salud en el trabajo o el que haga sus veces, en el marco de la emergencia sanitaria. Esta no se refiere a la evaluación de la aptitud laboral referida en el Documento Técnico \"Protocolos de Exámenes Médicos Ocupaciones y Guías de Diagnóstico de los Exámenes Médicos Obligatorios por Actividad\", aprobado con Resolución Ministerial NO 312-2011-MINSA\". Dejar sin efecto el Anexo NO 8. Incorporar el Anexo NO 10, conforme al siguiente detalle: 4"
+    },
+    {
+      "marcador_cita": "[[PAGINA 5]]",
+      "id": "MINSA-ANEXO-321-MINSA-2021-P0005",
+      "pagina_pdf": 5,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "Modificación de la Directiva Administrativa NO 321-MlNSA/DGlESP-2021. Directiva Administrativa que establece las Disposiciones para la Vigilancia, Prevención y Control de la Salud de los trabajadores con riesgo de exposición a SARS-CoV-2 \"ANEXO NO 10 Guía para el uso de medidores de C02 en ambientes de trabajo y escuelas Los medidores portátiles de dióxido de carbono (C02) permiten verificar que el aire de los ambientes se renueva permanentemente a través de una ventilación adecuada. EI nivel de C02 indica el grado de no circulación del aire interior. Al respirar, junto con los aerosoles, las personas exhalan C02, por 10 que la acumulación de este gas es un buen indicador de la acumulación de aerosoles que podrían transmitir la COVID-19. En este sentido, el monitoreo del C02 permite regular el nivel de apertura de ventanas y puertas necesario para una mantener una adecuada ventilación en un ambiente interior, EI nivel del C02 al aire libre se encuentra en una concentración de 400 partes por millón (ppm). Este nivel puede variar, en zonas urbanas con alto tránsito vehicular o presencia de industrias. Nivel base de C02 EI nivel de concentración de C02 de un ambiente sin personas, se denomina nivel de base de C02. Cuando en un ambiente interior el C02 aumenta en 400 partes por millón por sobre el nivel de base del ambiente, producto de la respiración de las personas que ocupan ese espacio, se estima que el 1% del aire que se respira ya fue respirado por otra persona. EI umbral de concentración de C02 que actualmente se recomienda como indicador de una ventilación adecuada es de 400 ppm por sobre el nivel de base. Cuando la concentración de C02 se incrementa en 400 ppm por sobre la medición con la oficina o el aula vacía (medición de base o medición basal), se debe actuar para mejorar la ventilación. Existe consenso en que es deseable que el nivel de C02 en escuelas, hogares, oficinas, etc. se ubique por debajo de las 1.000 ppm. Como muestra la tabla 1, el valor de C02 a partir del cual se debe procurar mejorar la ventilación difiere según las condiciones iniciales (sin personas presentes). Así, por ejemplo, para un aula donde la medición de base arroje 350 ppm, el valor de alerta mientras transcurra la clase será de 750 ppm, mientras que para un aula donde la medición de base indique 650 ppm, el valor de alerta será de 1050 ppm. No es necesario esperar a que la medición se incremente 400 ppm para actuar. La situación ideal es que durante el trabajo o la clase la medición del C02 se mantenga en niveles similares a los del ambiente de trabajo o el aula vacía (10 cual es posible cuando hay buena ventilación), cuando la medición muestre un aumento de 250 0 300 ppm se debe abrir más las puertas y ventanas para procurar que el valor descienda o se estabilice. En el caso de los pasillos de circulación y otros espacios no ocupados en forma permanente, la concentración de C02 no se debe incrementar en más de 150/200 ppm con relación al valor que arroja el espacio exterior, para garantizar la renovación del aire que ingrese desde los pasillos a los interiores. 5"
+    },
+    {
+      "marcador_cita": "[[PAGINA 6]]",
+      "id": "MINSA-ANEXO-321-MINSA-2021-P0006",
+      "pagina_pdf": 6,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "Modificación de la Directiva Administrativa NO 321-MlNSAJDGlESP-2021. Directiva Administrativa que establece las Disposiciones para la Vigilancia, Prevención y Control de la Salud de los trabajadores con riesgo de exposición a SARS-CoV-2 C raba Pantalla de equipo portátil simple de medición de C02 Tabla NO 01 Niveles de alerta para un conjunto de oficinas u aulas ante el aumento de la concentración de dióxido de carbono por la respiración humana Incremento de C02 con ambiente ocupado por personas (efecto de la res iración humana Baja temperatura Medición de base (aula vacía) Trabajo o escuela 375 775 875 925 975 400 (umbral de ventilación adecuada) 1000 800 Oficina o aula I Oficina o aula 2 Oficina o aula 3 Oficina o aula 4 Oficina o aula 5 Riesgo de contagio 550 650 650 Muy bajo 850 Bajo Medio bajo Medio alto a muy alto Fuente: modificado de la Guía de recomendaciones para la prevención de la transmisión de COVID-19 en la provincia de Buenos Aires Al encender el equipo luego de un breve lapso de precalentamiento, comenzará a mostrar en pantalla los valores relativos al nivel de C02 y de otras variables (temperatura, porcentaje de humedad relativa), dependiente del modelo del aparato. Ubicación del medidor de dióxido de carbono en el ambiente de trabajo o aula: A un metro y medio o más de distancia de las personas: si se ubica cerca de las personas se podría alterar la medición, pues los dispositivos son muy sensibles a toda fuente de C02, incluida la exhalación directa. A una altura de un metro o un metro y medio del piso Lo más alejado posible de puertas y ventanas, r.ñSE!' • í A. HOLGulN o De ser posible, ubicarlo aproximadamente en el centro del aula o ambiente de trabajo. Ante situaciones donde la medición indique incrementos cercanos al umbral de 400 ppm, resulta conveniente que se realicen otras mediciones en distintos lugares del aula, especialmente en aquellos espacios donde se sospeche que hay menor ventilación. 6"
+    },
+    {
+      "marcador_cita": "[[PAGINA 7]]",
+      "id": "MINSA-ANEXO-321-MINSA-2021-P0007",
+      "pagina_pdf": 7,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "Modificación de la Directiva Administrativa NO 321-MlNSA/DGlESP-2021. Directiva Administrativa que establece las Disposiciones para la Vigilancia, Prevención y Control de la Salud de los trabajadores con riesgo de exposición a SARS-CoV-2 ¿Cómo se realiza la medición? Ventilar bien la oficina o el aula antes de iniciar la medición (10 más posible). La medición de base debe realizarse sin presencia de personas y con el ambiente preparado del mismo modo en que habitualmente se desarrollan las clases o el trabajo. Con la puerta y las ventanas en una posición fija (si se utilizan habitualmente, con el aire acondicionado o calefacción encendida). Si es posible, evitar realizar la medición cuando las condiciones del viento sean atípicas (si es que la puerta o alguna de las ventanas da al aire libre). Encender y, si corresponde, aguardar el tiempo de precalentamiento. EI medidor demora en estabilizarse, por lo que es aconsejable no prenderlo y apagarlo entre mediciones. Al comenzar la medición, el valor de C02 puede oscilar entre +/- 50 ppm durante dos minutos. Si se observa un cambio de la concentración de C02 mayor a las 50 ppm, que es la resolución del medidor, significa que el valor está cambiando y que se debe esperar a su estabilización. Registrar el valor de C02 de la medición inicial (previa al ingreso de personas al aula). Este es el valor de base contra el cual se deberán comparar los valores que se registren durante el transcurso de la clase. Monitorear y registrar el valor del C02 durante distintos momentos de la clase o jornada de trabajo (por ejemplo, en las escuelas, a la mitad de la jornada antes del recreo y al finalizar la jornada) Se debe realizar la medición una vez por semana durante dos semanas consecutivas, en cada turno de trabajo o clase en caso de una escuela Se pueden realizar todas las mediciones adicionales que se consideren necesarias (mayor cantidad de personas en el grupo, realización de actividades de intensidad diferente, etc.). ¿Qué hacer si la medición arroja valores mayores a 400 ppm por encima del valor base? Se deben poner en marcha acciones correctivas considerando las posibilidades de ventilación del ambiente. 1. 2. 3. tao D Abrir las puertas y ventanas tanto como sea posible. Si hay varias ventanas es mejor abrir un poco todas que abrir bien solo una. Si luego de aplicar medidas correctivas a través de la ventilación natural, se realiza una nueva medición sin resultados satisfactorios, se pueden instrumentar alternativas simples de ventilación mecánica, como colocar un ventilador en puertas o ventanas con el flujo de aire en dirección al exterior. En el caso de que las puertas y ventanas del aula u oficina den a un pasillo interior con poca circulación de aire o a un patio interno cerrado en los que las mediciones estén por encima del límite, se deben cerrar estas aberturas 10 máximo posible, dejando solo una pequeña apertura. A la vez, hay que abrir 10 más posible las puertas o ventanas que den al aire libre exterior o a otros espacios interiores bien ventilados, pudiendo utilizar ventiladores que apunten hacia allí, de modo que ayuden a la renovación del aire. 7"
+    },
+    {
+      "marcador_cita": "[[PAGINA 8]]",
+      "id": "MINSA-ANEXO-321-MINSA-2021-P0008",
+      "pagina_pdf": 8,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "Modificación de la Directiva Administrativa NO 321-MlNSA/DGlESP-2021. Directiva Administrativa que establece las Disposiciones para la Vigilancia, Prevención y Control de la Salud de los 4. 5. 6. 7. tao De A. HOLGUÍN trabajadores con riesgo de exposición a SARS-CoV-2 Un resultado satisfactorio en la medición de C02 en un aula u oficina implica que se puedan relajar otras medidas de prevención de riesgo, como el distanciamiento social o el uso correcto y constante de mascarillas. Cómo se mencionó, las medidas de cuidado implican estrategias de reducción de riesgo que atacan diferentes formas de posible contagio y por tanto, son complementarias. Si no se puede mantener el nivel de C02 10 suficientemente bajo mientras las personas se encuentren térmicamente cómodas, se deberán evaluar otras alternativas como reducir el tiempo de duración del bloque de clases. En el caso de que las mediciones determinen que ninguna de las acciones correctivas ha resultado efectiva, se requerirá un espacio alternativo para la continuidad de las clases presenciales o limitar el número de personas que utilizan el aula (ampliando el distanciamiento físico). Existen técnicas de limpieza del aire, como la filtración, que si bien eliminan los aerosoles no cambian la concentración de C02 en el ambiente. Por esta razón, en los espacios donde se filtra el aire se puede tolerar un nivel más alto de variación del C02 (alrededor de 200 ppm adicionales). Dado que el filtrado complementa a la ventilación, pero no la reemplaza, siempre es más recomendable ventilar que filtrar. La ventilación es una medida complementaria de prevención y es efectiva si además se mantienen las otras medidas de cuidado como mascarillas y distanciamiento y tiempo de permanencia en el ambiente. 8"
+    }
+  ]
+}

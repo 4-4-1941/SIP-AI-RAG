@@ -1,0 +1,87 @@
+{
+  "id": "MINSA-RESOLUCION-MINISTERIAL-N-894-2025-MINSA",
+  "id_fuente_oficial": "MINSA-SERUMS-2026-II-7486045",
+  "titulo": "Resolución Ministerial N.° 894-2025-MINSA - Normas y documentos legales - Ministerio de Salud - Plataforma del Estado Peruano",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Resolución Ministerial",
+  "numero_norma": "RM N.° 894-2025-MINSA",
+  "fecha_aprobacion": null,
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/7486045-894-2025-minsa",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/9121333/7486045-resolucion-ministerial-n-894-2025-minsa.pdf?v=1765384714",
+  "fuentes_oficiales": [
+    {
+      "tipo": "pdf_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "Resolución Ministerial N.° 894-2025-MINSA - Normas y documentos legales - Ministerio de Salud - Plataforma del Estado Peruano",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/9121333/7486045-resolucion-ministerial-n-894-2025-minsa.pdf?v=1765384714",
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "7486045-resolucion-ministerial-n-894-2025-minsa.pdf",
+  "huella_sha256_pdf_fuente": "fb4858e201977d31af3824325987bf33523c94df393f268957dc56f1268dd653",
+  "paginas_pdf": 4,
+  "paginas_con_texto": 4,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "texto_nativo_pdf",
+  "ocr_aplicado": false,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "VALIDADO_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 4,
+    "paginas_con_texto": 4,
+    "caracteres_texto_extraido": 8437
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-894-2025-MINSA-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "No.8q9 - 2025 irliNSA MINISTERIO DE SALUD \n\\ AUCA DE-/  _ \n9-<8  \n>4-0 , \nOflOS \nC. ALVARADO CH. \npao \n3 . 21, \nD G \nmmo341 \n,,V,fina,  O LE  ck \t EhDR-J  dej  2f-) 25 \nVISTO, el Expediente N° DGAIN-DIP0S20240000304, que contiene el Informe \nN° 000467-2024-DGAIN-DIPOS-MINSA y el Memorándum N° D000240-2025-DGAIN-\nMINSA, de la Dirección de Intercambio Prestacional, Organización y Servicios de Salud \nde la Dirección General de Aseguramiento e Intercambio Prestacional; y el Informe N° \nD001076-2025/0GAJ-MINSA de la Oficina General de Asesoría Jurídica; y, \nCONSIDERANDO: \nQue, los numerales I, II y VI del Título Preliminar de la Ley N°26842, Ley General \nde Salud, establecen que la salud es condición indispensable del desarrollo humano y \nmedio fundamental para alcanzar el bienestar individual y colectivo; que la protección \nde la salud es de interés público y, por tanto, es responsabilidad del Estado regularla, \nvigilarla y promoverla; que es de interés público la provisión de servicios de salud, \ncualquiera sea la persona o institución que los provea; y que es responsabilidad del \nEstado promover las condiciones que garanticen una adecuada cobertura de \nprestaciones de salud en términos socialmente aceptables de seguridad, oportunidad y \ncalidad; \nQue, los numerales 1 y 7 del artículo 3 del Decreto Legislativo N° 1161, Ley de \nOrganización y Funciones del Ministerio de Salud, establecen que el Ministerio de Salud \nes competente en la salud de las personas y en los recursos humanos en salud; \nQue, el artículo 4 del Decreto Legislativo N° 1161, dispone que el Sector Salud \nestá conformado por el Ministerio de Salud, como organismo rector, las entidades \nadscritas a él, las instituciones públicas y privadas de nivel nacional, regional y local, y \nlas personas naturales que realizan actividades vinculadas a las competencias \nestablecidas en dicha ley, y que tienen impacto directo o indirecto en la salud, individual \no colectiva; \nQue, el numeral 4-A del citado Decreto Legislativo N° 1161, modificado por el \nDecreto Legislativo N° 1504, que fortalece al Instituto Nacional de Salud para la \nprevención y control de las enfermedades, establece que la potestad rectora del"
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-894-2025-MINSA-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "J CM \nMinisterio de Salud comprende la facultad que tiene para normar, supervisar, fiscalizar \ny, cuando corresponda, sancionar, en los ámbitos que comprenden la materia de salud, \npor cuenta propia o por delegación expresa a través de sus organismos públicos \nadscritos y, dentro del marco y los límites establecidos en la citada ley, la Ley Orgánica \ndel Poder Ejecutivo, las normas sustantivas que regulan la actividad sectorial y las \nnormas que rigen el proceso de descentralización; \nQue, los literales e) y f) del artículo 5 del Decreto Legislativo N° 1161, modificado \npor el Decreto Legislativo N° 1504, establecen que es función del Ministerio de Salud \nregular y dictar normas de organización para la oferta de salud de los diferentes \nprestadores que brindan atenciones, para que en conjunto sean integrales, \ncomplementarias, de calidad, y que presten cobertura de manera equitativa y eficiente \na las necesidades de atención de toda la población; así como regular y fiscalizar los \nrecursos, bienes y servicios del sector salud en el ámbito nacional; \nQue, la Ley N° 30885, Ley que establece la conformación y el funcionamiento de \nlas Redes Integradas de Salud - RIS, señala que las RIS son organizaciones que \nprestan, o hacen los arreglos institucionales, para prestar una cartera de servicios salud \nequitativa e integral a una población definida, a través de la articulación, coordinación y \ncomplementación, y que rinde cuentas por los resultados sanitarios y administrativos y \npor el estado de salud de la población a la que sirve. Además, señala que tiene a su \ncargo la función de proveer servicios de salud integrales a la población de su ámbito, \nmediante intervenciones de salud individual y salud pública; y abordar los determinantes \nsociales de la salud; \nQue, los numerales 14.5, 14.6 y 14.7 del Reglamento de la Ley N° 30885, \naprobado por el Decreto Supremo N° 019-2024-SA, establecen que en la RIS se \npromueven diversas modalidades de integración, interoperabilidad informática, \narticulación, coordinación y complementación entre los establecimientos de salud y \nservicios médicos de apoyo, así como con otras instituciones u organizaciones que se \nencuentren ubicadas en el ámbito de la RIS, y con las instancias de coordinación \nintersectorial y sociales en función de los determinantes sociales de la salud; asimismo, \nen la RIS se desarrollan los procesos de promoción, prevención, tamizaje, diagnóstico \nprecoz, confirmación diagnóstica, tratamiento, rehabilitación y cuidados paliativos, entre \notros. Asimismo, establecen que para la integración clínica en la RIS se emplean \nherramientas de gestión clínica estandarizadas para los cuidados integrales de salud; \nQue, se ha identificado la falta de continuidad del cuidado entre los diferentes \nniveles de atención y profesionales de la salud, retrasos en los diagnósticos y \ntratamientos, la baja adherencia al tratamiento y la duplicidad de prestaciones como \nmanifestaciones de una débil coordinación del Cuidado Integral de la Salud. Este \nproblema se agrava por la insuficiente articulación entre prestadores de salud, usuarios, \nfinanciadores y actores de otros sectores, lo que compromete seriamente la eficiencia y \noportunidad del cuidado de la salud; \nC.ALVARA \nQue, tras evaluar la situación y con el proceso de implementación de las RIS en \ncurso, el cual involucra diversas acciones, especialmente, el fortalecimiento de la \nintegración clínica, la Vía de Cuidado Integral en Salud se presenta como una \no ar. \t herramienta de gestión que establece las condiciones necesarias para asegurar tanto la \nintegralidad como la longitudinalidad en el cuidado, contribuyendo así al funcionamiento \nde las RIS en cuanto a la dimensión prestación, específicamente, en el atributo esencial \nde organización e integración clínica;"
+    },
+    {
+      "marcador_cita": "[[PAGINA 3]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-894-2025-MINSA-P0003",
+      "pagina_pdf": 3,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "DEGIOS \nMINISTERIO DE SALUD \nCA DEL p  \nq-- \nNo  eqq-2025iti“SA  \ny r;i2,ta, \t ,biciehil f2E  de/ 2025 \nQue, en ese contexto la Dirección General de Aseguramiento e Intercambio \nPrestacional ha propuesto la Norma Técnica de Salud para la Elaboración e \nImplementación de Vías de Cuidado Integral en Salud, la cual contribuirá al \nfortalecimiento de la coordinación del Cuidado Integral de la Salud de la persona, la \nfamilia y la comunidad, entre los prestadores de salud, usuarios de los servicios de \nsalud, financiadores y otros actores relacionados, para brindar la atención oportuna, \ncontinua e integral; \nEstando a lo propuesto por la Dirección General de Aseguramiento e Intercambio \nPrestacional; \nCon el visado de la Dirección General de Aseguramiento e Intercambio \nPrestacional; de la Dirección General de Intervenciones Estratégicas en Salud Pública; \ndel Instituto Nacional de Salud; de la Oficina General de Asesoría Jurídica; de la \nSecretaría General; del Despacho Viceministerial de Salud Pública; y del Despacho \nViceministerial de Prestaciones y Aseguramiento en Salud, y; \nDe conformidad con lo dispuesto en el Decreto Legislativo N° 1161, Ley de \nOrganización y Funciones del Ministerio de Salud, modificado por la Ley N° 30895, Ley \nque fortalece la función rectora del Ministerio de Salud, y por el Decreto Legislativo N° \n1504, Decreto Legislativo que fortalece al Instituto Nacional de Salud para la prevención \ny control de las enfermedades; la Ley N° 30885, Ley que establece la conformación y el \nfuncionamiento de las Redes Integradas de Salud — RIS; y el Reglamento de \nOrganización y Funciones del Ministerio de Salud, aprobado por Decreto Supremo N° \n008-2017- SA y modificatorias; \nt11.1410,1."
+    },
+    {
+      "marcador_cita": "[[PAGINA 4]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-894-2025-MINSA-P0004",
+      "pagina_pdf": 4,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "SE RESUELVE: \nArtículo 1.- Aprobar la Norma Técnica de Salud N°239-2025/MINSA/DGAIN, \nNorma Técnica de Salud para la Elaboración e Implementación de Vías de Cuidado \nIntegral en Salud, que como Anexo forma parte integrante de la presente Resolución \nMinisterial. \nArtículo 2.- Encargar a la Oficina de Transparencia y Anticorrupción de la \nSecretaría General la publicación de la presente Resolución Ministerial y su Anexo en \nla sede digital del Ministerio de Salud (www.gob.pe/minsa),  en la misma fecha de su \npublicación en el Diario Oficial El Peruano. \nRegístrese, comuníquese y publíquese. \n \n \n.sty,10 DE s4  \newoOs'  \nC. ALVARADO CH. \nLUIS NAPOLEÓN iUbZ AVILÉS \nMinistro de Salud"
+    }
+  ]
+}

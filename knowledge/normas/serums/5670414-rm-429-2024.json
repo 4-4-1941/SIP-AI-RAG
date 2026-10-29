@@ -1,0 +1,157 @@
+{
+  "id": "MINSA-RM-429-2024",
+  "id_fuente_oficial": "MINSA-SERUMS-2026-II-5670414",
+  "titulo": "Resolución Ministerial N.° 429-2024-MINSA - Normas y documentos legales - Ministerio de Salud - Plataforma del Estado Peruano",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Resolución Ministerial",
+  "numero_norma": "RM N.° 429-2024-MINSA",
+  "fecha_aprobacion": null,
+  "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/5670414-429-2024-minsa",
+  "pdf_oficial": "https://cdn.www.gob.pe/uploads/document/file/6498138/5670414-rm-429-2024.pdf?v=1719011740",
+  "fuentes_oficiales": [
+    {
+      "tipo": "pdf_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "Resolución Ministerial N.° 429-2024-MINSA - Normas y documentos legales - Ministerio de Salud - Plataforma del Estado Peruano",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/6498138/5670414-rm-429-2024.pdf?v=1719011740",
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "VALIDADO_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "5670414-rm-429-2024.pdf",
+  "huella_sha256_pdf_fuente": "0851d250d3107a85f0758ddd00bbbb126787a929a7df36f801e38ba0c29baa24",
+  "paginas_pdf": 11,
+  "paginas_con_texto": 11,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "texto_nativo_pdf",
+  "ocr_aplicado": false,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "VALIDADO_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 11,
+    "paginas_con_texto": 11,
+    "caracteres_texto_extraido": 23074
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-RM-429-2024-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "MINISTERIO DE SALUD\n^^CA^^No.Li.^.:.^?.y.^/^A\n<?; »0\n^ \\>'0 <y\nI\n•\n&^ M. ^...^^.Q..... .c/e/..^2Li\n's\nfciJESt\n.10\n%\n^\n^\nE. PEtiA\n(0°f v\"\n' .^ ?/'IS\n/\nwv.\nosy-\nsS^c\nVisto, el Expediente   DGIESP20230000025, que contiene el Informe  \nD000047-2024-DGIESP-UFANS-LSC-MINSA y la Nota Informativa   D000276-2024-\nDGIESP-UFANS-MINSA de la Unidad Funcional de Alimentacion y Nutricion\nSaludable; el Memorandum   D002493-2024-DGIESP-MINSA de la Direccion\nGeneral de Intervenciones Estrategicas en Salud Publica; y, el Informe   D000626-\n2024-OGAJ-MINSA de la Oficina General de Asesoria Juridica;\nCONSIDERANDO:\nQue, los numerales I, II y V del Titulo Preliminar de la Ley   26842, Ley\nGeneral de Salud, disponen que la salud es condicion indispensable del desarrollo\nhumano y media fundamental para alcanzar el bienestar individual y colectivo; la\nproteccion de la salud es de interes publico, siendo responsabilidad del Estado\nregularla, vigilarla y promoverla; asimismo, es responsabilidad del Estado vigilar,\ncautelar y atender los problemas de desnutricion de la poblacion, entre otros;\nQue, el articulo 123 de la precitada Ley, modificado por el Decreto Legislativo\n  1161, Ley de Organizacion y Funciones del Ministerio de Salud, establece que el\nMinisterio de Salud es la Autoridad de Salud de nivel nacional y, como organismo del\nPoder Ejecutivo, tiene a su cargo la formulacion, direccion y gestion de la politica de\nsalud y actua como la maxima autoridad normativa en materia de salud;\nQue, el numeral 1) del articulo 3 de la Ley de Organizacion y Funciones del\nMinisterio de Salud establece que el Ministerio de Salud es competente en salud de\nlas personas; y su artfculo 4 dispone que el Sector Salud esta conformado por el\nMinisterio de Salud, coma organismo rector, las entidades adscritas a 61, las\ninstituciones publicas y privadas de nivel nacional, regional y local, y las personas\nnaturales que realizan actividades vinculadas a las competencias establecidas en\ndicha Ley, y quo tienen impacto directo o indirecto en la salud, individual o colectiva;\nQue, los literates b) y h) del artfculo 5 de la acotada Ley, modificado por el\nDecreto Legislativo   1504, Decreto Legislativo que fortalece al Instituto Nacional de\nSalud para la prevencion y control de las enfermedades, senalan que son funciones\nrectoras del Ministerio de Salud, formular, planear, dirigir, coordinar, ejecutar,\nsupervisar y evaluar la politica nacional y sectorial de promocion de la salud, vigilancia,"
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-RM-429-2024-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "-^»s.\nlc»\n\\ooe\n%\n^,\ne. PE.NA\n10 B p<\n^^ sv /\n^\n•-J\n\\\nprevencion y control de las enfermedades, recuperacion, rehabilitacion en salud,\ntecnologias en salud y buenas practicas en salud, bajo su competencia, aplicable a\ntodos los niveles de gobierno; asi como dictar normas y lineamientos tecnicos para la\nadecuada ejecucion y supervision de la politics nacional y politicas sectoriales de\nsalud, entre otras;\nQue, el artfculo 63 del Reglamento de Organizacion y Funciones del Ministerio\nde Salud, aprobado par Decreto Supremo   008-2017-SA, modificado por Decreto\nSupremo   011-2017-SA, establece que la Direccion General de Intervenciones\nEstrategicas en Salud Publica es el organo de linea del Ministerio de Salud,\ndependiente del Viceministerio de Salud Publica, competente para dirigir y coordinar\nlas intervenciones estrategicas de salud publica en materia de promocion de la salud,\nentre otras. Asimismo, los literales b) y d) del articulo 64 del precitado Reglamento\nsenalan como funciones de la Direccion General de Intervenciones Estrategicas en\nSalud Publica, proponer, evaluar y supervisar la implementacion de politicas, normas,\nlineamientos y otros documentos normativos en materia de inten/enciones estrategicas\nde salud publica; y proponer, conducir, supervisar y evaluar el planeamiento y/o\nmodelo de las acciones de las intervenciones estrategicas de prevencion, control y\nreduccion de riesgos y danos a la salud, en coordinacion con los organos competentes\ndel Ministerio de Salud, asi como con los gobiernos regionales;\nQue, mediante la Resolucion Ministerial   251-2024/MINSA, se aprueba la\nNTS   213-MINSA/DGIESP-2024, Norma Tecnica de Salud: Prevencion y control de\nla anemia por deficiencia de hierro en el nino y la nina, adolescentes, mujeres en edad\nfertil, gestantes y puerperas, cuya finalidad es contribuir a la disminucion de la\nprevalencia de anemia par deficiencia de hierro en el nino y la nina, adolescentes,\nmujeres en edad fertil, gestantes y puerperas en el marco de la atencion integral de\nsalud en el Peru;\nQue,. de acuerdo a lo senalado en los documentos del visto, la Direccion\nGeneral de Intervenciones Estrategicas en Salud Publica, a traves de la Unidad\nFuncional de Alimentacion y Nutricion Saludable, propone la modificacion de la NTS\n  213-MINSA/DGIESP-2024, a fin de garantizar su implementacion en todos los\nestablecimientos de salud en el territorio nacional;\nEstando a lo propuesto par la Direccion General de Intervenciones Estrategicas\nen Salud Publica;\nCon el visado de la Direccion General de Intervenciones Estrategicas en Salud\nPublica, de la Oficina General de Asesoria Juridica, del Despacho Viceministerial de\nSalud Publics y del Despacho Viceministerial de Prestaciones y Aseguramiento en\nSalud;\nDe conformidad con lo dispuesto en el Decreto Legislativo   1161, Ley de\nOrganizacion y Funciones del Ministerio de Salud, modificado par la Ley   30895, Ley\nque fortalece la funcion rectora del Ministerio de Salud, y par el Decreto Legislativo  \n1504, Decreto Legislativo que fortalece al Instituto Naciona! de Saiud para la\nprevencion y control de las enfermedades; y, el Reglamento de Organizacion y\nFunciones del Ministerio de Salud, aprobado par Decreto Supremo   008-2017-SA,\nmodificado mediante los Decretos Supremos   011-2017-SA y   032-2017-SA;\nSE RESUELVE:\nArticulo 1.- Modificar la NTS   213-MINSA/DGIESP-2024, Norma Tecnica de\nSalud: Prevencion y control de la anemia par deficiencia de hierro en el nino y la nina,"
+    },
+    {
+      "marcador_cita": "[[PAGINA 3]]",
+      "id": "MINSA-RM-429-2024-P0003",
+      "pagina_pdf": 3,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "MINISTERIO DE SALUD\n-^^.^\n•<B ^m\nHoLi.21,2g2^n^A\nOf\n?-?\n^^vhs\ne.pENA\ntOOf w.^' m^^,\nv/\n:B\n1@1%II^\n^.^\niwo»,^^.^\n9 /»\n•—y\n&^ M. ^....Sw/.a.... .^.^0^\nadolescentes, mujeres en edad fertil, gestantes y puerperas, aprobada por Resolucion\nMinisterial   251-2024/M I NSA, conforme al Anexo que forma parte integrante de la\npresente Resolucion Ministerial, y que se publica en la sede digital del Ministerio de\nSalud.\nArticulo 2.- Encargar a la Oficina de Transparencia y Anticorrupcion de la\nSecretana General la publicacion de la presente Resolucion Ministerial y su Anexo en\nla sede digital del Ministerio de Salud.\nRegistrese, comuniquese y publiquese.\n»\n^\n„>\nCESAR HENRY VASQUEZ SANCHEZ\nMinistro de Salud\n'^oo^<<;CP r^\nXl\n'^ </5-7\n0•r\nc s0 %e^\nt<\nt^is^0\n;\ni"
+    },
+    {
+      "marcador_cita": "[[PAGINA 4]]",
+      "id": "MINSA-RM-429-2024-P0004",
+      "pagina_pdf": 4,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "ANEXO\nMODIFICACION DE LA NTS   213-MINSA/DGIESP-2024, NORMA TECNICA DE\nSALUD: PREVENCION Y CONTROL DE LA ANEMIA POR DEFICIENCIA DE\nHIERRO EN EL NINO Y LA NINA, ADOLESCENTES, MUJERES EN EDAD FERTIL,\nGESTANTES Y PUERPERAS, APROBADA POR RESOLUCION MINISTERIAL  \n251-2024/MINSA\n1. Modificar la definicion operativa \"Adherencia al suplemento de hierro\" del numeral\n5.1 del apartado V de la NTS   213-MINSA/DGIESP-2024, conforme al siguiente\ndetalle:\n\"V. DISPOSICIONES GENERALES\n5.1. Definiciones Operativas\n• Adherencia al suplemento de hierro: Es el grado de cumplimiento del regimen\nde suplementacion o tratamiento en relacion con la dosis y tiempo indicado. Se\nconsidera que la adherencia es adecuada cuando se consume el 75% a mas de\nla dosis indicada del suplemento de hierro durante un periodo mensual.\n(...)\".\nDE ?'°K\n^0\nr\\\nI.\n2. Modificar la Tabla   1 del subnumeral 5.3.2 del numeral 5.3 del apartado V de la\nNTS   213-MINSA/DGIESP-2024, conforme al siguiente detalle:\n'V. DISPOSICIONES GENERALES\n(...)\n5.3. Atencion en los establecimientos de salud\n(...)\n5.3.2.f...;\nTabla   1\nAJUSTE DEL VALOR DE HEMOGLOBINA SEGUN ALTITUD\n?fcWO Of\"^£^S.S^.w ¥0 AL\nEV\nI^ ^'yg:ft\n^^\nRango de elevacion\n(metres sobre el nivel del mar)\n1-499\n500 - 999\nAjustes en la concentracion de\nhemoglobina (g/dl) (b)\n0\n0.4\n1000 - 1499\n1500-1999\n0.8\n1.1\n2000 - 2499\n2500 - 2999\n1.4\n1.8\n3000 - 3499\n3500 - 3999\n2.1\n2,5\n4000 - 4499\n4500 - 4999\n5000 - 5500\n2.9\n3.3\n4.0\n(a): Los ajustes son la cantidad restada del nivel de hemoglobina observado o agregada al\nlimife de hemoglobina que define la anemia en g/dl\n(b): AJustes propuestos para todos los grupos de poblaci6n basados en la ecuaci6n: Ajuste de\nhemoglobina (g/dl) = ((0.0056384 x altifud) + (0.0000003 x altitud x altifud))/10.\nFuente: Gula sobre puntos de corte de hemoglobina para definir la anemia en individuos y\npoblaciones. Ginebra: Organizaci6n Mundial de la Salud: 2024\n(...)\"."
+    },
+    {
+      "marcador_cita": "[[PAGINA 5]]",
+      "id": "MINSA-RM-429-2024-P0005",
+      "pagina_pdf": 5,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "ooew\n?@s\ng-\n/\\\n^t?\n¥\nT\n\\^ ».\n3. Modificar los subnumerales 5.4.1, 5.4.2, 5.4.4 y 5.4.5 del numeral 5.4 del apartado\nV de la NTS   213-MINSA/DGIESP-2024, conforme al siguiente details:\n'V. DISPOSICIONES GENERALES\n(...)\n5.4. Suplementacion preventiva y tratamiento\n5.4.1. El/la medico cirujano o medico especialista, el/la obstetra, el/la\nlicenciado/a en enfermeria, el/la licenciado/a en nutricion, podran brindar\nsuplemento de hierro para prevenirla anemia segun la edad, peso, genera\ny condicion del paciente, de acuerdo con la dosis establecida en la\npresente Norma Tecnica de Salud.\nEl tratamiento para la anemia lo prescribe el/la medico cirujano y/o\nmedico especialista, de acuerdo al diagnostico etiologico en aplicacion\nde /o establecido en la presente Norma Tecnica de Salud.\nEn el caso del tratamiento de anemia en adolescentes, gestantes,\npuerperas y mujeres en edad fertil, en ausencia del medico y/o\nespecialista, excepcionalmente, el/la obstetra brindara el suplemento de\nhierro, de acuerdo a lo establecido en la presente Norma Tecnica de\nSalud, lo registrara en la historia clinica, y generara una proxima cita con\nel/la medico cirujano y/o especialista para su atencion virtual o presencial\ny supervision del tratamiento.\nEn el caso del tratamiento de anemia en ninos y adolescentes, en\nausencia del medico y/o especialista, excepcionalmente, el/la licenciado/a\nen enfermeria o el/la licenciado/a en nutricion, brindara el suplemento de\nhierro, de acuerdo a lo establecido en la presente Norma Tecnica de\nSalud, lo registrars! en la historia clinica, y generara una proxima cita con\nel/la medico cirujano y/o especialista para su atencion virtual o presencial\ny supervision del tratamiento.\n5.4.2. Cuando la adherencia al sulfato ferroso no es adecuada (< 75% de consumo\ndel suplemento en el mes) o se presentan efectos adversos que limitan la\ncontinuidad, se emplea como alternativa el Complejo Polimaltosado Ferrico.\n(...)\n5.4.4. Se considera reinicio de la suplementacion preventiva o del tratamiento,\ncuando el suplemento de hierro no se ha consumido por un periodo mayor a 3\nmeses, por to tanto, se indica la medicion de hemoglobina. En el caso de\nsuplementacion preventiva, si el valor de Hb es normal, se reinicia la\nsuplementacion hasta completar /os 6 meses de suplementacion; y, si el valor\nde Hb esta por debajo de lo normal, se reinicia el tratamiento respectivo.\n5.4.5. Excepcionalmente, en caso de que en el establecimiento de salud donde no se\ncuente con medico cirujano o medicos especialistas o licenciada/o en\nenfermeria, obstetra, o licenciada/o en nutricion, el/la tecnico en enfermeria\ncapacitado/a inicia la suplementacion y lo registra en la historia clinica, HIS\ny genera una proxima cita con el/la medico cirujano y/o especialista para\nsu atencion virtual o presencial\".\n4. Modificar tos subnumerales 5.6.2 y 5.6.3 del numeral 5.6 del apartado V de la NTS\n  213-MINSA/DGIESP-2024, conforme al siguiente details:\n\"V. DISPOSICIONES GENERALES\n(...)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 6]]",
+      "id": "MINSA-RM-429-2024-P0006",
+      "pagina_pdf": 6,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "5.6. Suspension de /os suplementos de hierro\n(...)\n5.6.2. S/ la suspension del suplemento de hierro es menor a 3 meses, se continua la\nindicacion hasta completar el esquema previamente indicado.\n5.6.3. S//a suspension del suplemento de hierro es mayor a 3 meses, debe reiniciar\nun nuevo esquema, previa medicion de hemoglobina\".\n5. Modificar la Tabla   4 del literal A del subnumeral 6.1.1 del numeral 6.1 del\napartado VI de la NTS   213-MINSA/DGIESP-2024, conforme al siguiente detalle:\n\"W. DISPOSICIONES ESPECIFICAS\n6.1. INTERVENCIONES SANITARIAS EN LA ANEMIA POP DEFICIENCIA DE HIERRO\n6.1.1. Acciones de prevencion (Anexo   1)\nA. Medicion de hemoglobina\n(•••)\nTabla   4\nMedicion de hemoglobina par grupo de edad durante la suplementacion\nWS.P-?s^ !{\n)\n¥y-<5 ALEXANDER\nsT\nI'^ ^V-.ft\n:<»\nCondicion/Grupo de\nedadMedicion de hemoglobina\nRN con bajo peso at\nnacer o premature\n2 mediciones:\n-4 /os 30 dias de nacido\nA! tercer mes de iniciada la suplementacion\n6 a 11 meses de edad\n3 mediciones:\nA party de /os 6 meses de edad\nAl tercermes de iniciada la suplementacion\n(control)\nAl termino de la suplementacion (control)\n12 a 23 meses de edad\n24 a 35 meses cfe edad\n36-59 meses de edad\n3 mediciones:\nAntes de iniciarla suplementacion\nAl tercer mes de iniciada la suplementacion\n(control)\nAl termino de la suplementacion (control)\n5 a 11 anos de edad\nAdolescentes mujeres\n12-17 anas, 11 meses y\n29 dias\n2 mediciones al ano:\n-Antes de iniciarla suplementacion\nAl termino de la suplementacion (control)\n1 medicion at ano\nGestante\n2 mediciones al ano:\nAntes de iniciarla suplementacion\nAl termino de la suplementacion (control)\nPuerpera\nMujer en edad fertil\n3 mediciones:\nEn el 1er control prenatal\nEn la semana 25 al 28 de gestacion\nEn la semana 37 a 40 de gestacion antes del parto\n^ /os 30 d/'as post parto.\n1 medicion al ano\n.;.'\"\";'••.••.\ni'':\"l'':^'\n6.Modificar la Tabla   5 del literal B del subnumeral 6.1.1 del numeral 6.1 del\napcirtado VI de la NTS   213-MINSA/DGIESP-2024, conforme al siguiente detalia:\n\"W. DISPOSICIONES ESPECIFICAS"
+    },
+    {
+      "marcador_cita": "[[PAGINA 7]]",
+      "id": "MINSA-RM-429-2024-P0007",
+      "pagina_pdf": 7,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "6.1. INTERVENCIONES SANITARIAS EN LA ANEMIA POP DEFICIENCIA DE HIERRO\n6.1.1. Acciones de prevencion (Anexo   1)\n(...)\nB. Suplementacion preventiva\n(...)\nTabla   5\nSuplementacion con hierro en la niha y el nino menor de 6 meses de edad\nCondicion Edadde\nadministraci6n Dosis Producto Presentacion Frecuencia Duracion\nNina/nino con\nbajo peso al\nnacery/o\nprematuro/a\nA /os 30 d/as cfe\nnacido\n2mg/K\ng/dia\nSulfato ferroso\nComplejo\nPolimaltosado\nfem'co*\nNina/nino\nnacido/a a\ntermino con\nadecuado peso al\nnacer\nA /os 4 meses\nde edad\n2mg/K\ng/dia\nSulfato ferroso\nComplejo\nPolimaltosado\nferrico\"\ngates\nDiana\nDiaria\nHasta los 6\nmeses\ncumplidos\nNota: A partir de /os 6 meses de edad, la suplementaci6n preventiva para nifios con bajo peso al nacerserS igual al del nirlo nacido a termino con\nadecuado peso al nacer.\n(') Altemativa at sulfato ferroso.\n(.:)\"•\nV.\n^,¥ ^\n0ALEXANDER\nT\n»\n7. Modificar la Tabla   8 del literal B del subnumeral 6.1.1 del numeral 6.1 del\napartado VI de la NTS   213-MINSA/DGIESP-2024, conforme al siguiente detalle:\n\"W. DISPOSICIONES ESPECIFICAS\n6.1. INTERVENCIONES SANITARIAS EN LA ANEMIA POP DEFICIENCIA DE HIERRO\n6.1.1. Acciones de prevencion (Anexo   1)\n(•••)\nB. Suplementacion preventiva\n(...)\nTabla   8\nSuplementacion con hierro y otras combinaciones de multivitaminicos en el nino y la\nnina de 24 a 59 meses\nEdad Dosis Producto Presentacion Frecuencia Duracion\n24 a 35\nmeses\n30 mg Hierro\nelemental\"\nSulfato Ferroso\nComplejo Polimaltosado\nFerrico*\njarabe\n2 sobres\n36 a 59\nmeses\n30 mg Hierro\nelemental*\nMicronutrientes en polvo\nde 1g polvo\nSulfato Ferroso\nComplejo Polimaltosado\nFerrico\"\nJarabe\n2 soibres Micronutrientes en polvo\nde 1 g polvo\nDiana\n6 meses\ncontinues\nen el ano\n3 meses\ncontinues\nen el ano\nC) Altemativa al sulfato ferroso\n(...)\".\n8. Modificar el item 5 del literal C del subnumeral 6.1.1 del numeral 6.1 del apartado\nVI de la NTS   213-MINSA/DGIESP-2024, conforme al siguiente detalle:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 8]]",
+      "id": "MINSA-RM-429-2024-P0008",
+      "pagina_pdf": 8,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "\"W. DISPOSICIONES ESPECIFICAS\n6.1. INTERVENCIONES SANITARIAS EN LA ANEMIA POP DEFICIENCIA DE HIERRO\n6.1.1. Acciones deprevencion (Anexo   1)\n(...)\nC. Seguimiento de la suplementacion preventiva\n(...)\n5. Visita domiciliaria y/o teleorientacion: (...)\n- (•••)\n- El nino y la nina de 24 a 35 meses de edad recibe 2 visitas o\nteleorientacion: al primer mes y al tercer mes de iniciada la\nsuplementacion.\n- (•••)\n- La gestante recibe 2 visitas domiciliarias o teleorientacion, la primera\na partir de /os 7 dias de iniciada la suplementacion; y, la segunda, en\nel ultimo trimestre del embarazo.\n- (...)\".\n<»°°E\n'^s^.^\n'^^' (/ s\n9. Modificar diversos aspectos del literal A del subnumeral 6.1.2 del numeral 6.1 del\napartado VI de la NTS   213-MINSA/DGIESP-2024, conforme al siguiente detalle:\n\"W. DISPOSICIONES ESPECIFICAS\n6.1. INTERVENCIONES SANITARIAS EN LA ANEMIA POP DEFICIENCIA DE HIERRO\n(...)\n6.1.2. Acciones de recuperacion\nA. Diagnostico de anemia por deficiencia de hierro (Anexo   5)\n(...)\n- Lugar de residencia habitual en /os ultimas 4 meses.\nExamen fisico: Evaluar presencia de sintomas/signos y realizar la\nevaluacion oral completa (Tabla  12).\n•S TAREV.\n^\nt\nTabla   12\nSignos y sintomas de la anemia\nOrganos o sistemas\nafectadosSintomas y signos\nSintomas generates\nAlteraciones en piety\nfaneras\nSueno incrementado, astenia, inapetencia, anorexia, imtabilidad,\nrendimiento fisico disminuido, fatiga, vertigos, mareos, cefaleas y\nalteraciones en el crecimiento. En prematuros y lactantes pequenos,\nbaja ganancia corporal.\nAlteraciones de conducts\nalimentaha\nPiel y membranas mucosas palidas (signo principal), piel seca, caida\ndel cabello, pelo ralo y unas quebradizas, aplanadas (platoniquia) o con\nla cun/atura inversa (coiloniquia).\nPica. Tendencia a comer tierra\ndientes, entre otros.\n(geofagia), unas, cabello, pasta de\nSintomas cardiopulmonares\nAlteraciones digestivas,\ninfecciones bucodentales\nTaquicardia, soplo y disnea del esfuerzo. Estas condiciones se pueden\npresenter cuando el valor de hemoglobina es muy bajo (<5g/dL).\nAlteraciones inmunologicas\nQueilitis angular, estomatitis, glositis (lengua de superficie lisa, sensible,\nadolohda o inflamada, de color rojo palido o brilloso), entre otros.\nDefectos en la inmunidad celular y la capacidad bactericida de /os\nneutrofilos."
+    },
+    {
+      "marcador_cita": "[[PAGINA 9]]",
+      "id": "MINSA-RM-429-2024-P0009",
+      "pagina_pdf": 9,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Sintomas neurologicos\nAlteracion del desarrollo psicomotor del aprendizaj'e y/o la atencion.\nAlteraciones de las funciones de memoria y pobre respuesta a\nestimulos sensohales.\nFuente: Ministerio de Salud - Direcdon General de Intervenciones Estrategicas en Salud Publica, adaptado de las referencias\nbibliograficas.\nExamenes de apoyo al diagnostico:\n- (-)\n- En /os establecimientos de salud que no cuenten con el servicio de\nlaboratorio clinico, se toma la muestra de sangre y se envia al\nestablecimiento de salud de mayor capacidad resolutiva, tal y como se\nestablece en la NTS   072-MINSA/DGSP-V.01. \"Norma Tecnica de\nSa/ud de la Unidad Productora de Servicios de Patologia Clinica\",\naprobada por Resolucion Ministerial   627-2008/MINSA.\n^]op«:\ny. S\\1I/ sv /\na\nk*'\n'ALEXANpER'\ns\n^^ B'-' ft\n^.CmdlnaU\n^.n\nTabla   13\nValores normales de concentracion de hemoglobina y niveles de anemia (Hasta 500\nmsnm)\nPoblacion Con Anemia segun niveles de\nHemoglobina (g/dL)\nS/n Anemia segun\nniveles de\nHemoglobina (g/dL)\nPrematuros/as\n1a semana de vida\n2a a 4fa semana de vida\n5a a 8va semana de vida\n< 13.0\n& 10.0\nS 8.0\nNacidos/as a Termino\nMenorde 2meses < 13.5\nNinos de 2 a 5 meses\nNinos/as\n0.5\nSevers\nDe 6 a 23 meses < 7,0\nModerada\n7.0-9,4\nLeve\n9.5-10.4\nDe 24 a 59 meses <7.0 7.0-9.9 10.0-10.9\nDe 5 a 11 anos < 8.0 8.0-10.9 11.0-11.4\nAdolescentes\nMujeres de 12 -14 anos no\nembarazadas < 8.0 8.0-10.9 11.0-11.9\nVarones de 12a 14 anos < 8.0 8.0-10.9 11.0-11.9\nVarones de 15 anos a mas\nMujeres NO Gestantes\n(15anosa mas)\n< 8.0\n< 8.0\n8.0-10.9\n8.0-10.9\n11.0-12.9\n11.0-11.9\nGestantes y Puerperas\nPrimer Trimestre < 7.0 7.0-9.9 10.0-10.9\nSegundo Trimestre < 7.0 7.0-9.4 9.5-10.4\nTercer thmestre < 7.0 7.0-9.9 10.0-10.9\nPuerpera < 8.0 8.0-10.9 11.0-11.9\n>13.0\n>10.0\n>ao\n13.5-18.5\n9.5-13.5\n5.10.5\n>,11.0\nS 11.5\nS ^2.0\nSY2.0\nSY3.0\n> 12.0\ni11.0\n5.10.5\ni11.0\ni 12.0\nFuente: Adaptado de Organizacion Mundial de la Salud: Directrices sobre /os //'mtfes de hemoglobina para definir\nla anemia en individuos y poblaciones. 2024.\n(...)\"."
+    },
+    {
+      "marcador_cita": "[[PAGINA 10]]",
+      "id": "MINSA-RM-429-2024-P0010",
+      "pagina_pdf": 10,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "o? ^&?! wrc\n) \\\n10. Modificar diversos aspectos del literal B del subnumeral 6.1.2 del numeral 6.1 del\napartado VI de la NTS   213-MINSA/DGIESP-2024, conforme al siguiente detalle:\n\"VI. DISPOSICIONES ESPECIFICAS\n6.1. INTERVENCIONES SANITARIAS EN LA ANEMIA POP DEFICIENCIA DE HIERRO\n(...)\n6.1.2. Acciones de recuperacion\n(...)\nB. Tratamiento de la anemia por deficiencia de hierro\nCuando el valor de la Hb es menor a lo normal, se considera anemia\nsin especificacion y se inicia tratamiento hasta la evaluacion de /os\nresultados de /os examenes de apoyo al diagnostico, por el/la medico\ncirujano o especialista (pediatra, ginecologo obstetra, medico de\nfamilia), y de ser anemia por deficiencia de hierro se continua el\ntratamiento o en caso contrario, se refiere a un establecimiento de\nsa/ud de mayor capacidad resolutiva.\n(...)\n4. Tratamiento de el/la adolescente y mujer en edad fertil (Tabla   18)\n(...)\nLa adolescente y mujer en edad fertil reciben el tratamiento con\nsuplemento de hierro 120 mg de hierro elemental y 800ug de acido\nfolico (2 tabletas), en forma diaria, durante 6 meses continuos.\n(...)\n6. Tratamiento con suplemento de hierro intravenoso (IV) en\ngestantes en establecimientos de salud a partir de la categoria 1-4\n(...)\nConsideraciones para iniciar el tratamiento con hierro IV:\n(...)\n^^ •s\n'<• V-BMIDER0\nIs\n^ V'B\nCoonlinador\n£\nt'l •• •.'.\ni \"' ••'..-\nDeficit de hierro en mgPeso corporal [Kg]* x (Hb Objetivo [g/dL]) - Hb actual\n[g/dL]) x 2,4 + 500\n*se recomienda peso pregestacional\n(...)\n10. Referenda a establecimiento de mayor capacidad resolutiva\n(...)\nEl establecimiento de salud que no cuenta con profesionales de la\nsa/ud para indicar el tratamiento de anemia no ferropenica,\nrealiza la referenda at establecimiento de salud de mayor capacidad\nresolutiva de su jurisdiccion.\n(...)\".\n11. Modificarel literal E del subnumeral 6.1.3 del numeral 6.1 del apartado VI de la NTS\n  213-MINSA/DGIESP-2024, conforme al siguiente detalle:\n\"W. DISPOSICIONES ESPECIFICAS\n6.1. INTERVENCIONES SANITARIAS EN LA ANEMIA POP DEFICIENCIA DE HIERRO\n(...)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 11]]",
+      "id": "MINSA-RM-429-2024-P0011",
+      "pagina_pdf": 11,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "6.1.3. Acciones de promocion de la salud\n(...)\n£. Realizar sesiones demostrativas de preparaci6n de alimentos segun el\nDocumento Tecnico: \"Sesiones Demostrativas de Preparacion de Alimentos\npara Poblaci6n Materno Infantil\", aprobado par Resolucion Ministerial   958-\n2012/MINSA o el que haga sus veces, con enfasis en el consume diario de\nalimentos de origen animal ncos en hierro, de alto valor biologico, cereales,\nmenestras, frutas y verduras.\n(...)\".\n12. Modificar el item 2 del subnumeral 6.2.1 del numeral 6.2 del apartado VI de la NTS\n  213-MINSA/DGIESP-2024, conforme al siguiente detalle:\ne. V\n\"VI. DISPOSICIONES ESPECIFICAS\n(...)\n6.2. INTERVENCIONES POR NIVELES DE ATENCION EN ANEMIA\n6.2.1. En el primer nivel de atencion se realizan las siguientes acciones\n(...)\n2. Acciones de recuperacion:\nEvaluacion integral.\nDiagnostico oportuno y tratamiento de anemia por deficiencia de hierro.\nConsulta ambulatoria.\nConsulta nutricional.\nVisita domiciliaria.\nTelemedicina: Teleconsulta, telemonitoreo, teleorientacion.\nReferenda y contrarreferencia para el diagn6stico especializado.\n(•••)\"•\n^'00^\n^?WB5^yAL%R^\n^\nVB e\n^Coortinadoi"
+    }
+  ]
+}
