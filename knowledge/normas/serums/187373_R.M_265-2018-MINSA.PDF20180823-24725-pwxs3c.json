@@ -1,0 +1,77 @@
+{
+  "id": "MINSA-R-M-265-2018-MINSA",
+  "id_fuente_oficial": "187373",
+  "titulo": "R.M 265-2018-MINSA",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Resolución Ministerial",
+  "numero_norma": "RM N.° 265-2018-MINSA",
+  "fecha_aprobacion": null,
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "fuentes_oficiales": [
+    {
+      "tipo": "archivo_local",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "R.M 265-2018-MINSA",
+      "url": null,
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "187373_R.M_265-2018-MINSA.PDF20180823-24725-pwxs3c.pdf",
+  "huella_sha256_pdf_fuente": "131fa2e8aa9ac33a82b814ba23bee00b9a60778ee62291938444d881b4d1ab3d",
+  "paginas_pdf": 3,
+  "paginas_con_texto": 3,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "ocr_local_windows_es_ES",
+  "ocr_aplicado": true,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 3,
+    "paginas_con_texto": 3,
+    "caracteres_texto_extraido": 7001
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-R-M-265-2018-MINSA-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "MINISTERIO DE SALUD No 265. DEL (8 K. PARDO H. REBAZA A SA.JNAS R. ESPINO 0.0. D. MDALGO amo/ucidn OWDwJtep;a/ Zima 26.. Visto, el Expediente NO 18-027735-002, que contiene el Informe N' 061-2018- DIPOS-DGAINIMINSA, de la Dirección General de Aseguramiento e Intercambio Prestacional del Ministerio de Salud; CONSIDERANDO: Que, los numerales I y II del Título Preliminar de la Ley NO 26842, Ley General de Salud, señalan que la salud es condición indispensable del desarrollo humano y medio fundamental para alcanzar el bienestar individual y colectivo, por 10 que la protección de la salud es de interés público, siendo responsabilidad del Estado vigilada y promoverla; Que, el apartado 5.1.2 del subnumeral 5.1 del numeral 5 de la Directiva Administrativa NO 221 -MINSA/2016/OGTl, \"Directiva Administrativa que autoriza el uso de la firma digital en los actos médicos y actos de salud\", aprobada por la Resolución Ministerial NO 978- 2016/MlNSA, establece como definición operativa del \"Acto de Salud\" a toda acción o actividad que realizan los otros r profesionales de la salud para la promoción, prevención, recuperación y rehabilitación de la salud, según corresponda, que se brinda al paciente, familia y comunidad; Que, por Resolución Ministerial NO 214-2018/MlNSA, se aprueba la NTS N0139- MINSA/2018/DGAlN: \"Norma Técnica de Salud para la Gestión de la Historia Clínica\", cuya primera viñeta del subnumeral 4.1 del numeral 4 recoge la definición operativa de \"Acto de Salud\", como toda acción o actividad que realizan los otros profesionales de la salud para la promoción, prevención, recuperación y rehabilitación de la salud, según corresponda, que se brinda al paciente, familia y comunidad; Que, el artículo 98 del Reglamento de Organización y Funciones del Ministerio de Salud, aprobado por Decreto Supremo NO 008-2017-SA dispone que la Dirección General de Aseguramiento e Intercambio Prestacional es el órgano de línea del Ministerio de Salud, dependiente del Ministerio de Prestaciones y Aseguramiento en Salud responsable de proponer normatividad en materia de organización y gestión de servicios en salud. Asimismo, propone la normatividad para implementar el intercambio prestacional con la finalidad de generar mayor cobertura de los servicios y utilizar la oferta pública de forma eficiente. Supervisa la política en materia de aseguramiento en salud a nivel nacional;"
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-R-M-265-2018-MINSA-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "K. PARDO 4 A SAUNAS D.G. C. VIRO O. DALGO Que, en ese sentido, mediante el documento del visto, la Dirección General de Aseguramiento e Intercambio Prestacional ha solicitado la modificación de la definición operativa de \"Acto de Salud\" contenida en la NTS N0139-MlNSA/2018/DGAlN: \"Norma Técnica de Salud para la Gestión de la Historia Clínica\", aprobada por Resolución Ministerial NO 214-2017/MlNSA, así como la incorporación del subnumeral 7.4 al numeral 7 del precitado documento normativo; Que, en mérito a la solicitud de modificación formulada por la Dirección General de Aseguramiento e Intercambio Prestacional, corresponde asimismo efectuar la modificación de la definición operativa de \"Acto de Salud\" recogida en el apartado 5.1.2 del subnumeral 5.1 del numeral 5 la Directiva Administrativa NO 221-MlNSA/2016/OGTl \"Directiva Administrativa que autoriza el uso de firma digital en los actos médicos y actos de salud\", aprobada con la Resolución Ministerial NO 978-2016iMlNSA; Estando a lo propuesto por la Dirección General de Aseguramiento e Intercambio Prestacional; Que, mediante el Informe NO 160-2018-OGAJ/MINSA, la Oficina General de Asesoría Jurídica ha emitido opinión legal; Con el visado del Director General de la Dirección General de Aseguramiento e Intercambio Prestacional, de la Directora General de la Oficina General de Tecnologías de la Información, del Director General de la Oficina General de Asesoría Jurídica y del Viceministro de Prestaciones y Aseguramiento en Salud; y, De conformidad con 10 establecido en el Decreto Legislativo NO 1 161, que aprueba la Ley de Organización y Funciones del Ministerio de Salud y en el Reglamento de Organización y Funciones del Ministerio de Salud, aprobado por Decreto Supremo NO 008-2017-SA, modificado por Decretos Supremo NO 011-2017-SA y 032-2017-SA; SE RESUELVE: Artículo 1.- Modificar la definición operativa \"Acto de Salud\" contenida en la primera viñeta del subnumeral 4.1 DEFINICIONES OPERATIVAS de la NTS NO 139- MINSA/2018/DGAlN: \"Norma Técnica de Salud para la Gestión de la Historia Clínica\", aprobada con Resolución Ministerial NO 214-2018/MlNSA y en el apartado 5.1.2 del subnumeral 5.1 del numeral 5 de la Directiva Administrativa NO 221-MlNSA/2016/OGTl \"Directiva Administrativa que autoriza el uso de firma digital en los actos médicos y actos de salud\", aprobada con la Resolución Ministerial NO 978-2016/MlNSA, de acuerdo al siguiente detalle: \"Acto de Salud.- Es toda acción o actividad que realizan los profesionales de la salud, excepto el Médico Cirujano, para las intervenciones sanitarias de promoción, prevención, recuperación y rehabilitación de la salud, según corresponda; que se brindan al paciente, familia y comunidad. La recuperación incluye la evaluación clínica, diagnóstico, pronóstico, terapéutica y seguimiento, según las competencias de cada profesional de la salud'. Artículo 2.- Incorporar ei subnumeral 7.4 al numeral 7 DISPOSICIONES FINALES de la NTS NO 139-MlNSA/2018/DGAlN: \"Norma Técnica de Salud para la Gestión de la Historia Clinica\" aprobada con Resolución Ministerial NO 214-2018/MlNSA, de acuerdo al siguiente detalle: \"7. DISPOSICIONES FINALES"
+    },
+    {
+      "marcador_cita": "[[PAGINA 3]]",
+      "id": "MINSA-R-M-265-2018-MINSA-P0003",
+      "pagina_pdf": 3,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "MINISTERIO DE SALUD K. PARDO M. RESAA R. ESPINO DEL neóo/ucién O/í/OwJZep;ab/ z;na, .?.e.. 7.4 La presente Norma Técnica de Salud no establece, ni regula competencias de los profesionales de la salud, personal técnico y auxiliar asistencial de la salud; ni modifica el marco normativo que los rige.\" Artículo 3.- Encargar a la Dirección General de Aseguramiento e Intercambio Prestacional y a la Oficina General de Tecnologías de la Información, o las que hagan sus veces, en el ámbito de sus funciones, el diseño, desarrollo, mantenimiento y actualización del aplicativo informático de control gerencial requerido para facilitar el monitoreo y evaluación de la implementación de la NTS NO 139-MlNSN2018/DGAlN: \"Norma Técnica de Salud para la Gestión de la Historia Clínica\", aprobada mediante Resolución Ministerial NO 2142018/MlNSA. Artículo 4.- Encargar a la Dirección General de 'Aseguramiento e Intercambio Prestacional la difusión, supervisión, monitoreo y evaluación de lo dispuesto en la NTS NO 139-MlNSN2018/DGAlN: \"Norma Técnica de Salud para la Gestión de la Historia Clínica\", aprobada mediante Resolución Ministerial NO 214-2018/MlNSA. Artículo 5.- Encargar a la Oficina de Transparencia y Anticorrupción de la Secretaría / General la publicación de la presente Resolución Ministerial en el portal institucional del Ministerio de Salud. D. tDALGO Regístrese, comuníques publíquese. ABEL HERNÁN -——»nistr GE SALINAS RIVAS de Salud"
+    }
+  ]
+}

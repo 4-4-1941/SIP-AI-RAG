@@ -1,0 +1,687 @@
+{
+  "id": "MINSA-3170",
+  "id_fuente_oficial": "3170",
+  "titulo": "MÓDULO EDUCATIVO PARA LA PROMOCIÓN DE PRÁCTICAS SALUDABLES FRENTE AL DENGUE Y LA FIEBRE DE CHIKUNGUNY A Dirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Módulo educativo",
+  "numero_norma": null,
+  "fecha_aprobacion": null,
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "fuentes_oficiales": [
+    {
+      "tipo": "archivo_local",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "MÓDULO EDUCATIVO PARA LA PROMOCIÓN DE PRÁCTICAS SALUDABLES FRENTE AL DENGUE Y LA FIEBRE DE CHIKUNGUNY A Dirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.",
+      "url": null,
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "3170.pdf",
+  "huella_sha256_pdf_fuente": "32b4981613da9a188b41aa93f2692205291baee272b847857b80ec7c8616541f",
+  "paginas_pdf": 64,
+  "paginas_con_texto": 52,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "texto_nativo_pdf",
+  "ocr_aplicado": false,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 64,
+    "paginas_con_texto": 52,
+    "caracteres_texto_extraido": 70788
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-3170-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "MÓDULO EDUCATIVO PARA LA\nPROMOCIÓN DE PRÁCTICAS SALUDABLES\nFRENTE AL DENGUE  Y LA FIEBRE DE CHIKUNGUNY A\nDirigido al personal de salud para el trabajo con vigías de salud\ndel comité ambiental en instituciones educativas."
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-3170-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 3]]",
+      "id": "MINSA-3170-P0003",
+      "pagina_pdf": 3,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "MÓDULO EDUCATIVO PARA LA\nPROMOCIÓN DE PRÁCTICAS SALUDABLES\nFRENTE AL DENGUE Y LA FIEBRE CHIKUNGUNY A\nDirigido al personal de salud para el trabajo con vigías de salud \ny miembros del comité ambiental en instituciones educativas."
+    },
+    {
+      "marcador_cita": "[[PAGINA 4]]",
+      "id": "MINSA-3170-P0004",
+      "pagina_pdf": 4,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Elaboración\nDalia Ponce T ejada   / Ministerio de Salud\nNency Virrueta Jiménez   / Ministerio de Salud\nRevisión\nLuis Gutiérrez Campos   / Ministerio de Salud\nMáximo Manuel Espinoza Silva   / Ministerio de Salud\nOrlando Martín Clendenes Alvarado   / Ministerio de Salud\nSonia Loarte Céspedes   / Ministerio de Salud\nCarmela Fernández Lozano   / Ministerio de Salud\nOficina General de Comunicaciones / Ministerio de Salud\nWilmer Davis Carrillo   / DIRESA T umbes\nSoledad Asunción Gamarra Aranda / Ministerio de Educación\nAurora Rubí Zegarra Huapaya   / Ministerio de Educación\nYvan Pardo Vinces   / Ministerio de Educación\nLuis Bolaños De la Cruz   / Ministerio de Educación\nNery Mirtha Rosales Peña / Ministerio de Educación\nFlor Maria Villa Quispe / Ministerio de Educación\nJosé Vasquez Heredia   / Unicef\nElsa Ursula Picón   / Unicef\nDiseño y diagramación\nEver Barnuevo Pellón\nT ommy Shimura\nHecho el Depósito Legal en la Biblioteca Nacional del Perú \nN°  2014-XXX\nPrimera edición 2014\nTiraje: 1000 unidades\nImpresión \nXXX\nVersión digital disponible:\nwww.minsa.gob.pe/bvminsa.asp\nwww.minsa.gob.pe/dgps\n© MINSA, 2014\nMinisterio de Salud\nAv. Salaverry 801 Jesús María\nwww.minsa.gob.pe\nEste documento ha sido elaborado por la Dirección General de \nPromoción de la Salud del MINSA con el apoyo técnico y financiero \nde UNICEF y la Cooperación Belga en el diseño e impresión.\nValidación\nLewis Yacila Zapata   /   Hospital Regional “ José Mendoza Olavarría ”. T umbes\nHenry Farias Grillo.    /   Hospital “ Julio Olivera Paredes”. T umbes\nCarlos Lozano Pérez.    /   UGEL Zarumilla - T umbes.\nLuz Jiménez Vilela.    /   UGEL T umbes\nMaximiliano Cienfuegos Villegas.   /   UGEL Contralmirante Villar - T umbes\nSantos Peña Cruz   /   I.E. 099 Pocitas- T umbes\nAna del Carmen  Mogollón López   /   I.E. 219 “ Jesús  El Salvador” Zarumilla- T umbes\nMirna Ortiz Granda   /   I.E. “Perú-Canadá” – T umbes\nElizabeth Dios Rojas   /   I.E.I “ Jesús es mi Pastor” – T umbes\nLucy Dios García   /   I.E. 025 “República del Ecuador”. Corrales - T umbes\nCarmen Pereyra T alledo   /   I.E. 108 - T umbes\nPetronila Luna Barrientos   /   I.E. 047 “Daniel Alcides Carrión ”. Vaquería - T umbes\nLuis Garay Rentería.   /   I.E. N° 100 “Manuel Catalino Farías Morán ” Matapalo - T umbes\nWilfredo Vásquez Urbina.    /   I.E. N° 048 “Santa Rosa de Lima ”. La Peña - T umbes\nAngelita Loayza Campana.    /   I.E. 039 “Olimpia Boyer Coronado ” - T umbes\nMaría Muchavy Ruiz.    /   I.E. “Señor de los Milagros” - Puerto Maldonado\nDemetrio Delgado Ruiz    /   I.E. “Santa Cruz” - Puerto Maldonado\nSara Arellano Puente   /   I.E. “Dos de Mayo ”\nHober Ríos López.   /   I.E. N°52011 “El Prado ”\nAlicia Quispe Medrano   /   I.E. “Faustino Maldonado ” - Puerto Maldonado\nAlumnos de las instituciones educativas: \nI.E. “Señor de los Milagros” - Puerto Maldonado\nI.E. “Santa Cruz” - Puerto Maldonado\nI.E. “Miguel Grau Seminario” - Puerto Maldonado\nI.E. “Dos de Mayo” - Puerto Maldonado\nI.E. “Faustino Maldonado” - Puerto Maldonado\nI.E. “San Juan Bautista ” - Puerto Maldonado"
+    },
+    {
+      "marcador_cita": "[[PAGINA 5]]",
+      "id": "MINSA-3170-P0005",
+      "pagina_pdf": 5,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Jaime Saavedra Chanduví\nMinistro de Educación\nFlavio Felipe Figallo Rivadeneyra\nViceministro de Gestión Pedagógica\nAurora Rubí Zegarra Huapaya\nDirectora de la Dirección de Educación Comunitaria y Ambiental\nIván Pardo Vinces\nCoordinador de Educación Ambiental\nDirección de Educación Comunitaria y Ambiental\nAnibal Velásquez Valdivia\nMinistra de Salud\nPercy Luis Minaya León\nViceministro de Salud Pública\nMaria Luz Pérez Goycochea\nDirector General de la Promoción de la Salud\nLuis Jesús Gutierrez Campos\nDirector Ejecutivo de la Dirección de Educación para la Salud\nNency Virrueta Jimenez\nJefa de Equipo de la Dirección de Educación para la Salud"
+    },
+    {
+      "marcador_cita": "[[PAGINA 6]]",
+      "id": "MINSA-3170-P0006",
+      "pagina_pdf": 6,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 7]]",
+      "id": "MINSA-3170-P0007",
+      "pagina_pdf": 7,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "09 Presentación\n11 Introducción\n13 I Objetivos\n13 II Aspectos generales\n14 III Desarrollo de capacidades\n15 IV Metodología para el desarrollo de sesiones\n17 SESIÓN 1: El dengue, la fiebre chikungunya y el zancudo \nAedes aegypti\n18 Sesión de aprendizaje N° 1\n22 Hoja de información 1\n23 Hoja de información 2\n27 SESIÓN 2: Prácticas saludables frente al dengue y al fiebre chikungunya\n28 Sesión de aprendizaje N° 2\n 32 Hoja de información 3\n37 SESIÓN 3: ¿Cómo hacer frente al dengue  y la fiebre chikungunya en la institución educativa?\n38 Sesión de aprendizaje N° 3\n 41 Hoja de información 4\n43 Materiales para el desarrollo de las sesiones.\n54 Hoja de Información  sobre la Fiebre Chikungunya\n58 Bibliografía\n61 Anexos\nÍndice"
+    },
+    {
+      "marcador_cita": "[[PAGINA 8]]",
+      "id": "MINSA-3170-P0008",
+      "pagina_pdf": 8,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 9]]",
+      "id": "MINSA-3170-P0009",
+      "pagina_pdf": 9,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Presentación\nEl Ministerio de Salud y el Ministerio de Educación desarrollan un trabajo articulado, considerando \nque las instituciones educativas son espacios estratégicos para contribuir a la  educación para la \nsalud  y la prevención de las enfermedades por tanto hacen posible fortalecer los conocimientos y \nactitudes de los miembros de la comunidad educativa para participar de manera corresponsable \nen el cuidado de su salud y el entorno, a fin de lograr un adecuado estado de salud individual y \ncolectivo, y a su vez contribuir a que los estudiantes alcancen los logros educativos esperados\nLa Promoción de la Salud como proceso que permite a la población incrementar el control sobre \nsu salud y la de los demás, implica la participación de las personas, organizaciones, instituciones \ny comunidad en la adquisición de comportamientos y generación de entornos que otorga a la \npoblación una vida saludable e incida sobre los determinantes de la salud. Los principales \ndeterminantes sociales del dengue y la fiebre chikungunya, son la falta de servicios básicos, los \nserios problemas del ordenamiento ambiental de las aguas residuales y la recolección apropiada de \nresiduos, así como la los estilos de vida respecto al uso y descarte de materiales no biodegradables. \nLa educación para la salud constituye una estrategia imprescindible en las tareas de prevención y \npromoción de salud para modificar conocimientos, actitudes y estilos de vida, de acuerdo con los \nprincipales problemas identificados y en correspondencia con las necesidades educativas sentidas \nde grupos vulnerables. El presente módulo plantea como intervención educativa, la estrategia de \neducación de pares;  la misma que contribuirá de manera significativa a lograr la incorporación de \nnuevas formas de comportamiento en los y las estudiantes. \nPara lograr esta tarea, la Dirección General de Promoción de la Salud mediante la Dirección de \nEducación para la Salud ha elaborado el presente Módulo Educativo “Módulo Educativo para \nla Promoción de Prácticas Saludables Frente al Dengue y la Fiebre de Chikungunya” dirigido \nal personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones \neducativas,  en articulación con el Ministerio de Educación mediante la Dirección de Educación \nAmbiental y Comunitaria, el cual tiene como objetivo proporcionar contenidos conceptuales y \nestrategias metodológicas para el fortalecimiento de capacidades de estudiantes vigías de salud \nen la promoción de prácticas saludables y acciones de prevención frente al dengue"
+    },
+    {
+      "marcador_cita": "[[PAGINA 10]]",
+      "id": "MINSA-3170-P0010",
+      "pagina_pdf": 10,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 11]]",
+      "id": "MINSA-3170-P0011",
+      "pagina_pdf": 11,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Introducción\nEl Ministerio de Salud y el Ministerio de Educación como entes del Estado proponen y conducen \nlos lineamientos de políticas sanitarias y educativas respectivamente en concertación con los \nsectores públicos y los actores sociales; como pilares fundamentales del desarrollo social, unen \nsus esfuerzos para responder a las necesidades de nuestro país, en cumplimiento del Convenio \nMarco de Cooperación Técnica, el cual tiene como propósito fortalecer el desarrollo integral de los \ny las estudiantes y la promoción de una cultura de salud orientada al mejoramiento de la calidad \nde vida en las instituciones educativas que son los espacios donde niños, niñas y adolescentes \ntranscurren una importante parte del día.\nLa Dirección General de Promoción de la Salud como órgano de línea del Ministerio de Salud,  tiene \ncomo objetivo funcional lograr que las personas adquieran capacidades y desarrollen actitudes, \npara su desarrollo físico, mental y social, siendo quien conduce el Programa de Promoción de \nla Salud en Instituciones Educativas, aprobada por RM N° 277-2005/MINSA, que tiene por fin \ncontribuir al desarrollo humano integral de los y las estudiantes y de la comunidad educativa a \ntravés de acciones articuladas que a su vez incidan en los determinantes sociales de la salud.\nEl Ministerio de Educación, mediante la Dirección de Educación Comunitaria y Ambiental  \nimplementa la Resolución Ministerial Nº 0493-2012-ED, que aprueba las “Normas para orientar \nla organización y desarrollo de actividades de educación preventiva, mitigación y respuesta ante \nel dengue en las instituciones educativas públicas y privadas del país” en coordinación con las \ndirecciones regionales de educación, unidades de gestión educativa local, instituciones educativas \ny programas educativos.\nEl dengue es uno de los principales problemas sanitarios del país,  cuyo vector transmisor el Aedes \naegypti , el mismo que se encuentra disperso en la mayoría de las regiones de nuestro país y que  \na su vez es transmisor de la fiebre de Chikungunya. La persistencia del  vector  se asocia con la \nexistencia de determinantes sociales y ambientales, tales como los estilos de vida, el crecimiento \npoblacional, las migraciones, la urbanización no controlada ni planificada y los grandes cinturones \nde pobreza en las ciudades, siendo las  instituciones educativas los escenarios estratégicos para  \ndesarrollar intervenciones que contribuyan a disminuir esta grave problemática.\nEn el marco de la articulación intersectorial  entre el Ministerio de Salud y el Ministerio de \nEducación, se ha elaborado el presente “Módulo Educativo para la Promoción de Prácticas \nSaludables Frente al Dengue y la Fiebre de Chikungunya”, dirigido al personal de salud para el \ntrabajo con vigías de salud del comité ambiental en instituciones educativas, cuyo objetivo es \nproporcionar contenidos conceptuales y estrategias metodológicas al personal de salud para \nel fortalecimiento de capacidades de estudiantes vigías de salud en la promoción de prácticas \nsaludables y acciones de prevención frente al dengue, desarrollado en tres sesiones educativas."
+    },
+    {
+      "marcador_cita": "[[PAGINA 12]]",
+      "id": "MINSA-3170-P0012",
+      "pagina_pdf": 12,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "La primera sesión de aprendizaje nos presenta información referida a la enfermedad del dengue \ny su transmisión, con la finalidad de reconocer las características, que permita tomar decisiones \nsobre el cuidado de su salud. \nLa segunda sesión de aprendizaje se centra en el desarrollo de las prácticas saludables y acciones \nde prevención frente al dengue, en ella reconocerán las prácticas relacionadas al tratamiento \nde criaderos, a evitar el contacto con el zancudo vector y a las acciones de prevención a realizar \ncuando un brote de dengue se presenta en la localidad.\nFinalmente la tercera sesión de aprendizaje aborda el rol del vigía de salud en la institución \neducativa con la finalidad de lograr que desarrollen estrategias para la promoción de prácticas \nsaludables y acciones de prevención frente al dengue.\nEste proceso de fortalecimiento de capacidades hará posible que los y las estudiantes promuevan \nprácticas saludables en su institución educativa y familia y estar en condiciones de asumir un rol \nproactivo en el cuidado de su salud y su entorno."
+    },
+    {
+      "marcador_cita": "[[PAGINA 13]]",
+      "id": "MINSA-3170-P0013",
+      "pagina_pdf": 13,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "13\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\nMódulo Educativo para la Promoción de Prácticas Saludables frente \nal Dengue y la fiebre de Chikungunya para el trabajo con vigías de \nsalud y miembros del comité ambiental en instituciones educativas\nI. Objetivo\nProporcionar contenidos conceptuales y estrategias metodológicas al personal de salud para \nel fortalecimiento de capacidades  de estudiantes vigías de salud en la promoción de prácticas \nsaludables y acciones de prevención frente al dengue. \nII. Aspectos Generales\nA.- Perfil del Vigía\nEl estudiante  seleccionado por el tutor o profesor de aula, como vigía de salud debe reunir las \nsiguientes características:\n• Buen nivel de motivación \n• Referente en su institución educativa\n• Facilidad de comunicación\n• Vocación de servicio  a los demás\n• Buenas relaciones interpersonales\n• Proactivo\n• Alumno con valores\n• Líder positivo.\nB.- Actividades sugeridas del vigía en las instituciones educativas\nDespués del proceso de fortalecimiento de capacidades, se espera que los vigías de salud \ndesarrollen las siguientes actividades para la prevención del dengue y la fiebre de chikungunya.\n• En coordinación con el tutor de aula, informar a los miembros de la comunidad educativa \nsobre el problema sanitario del dengue y la fiebre de chikungunya.\n• Responder las interrogantes de sus compañeros y miembros de la institución educativa.\n• Promover prácticas saludables y acciones de prevención del dengue y la fiebre de \nchikungunya.\n• Detectar situaciones de riesgo en la institución educativa y promover acciones para su \nmejora.\n• Apoyar acciones a favor de la prevención del dengue y la fiebre de chikungunya.\n• Sólo en caso de brote: Comunicar posibles casos febriles e inasistencias sucesivas de los \ny las estudiantes a sus profesores tutores."
+    },
+    {
+      "marcador_cita": "[[PAGINA 14]]",
+      "id": "MINSA-3170-P0014",
+      "pagina_pdf": 14,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n14\nIII. Desarrollo de capacidades\nEl presente módulo busca desarrollar la siguiente capacidad en los y las estudiantes vigías de salud \nen prevención de dengue y la fiebre de chikungunya. \nPromueve prácticas saludables para la prevención del dengue y la fiebre chikungunya en la \ninstitución educativa, su familia y la comunidad. \nNombre de la \nSesión\nCapacidad de \naprendizaje Contenidos Técnica Tiempo\nEl dengue, \nla fiebre \nChikungunya \ny el zancudo \nAedes aegypti.\nReconoce las \ncaracterísticas \ndel dengue y  \nel vector que \nlo transmite.  \nA:- Dengue.\n• Información general.\n• Transmisión del virus \ndel dengue.\n• La enfermedad.\nB.- El zancudo Aedes  \n      aegypti.\n• Características \ngenerales.\n•  Ciclo de vida.\nDiálogo.\nTrabajo \ngrupal.\nExposición.\n90 \nminutos\nPrácticas \nsaludables \nfrente al \ndengue y \nla fiebre \nChikungunya \ny medidas de \nprevención.\nReconoce \nlas prácticas \nsaludables \nfrente al \ndengue y \nacciones de \nprevención.\nPrácticas saludables \nfrente al dengue.\nDiálogo.\nTrabajo \ngrupal.\nLluvia de \nideas.\n90 \nminutos\n¿Cómo \nhacer frente \nal dengue \ny la fiebre \nChikungunya \nen la \ninstitución \neducativa?\n \nDiseña \npropuestas de \nintervención \nen su \ninstitución \neducativa \npara la \nprevención \ndel dengue.\nEstrategias para \npromover prácticas \nsaludables y prevenir el \ndengue.\nTrabajo \ngrupal.\nExposición.\n90 \nminutos"
+    },
+    {
+      "marcador_cita": "[[PAGINA 15]]",
+      "id": "MINSA-3170-P0015",
+      "pagina_pdf": 15,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "15\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\nIV. Metodología para el desarrollo de sesiones \nCada sesión educativa tiene una duración de 90 minutos y se desarrolla considerando los \nmomentos que se ajustan a cada sesión.\na.- Motivación\nMomento en el cual se despierta el interés de los participantes por aprender o encontrar \nrespuesta a sus dudas.\nb.- Recojo de saberes previos\nMediante el uso de diversas estrategias, se recoge todos los saberes que tiene el participante \nrespecto al tema a tratar, incluye la información y sobre todo prácticas, costumbres o creencias.\nc.- Conflicto cognitivo \nMomento que busca enfrentar a los estudiantes con algo que no pueden comprender o explicar \ncon sus propios saberes.\nd.- Construcción del aprendizaje\nMomento en el cual se presenta el nuevo conocimiento,  mediante diversas técnicas \nparticipativas, se debe propiciar en el participante la construcción de su propio conocimiento.\ne.- Confrontación de conocimientos\nEs el momento en el que se establece, en base a los conocimientos previos y al nuevo \nconocimiento construido, la necesidad de realizar cambios en los comportamientos o afianzar \nlo positivo que se está realizando. Es necesario que este momento  se desarrolle con mucha \nasertividad, y evitar así herir susceptibilidades. \nf.- Aplicación de lo aprendido \nEs la ejecución de la capacidad en situaciones nuevas para el estudiante, donde pone en \npráctica los conocimientos construidos.\ng.- Evaluación \nSe obtiene información, de manera lúdica, sobre el nivel de logro de los aprendizajes deseados, \npermitirá tener una valoración cualitativa del mismo.\nh.- Extensión del aprendizaje\nMomento para aplicar los contenidos adquiridos en  las actividades del quehacer diario.\nV. Cantidad de participantes\n20 estudiantes de Sexto grado de Primaria a Quinto Grado de Educación Secundaria.\nVI. Desarrollo de sesiones\nLas sesiones se describen en las páginas siguientes."
+    },
+    {
+      "marcador_cita": "[[PAGINA 16]]",
+      "id": "MINSA-3170-P0016",
+      "pagina_pdf": 16,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 17]]",
+      "id": "MINSA-3170-P0017",
+      "pagina_pdf": 17,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Sesión de aprendizaje 1\nEl Dengue, la fiebre Chikungunya \ny el zancudo Aedes aegypti"
+    },
+    {
+      "marcador_cita": "[[PAGINA 18]]",
+      "id": "MINSA-3170-P0018",
+      "pagina_pdf": 18,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n18\nSesión de aprendizaje 1\nEl dengue, la fiebre \nchikungunya y el zancudo \nAedes aegypti\n1.\nMotivación\nDinámica: \nFrases incompletas\n• Previamente el facilitador dispondrá de 10 \ntarjetas con el refrán “Sin criaderos de zancudo \nno hay dengue ni fiebre chikungunya ”. Cada \ntarjeta se rasga en dos partes; deben rasgarse \nde manera tal, que cada parte solo pueda tener \nuna pareja. Se tendrá un total de 20 partes, \nuna para cada participante.\n• El facilitador otorga a cada participante una de \nlas partes.\n• Cada participante busca al compañero o \ncompañera que tiene la otra mitad, la cual \ntiene que coincidir exactamente.\n• Al encontrarse la pareja, conversa brevemente \nsobre:\n ͳ Nombre\n ͳ Grado de estudios\n ͳ ¿Qué saben sobre el dengue?\nAl finalizar el tiempo, todos los participantes y el \nfacilitador forman un grupo general y cada pareja \ndebe presentarse mutuamente.  \nFinalizada la presentación, el facilitador saluda  a \nlos y las estudiantes participantes y les menciona \nel motivo de la reunión:\n“En nuestra localidad se presentan casos de \ndengue y la fiebre chikungunya y por lo tanto \nexiste la posibilidad que nosotros, nuestros \ncompañeros, profesores, nuestros familiares y \nvecinos  adquiramos el dengue a través de la \npicadura del zancudo infectado.”\nCapacidad de aprendizaje\nReconoce las características del dengue y  el vector \nque lo transmite.\nTiempo\n90 minutos\nMateriales\n• 8 papelotes\n• 8 plumones gruesos de colores\n• Plumones delgados\n• Papeles de colores\n• Tijeras\n• 1 pelota\n• Fotocopias de tarjetas del refrán Sin criaderos \nde zancudo no hay dengue.\n• Fotocopias de la información de los kits A, B, \nC y D\n• 1 laptop (opcional)\n• 1 proyector (opcional)\n15’\n90’"
+    },
+    {
+      "marcador_cita": "[[PAGINA 19]]",
+      "id": "MINSA-3170-P0019",
+      "pagina_pdf": 19,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "19\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\n2. \nRecuperación \nde saberes \nprevios\n3. \nConflicto \ncognitivo\nEl facilitador realiza preguntas reflexivas tales \ncomo: \n• ¿Conocemos cómo nos podemos infectar y \ncómo evitar el dengue? \n• ¿Cómo podemos contribuir a la solución \ndel problema?\n• ¿Qué deben saber los vigías escolares de \nsalud sobre el dengue?\nEl facilitador pregunta a los participantes: \n• ¿Qué es el dengue?\n• ¿Cómo se transmite?\n• ¿Cuáles son los síntomas?\n• ¿Cómo es el ciclo de  vida del zancudo \nAedes \naegypti?\nApunta las ideas más resaltantes en la pizarra, \ncorrectas e incorrectas, sin emitir juicios de \nvalor .\nEs importante preguntar a los y las estudiantes \ny escuchar sus respuestas para detectar errores \nde concepto o creencias que pueden repercutir \nnegativamente en su salud.\n10’\n05’"
+    },
+    {
+      "marcador_cita": "[[PAGINA 20]]",
+      "id": "MINSA-3170-P0020",
+      "pagina_pdf": 20,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n20\n4.\nConstrucción \ndel aprendizaje y \nconfrontacion de \nconocimientos\n45’\nEl facilitador presenta la información general \nsobre el dengue consignada en la Hoja de \ninformación N° 1\nLuego de ello presenta la siguiente actividad.\nActividad: \nOrganizamos la información\n• El facilitador cuenta con un marco teórico \nreferencial del tema en la Hoja de información \nN° 2: El Dengue y el zancudo \nAedes aegypti.\n• En la sección Material para el desarrollo de \nlas sesiones se encuentra el Material para \nel trabajo de la dinámica “Organizamos la \ninformación ”, el cual cuenta con kits de \ninformación:\n ͳ Kit A: La enfermedad del dengue\n ͳ Kit B: T ransmisión del dengue\n ͳ Kit C: Características del zancudo \nAedes \naegypti\n ͳ Kit D:  Ciclo de vida del zancudo Aedes \naegypti\nCada kit contiene  1 set de mensajes \nclaves  e imágenes.\nEl facilitador forma cuatro grupos de \nestudiantes, a cada grupo se le asigna \nun kit diferente, al que se adicionan dos \npapelotes en blanco.\n• Cada grupo recibe el kit que le corresponde \ny prepara, en el papelote, un material gráfico \npara poder presentar la información que se le \nha brindado en las tarjetas; pueden optar por \ncualquiera de las dos alternativas siguientes:\n ͳ Realizar un dibujo que represente los \nmensajes claves\n ͳ Realizar un organizador gráfico con los \nmensajes claves: mapa conceptual o \nesquema.\n• El facilitador indica a los participantes que \ndeben ser creativos, pueden pintar , realizar \ntrazos, el objetivo es organizar la información y \npresentarla de forma agradable a la vista.\n• Concluido el material, los participantes  \npresentan y exponen su trabajo. Cuando cada \ngrupo termina su presentación, el facilitador \ncomplementa la información presentada en \nbase a la información consignada en la Hoja \nde información N° 2, a la vez que precisa \nconceptos respecto a las respuestas que los \ny las estudiantes dieron en el Momento de \nRecuperación de Saberes Previos.\n• Concluidas las presentaciones, el facilitador \nfelicita a los grupos por sus presentaciones."
+    },
+    {
+      "marcador_cita": "[[PAGINA 21]]",
+      "id": "MINSA-3170-P0021",
+      "pagina_pdf": 21,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "21\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\n5.\nAplicación de lo \naprendido\n6.\nEvaluación\nDinámica: \nLa pelota preguntona\nLos participantes se reúnen formando un círculo y el \nfacilitador:\n• Indica que  existen dos palabras claves: Dengue y \nZancudo.\n• Explica que la dinámica consiste en lanzar \nla pelota entre los participantes, el primer \nparticipante lanza la pelota a un compañero y dice \nuna palabra clave, por ejemplo “ dengue”, el que \nrecibe la pelota debe contestar con un mensaje \naprendido sobre ese tema, por ejemplo “ el dengue \nes una enfermedad viral”; luego de lo cual lanza \nnuevamente la pelota, pero esta vez indicando \n“zancudo ” y en esta oportunidad el que recibe \nresponde alguna idea clave sobre el zancudo, por \nejemplo “transmite el dengue”. El orden de las \npalabras claves debe ser aleatorio.\n• Aclara que todos deben participar .\n• Agradece su participación y los invita a la próxima \nsesión.\nEl facilitador  hace la siguiente pregunta al grupo: \nConsiderando lo que hemos aprendido,  ¿Qué podemos \nhacer para prevenir el dengue?\nActividad: \nY o sé, yo propongo\n• El facilitador utiliza el material para el desarrollo de la \nactividad “Yo sé, yo propongo ” ubicado en la sección \nMaterial Educativo para el desarrollo de sesiones.\n• Invita a un o una estudiante a leer el primer enunciado\n“Yo sé que el dengue se transmite por la picadura del \nzancudo Aedes aegypti. Entonces yo propongo ...”\n• Los estudiantes proponen alternativas y se escoge \nuna o varias para completar el enunciado.\n• Se procede de la misma manera con las oraciones \nfaltantes.\n• Concluida la dinámica, se sintetizan las respuestas \nde forma que queden resumidas en tres ítems:\n ͳ Respecto a los  criaderos de zancudos\n ͳ Respecto a las picaduras del zancudo\n ͳ Respecto al  control de casos febriles\n• El facilitador felicita a los participantes por sus \nlogros.\n05’\n10’\n¡Es un \nproblema \ncreciente de \nsalud pública \nen nuestro \npaís!\n¡Dengue!"
+    },
+    {
+      "marcador_cita": "[[PAGINA 22]]",
+      "id": "MINSA-3170-P0022",
+      "pagina_pdf": 22,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n22\nHoja de Información N° 1\nInformación general sobre el dengue y la fiebre chikungunya\n1. Información general \n• El dengue es una grave enfermedad viral que se caracteriza por producir fiebre, dolores en \nlas articulaciones y músculos, inflamación de los ganglios, erupción en la piel. En ocasiones \nevoluciona hasta convertirse en un cuadro potencialmente mortal llamado dengue grave. Es \nun problema creciente de salud pública en el Perú y el mundo.\n• No hay tratamiento específico del dengue ni del dengue grave, pero la detección oportuna y \nel acceso a la asistencia médica adecuada disminuye las tasas de mortalidad. \n• El aumento de la población del zancudo Aedes aegypti  es consecuencia de la urbanización \nrápida y desorganizada, del insuficiente e inadecuado suministro de agua potable y de \nrecolección de residuos, de la gran producción de recipientes descartables que sirven como \ncriaderos del zancudo. \n• El brote de dengue es una situación que se presenta cuando el número de casos de dengue y \nla fiebre chikungunya en un tiempo, en un área y un  grupo poblacional determinado es mayor \nde lo que se esperaba. Es una situación peligrosa para la comunidad por que existe un alto \nriesgo de infección."
+    },
+    {
+      "marcador_cita": "[[PAGINA 23]]",
+      "id": "MINSA-3170-P0023",
+      "pagina_pdf": 23,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "23\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\nHoja de Información N° 2\nEl Dengue, y la fiebre chikungunya y el zancudo Aedes aegypti\n1. El Dengue: la enfermedad \nDespués de un periodo de incubación de 4 a 7 días (se han observado casos de un periodo \nde incubación de 3 hasta 14 días), aparecen las primeras manifestaciones clínicas, una alta \nproporción de las personas infectadas cursarán de manera asintomática\n1.\nSíntomas iniciales de una persona enferma de dengue: \n• Fiebre\n• Dolor de cabeza\n• Dolor muscular\n• Dolor de huesos\n• Dolor de ojos y detrás de los ojos.\nSi una persona en la familia y/o algún vecino presenta los síntomas del dengue, deben acudir \ninmediatamente al establecimiento de salud más cercano para recibir atención médica.\n• No se debe automedicar\n• Es importante hidratar al enfermo\n• Recordar que no existe vacuna  contra el dengue, ni medicamentos específicos para su \ntratamiento1\t Ministerio\tde\tSalud-Argentina.\tEnfermedades\tinfecciosas:\tdengue.\tDiagnóstico\tde\tDengue.\t2013\nFiebre\nDolor muscular Dolor de ojos y detrás de los ojos\nDolor de cabeza Dolor de huesos\nNo hay tratamiento específico del dengue ni del dengue grave y \nla fiebre Chikungunya, pero la detección oportuna y el acceso a la \nasistencia médica adecuada disminuyen las tasas de mortalidad."
+    },
+    {
+      "marcador_cita": "[[PAGINA 24]]",
+      "id": "MINSA-3170-P0024",
+      "pagina_pdf": 24,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n24\n2.  T ransmisión\nEl dengue es transmitido sólo por la picadura de algunas especies de  zancudos Aedes, \nespecialmente el aegypti.\nLas hembras cuando están por poner huevos requieren de sangre. Durante la picadura, antes \nde succionar sangre, las hembras inyectan saliva que contienen sustancias anticoagulantes y \nen ese momento se puede transmitir la enfermedad\n2.\nEl virus infecta al zancudo, tras un periodo de 8 a 12 días (dependiendo de la temperatura \nambiental), el zancudo puede infectar por el resto de su vida\n3. Las personas con dengue solo \npueden infectar al zancudo durante la etapa febril4.\n3. El zancudo Aedes aegypti y el dengue y la fiebre chikungunya.\nA. Características generales\n• Es de color gris y pequeño, presenta bandas blancas en su abdomen y patas. \n• Macho y hembra se alimentan de jugos vegetales. Pero la hembra, además, necesita \nsangre humana, la cual le proporciona las proteínas imprescindibles para poder poner \nhuevos.\n• La hembra no suele alejarse más de 100 metros del lugar donde emergió como adulto, \nsiempre y cuando disponga de alimento y sitios para poner huevos. \n• En condiciones desfavorables podría volar hasta 3 kilómetros para buscar un sitio \ndónde depositar sus huevos. \n• Los lugares de reposo de los zancudos adultos están en el interior de las casas, \ncomo dormitorios, baños y cocinas, y sólo excepcionalmente, en paredes exteriores \ny jardines. El zancudo tiene hábitos diurnos, pica durante las primeras horas de la \nmañana y del atardecer, y durante la noche se oculta tras los muebles.\nB. Ciclo de vida\nLa hembra coloca sus huevos en cualquier recipiente que contenga agua, relativamente \nlimpia y quieta, a este recipiente lo llamamos criadero. \nEl ciclo puede resumirse del siguiente modo:\n1. Los huevos son colocados por la hembra en la pared interna del recipiente, son de \ncolor negro. En 2 o 3 días en condiciones favorables de temperatura y humedad, \nnacen las larvas. \n2. Las larvas se desarrollan en el agua del recipiente. Provistas de gran movilidad, pasan la \nmayor parte del tiempo alimentándose de bacterias, hongos y protozoarios existentes \nen el agua. Son visibles a simple vista, tienen forma de gusano y suelen “suspenderse” \nde la interface agua-aire por medio de un sifón respiratorio.\n3. Las pupas continúan su evolución en el agua,  se completa el proceso de metamorfosis \ny luego de 7 a 10 días emerge el zancudo adulto. Son visibles a simple vista y tienen \naspecto de coma, un engrosamiento redondo en la parte superior y una aleta natatoria \nen la parte inferior.\n2\t Unicef\tMinisterio\tde\tSalud,\tMinisterio\tde\tEducación,\tOPS\ty\totros.\tParticipación\tsocial\ten\tla\tprevención\tdel\tdengue:\tGuía\tpara\tel\t \n\t promotor .\n3\t OPS\ty\tPrograma\tEspecial\tpara\tinvestigación\ty\tcapacitación\ten\tenfermedades\ttropicales.\tDengue:\tGuías\tpara\tel\tDiagnóstico,\t \n\t tratamiento,\tprevención\ty\tcontrol\tdel\tdengue.\t2009\n4\t Ministerio\tde\tSalud-Argentina.\tEnfermedades\tinfecciosas:\tdengue.\tDiagnóstico\tde\tDengue.\t2013"
+    },
+    {
+      "marcador_cita": "[[PAGINA 25]]",
+      "id": "MINSA-3170-P0025",
+      "pagina_pdf": 25,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "25\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\n4. Los zancudos adultos, machos o hembras, de vida aérea, son los zancudos que todos \nconocemos.  \nEste ciclo dura, en promedio, 15 días. Cuando aumenta la temperatura se acorta a 7 días, \nviven entre 30 y 40 días. \nLos huevos, ante condiciones adversas para su evolución (temperaturas invernales), \npueden resistir en forma de vida latente entre 12 y 18 meses dentro de los recipientes en \nlos cuales fueron desovados. Esta forma de preservación del vector hace suponer que su \npresencia se incrementará en las próximas décadas. \n4. La vigilancia de los síndromes febriles inespecíficos (solo en caso de brote)\nPor la dificultad del diagnóstico de dengue, en zonas de riesgo es de suma importancia hacer \nvigilancia de los Síndromes Febriles Inespecíficos. Esta vigilancia permitiría identificar los casos \nde dengue que han desarrollado las formas menos graves de la enfermedad, para realizar el \naislamiento de los pacientes\nSe debe informar a la población acerca de la importancia de evitar que aquellos pacientes \nenfermos de dengue sean picados por los zancudos mientras presenten fiebre, para evitar la \npropagación de la enfermedad para ello se utiliza barreras como telas mosquiteras."
+    },
+    {
+      "marcador_cita": "[[PAGINA 26]]",
+      "id": "MINSA-3170-P0026",
+      "pagina_pdf": 26,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 27]]",
+      "id": "MINSA-3170-P0027",
+      "pagina_pdf": 27,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Sesión de aprendizaje 2\nPrácticas saludables \nfrente al Dengue y la Fiebre \nChikungunya y acciones de \nprevención"
+    },
+    {
+      "marcador_cita": "[[PAGINA 28]]",
+      "id": "MINSA-3170-P0028",
+      "pagina_pdf": 28,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n28\nSesión de aprendizaje 2 \nPrácticas saludables frente al \ndengue y la fiebre chikungunya \ny acciones de prevención\n1.\nMotivación\nDinámica: \nAntes y después\n• El facilitador entrega al azar una tarjeta para \ncada estudiante, cada tarjeta tiene una frase \nrelacionada a una secuencia de eventos que \nconcluyen con una persona infectada con \ndengue, las tarjetas figuran en la sección \nMaterial para el Desarrollo de las sesiones: \nMaterial para Dinámica Antes o después.\n• Los y las estudiantes deberán formar \nuna columna que represente la secuencia \nempezando con “Zancudo hembra encuentra \nun criadero” y debe concluir con “Persona \nenferma de dengue” \n• Las y los estudiantes a quienes no se les \nasigne una tarjeta deben contribuir a formar \nla secuencia.\nCapacidad de aprendizaje\nReconoce prácticas saludables frente al dengue y la \nfiebre chikungunya y las acciones de prevención.\nTiempo\n90 minutos\nMateriales\n• Fotocopia tarjetas de secuencia del proceso de \ninfección con dengue a las personas.\n• Cartulinas tamaño A5\n• 6 papelotes\n• Ficha de registro de criaderos de zancudo \nAedes aegypti\n• 1 laptop (opcional)\n• 1 proyector (opcional)\n15’\n90’"
+    },
+    {
+      "marcador_cita": "[[PAGINA 29]]",
+      "id": "MINSA-3170-P0029",
+      "pagina_pdf": 29,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "29\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\n2. \nRecuperación \nde saberes \nprevios\n3. \nConflicto \ncognitivo\nEl facilitador indica:\nExisten diversas prácticas saludables frente al \ndengue  y acciones de prevención. \n• ¿Existe alguna práctica saludable más \nimportante que las demás?\n• ¿Quiénes tienen la responsabilidad de \ncuidar la salud de la población frente al \ndengue?\n• ¿Es responsabilidad exclusiva del sector \nsalud la atención a este problema?\n• El facilitador otorga 1 tarjeta de \ncartulina tamaño A5 a cada uno de las y los \nestudiantes.\n• Cada estudiante escribe en su tarjeta una \npráctica saludable frente al dengue o una \nmedida de prevención.\n• Con la ayuda de dos estudiantes recoge las \ntarjetas y agrupa las que son similares.\n• Las tarjetas deben quedar visibles para \npoder realizar la contrastación con la nueva \ninformación\n10’\n05’"
+    },
+    {
+      "marcador_cita": "[[PAGINA 30]]",
+      "id": "MINSA-3170-P0030",
+      "pagina_pdf": 30,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n30\n4.\nPresentación y \ncontrastación del \nconocimiento\nLos criaderos  \ngeneralmente se \nencuentran dentro o cerca de \nlas casas. Los criaderos se ubican \nen todo recipiente capaz de contener \nagua, desde una chapa hasta una \ncisterna; pueden ser de plástico, \nmetal, madera, cemento o \ncualquier otro material.\n50’\nEl facilitador recuerda a los participantes que al final de \nla sesión anterior se había concluido que para protegerse \ndebemos considerar 3 aspectos: \n• Los  criaderos de zancudos\n• Las picaduras del zancudo\n• Control de casos febriles\nActividad: \n¿Cómo enfrentamos el dengue \ny la fiebre chikungunya?\nEn la presente  actividad se trabajará de manera alternada con \nel grupo completo y en pequeños grupos.\nA.  Para evitar la picadura de zancudo.\n• Se realiza una lluvia de ideas para recibir opiniones de las \nformas de protegerse para evitar la picadura del zancudo, \nun(a) estudiante anota todas las ideas en la pizarra.\n• El facilitador hace una síntesis de las ideas. Debe \nasegurarse que se transmita toda la información \nconsignada sobre este tema en la Hoja de información 3:  \nAcciones frente al dengue.\nB.  Actividad: Control de los criaderos\n• El facilitador recuerda que la existencia de criaderos \nde zancudo  es la principal causa de la proliferación del \nzancudo y la transmisión de la enfermedad, por tanto las \nprincipales acciones de prevención están orientadas al \ncontrol de los criaderos.\n• El facilitador pregunta qué características tienen los \ncriaderos; los y las estudiantes deben recordar que un \ncriadero puede ser cualquier objeto, grande o pequeño, \nque pueda contener agua relativamente limpia y quieta, \nque se encuentra a la intemperie.\n• Luego se reparte a cada grupo 5 tarjetas para que, en \nconsenso, los integrantes de cada grupo escriban en \ncada tarjeta un posible criadero que puedan haber \nobservado en su colegio o casa. \n• Una vez completas las tarjetas, las pegan en la pizarra, \nel facilitador verifica que estén considerados, al menos, \ntodos los criaderos nombrados en la Hoja de información \nN° 3, de no ser así el facilitador debe mencionarlos.\n•  Se agrupan los potenciales criaderos nombrados de la \nsiguiente manera: \n ͳ Los que almacenan agua de uso doméstico\n ͳ Los objetos servibles\n ͳ Los objetos en desuso\n ͳ Los  referidos a recipientes de uso de animales\n ͳ Los relacionados al uso de recipientes para plantas\n• El facilitador en diálogo con los alumnos plantea las \nprácticas saludables por cada grupo de criaderos.\n• El facilitador presenta un cuadro resumen de todas las \nprácticas saludables relacionadas a criaderos, que está \nconsignado en la Hoja de Información N° 3.\nC. Acciones de prevención a realizar durante el periodo de \nbrote.\nEl facilitador en diálogo con los participantes y haciendo \nuso de materiales audiovisuales explica y presenta  las \nacciones de prevención que se deben realizar en periodo \nde brote, debe considerar los contenidos referidos a \neste tema  considerados en la Hoja de Información N°3."
+    },
+    {
+      "marcador_cita": "[[PAGINA 31]]",
+      "id": "MINSA-3170-P0031",
+      "pagina_pdf": 31,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "31\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\n5.\nEvaluación\n6.\nExtensión del \naprendizaje\nActividad: \nEn mi casa no hay criaderos \nde zancudos\nPor su naturaleza, esta actividad se realiza en el hogar \nde cada participante.\nEl facilitador otorga una copia de la Ficha de Registro \nde Criaderos del zancudo Aedes aegypti  a cada uno \nde los participantes. La ficha de Registro de Criaderos \nse encuentra ubicada en la sección Material para el \ndesarrollo de las sesiones.\nLas y los estudiantes deberán llenar la mencionada \nhoja, de acuerdo al siguiente procedimiento:\n• Identifica el  criadero presentado en la imagen\n• Marca con un aspa si existe o no en su casa, el \nreferido criadero. \n• Cuenta cuántos criaderos de ese tipo existen en \nsu casa y anota el número en la hoja.\n• Si existe el criadero, describir que acciones se \nrealizaron, considerando lo aprendido en la sesión \neducativa. \n• Realiza el mismo ejercicio con todas las imágenes \npresentadas en la Ficha de registro.\n• T raer su ficha de registro concluida a la siguiente \nsesión.\nEl facilitador se despide de los estudiantes\nDinámica: \nDesechando objetos en \ndesuso\n• Los y las estudiantes participantes forman un \ncírculo.\n• El facilitador inicia la dinámica con la siguiente rima: \n“Porque dengue no quiero tener , las botellas voy a \nbotar”\n• El siguiente participante agregará un objeto en \ndesuso potencial criadero de zancudos y mencionará \npor ejemplo:\n“Porque dengue no quiero tener , las botellas y las \nllantas voy a botar”\n• Así irán agregando hasta que algún participante se \nequivoque e inician la segunda ronda.\n• La segunda ronda se refiere a las prácticas \nsaludables, así uno a uno menciona una  práctica \nsaludable. Empieza con el alumno que se equivocó, \nahora el mensaje será: “Porque dengue no quiero \ntener , mis recipientes voy a lavar”, el siguiente usa \nel mismo tenor y dice “Porque dengue no quiero \ntener , mis recipientes voy a tapar”.\n10’"
+    },
+    {
+      "marcador_cita": "[[PAGINA 32]]",
+      "id": "MINSA-3170-P0032",
+      "pagina_pdf": 32,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n32\nHoja de Información N°3\nPrácticas saludables\nSon aquellas acciones relacionadas a la adopción, modificación o fortalecimiento de \ncomportamientos orientados a producir resultados positivos sobre la salud y calidad de vida de \nlas personas; a través de procesos y actividades que tienen lugar en las familias y organizaciones.\n1. Sobre los criaderos de zancudos\nDepósitos para almacenar \nagua, como:\n• Cilindros\n• Tanques de agua\n• Lavatorios\n• Baldes\n• Entre otros\nObjetos en desuso y/o \ninservibles como:\n• Botellas\n• Chapas\n• Latas\n• Cáscaras de huevo\n• Zapatos viejos\nOtros objetos del hogar \nque almacenan agua:\n• Escurridor de platos\n• Bandeja del refrigerador\n• Platos colectores de \nagua de macetas\nFloreros\nBebederos de animales\nObjetos útiles como:\n• Lavadores\n• Baldes\n• frascos\nT apar y lavar\n• Lavar fuertemente con detergente y escobilla, los \ninteriores y bordes de los depósitos en los que se \nalmacena agua de uso doméstico.\n• Colocar y conservar el ábate o motita (químico que \nmata las larvas del zancudo) dentro de los recipientes \ndonde se almacena agua.\n• Cubrir la superficie con un plástico y amarrarlo, sin \ndejar ningún espacio libre para evitar el ingreso del \nzancudo.\nEliminar\nDesechar o enterrar los objetos  en desuso e inservibles \nque puedan almacenar agua de lluvia y convertirse en \ncriaderos de zancudos.\nCuidar y lavar\nCuidar que no almacenen agua y lavar frecuentemente con \nescobilla.\nReemplazar\nUtilizar tierra húmeda en vez de agua en los floreros de la \ncasa y en los cementerios.\nCambiar y lavar\nLavar y cambiar cada día el agua.\nOrdenar\nMantener boca abajo y bajo techo cualquier recipiente útil \nque pueda almacenar agua.\nCriadero ¿Qué prácticas saludables debemos aplicar?"
+    },
+    {
+      "marcador_cita": "[[PAGINA 33]]",
+      "id": "MINSA-3170-P0033",
+      "pagina_pdf": 33,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "33\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\n2.  Sobre la picadura del zancudo\nEvitar picadura \ndel zancudo\n¿Qué prácticas saludables debemos hacer?\n• Colocar tela metálica o mallas en ventanas y puertas.\n• Usar mosquitero para dormir.\n• Usar repelente contra insectos, solo en cantidad \nsuficiente para cubrir la piel expuesta.\n• Proteger especialmente la cuna o cochecito de los \nbebés.\n• De ser posible evitar estar en la intemperie en horas de \nmayor densidad de zancudos.\n• Utilice camisas de manga larga y pantalones largos.\nAtención: Si una persona tiene síntomas o es diagnosticado con dengue debe ser cubierto con \nmosquitero para evitar la transmisión."
+    },
+    {
+      "marcador_cita": "[[PAGINA 34]]",
+      "id": "MINSA-3170-P0034",
+      "pagina_pdf": 34,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n34\n3. Acciones preventivas  a realizar durante el periodo de brote\nEn periodo de brote, es necesario tener en cuenta lo siguiente:\nA.  Ante los síntomas \nde dengue y la \nfiebre chikungunya\n• No debe AUTOMEDICARSE\n• Debe ACUDIR INMEDIATAMENTE AL ESTABLECIMIENTO \nDE SALUD MÁS CERCANO\n• Tomar abundante líquido o suero oral especialmente si \nse presenta vómitos o diarrea y guardar reposo\n• En caso de vómitos, diarrea o sangrado, la persona \nenferma debe ser trasladada nuevamente al \nestablecimiento de salud más cercano\nB.  Usar el abate\nEl abate elimina las larvas del zancudo.\nSe aplica en motitas en pequeñas cantidades. El abate \nes inocuo y debe permanecer en el depósito de agua \ndurante 3 meses, no debe ser eliminado antes.\nC.  Brindar facilidades \na fumigadores\n• Cuando hay presencia del Aedes aegypti y casos de \ndengue se realizan fumigaciones. La fumigación sólo \nactúa sobre los mosquitos adultos, no elimina los \nhuevos que ya fueron depositados en los criaderos y \nque van a seguir desarrollándose. Disminuye el riesgo \nde transmisión en forma momentánea pero no es \nefectivo para un control permanente del zancudo. Es \nútil en situación de brote para bloquear la transmisión.\n• Es necesario que se brinden las facilidades a los \nresponsables de la fumigación.\n• Antes de una fumigación se debe tapar bien los \nrecipientes de agua y alimentos, los utensilios de cocina; \nguardar ropas de cama y de uso diario en roperos \no bolsas de plástico; apagar algún fuego que pueda \nhaber en la vivienda (cocina por ejemplo), desenchufar \naparatos eléctricos y retirar a las mascotas.\n• Durante la fumigación las puertas y ventanas de la \nvivienda deben permanecer cerradas y las personas \ndeben permanecer alejadas de sus viviendas.\n• Una hora después de finalizada la fumigación una \npersona ingresará y abrirá las ventanas y puertas para \nla ventilación de los espacios. Por precaución deberán \nlavar los utensilios utilizados para el consumo de \nalimentos."
+    },
+    {
+      "marcador_cita": "[[PAGINA 35]]",
+      "id": "MINSA-3170-P0035",
+      "pagina_pdf": 35,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "35\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\nRol del vigía ante la presencia de casos de fiebre\n• La fiebre es la manifestación común de una persona que se encuentra \ninfectada de dengue, es importante detectar oportunamente si algún \ncompañero, familiar o vecino tiene estos síntomas para tomar las acciones \nde inmediato.\n• En el caso de los compañeros de clase podemos darnos cuenta que alguien \nestá con fiebre (aun cuando no esté relacionada con el dengue) mediante los \nsiguientes signos:\n ͳ Piel caliente al tacto\n ͳ Enrojecimiento de la piel y/o cara\n ͳ Sudoración\n ͳ Somnolencia\n ͳ Respiración agitada o cambios en la forma habitual de respirar\n• Si esto ocurre, el vigía debe reportar a su tutor la existencia de un posible \ncaso febril, para que tome las acciones correspondientes.\n• Cuando algún compañero de clase falte a sus labores escolares diarias, el \nvigía debe reportarlo a su profesor tutor, porque existe la posibilidad que \ntenga dengue.\nEl dengue puede matar , \nante la presencia de síntomas acude al \nestablecimiento de salud."
+    },
+    {
+      "marcador_cita": "[[PAGINA 36]]",
+      "id": "MINSA-3170-P0036",
+      "pagina_pdf": 36,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 37]]",
+      "id": "MINSA-3170-P0037",
+      "pagina_pdf": 37,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Sesión de aprendizaje 3\n¿Cómo hacer frente al dengue  \ny la fiebre chinkungunya en la \ninstitución educativa?"
+    },
+    {
+      "marcador_cita": "[[PAGINA 38]]",
+      "id": "MINSA-3170-P0038",
+      "pagina_pdf": 38,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n38\nSesión de aprendizaje 3\n¿Cómo hacer frente al dengue \ny la fiebre chikungunya en la \ninstitución educativa?\n1.\nMotivación\nDinámica: \nEl lazo protector  \ndel dengue\n• El facilitador forma dos grupos y entrega un lazo a un \nparticipante de cada grupo quien debe colgarlo en su \nmuñeca.\n• Los integrantes del grupo se toman de la mano \nformando un círculo cerrado.\n• El juego consiste en pasar el lazo por todos los \nparticipantes, sin soltarse las manos, hasta que el \nlazo llegue a la posición que tenía inicialmente.\n• Se sugiere la siguiente secuencia: las personas que \ntienen el lazo entre sus manos, levantan los brazos, \nhacen caer el lazo alrededor de la cabeza del compañero \nvecino, quien desliza el lazo por su cuerpo hacia la otra \nmano,  luego levanta una a una sus piernas para que \nel lazo quede en la otra mano del compañero; Realizar \nsucesivamente el mismo ejercicio.\n• Cada participante, antes de iniciar el paso del lazo, \ndebe decir su nombre y una práctica para prevención \ndel dengue, por ejemplo \n“Gladys dice debemos vigilar \nlos cuadros febriles”. \n• Gana el grupo que logre terminar el círculo primero y \nse le felicita.\nCapacidad de aprendizaje\nDiseña propuestas de intervención en su institución \neducativa para la promoción de prácticas saludables \ny prevención del dengue y la fiebre chikungunya.\nTiempo\n90 minutos\nMateriales\n• 2 lazos  de 2.20 metros de largo, cada lazo debe \ntener sus extremos unidos y cerrados.\n15’\n90’"
+    },
+    {
+      "marcador_cita": "[[PAGINA 39]]",
+      "id": "MINSA-3170-P0039",
+      "pagina_pdf": 39,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "39\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\n2. \nRecuperación \nde saberes \nprevios\n3. \nConflicto \ncognitivo\nEl facilitador realiza a los y las estudiantes las \nsiguientes preguntas reflexivas.\n• ¿Ustedes creen que cada persona de forma \nindividual puede protegerse del dengue?\n• ¿Podemos hacer algo en nuestras instituciones \neducativas para evitar que nosotros, nuestros \ncompañeros y familias sean infectados con el \ndengue?\n• ¿Qué otras autoridades podrían ejecutar acciones \nde promoción de prácticas saludables y prevención \ndel dengue?\nActividad: \n¿Qué sabemos sobre \nel dengue y la fiebre \nchikungunya?\n• El facilitador coloca en cada uno de los tres papelotes \nuno de los siguientes títulos.\n ͳ El dengue\n ͳ El zancudo \nAedes aegypti\n ͳ Promoción de prácticas saludables y prevención \ndel dengue\n• El facilitador forma tres grupos y asigna a cada grupo \nun papelote, durante 3 minutos los miembros de cada \ngrupo anotan la información que recuerden del tema \nal que refiere el título.\n•  T ranscurridos los 3 minutos, los integrantes de cada \ngrupo rotan al siguiente papelote y de ser necesario \ncomplementan la información existente,  esta vez \nsolo por 2 minutos. Realizarán el mismo ejercicio una \nvez más.\n• Cada grupo se queda con el papelote que originalmente \ntenía y revisa la información añadida, de ser necesario \npide a  quien corresponda le sustente su aporte.\n• Cada grupo sustenta muy breve su información\n• El facilitador concluye la actividad con la precisión de \nconceptos.\n15’\n05’"
+    },
+    {
+      "marcador_cita": "[[PAGINA 40]]",
+      "id": "MINSA-3170-P0040",
+      "pagina_pdf": 40,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n40\nActividad: \n¿Qué hacemos los vigías?\n• El facilitador pregunta ¿Qué actividades pueden \nrealizar los vigías para la promoción de prácticas \nsaludables frente al dengue?\n• Las y los estudiantes plantean diversas alternativas.\n• El facilitador selecciona una de las propuestas y \nsolicita expliquen cómo se realizaría dicha actividad.\n• Continúa con el análisis de las diversas alternativas \npropuestas.\nActividad: \nMis compromisos\n• El momento final ha llegado y se debe concluir con \nun proceso reflexivo expresado en un compromiso \npersonal, para el que se realizan las siguientes \nacciones.\n• El facilitador ubica el grupo en forma de media luna \ny otorga una pieza de papel, en forma circular con el \nsímbolo No al zancudo, a cada participante.\n• Los invita a reflexionar sobre la importancia de \nsu rol en la promoción de prácticas saludables \ny prevención del dengue, y los motiva a pensar , \ndurante algunos minutos, qué acción concreta \npueden realizar que contribuya a lograrlo.\n• Los participantes deben escribir esa acción en el \nmaterial proporcionado.\n• Invitar a algunos participantes voluntarios que \nexpresen su compromiso.\n• Finalizada la participación voluntaria, el facilitador \ninvita a conservar los compromisos escritos como \nrecordatorio para lograr su cumplimiento.\n• Agradece por su participación y aportes.\n4.\nConstrucción del \naprendizaje\n40’\n15’\n• El facilitador solicita a las y los estudiantes \nque propongan qué actividades pueden \nrealizar los vigías escolares de salud frente al \ndengue en la institución educativa. \n• Anota las ideas principales en la pizarra.\n• El facilitador complementa las propuestas con \nla información de la Hoja de Información N° 4.\nActividad: \nVigías en acción\n• El facilitador forma 4 grupos y asigna las \nsiguientes tareas:\n ͳ Grupo 1: Diseña y elabora una pieza \ngráfica.\n ͳ Grupo 2: Realiza un plan para promover el \nordenamiento y limpieza de su institución \neducativa.\n ͳ Grupo 3: Realiza un plan para el desarrollo \nde una capacitación a sus compañeros.\n ͳ Grupo 4: Crea una propuesta de diálogo \ncon padres de familia para implementar \nprácticas saludables frente al dengue en \nsu domicilio.\n• El facilitador asesora en la construcción de \nsu producto, las y los estudiantes trabajan \ndurante 20 minutos.\n• Cada grupo expone su producto.\n5.\nEvaluación\ndel Aprendizaje"
+    },
+    {
+      "marcador_cita": "[[PAGINA 41]]",
+      "id": "MINSA-3170-P0041",
+      "pagina_pdf": 41,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "41\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\nHoja de Información  N° 4\n El vigía de Salud\nEl vigía de salud puede realizar acciones que contribuyan a la promoción de prácticas saludables \ny prevención del dengue tanto en su institución educativa como en su familia y comunidad. Las \nsiguientes son acciones sugeridas:\n• Reunirse  con  compañeros y compañeras para transmitir los mensajes claves para la promoción \nde prácticas saludables frente al dengue.\n• Absolver dudas de sus compañeros sobre la prevención del dengue ya fiebre chikungunya.\n• Compartir los conocimientos recibidos con los miembros de su familia y comunidad.\n• Diseñar y elaborar junto con sus compañeros, material para difundir mensajes de prevención \ny el control del dengue y la fiebre chikungunya.\n• Promover y/o participar en actividades de ordenamiento y limpieza de su institución educativa, \neliminando los objetos que no son usados y que pueden convertirse en criaderos de zancudos.\n• Apoyar las acciones de prevención y control del dengue en su institución educativa, familia y \ncomunidad.\n• Solicitar y distribuir material educativo.\n• Reportar casos febriles en sus compañeros y ausencias a las labores escolares.\nNUESTRA \nINSTITUCIÓN \nEDUCATIVA LIBRE \nDE CRIADEROS DE \nZANCUDOS"
+    },
+    {
+      "marcador_cita": "[[PAGINA 42]]",
+      "id": "MINSA-3170-P0042",
+      "pagina_pdf": 42,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 43]]",
+      "id": "MINSA-3170-P0043",
+      "pagina_pdf": 43,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Material para el desarrollo \nde sesiones"
+    },
+    {
+      "marcador_cita": "[[PAGINA 44]]",
+      "id": "MINSA-3170-P0044",
+      "pagina_pdf": 44,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n44\nMaterial sesión de aprendizaje 1\nMaterial para la actividad de presentación\nSin criaderos de zancudos \nno hay dengue ni fiebre chikungunya\nSin criaderos de zancudos \nno hay dengue ni fiebre chikungunya\nSin criaderos de zancudos \nno hay dengue ni fiebre chikungunya\nSin criaderos de zancudos \nno hay dengue ni fiebre chikungunya"
+    },
+    {
+      "marcador_cita": "[[PAGINA 45]]",
+      "id": "MINSA-3170-P0045",
+      "pagina_pdf": 45,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "45\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\nMaterial sesión de aprendizaje 1\nMaterial para el trabajo de la dinámica: Organizamos la informacion\nKIT A - La enfermedad del dengue ni fiebre chikungunya\nLos síntomas aparecen transcurridos los 2 a 14 días después de la picadura del \nzancudo.\n• Fiebre \n• Dolor de cabeza\n• Dolor muscular\n• Dolor de huesos \n• Dolor de ojos y detrás de los ojos.\n• No se debe automedicar\n• Es importante hidratar al enfermo.\n• Recordar que no existe tratamiento específico contra el dengue ni fiebre \nchikungunya\n• Llevar al enfermo al establecimiento de salud.\nPor la dificultad del diagnóstico de dengue, en zonas de riesgo es de suma \nimportancia hacer vigilancia de los casos de fiebre, para identificar los casos de \ndengue para realizar el aislamiento de los pacientes.\nSe debe evitar que los pacientes enfermos de dengue sean picados por los zancudos \nmientras presenten fiebre, para evitar la propagación de la enfermedad utilizando \nbarreras como telas mosquiteras.\nSi una persona en la familia y/o vecino presenta los síntomas del dengue, debe acudir \ninmediatamente al Centro de Salud más cercano para recibir atención médica"
+    },
+    {
+      "marcador_cita": "[[PAGINA 46]]",
+      "id": "MINSA-3170-P0046",
+      "pagina_pdf": 46,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n46\nMaterial sesión de aprendizaje 1\nKIT B - T ransmisión del dengue y la fiebre chikungunya\nEl vector principal del dengue es el zancudo Aedes aegypti. El virus se transmite a los \nseres humanos por la picadura de zancudos  hembra infectados.\nDespués de un periodo de incubación del virus que dura entre 8 y 12 días, un \nzancudo infectado puede transmitir el agente patógeno durante toda la vida.\nLas personas infectadas son los portadores y multiplicadores principales del virus, y \nlos zancudos se infectan al picarlas.\nLas personas infectadas con el virus pueden infectar al zancudo durante la etapa \nfebril. \nSi una persona en la familia y/ o vecino presenta los síntomas del dengue, debe acudir \ninmediatamente al Centro de Salud más cercano para recibir atención médica\nPersona enferma Persona sana Persona enferma\nAedes no \ninfectado Aedes infectado"
+    },
+    {
+      "marcador_cita": "[[PAGINA 47]]",
+      "id": "MINSA-3170-P0047",
+      "pagina_pdf": 47,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "47\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\nMaterial sesión de aprendizaje 1\nKIT C - Características del zancudo Aedes aegypti\nDe color gris y pequeño, presenta bandas blancas en su abdomen y patas. \nVive en el interior de las viviendas.\nMacho y hembra se alimentan de jugos vegetales. Pero la hembra, además, necesita \nsangre humana.\nLa hembra no suele alejarse más de 100 metros del lugar donde emergió como \nadulto, pero puede excepcionalmente volar hasta 2000 metros.\nPica durante las primeras horas de la mañana y del atardecer , y durante la noche se \noculta."
+    },
+    {
+      "marcador_cita": "[[PAGINA 48]]",
+      "id": "MINSA-3170-P0048",
+      "pagina_pdf": 48,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n48\nMaterial sesión de aprendizaje 1\nKIT D - Ciclo de vida del zancudo Aedes aegypti\nLa hembra coloca sus huevos en cualquier recipiente que contenga agua, \nrelativamente limpia y quieta, a este recipiente lo denominamos criadero.\nLos huevos son colocados por la hembra en la  pared interna del recipiente, en 2 o 3 \ndías en condiciones favorables de temperatura y humedad, nacen las larvas.\n Las larvas se desarrollan en el agua del recipiente. Provistas de gran movilidad, \npasan la mayor parte del tiempo alimentándose de bacterias, hongos y protozoarios \nexistentes en el agua.\nLas pupas continúan su evolución en el agua. Allí se completa el proceso de \nmetamorfosis y luego de 7 a 10 días emerge el zancudo adulto.\nLos zancudos adultos, machos o hembras, de vida aérea, son los que todos \nconocemos."
+    },
+    {
+      "marcador_cita": "[[PAGINA 49]]",
+      "id": "MINSA-3170-P0049",
+      "pagina_pdf": 49,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "49\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\nMaterial sesión de aprendizaje 1"
+    },
+    {
+      "marcador_cita": "[[PAGINA 50]]",
+      "id": "MINSA-3170-P0050",
+      "pagina_pdf": 50,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n50\nMaterial sesión de aprendizaje 1\nMaterial para el trabajo de la actividad “Y o sé, yo propongo ”\nIndicaciones:\n• Un o una estudiante lee el primer enunciado.\n• Las y los estudiantes proponen ideas para completar el enunciado.\n• Se orienta a los estudiantes para que seleccionen las ideas más pertinentes al caso.\n• Realizan el mismo ejercicio con el resto de enunciados. Los y las estudiantes pueden crear nuevas \noraciones.\nEnunciados\n1.- Yo sé que el dengue se transmite por la picadura del zancudo Aedes aegypti.\nEntonces yo propongo __________________________________________________________________\n_____________________________________________________________________________________\n_____________________________________________________________________________________\n2.- Yo sé que la hembra coloca sus huevos en cualquier recipiente que contenga agua limpia\nEntonces yo propongo __________________________________________________________________\n_____________________________________________________________________________________\n_____________________________________________________________________________________\n3.- Yo sé que los huevos se colocan en las paredes de los recipientes\nEntonces yo propongo __________________________________________________________________\n_____________________________________________________________________________________\n_____________________________________________________________________________________\n4.- Yo sé que las larvas se desarrollan en el agua almacenada en recipientes\nEntonces yo propongo __________________________________________________________________\n_____________________________________________________________________________________\n_____________________________________________________________________________________\n5.- Yo sé que la fiebre es un síntoma de dengue\nEntonces yo propongo __________________________________________________________________\n_____________________________________________________________________________________\n_____________________________________________________________________________________\n6.- Yo sé que el dengue puede causar la muerte\nEntonces yo propongo __________________________________________________________________\n_____________________________________________________________________________________\n_____________________________________________________________________________________"
+    },
+    {
+      "marcador_cita": "[[PAGINA 51]]",
+      "id": "MINSA-3170-P0051",
+      "pagina_pdf": 51,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "51\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\nMaterial sesión de aprendizaje 2\nMaterial para la dinámica “ Antes y después”\nZancudo hembra encuentra un criadero Zancudo hembra sano pica a persona infectada\nZancudo hembra pone huevos Zancudo hembra infectado\nSe convierte en larvas Zancudo hembra infectado pica a persona sana.\nSe convierte en pupas Persona sana se infecta\nNacen zancudos Persona enferma con dengue.\nZancudo hembra  sano\nOrden de la secuencia\n1. Zancudo hembra encuentra un criadero.\n2. Zancudo hembra pone huevos.\n3. Se convierte en larvas.\n4. Se convierte en pupas.\n5. Nacen zancudos.\n6. Zancudo hembra sano.\n7. Zancudo hembra sano pica a persona infectada.\n8. Zancudo hembra infectado.\n9. Zancudo hembra infectado pica a persona sana.\n10. Persona sana se infecta.\n11. Persona enferma con dengue."
+    },
+    {
+      "marcador_cita": "[[PAGINA 52]]",
+      "id": "MINSA-3170-P0052",
+      "pagina_pdf": 52,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n52\nMaterial sesión de aprendizaje 2\nFicha de Registro\nDe criaderos del zancudo Aedes aegypti\nIndicaciones:\nNombres y apellidos: ______________________________________________________ Grado: _______\nIdentifica en tu casa los posibles criaderos y completa el siguiente cuadro.\nMarca con una  x donde corresponda Si encontraste criaderos de zancudos Aedes \naegypti en tu casa. ¿Qué acciones realizaste? \n(descríbelas en los casilleros respectivos)Criaderos de \nzancudos SI NO ¿Cuantos?\nOTROS\nTOTAL"
+    },
+    {
+      "marcador_cita": "[[PAGINA 53]]",
+      "id": "MINSA-3170-P0053",
+      "pagina_pdf": 53,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "53\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\nMaterial sesión de aprendizaje 3\nVigias de Salud frente al dengue y la fiebre chikungunya\nNombre de vigías\nNombre de institución educativa\nActividades propuestas\nN° Descripción de la actividad Público objetivo Meses Observaciones"
+    },
+    {
+      "marcador_cita": "[[PAGINA 54]]",
+      "id": "MINSA-3170-P0054",
+      "pagina_pdf": 54,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n54\nHoja de Información  sobre la Fiebre Chikungunya\n ¿Qué es la fiebre chikungunya?\nEs una enfermedad infecciosa causada por el virus chikungunya, transmitida por la picadura del \nzancudo aedes aegypt y aedes albopictus, las mismas especies involucradas en la transmisión del \ndengue.\nEl nombre deriva del idioma makonde, que  significa “aquel que se encorva”  caracterizada por el \ndolor intenso de las articulaciones. Apareció por primera vez en  1952  en Tanzania. La transmisión \nlocal se ha identificado en varios países del Caribe y América del Sur. En el Perú, el  riesgo de \ndiseminación del virus en  poblaciones locales del vector es alto, especialmente en áreas donde \nAedes aegypti está ampliamente distribuido (301 distritos y 18 departamentos). \n Cuáles son los síntomas?\nDespués de la picadura de un mosquito infectado con chikungunya, la mayoría  presentará \nsíntomas tras un periodo de incubación de tres a siete días (rango: 1−12 días). Sin embargo, no \ntodos los individuos infectados desarrollaran síntomas. Entre el 3% y el 28% de las personas con \nanticuerpos para el CHIKV tienen infecciones asintomáticas .\n• Fiebre alta (>38,5°C) \n• Dolor en múltiples articulaciones en forma severa \n• Sarpullido en tronco y extremidades \n• Malestar general \n• Cefalea\n• Nauseas y vómitos\n• Conjuntivitis\nTambién se ha presentado casos ocasionales con complicaciones oculares, neurológicas, cardiacas, \nnefritis y con molestias gastrointestinales.\nLas complicaciones son más frecuentes en niños menores de 1 año y en mayores de 65 años y/o \ncon enfermedades crónicas (diabetes, hipertensión, etc).\nSi bien la recuperación es el resultado esperado, el período de convalecencia puede ser prolongado \nen ocasiones hasta un año a más y el dolor articular persistente puede requerir tratamiento \nanalgésico incluyendo terapia antiinflamatoria prolongada.\n ¿Cuál es la diferencia entre el dengue y la chikungunya?\nSi bien en ambas enfermedades los pacientes pueden padecer dolor corporal difuso, en la fiebre \nchikungunya el dolor es mucho más intenso y localizado en las articulaciones y tendones que en \nel dengue."
+    },
+    {
+      "marcador_cita": "[[PAGINA 55]]",
+      "id": "MINSA-3170-P0055",
+      "pagina_pdf": 55,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "55\nDirigido al personal de salud para el trabajo con vigías de salud del comité ambiental en instituciones educativas.\n  \nCaracterísticas clínicas: Chikungunya Dengue\nFiebre alta ● ● ● ● ● \nDolor intenso en articulaciones ● ● ● ● \nSarpullido en tronco y \nextremidades ● ● ● \nMalestar general ● ● ● ● ● \nNáuseas y vómitos ● ● ● ● ●\n●  Menor intensidad     |     ● ● ● Mayor intensidad\n ¿Cómo se transmite?\nAl igual que el dengue, se transmite cuando la hembra del Aedes aegypti se alimenta con sangre \nde una persona enferma con la fiebre chikungunya y luego pica a otra persona sana.\n ¿Cómo saber si tengo dengue o chikungunya?\nEl diagnóstico es fundamentalmente clínico, partiendo de la definición de caso sospechoso y \ncontacto familiar, comunitario o laboral con otros casos (vínculo epidemiológico).\n T ratamiento\nNo existe un tratamiento específico, ni una vacuna comercialmente disponible para prevenir la \ninfección por chikungunya, el único medio efectivo para su prevención consiste en protegernos de \nlas picaduras del mosquito.  No existen vacunas ni tratamientos para eliminar al virus de nuestro \ncuerpo, solo existe un manejo sintomático; tan pronto como presenten los primeros síntomas es \nconveniente acudir a las instituciones prestadoras de salud (como centros de salud u hospitales) \npara ser evaluados por personal de salud y recibir el tratamiento correspondiente, usualmente \nhidratación, paracetamol y otros analgésicos que ayudarán a mejorar el malestar. Evitando \nautomedicarse. \nLas causas y las medidas de prevención son las mismas que se desarrollan frente al dengue.\n ¿Qué pueden hacer los directivos, docentes y padres frente a la chikungunya?\nAl igual que con el dengue se recomienda,\nDirectivos:\n• Hacer cumplir las disposiciones emitidas por el Ministerio de Educación en relación a \nprevenir la fiebre chikungunya.\n• Monitorear, supervisar y evaluar las acciones de promoción de prácticas saludables y \neducación preventiva ante   enfermedades transmitidas por vectores como la chikungunya \nen  coordinación    con  las UGEL."
+    },
+    {
+      "marcador_cita": "[[PAGINA 56]]",
+      "id": "MINSA-3170-P0056",
+      "pagina_pdf": 56,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n56\n• Reconocer     y   estimular      a   las   instituciones      educativas,     estudiantes, especialistas,    \ndirectores    y  docentes    que  destaquen    en  las  acciones   de promoción de prácticas \nsaludables y  educación preventiva ante enfermedades transmitidas por vectores como la \nchikungunya a nivel  de la DRE.\n• Incentivar, monitorear y reconocer el desarrollo de proyectos de aprendizaje por parte de \nlos docentes, tanto en el aula, como en el entorno relacionado a la fiebre Chikungunya.\n• Coordinación con el Sector Salud, para desarrollar actividades conjuntas a favor del cuidado \nintegral de la salud de los miembros de la comunidad educativa.\n• Gestionar acciones conjuntas con gobiernos locales para promover el recojo de material \nen desuso y la organización de faenas de limpieza con participación de la comunidad \neducativa.\nDocentes:\n• Desarrollar proyectos de aprendizaje y actividades comunicacionales a nivel de la \ncomunidad educativa promoviendo las prácticas saludables frente a la fiebre Chikungunya.\n• Orientar a los padres de familia sobre la fiebre chikungunya y las prácticas saludables a \ndesarrollar en el hogar y la forma de reconocer  los posibles casos en sus hijos y familiares.\n• Permanecer alerta ante la presencia de signos de la enfermedad en las y los estudiantes.\n• Formar líderes (vigías escolares) de educación ambiental para la promoción de prácticas \nsaludables.\n• Organizar concursos escolares de eliminación de criaderos del zancudo.\nPadres:\nPromover  prácticas saludables frente a la fiebre Chikungunya en el entorno familiar y participar \nde las acciones programadas en la institución educativa orientadas a:\n• Adecuado tratamiento de criaderos servibles. \n• Eliminación de potenciales Criaderos en desuso. \n• Para el autocuidado y la protección personal. \n• Participación en actividades en la institución educativa y comunidad.\n• Toda  institución   educativa   debe  tener  organizada  y activa  su Comisión  de Gestión   del \nRiesgo y sus respectivas  brigadas.\n IMPORTANTE\nToda  institución debe contar con un tópico y botiquín escolar implementado, recordando que \nno se debe administrar medicación alguna si no está prescrita por el médico, más aún en zonas \nendémicas y en época de brote;  además equipo básico de atención para emergencia sanitaria, \ngarantizando la disponibilidad de los insumos básicos para las acciones de desinfección y \nfumigación de la Institución Educativa."
+    },
+    {
+      "marcador_cita": "[[PAGINA 57]]",
+      "id": "MINSA-3170-P0057",
+      "pagina_pdf": 57,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 58]]",
+      "id": "MINSA-3170-P0058",
+      "pagina_pdf": 58,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n58\nBIBLIOGRAFÍA\nMINISTERIO DE SALUD.PRESIDENCIA DE LA NACIÓN .ARGENTINA\n2013 Enfermedades infecciosas: Dengue. Diagnóstico de dengue. Guía para el equipo de salud. T ercera edición. Buenos Aires.\nMINISTERIO DE SALUD PÚBLICA Y BIENESTAR SOCIAL -PARAGUA Y\n2012 Juntos Venceremos al dengue: Estudiantes Vigilantes de la Salud. \nMINISTERIO DE SALUD. PERU\n2011 Documento T écnico Promoción de Prácticas y Entornos Saludables para el Cuidado Infantil.\nMINISTERIO DE PROTECCIÓN SOCIAL DE COLOMBIA, INSTITUTO NACIONAL DE SALUD-COLOMBIA, ORGANIZACIÓN PANAMERICANA DE LA SALUD\n2010 Guía de atención clínica integral del paciente con dengue.\nMINISTERIO DE SALUD. BUENOS AIRES\n2010 Guía para la Comunidad Educativa. Prevención del Dengue. Buenos Aires \nMINISTERIO DE SALUD-ARGENTINA, MINISTERIO DE EDUCACIÓN-ARGENTINA, ORGANIZACIÓN PANAMERICANA DE LA SALUD, UNICEF Y OTROS\n2010 Participación social en la prevención del dengue: Guía para el promotor.\nGOBIERNO DE LA CIUDAD DE BUENOS AIRES. INSTITUTO DE ZOONOSIS LUIS PASTEUR\n2009 Material de T rabajo para docentes. Una propuesta de intervención del dengue. Buenos Aires.\nORGANIZACIÓN MUNDIAL DE LA SALUD, PROGRAMA ESPECIAL PARA INVESTIGACIÓN Y CAPACITACIÓN EN ENFERMEDADES TROPICALES- TDR\n2009 Dengue: Guías para el diagnóstico, tratamiento, prevención y control. La Paz-Bolivia.\nSECRETARIA DE SALUD. ESTADOS UNIDOS MEXICANOS\nGuía para la Participación Comunitaria para la Prevención y Control del Dengue."
+    },
+    {
+      "marcador_cita": "[[PAGINA 59]]",
+      "id": "MINSA-3170-P0059",
+      "pagina_pdf": 59,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 60]]",
+      "id": "MINSA-3170-P0060",
+      "pagina_pdf": 60,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 61]]",
+      "id": "MINSA-3170-P0061",
+      "pagina_pdf": 61,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Anexo"
+    },
+    {
+      "marcador_cita": "[[PAGINA 62]]",
+      "id": "MINSA-3170-P0062",
+      "pagina_pdf": 62,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Módulo Educativo para la Promoción de Prácticas Saludables frente al Dengue y la fiebre de Chikungunya\n62\nAnexo\nMódulo educativo para la promoción de prácticas saludables \nfrente al denguey la fiebre chikungunya – vigías escolares\nI. Datos Generales  de la Institución Educativa\nParticipante Pre test Post Test\nIIEE. Fecha\n1. Coloca V o F, según sea Verdadero o Falso\na. Existe una vacuna para el dengue V F\nb. Si un niño tiene  síntomas de dengue, los padres deben darle medicina antes de llevarlo al \nestablecimiento de salud V F\nc. El zancudo Aedes aegypti descansa principalmente fuera de las viviendas V F\nd. El ciclo de vida del zancudo tiene 4 fases: huevos, larvas, pupas y adultos V F\ne. Los zancudos que transmiten el dengue viven generalmente en charcos de agua sucia V F\nf. Los zancudos Aedes aegypti pican durante las primeras horas de la mañana y el atardecer V F\n2.- Sobre las prácticas saludables frente al dengue y la fiebre de chikungunya; completar las siguientes frases:\na. Cambia el agua por ______________________________ en los floreros.\nb. Lavar, escobillar y tapar los ________________________\nc. Eliminar los ____________________________________\n3. Completar\na. El síntoma más común de que puedes tener dengue o chikungunya es _________________, si eso ocurre \ndebes _______________________________\n4. Selecciona la alternativa correcta\na. El ábate debe ser eliminado de los recipientes que contienen agua de consumo humano\nb. El ábate debe permanecer en los recipientes de agua durante un promedio de 3 meses.\nc. El ábate elimina solamente las larvas de los zancudos\nd. Alternativas b y c\n5. Selecciona la alternativa correcta\na. El virus del dengue y de la chikungunya son transmitidos por los zancudos.\nb. El virus del dengue y la chikungunya son transmitidos por no lavarse las manos\nc. El virus del dengue y la chikungunya  son transmitidos por los zancudos Aedes aegypti.\nd. Todas las anteriores\n6. Coloca V o F, según sea Verdadero o Falso\na. La fumigación es la mejor manera de prevenir el dengue y la chikungunya V F\nb. Si lavamos los recipientes eliminamos fácilmente los huevos de zancudo V F\nc. Para evitar la picadura del zancudo debemos usar mosquitero. V F\nd. Tapar los depósitos que almacenan agua es una práctica saludable frente al dengue V F\ne. El dengue puede matar V F"
+    },
+    {
+      "marcador_cita": "[[PAGINA 63]]",
+      "id": "MINSA-3170-P0063",
+      "pagina_pdf": 63,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 64]]",
+      "id": "MINSA-3170-P0064",
+      "pagina_pdf": 64,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Av. Salaverry 801 Jesús María - Lima, Perú\nCentral T elefónica  (511) 315 6600\nwebmaster@minsa.gob.pe\nCalle Del Comercio 193, San Borja - Lima, Perú\nCentral T elefónica  (511) 615-5800\nwebmaster@minedu.gob.pe\núnete por la niñez"
+    }
+  ]
+}

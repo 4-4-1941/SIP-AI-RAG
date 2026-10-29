@@ -1,0 +1,847 @@
+{
+  "id": "MINSA-7665",
+  "id_fuente_oficial": "7665",
+  "titulo": "PMA-PREVENCIÓN Y CONTROL DE LA ANEMIA DIGITAL 9-4-25",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Documento técnico del Ministerio de Salud",
+  "numero_norma": null,
+  "fecha_aprobacion": null,
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "fuentes_oficiales": [
+    {
+      "tipo": "archivo_local",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "PMA-PREVENCIÓN Y CONTROL DE LA ANEMIA DIGITAL 9-4-25",
+      "url": null,
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "7665.pdf",
+  "huella_sha256_pdf_fuente": "f48fcb2a07e3ab64b11351ef570b5eca4d583a8a42bbf27ae6b9298b19480cc0",
+  "paginas_pdf": 80,
+  "paginas_con_texto": 72,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "texto_nativo_pdf",
+  "ocr_aplicado": false,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 80,
+    "paginas_con_texto": 72,
+    "caracteres_texto_extraido": 42153
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-7665-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Norma Técn ica de Salud N° 213-MINSA/DGIESP  2024:\nPrevención y Control de  la Anemia por \nDeﬁcien cia de Hierro en el Niñ o y la \nNiña, Adolescentes, Mujeres en Edad \nFértil, Gestantes y Puérperas\nRM N° 251-2024/MINSA  - RM N° 429-2024/MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-7665-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Norma Técnica de Salud N° 213-MINSA/DGIESP-2024: Pr evención y control de  la anemia por deficiencia de\nhierro en el niño y en la niña, a dolescentes, mujeres en edad fértil, gestantes y puérperas.\nCatalogación hecha por la Biblioteca del Ministerio  de Salud\nhierro en el niño y la niña, adolescentes, mujeres en edad fértil, gestantes y puérperas. RM N° 251-2024 /MINSA \nEstratégicas en Salud Pública. U nidad Funcional de Alimentación y Nutrición Saludable / Ministerio de Salud; 2025. \n78 p.; ilus.\nSALUD MATERNO INFANTIL / ANEMIA / TRASTORNOS DE LA NU TRICIÓN DEL NIÑO / DEFICIENCIAS DE HIERRO / ANEMIAS \nNUTRICIONALES / TRASTORNOS DEL METAB OLISMO DEL HIERRO / A TENCIÓN INTEGRAL DE SALUD / TRASTORNOS DE \nALIMENTACIÓN Y DE LA INGESTIÓN DE ALIMENTOS / PROMOCIÓN DE LA  SAL\nCAS\nHecho el Depósito L egal en la Biblioteca  Nacional del Perú N° 202 5-03477\nMinisterio de Salud. Dirección General de Intervenc iones Estratégicas en S alud Pú blica. Un ida d Funcional \nde Alim entación y Nutrición S aludable ( MIN SA/DG IESP/UFANS).\nResponsables de la elaboración\nEquipo Técnico de la Unidad Funcional de Alim entación y Nutrición Saludable:\nDr. Alex ander Kostadinov Tarev\nDra. María Cóndor Espinoza\nDr. Yencey Barran zuela Montoya\nLic. Jose ﬁna Pomac hagua  Paucar\nLic. Esth er Molina Moscoso\nLic. Lily S andoval Cervantes\nLic. Jacqueline Lino Calderón\nLic. Jhon Órtiz Car huapoma\nLic. Jorge Junco  Guillermo\nLic. Patricia Rodríguez Muñoz\nLic. Rox ana Recuenco Cabrera\nLic. Edwina Gutiérrez Chávez\nLic. Fiorella Anali Munive Labrin\nEquipo Técnico de la Dirección de Salud Sexual y Reproductiva:\nDr. Daniel Aspilcu eta Gho\nLic. Zoila Rosa Almonacid Estrella\nRevisor:\nDr. Luis Robles Guerrero, Secretaría General\nDiseño y diagramación:\nOmar Dalí Ro sas Solier, Sinco Industria Gr áﬁca\n© MINSA,  abril, 2025\nMinisterio de Salud\nAv. Salaverry 801 – Jesús María\nTeléfono: (511) 315-6600\nhttps://www .minsa.gob.pe\nwebmaster@minsa.gob.pe\n1ª. Edición, abril 2025\nVersión di gital disponible:\nhttps://bv s.minsa.gob.pe/loc al/MINS A/7665.pdf\nEl diseño, diagramación e impresión ha sido realiza do con el  apoyo del Programa M undial de Alimentos."
+    },
+    {
+      "marcador_cita": "[[PAGINA 3]]",
+      "id": "MINSA-7665-P0003",
+      "pagina_pdf": 3,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "CÉSAR HENRY V\nMinistro de Salud\nERIC RICARDO PEÑA SÁ NCHEZ\nViceministro de Salud Pública\nCRIS STIAN DÍAZ VÉLEZ\nDirector General de la Direcc ión General de \nIntervenciones Estratégicas en S alud Pública\nALEXANDER KOSTADINOV TAREV\nCoordinador Nacional de  la Unidad Funcional de \nAlimentación y Nutrición Saludable\nCIRO ABEL MESTAS VALERO\nViceministro de Prestaciones y Aseguramiento\nen Salud\nJUAN ENRIQUE ALCÁNTARA MEDRANO\nSecretario General"
+    },
+    {
+      "marcador_cita": "[[PAGINA 4]]",
+      "id": "MINSA-7665-P0004",
+      "pagina_pdf": 4,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 5]]",
+      "id": "MINSA-7665-P0005",
+      "pagina_pdf": 5,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "6\n13 \n14 \n15\n16\n30\n65\n67 \n68 \n68\n72\n73\n74\n75\n76\nTABLA DE \nCONTENIDOS\n1. RESOLUCIÓN MINIS TER IAL\n2. FINALIDAD \n3.\n4. ÁMBITO DE APLICACIÓN \n5. BASE LEGAL \n6. DISPO SIC IONES GENE RALES \n7.\n8. RESPONS ABILIDAD \nANEXOS \n•\nDEFICIENCIA DE HIERRO \n• ANEXO 2: C ONTENID OS TÉCNICOS PARA LA A LIM ENTACIÓN DE LA \nGESTANTE Y MADRE QUE DA DE LACTAR\n• ANEXO 3: C ONTENI DO DE HIER RO EN ALIM ENTOS DE ORI GEN \nANIMAL Y RE QUERIMI ENTO DE HIERRO\n•\nLOS SUP LEM ENTOS DE HIERRO O MICRONU TRIEN TES\n•\nDEFICIENCIA DE HIERRO \n•\nANEMIA POR DEFICIENCIA DE HIERRO\n10."
+    },
+    {
+      "marcador_cita": "[[PAGINA 6]]",
+      "id": "MINSA-7665-P0006",
+      "pagina_pdf": 6,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 7]]",
+      "id": "MINSA-7665-P0007",
+      "pagina_pdf": 7,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 8]]",
+      "id": "MINSA-7665-P0008",
+      "pagina_pdf": 8,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 9]]",
+      "id": "MINSA-7665-P0009",
+      "pagina_pdf": 9,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "FALTA\nHOJA D E RESOLUCIÓN"
+    },
+    {
+      "marcador_cita": "[[PAGINA 10]]",
+      "id": "MINSA-7665-P0010",
+      "pagina_pdf": 10,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 11]]",
+      "id": "MINSA-7665-P0011",
+      "pagina_pdf": 11,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 12]]",
+      "id": "MINSA-7665-P0012",
+      "pagina_pdf": 12,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 13]]",
+      "id": "MINSA-7665-P0013",
+      "pagina_pdf": 13,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "13\nFINALIDAD\nI.\nContribuir a la disminución de la prevalencia de"
+    },
+    {
+      "marcador_cita": "[[PAGINA 14]]",
+      "id": "MINSA-7665-P0014",
+      "pagina_pdf": 14,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "14\n2.1. Objetivo General\nEstablecer las disposiciones técnicas y administrativas para las \n2.2.1. E stablecer los criterios técnicos de las intervenciones \n2.2.2. E stablecer las acciones de monitoreo, evaluación, \nsuper visión y asistencia técnica\nOBJETIVOS\nII."
+    },
+    {
+      "marcador_cita": "[[PAGINA 15]]",
+      "id": "MINSA-7665-P0015",
+      "pagina_pdf": 15,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "15\nLa presente Norma Técnica de Salud es de aplicación \nobligatoria\nÁMBITO DE \nAPLICACIÓN\nIII."
+    },
+    {
+      "marcador_cita": "[[PAGINA 16]]",
+      "id": "MINSA-7665-P0016",
+      "pagina_pdf": 16,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "16\nBASE LEGAL\n• Ley 26842,\n• Ley 27867,\n• Decreto Legislativo N° 1161,\n• Decreto Supremo N° 016-2011-SA,\n• Decreto Supremo N° 020-2014-SA,\n• Decreto Supremo N° 008-2017-SA,\n• Decreto Supremo N° 016-2021-SA,\nIV."
+    },
+    {
+      "marcador_cita": "[[PAGINA 17]]",
+      "id": "MINSA-7665-P0017",
+      "pagina_pdf": 17,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "17\n• Resolución Suprema 023-2019-MEF,\n• Resolución Ministerial N° 751-2004/MINSA\n• Resolución Ministerial N° 870-2009/MINSA\n• Resolución Ministerial N° 958-2012/MINSA,\n• Resolución Ministerial N° 665-2013-MINSA,\n• Resolución Ministerial N° 827-2013/MINSA,\n• Resolución Ministerial N° 460-2015/MINSA;\n• Resolución Ministerial N° 537-2017/MINSA,\n• Resolución Ministerial 1353-2018/MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 18]]",
+      "id": "MINSA-7665-P0018",
+      "pagina_pdf": 18,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "18\n• Resolución Ministerial N° 228-2019/MINSA,\n• Resolución Ministerial N°030-2020-MINSA,\n• Resolución Ministerial 146-2020/MINSA,\n• Resolución Ministerial 967-2020/MINSA,\n• ResoluciónMinisterialN°818-2021/MINSA,\n• Resolución Ministerial 363-2022/MINSA,\n• Resolución Ministerial 118-2023/MINSA,\n• ResoluciónMinisterialN°633-2023/MINSA;"
+    },
+    {
+      "marcador_cita": "[[PAGINA 19]]",
+      "id": "MINSA-7665-P0019",
+      "pagina_pdf": 19,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "19\nDISPOSICIONES \nGENERALES\n• Adherencia al suplemento de hierro: \nV.\n• Alimentación saludable:\ncada persona necesita diariamente para"
+    },
+    {
+      "marcador_cita": "[[PAGINA 20]]",
+      "id": "MINSA-7665-P0020",
+      "pagina_pdf": 20,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "20\n• Anemia: Es un trastorno caracterizado por la dism inución del \nnúmero de glóbulos rojos\n• Anemia por deﬁciencia de hierro: disminución de los niveles \nde Hb a causa de la carencia de hierro\n• Atención nutricional: realizada por el/la profesional en nutrición \nen el establecimiento de salud que incluye\n• Consejería nutricional: proceso educativo comunicacional entre \nel/la profesional nutricionista o profesional de la salud \ncon \nel propósito de mejorar las prácticas de alimentación y nutrición \n• Ferritina sérica: es una proteína de almacenamiento de \nhierro.\ndebe usarse para diagnosticar la deﬁciencia de hierro en \nindivi duos aparentemente sanos."
+    },
+    {
+      "marcador_cita": "[[PAGINA 21]]",
+      "id": "MINSA-7665-P0021",
+      "pagina_pdf": 21,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "21\n• Prescripción nutricional: indicación especíﬁca dada por el/la \nnutric ionista\nTiene en \ncuenta las condiciones de salud, el peso, la e statura, el sexo, la edad, \nel nivel de ac tivid ad, la conducta y las preferencias alimentarias\n• Suplementación: preventiva o terapéutica\nmantener o reponer niveles adecuados de hierro en \nel or ganismo de las personas\n• Suplemento de hierro: conocido como sales de hierro, \nse utili zan para tratar y prevenir la \ndeﬁciencia de hierro\n5.2. Atención con pertinenc ia cultural\n5.2.1. El establecimiento de salud brinda las prestaciones de \nconsiderando sus patrones culturales y \ncontexto social.\n5.2.2. El establecimiento de salud garantiza\nimplemen tando horarios diferenciados, señ alización según \nlengua originaria\n5.2.3. El establecimiento de salud utiliza\nfavorezca el aprendizaje\n5.3. Atención en los establecimientos de salud\n5.3.1.\npor primera vez al establecimiento \ndeben recibir el paquete de atención integral de"
+    },
+    {
+      "marcador_cita": "[[PAGINA 22]]",
+      "id": "MINSA-7665-P0022",
+      "pagina_pdf": 22,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "22\n5.3.2. el ajuste del valor de Hb \nen zonas con al titu des >500\nTabla N° 1\nAJUSTE DEL VALOR DE HEMOGLOBINA SEGÚN ALTITUD\nRangos de elevación\n(msnm)\nAjustes en la concentración de \nhemoglobina (g/dL) (b) \n1- 499 0\n500 - 999 0.4\n1000 - 1499 0.8\n1500 - 1999 1.1\n2000 – 2499 1.4\n2500 – 2999 1.8\n3000 – 3499 2.1\n3500 – 3999 2.5\n4000 – 4499 2.9\n4500 - 4999 3.3\n5000 - 5500 4.0\n(a): Los ajustes son la cantidad restada del nivel de hemoglo bina observado o agregada al límite de \n(b): Ajustes pr opuestos para todos los grupos de población basados en la ecuac ión: Ajuste de \nhemoglobina (g/dl) = ((0.0056384 x altitud) + (0. 0000003 x altitud x altitud))/10.\npoblaciones. Ginebra: Organización Mundial de la Salud; 2024.\n5.3.3.\nEl personal de salud registra en la historia clínica el valor \nobservado y el valor ajust ado (disminuido al nivel de altura).\n5.3.4. Si el/la paciente no corresponde a su jurisdicción\nse coordina con el e stablecimiento salud a donde se le \nderiva\n5.3.5. Durante la atención del/de la paciente, el/la profesional d e la \nsalud ac tualiza la dirección del domicilio"
+    },
+    {
+      "marcador_cita": "[[PAGINA 23]]",
+      "id": "MINSA-7665-P0023",
+      "pagina_pdf": 23,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "23\n5.4. Suplementación preventiva y tr atamiento\n5.4.1. El/la médico cirujano o médico especialista,\npodrán brindar suplemento de hierro para prevenir la \nanemia según la edad\ntratam iento para la ane mia lo prescribe el/la médico \ncirujano y/o médico espec ial ista\nen adolescentes, \ngestantes, puérperas y mujeres en edad fértil, en ausencia \ndel médico y/o espec ialis ta, excepcionalmente, el/la obstetra \nbrindará el supl emento de hierro\nen ausencia \ndel médico y/o espec ialis ta, excepcionalmente, el/la \nlicenciado/a en enfermería o el/la licenciado/a en nutrici ón, \nbrindará el suplemento de hierro,\n5.4.2. Cuando la adherencia al sulfato ferroso no es adecuad a\nse emplea como alternativa \nel Complejo P olimaltosado Férrico."
+    },
+    {
+      "marcador_cita": "[[PAGINA 24]]",
+      "id": "MINSA-7665-P0024",
+      "pagina_pdf": 24,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "24\n5.4.3.\nEn niñas y niños menores de 36 meses\nEstreñimiento\nDele lactancia materna más seguida.\nFraccione la dosis en 2 tomas.\nDiarrea\nCambie el horario en el que le da las gotas.\nFraccione la dosis indicada.\nColoración oscura de heces No se preocupe, las gotas o jarabe cambian el color de las \ndeposiciones, eso pasa al terminar su consumo.\nDolor estomacal\nSi tiene menos de 6 meses, dele de lactar primero; y, si es mayor de \n6 meses brindar el suplemento junto con el refrigerio, de pre ferencia \nque no contenga leche.\nNáuseas o vómitos\nCambie el horario en el que le da las gotas.\nBusque una hora en la que su bebe esté tranquilo/a y descansad o/a. \nTenga paciencia, inténtelo en otro momento.\nManchado de dientes\nMezcle el suplemento de hierro con un poco de agua o jug o de \nfrutas, tratando que el/la niño/a n o lo tenga mucho tiempo en la \nboca.\nEn gestantes o puérperas\nNáuseas No lo consuma en ayunas ni muy temprano.\nEstreñimiento Incorpore en su alimentación más frutas, verduras y agua.\nDolor estomacal Consumir las tabletas de hierro junto con el refrigerio a media \nmañana o a media tarde, de preferenc ia que NO contenga leche.\nColoración oscura de heces No se preocupe, las tabletas cambian el color de las deposiciones, \neso pasa al terminar su consumo.\n5.4.4."
+    },
+    {
+      "marcador_cita": "[[PAGINA 25]]",
+      "id": "MINSA-7665-P0025",
+      "pagina_pdf": 25,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "25\n5.4.5. Excepcionalmente,\n5.5. Vigilancia de reacciones adversas\n5.6. Suspensión de los suplement os de hierro.\n5.6.1.\n5.6.2.\n5.6.3."
+    },
+    {
+      "marcador_cita": "[[PAGINA 26]]",
+      "id": "MINSA-7665-P0026",
+      "pagina_pdf": 26,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "26\n5.7. Consideraciones para la suplementación preventiva y \nterapéutica de anemia en situaciones de emergencia o \ndesastres\n5.7.1.\n5.7.2.\n5.7.3."
+    },
+    {
+      "marcador_cita": "[[PAGINA 27]]",
+      "id": "MINSA-7665-P0027",
+      "pagina_pdf": 27,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "27\n5.7.4.\nTabla N° 2\nDosis estandarizada de suplementos de hierro y micronutrient es en niños \nde 4 a 59 meses de edad s in y con anemia, en situaciones de emergencia\nEdad\nSin Anemia\nTiempo de \nDuración\nCon Anemia\nComplejo \nPolimaltosado \nFérrico\nSulfato \nFerroso Micronutrientes\nComplejo \nPolimaltosado \nFérrico\nSulfato \nFerroso\nTiempo \nde \nDuración\nDosis por día D osis por día\n4 - 5 \nmeses 6 gotas 11 gotas 2 meses 8 gotas 17 gotas\n6 meses\n6 - 8 \nmeses 7 gotas 13 gotas 1 sobre\n6 meses\n10 gotas 20 gotas\n9 - 11 \nmeses 8 gotas 15 gotas 1 sobre 11 gotas 23 gotas\n12 - 18 \nmeses 9 gotas 17 gotas 1 sobre 13 gotas 26 gotas\n19 - 23 \nmeses 11 gotas 19 gotas 1 sobre 14 gotas 29 gotas\n24 - 35 \nmeses\n3 mL jarabe 10 mL de \njarabe\n2 sobres 4 mL jarabe 13 mL \njarabe\n36 - 59 \nmeses 2 sobres 3 meses 5 mL jarabe 16 mL \njarabe\nFuente: Adaptado de Guideline: Daily iron supplementation in infants and children. Geneva World Health \nOrganization, 2016\n5.8. Bienes y servicios necesarios en el e stablecimiento de \nsalud para la prevención y control de la anemia por \n5.8.1."
+    },
+    {
+      "marcador_cita": "[[PAGINA 28]]",
+      "id": "MINSA-7665-P0028",
+      "pagina_pdf": 28,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "28\n5.8.2.\n•\n•\n•\n•\n•\n•\n5.8.3.\n5.8.4."
+    },
+    {
+      "marcador_cita": "[[PAGINA 29]]",
+      "id": "MINSA-7665-P0029",
+      "pagina_pdf": 29,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "29\n5.9. La DIRESA/GERESA/DIRIS y otros pr estadores públicos, \nprivados o mixtos son responsables de gar antizar \nde manera opor tuna, suﬁciente y permanente en \nlos e stablecimientos de salud, la disponibili dad de \nrecursos humanos, infr aestructura, equipos, productos \nfarmacéuticos, dispositivos médicos y de laboratorio, \nmaterial educativo comunicacional, entre otros para el \ncumplimiento de la presente Norma Técnica de Salud.\nTabla N° 3\nProductos farmacéuticos para la suplementación preventiv a y \nPRESENTACIÓN PRODUCTO CONTENIDO DE \nHIERRO ELEMENTAL FORMA FARMACÉUTICA\nGOTAS\nSulfato Ferroso 1 gota = 1,25 mg Hierro \nelemental Solución oral\nComplejo \nPolimaltosado \nFérrico\n1 gota = 2,5 mg Hierro \nelemental Solución oral\nJARABE\nSulfato Ferroso 1 ml = 3 mg de Hierro \nelemental. Solución oral\nComplejo \nPolimaltosado \nFérrico\n1 ml = 10 mg de Hierro \nelemental Solución oral\nTABLETAS\nSulfato ferroso 60 mg de Hierro \nelemental Tabletas\nComplejo \nPolimaltosado \nFérrico\n100 mg de Hierro \nelemental Tabletas\nTableta Sulfato \nFerroso + Ácido \nFólico\n60 mg de hierro \nelemental + 400 ug. de \nÁcido Fólico\nTabletas\nPOLVO Otras combinaciones \nde multivitaminas\nHierro (12,5 mg Hierro \nelemental)\nPolvo Oral\nZinc (5 mg)\nÁcido fólico (160 ug)\nVitamina A (300 ug \nRetinol Equivalente)\nVitamina C (30 mg)\nAMPOLLA Hierro Sacarato 100 \nmg/5ml\n5ml= 100mg de hierro \nelemental Solución inyectable"
+    },
+    {
+      "marcador_cita": "[[PAGINA 30]]",
+      "id": "MINSA-7665-P0030",
+      "pagina_pdf": 30,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "DISPOSICIONES \nESPECÍFICAS\nVI.\n6.1. INTERVENCIONES SANITARIAS EN LA \nANEMIA POR DEFICIENCIA  DE HIERRO\n6.1.1. Acciones de prevención (Anexo N° 1)\nA. Medición de hem oglobina"
+    },
+    {
+      "marcador_cita": "[[PAGINA 31]]",
+      "id": "MINSA-7665-P0031",
+      "pagina_pdf": 31,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "31\nTabla N° 4\nMedición de hem oglobina por grupo de edad durante la suplementación.\nCondición/Grupo de edad Medición de hemoglobina\nRN con bajo peso al nacer o \nprematuro\n2 mediciones:\n- A los 30 días de nacido\n- Al tercer mes de inic iada la suplementación\n6 a 11 meses de edad\n3 mediciones:\n- A partir de los 6 meses de edad\n- Al tercer mes de inic iada la suplementación (control)\n- Al término de la suplementación (control)\n12 a 23 meses de edad\n3 mediciones:\n- Antes de iniciar la suplementación\n- Al tercer mes de inic iada la suplementación (control)\n- Al término de la suplementación (control)\n24 a 35 meses de edad 2 mediciones al año:\n- Antes de iniciar la suplementación\n- Al término de la suplementación (control)36-59 meses de edad\n5 a 11 años de edad 1 medición al año\nAdolescentes mujeres 12 - 17 años, 11 \nmeses y 29 días\n2 mediciones al año:\n- Antes de iniciar la suplementación\n- Al término de la suplementación (control)\nGestante\n3 mediciones:\n- En el 1er control prenatal\n- En la semana 25 al 28 de gestación\n- En la semana 37 a 40 de gestación antes del parto\nPuérpera A los 30 días post parto.\nMujer en edad fértil 1 medición al año\nB.Suplementaciónpreventiva\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 32]]",
+      "id": "MINSA-7665-P0032",
+      "pagina_pdf": 32,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "32\nTabla N° 5\nSuplementación con hierro en la niña y el niño menor de 6 mes es de edad\nCondición Edad de \nadministración Dosis Producto Presentación Frecuencia Tiempo de \nDuración\nNiña/niño \ncon bajo \npeso al \nnacer y/o \nprematuro/a\nA los 30 días de \nnacido\n2mg/Kg/\ndía\nSulfato ferroso\ngotas\nDiaria\nHasta los \n6 meses \ncumplidos.\nComplejo \nPolimaltosado \nférrico*\nNiña/niño \nnacido/a a \ntérmino con \nadecuado \npeso al nacer\nA los 4 meses de \nedad\n2mg/Kg/\ndía\nSulfato ferroso\nDiariaComplejo \nPolimaltosado \nférrico*\nNota: A partir de los 6 meses de edad, la suplementación preventiva para niños con baj o peso al nacer será igual al \ndel niño nacido a término con adecuado peso al nacer.\n(*) Alternativa al sulfato ferroso.\n•\n•\nTabla N° 6\nSuplementación c on hierro y otras combinaciones de multivitamínicos \nen el niño y en la niña de 6 a 11 meses\nEdad Dosis Producto Presentación Frecuencia Duración\n6 a 11 \nmeses\n2 mg/kg\nSulfato Ferroso\ngotas o jarabe\nDiaria\n6 meses\nconsecutivos\nComplejo \nPolimaltosado \nFérrico*\n1 sobre Micronutrientes polvo de 1 g\n(*) Alternativa al sulfato ferroso"
+    },
+    {
+      "marcador_cita": "[[PAGINA 33]]",
+      "id": "MINSA-7665-P0033",
+      "pagina_pdf": 33,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "33\n•\n•\nTabla N° 7\nSuplementación con hierr o y otras combinaciones de multivitamínicos \nen el niño y la niña de 12 a 23 meses\nEdad Dosis Producto Presentación Frecuencia Duración\n12 a 23 \nmeses\n2 mg/kg/\ndía\nSulfato Ferroso\ngotas o jarabe\nDiaria\n6 meses\nconsecutivos\nComplejo \nPolimaltosado \nFérrico*\n1 sobre Micronutrientes polvo de 1 g\n(*) Alternativa al sulfato ferroso\nG\nOTAS\nFE\nJA RABE\n4. En el niño y la niña de 24 a 59 meses\n Se inicia la suplementación cuando la \n35 meses de edad son suplementados \ndurante 6 meses; y, el niño y la niña \nde 36 a 59 meses, durante 3 meses; en \nambos es de forma diaria y co ntinua. \n(Tabla N°8)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 34]]",
+      "id": "MINSA-7665-P0034",
+      "pagina_pdf": 34,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "34\nTabla N° 8\nSuplementación c on hierro y otras combinaciones de multivitamínicos \nen el niño y la niña de 24 a 59 meses\nEdad Dosis Producto Presentación Frecuencia Duración\n24 a 35 \nmeses\n30 mg Hierro\nelemental*\nSulfato Ferroso\njarabe\nDiaria\n6 meses \ncontinuos en el \naño\nComplejo \nPolimaltosado \nFérrico*\n2 sobres Micronutrientes en \npolvo de 1 g polvo\n36 a 59 \nmeses\n30 mg Hierro\nelemental*\nSulfato Ferroso\njarabe\n3 meses \ncontínuos en el \naño\nComplejo \nPolimaltosado \nFérrico*\n2 sobres Micronutrientes en \npolvo de 1 g polvo\n(*) Alternativa al sulfato ferroso\nTAB L ETAS\nFE\nJA RABE\n5. En el niño y la niña de 5 a 11 años\n Se inicia la suplementación cuando \n3 meses contínuos (Tabla N° 9)."
+    },
+    {
+      "marcador_cita": "[[PAGINA 35]]",
+      "id": "MINSA-7665-P0035",
+      "pagina_pdf": 35,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "35\nTabla N° 9\nSuplementación con hierro en el niñ o y la niña de 5 a 11 años\nEdad Dosis Producto Presentación Frecuencia Duración\n5 a 11 años 60 mg de hierro \nelemental Sulfato ferroso Jarabe o tableta Diaria 3 meses contínuos en \nel año\n•\n•\nTabla N° 10\nSuplementación con hierro y ácido fólico en la \nadolescente y mujer en edad fértil\nEdad Producto Presentación Frecuencia Duración\nMujer adolescente, \nmujer en edad fértil\nHierro elemental 60mg + 400 ug \nde ácido fólico Tabletas 2 veces por \nsemana\n3 meses por \naño\n•\n•\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 36]]",
+      "id": "MINSA-7665-P0036",
+      "pagina_pdf": 36,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "36\n•\nTabla N° 11\nSuplementación c on hierro y ácido fólico a gestantes y puérperas\nInicio de \nAdministración Dosis Producto Presentación Frecuencia Duración\nA partir de la semana \n14 de gestación\nHierro elemental \n60mg de + 400ug de \nácido fólico\nSulfato ferroso \n+ ácido fólico \no Complejo \nPolimaltosado \nFérrico + ácido \nfólico\nTableta\n1 tableta al día\nHasta el \ntérmino de \nla gestaciónInicio de la atención \nprenatal después de \nla semana 32\nHierro elemental \n120mg + 800ug de \nácido fólico\n2 tabletas al \ndía\nPuérperas\nHierro elemental \n60mg + 400ug de \nácido fólico\n1 tableta al día\nHasta 30 \ndías post \nparto.\nC. Seguimiento de la suplementación preventiva\n1. Control de he moglobina:\n2. Consulta ambulatoria:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 37]]",
+      "id": "MINSA-7665-P0037",
+      "pagina_pdf": 37,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "37\n3. Atención nutricional:\n4. Consejería nutricional:\n5. Visita domiciliaria y/o teleorientación:\n•\n•\n•\n•\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 38]]",
+      "id": "MINSA-7665-P0038",
+      "pagina_pdf": 38,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "38\n•\n•\n6.1.2. Acciones de recuperación\nCriterio clínico:\nAnamnesis:\n•\n•\n•\n•\n•\n•\n•\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 39]]",
+      "id": "MINSA-7665-P0039",
+      "pagina_pdf": 39,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "39\nExamen físico:\nTabla N° 12\nSignos y síntomas de la anemia\nÓrganos o sistemas \nafectados Síntomas y signos\nSíntomas generales\nSueño incrementado, astenia, inapetencia, anore xia, irritabilidad, rendimiento físico \ndisminuido, fatiga, vértigos, mareos, cefaleas y alteraciones en el crecimiento. En \nprematuros y lactantes pequeños; baja ganancia corporal.\nAlteraciones en piel y \nfaneras\nPiel y membranas mucosas p álidas (signo principal), piel seca, caída del cabello, \npelo ralo y uñas quebradizas, aplanadas (platoniquia) o con la curvatura inversa \n(coiloniquia)\nAlteraciones de \nconducta alimentaria Pica. Tendencia a comer tierra (geofagia), uñas, cabello, p asta de dientes, entre otros.\nSíntomas \ncardiopulmonares\nTaquicardia, soplo y disnea del esfuerzo. Estas condiciones se pueden p resentar \ncuando el valor de hemoglobina es muy bajo (<5g/dL).\nAlteraciones \ndigestivas, infecciones \nbucodentales\nAlteraciones \ninmunológicas\nSíntomas \nneurológicos\nAlteración del desarrollo psicomotor del aprendizaje y/o la atenció n. Alteraciones de las \nfunciones de memoria y pobre respuesta a e stímulos sensoriales.\nFuente: Ministerio de Salud, Dirección General de Intervenciones Estratégicas en Sa lud Pública, adaptado de las \n1\nPérdida de apetito Incremento de sueño\nCansancioPalidez de piel\ny mucosas\nIrritabilidad"
+    },
+    {
+      "marcador_cita": "[[PAGINA 40]]",
+      "id": "MINSA-7665-P0040",
+      "pagina_pdf": 40,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "40\n• El/la médico c irujano o médico espec ialista en pediatría o médico \nespecialista en medicina familiar y comunitaria o médico especialista \nen ginecología y obstetricia o el/la licenciado/a en biolog ía o \ntecnología médica en laboratorio clínico o el/la técnico de laboratorio \no el/la licenciado/a en enfermería o el/la licenciado/a en nutr ición \nu obstetra capac itado/a realiza la primera medición de Hb con el \nhemoglobinómetro por tátil, según nivel de atención.\n• Cuando el nivel de la Hb es menor al valor normal (Tabla N° 13) de \nacuerdo a la edad o condición, se deben solicitar inme diatamente los \nsiguientes análisis de laboratorio:\nANÁLISIS DE LABORATAA ORIO\nHEMATOLOGÍA\nLEUCOCITOS\nHEMATÍESAA\nHEMOGLOBINA\nHEMATAA OCRITO\nVCM\nHCM\nCHCM\nPLAQUETASTT\n– Hb, hematocrito, \nglóbulos rojos, leucocitos, volumen corpuscular medio (VCM), \nhemoglobina corpuscular media (HMC), concentración de \nhemoglobina corpuscular media (CHCM), recuento de plaquetas.\n– Recuento de reticulocitos."
+    },
+    {
+      "marcador_cita": "[[PAGINA 41]]",
+      "id": "MINSA-7665-P0041",
+      "pagina_pdf": 41,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "41\nLTLL ADOTT\nFERRITINA\nLATEX PCR DIRE\nCTO\nCRP DIRE\nCT LATEX\n30 0035\n100 mls\n162001\n201201\n°C\nCE gr\n– Ferr itina (Tabla N° 14).\n–\n–  Microcitosis, hipocr omía y anisocitosis.\nDOSAJE DE FERRITINA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 42]]",
+      "id": "MINSA-7665-P0042",
+      "pagina_pdf": 42,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "42\n– Examen parasitológico seriado en heces.\n– Gota gruesa en residentes o provenientes \nde zonas endémicas de malaria.\n– Dosaje de plomo en sangre en zonas de \nriesgo de c ontaminación.\n• En los e stablecimientos de salud que no cuenten con \nel servicio de laboratorio clínico, se toma la muestra de \nsangre y se envía al est ablecimiento de salud de mayor \ncapacidad re sol utiva, tal y como se e stablece en la NTS \nN° 072- MINSA /DGSP-V.01. “Norma Técnica de Salud de \nla Unidad Productora de Servicios de Pato logía Clínica” \naprobada por Resolución Ministerial N° 627- 2008/MINSA."
+    },
+    {
+      "marcador_cita": "[[PAGINA 43]]",
+      "id": "MINSA-7665-P0043",
+      "pagina_pdf": 43,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "43\nTabla N° 13\nValores normales de concentración de hem oglobina y niveles de anemia \n(Hasta 500 msnm)\nPoblación Con Anemia según niveles de \nHemoglobina (g/dL)\nSin Anemia según \nniveles de Hemoglobina \n(g/dL)\nPrematuros/as\n1ª semana de vida >13.0\n2ª a 4ta semana de vida >10.0\n5ª a 8va semana de vida >8.0\nNacidos/as a Término\nMenor de 2 meses < 13.5 13.5 - 18.5\nNiños de 2 a 5 meses < 9.5 9.5 - 13.5\nNiños/as Severa Moderada Leve\nDe 6 a 23 meses < 7,0 7.0 - 9.4 9.5 - 10.4\nDe 24 a 59 meses < 7,0 7.0 - 9.9 10.0 - 10.9\nDe 5 a 11 años < 8.0 8.0 - 10.9 11.0 - 11.4\nAdolescentes\nMujeres de 12 - 14 años no embarazadas < 8.0 8.0 - 10.9 11.0 - 11.9\nVarones de 12 a 14 años < 8.0 8.0 - 10.9 11.0 - 11.9\nVarones de 15 años a más < 8.0 8.0 - 10.9 11.0 - 12.9\nMujeres NO Gestantes ( 15 años a más) < 8.0 8.0 - 10.9 11.0 - 11.9\nGestantes y Puérperas\nPrimer Trimestre < 7.0 7.0 - 9.9 10.0 - 10.9\nSegundo Trimestre < 7.0 7.0 - 9.4 9.5 - 10.4\nTercer trimestre < 7.0 7.0 - 9.9 10.0 - 10.9\nPuérpera < 8.0 8.0 - 10.9 11.0 - 11.9\nanemia en individuos y poblaciones. 2024"
+    },
+    {
+      "marcador_cita": "[[PAGINA 44]]",
+      "id": "MINSA-7665-P0044",
+      "pagina_pdf": 44,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "44\nTabla N° 14\nGrupo etario\nFerritina sérica (ug/L) (a,b)\nAnemia ferropénica Individuos con \ninfección o \nIndividuos \naparentemente \nsanos (c)\nIndividuos no \nsanos\n< 23 meses < 12 <30 - -\n24 a 59 meses < 12 <30 - -\n5 a 11 años < 15 <70\n>150 mujeres\n> 200 hombres\n>500\n12 a 17 años < 15 <70\n>150 mujeres\n> 200 hombres\n>500\n18 a 59 años < 15 <70\n>150 mujeres\n> 200 hombres\n>500\nMujeres embarazadas\n< 15 (Primer\ntrimestre) (e)\n- - -\nFuente: WHO, Guideline on use of Ferr itin concentrations to assess iron status in individuals and populations. 2020\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 45]]",
+      "id": "MINSA-7665-P0045",
+      "pagina_pdf": 45,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "45\nTabla N° 15\nPruebas de diagnóstico diferencial de anemia microcítica\nPrueba Anemia Anemia \nFerropénica Talasemia Enfermedad Crónica\nHemoglobina Disminuida Disminuida Disminuida\nRecuento de eritrocitos Disminuido Normal/\nelevado Normal/Disminuido\nVCM Disminuido Disminuido Normal/elevado\nHCM Disminuido Disminuido Normal/elevado\nFerritina Sérica Disminuida Normal Elevada\nFuente: Adaptado de Pediatría de Nelson\n1. Tratamiento en el/la recién nacido/a prematuro/a y/o con bajo \npes o al nacer\n•\n•\n2. Tratamiento en el niño y la niña menor de 6 meses de edad naci do/a \ntérmino y con buen peso al nacer\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 46]]",
+      "id": "MINSA-7665-P0046",
+      "pagina_pdf": 46,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "46\n•\nTabla N° 16\nmenor a < 6 meses, nacido/a a término y con buen peso al nacer\nEdad Dosis Producto Presentación Frecuencia Duración\n< 6 meses\n3 mg/Kg/día \n(máxima dosis \n40 mg/d)\nSulfato ferroso\nGotas Diaria 6 meses \nconsecutivosComplejo \nPolimaltosado* \nFérrico\n(*) alternativa al sulfato ferroso\n3. Tratamiento en el niño y la niña de 6 meses a 11 años de eda d\n•\n•\nTabla N° 17\nmeses a 11 años de edad\nEdad Dosis Producto Presentación Frecuencia Duración\n6 a 35 meses\n3 mg/Kg/día\n(máxima dosis 70 mg/día)\nSulfato ferroso\nGotas o \nJarabe\nDiaria 6 meses \ncontinuos.\nComplejo \nPolimaltosado* \nFérrico\n36 a 59 meses\n3 mg/Kg/día\n(Máximo dosis 90 mg/día)\nSulfato ferroso\nJarabeComplejo \nPolimaltosado* \nFérrico\n5 a 11 años\n3 mg/Kg/día\n(Máximo dosis 120 mg/día)\nSulfato ferroso\njarabe o \ntabletasComplejo \nPolimaltosado* \nFérrico\n(*) alternativa al sulfato ferroso"
+    },
+    {
+      "marcador_cita": "[[PAGINA 47]]",
+      "id": "MINSA-7665-P0047",
+      "pagina_pdf": 47,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "47\n4. Tratamiento de e l/la adolescente y mujer en edad fértil (Tabla N° 18)\n•\n•\nTabla N° 18\nadolescente y mujer en edad fértil\nEdad Dosis Producto Presentación Frecuencia Duración\nAdolescente \nvarón\n120 mg de hierro \nelemental Sulfato Ferroso\nTabletas Diaria 6 meses \ncontinuos\nMujer: \nadolescente, \nmujer en edad \nfértil \n120 mg de hierro \nde ácido fólico\nSulfato Ferroso + Ácido \nFólico o Complejo \nPolimaltosado Férrico + \nÁcido Fólico\n5. Tratamiento en gestantes y puérperas\n•\n•\n•\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 48]]",
+      "id": "MINSA-7665-P0048",
+      "pagina_pdf": 48,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "48\nTabla N°19\npuérperas\nCondición de \nanemia Dosis\nDosis para \ncompletar \ntratamiento\nProducto Presentación Frecuencia Duración\nAnemia leve/\nmoderada\n120 mg de \nhierro elemental \nácido Fólico \nelemental\n60 mg de hierro \nelemental + \nFólico elemental\nSulfato Ferroso \n+ Ácido Fólico \no Complejo \nPolimaltosado \nFérrico + Ácido \nFólico\nTabletas Diaria 6 meses \ncontinuos\nAnemia \nsevera\nTratar inmediatamente como casos de anemia moder ada y referir a un e stablecimiento de \nmayor capacidad resolutiva que brinda atención espec ializada (hematología y/o ginecología) \n6. Tratamiento con suplemento de hierro intravenoso (IV) en gestantes en \nestablecimientos de salud a partir de la categoría I-4\nAdministración de hierro IV:\n•\n•\n•\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 49]]",
+      "id": "MINSA-7665-P0049",
+      "pagina_pdf": 49,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "49\nIndicación:\nConsideraciones para iniciar el tratamiento con hierro IV:\n•\n•\n•\n•\n•\n*se recomienda peso pregestacional.\nEjemplo:\nAplicando la fórmula\n1,000mg(redondeado)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 50]]",
+      "id": "MINSA-7665-P0050",
+      "pagina_pdf": 50,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "50\n20mg Fe/mL haciendo un total; 100mg en una ampolla. \ny perfundido en  20 a 30min.\nAdministración de terapia:\n•\n•\nEfectos secundarios:\nContraindicaciones para el tratamiento con hierro IV:\n•\n•\n•\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 51]]",
+      "id": "MINSA-7665-P0051",
+      "pagina_pdf": 51,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "51\nEfectos secundarios del hierro IV:\n•\n•\n•\n7. Tratamiento de anemia severa\n•\n•\n8. Atención nutricional\n•\n9. Criterios de alta al tratamiento\n•\n10. Referencia a establecimiento de mayor capacidad resol utiva\n•\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 52]]",
+      "id": "MINSA-7665-P0052",
+      "pagina_pdf": 52,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "52\n•\n11. Seguimiento de casos de anemia\n• La consulta amb ulatoria\n• La atención nutricional\nControl de hem oglobina (Tabla N° 20)\n•\n•\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 53]]",
+      "id": "MINSA-7665-P0053",
+      "pagina_pdf": 53,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "53\nTabla N°20\nControl de Hem oglobina en el tratamiento de anemia en e l niño y la niña, \nel/la adolescente y mujer en edad fért il y gestante\nGrupo de edad / Condición Control de hemoglobina\nRecién nacido con bajo peso al nacer / \nPrematuro Manejo hospitalario\nNiño < 6 meses nacido a término con \nadecuado peso al nacer\nAl mes de iniciado tr atamiento\nAl segundo, tercer y sexto mes de iniciado \ntratamiento6 meses a 35 meses\n36 meses a 11 años Al mes de iniciado el tr atamiento.\nAl tercer y sexto mes del tr atamientoAdolescente, mujer en edad fértil\nGestante Cada 4 semanas h asta que la hemoglobina \nalcance el valor normal\n- Visita domiciliaria y/o telemonitoreo,\n•\n•\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 54]]",
+      "id": "MINSA-7665-P0054",
+      "pagina_pdf": 54,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "54\n6.1.3. ACCIONES DE PROMOCIÓN DE LA SALUD"
+    },
+    {
+      "marcador_cita": "[[PAGINA 55]]",
+      "id": "MINSA-7665-P0055",
+      "pagina_pdf": 55,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "55\n6.2. INTERVENCIONES POR NIVELES DE ATENCIÓN \nEN ANEMIA\n6.2.1. En el primer nivel de atención se realizan las sig uientes acciones\n1. Acciones de prevención\nTabla N° 21\nIntervenciones sanitarias para reducir la anemia\nGestación Puerperio Neonato/a\n(atención inmediata) Niño y niña Adolescente mujer Mujer en \nedad fértil\n- Consejería en lactancia \nmaterna exclusiva y \nriesgos del uso de los \nsucedáneos\n- Consulta médica\n- Atención nutricional\n- Atención prenatal \ndesde el primer \ntrimestre\n- Consejería nutricional\n- Suplementación \npreventiva en \ngestantes y puérperas\n- Tratamiento de la \nanemia en gestantes y \npuérperas\n- Consejería durante \nentrega de \nsuplementos de hierro\n- Mediciones de \nhemoglobina\n- Exámenes auxiliares \ndesde el primer \ntrimestre\n- Teleorientación y \ntele monitoreo, \nteleconsulta, tele \ninterconsulta\n- Visita domiciliaria de \nseguimiento\n- Sesiones educativas en \nanemia a gestantes\n- Sesiones demostrativas \nde preparación de \nalimentos (promoción \ndel consumo de \nalimentos de origen \nanimal ricos en \nhierro y de alimentos \n- Control de parasitosis \na través de \ndesparasitación masiva.\n- Realizar el contacto \npiel a piel inmediata\n- Pinzamiento de \ncordón umbilical \noportuno.\n-Inicio de la lactancia \nmaterna en la primera \nhora.\n- Vacunación de \nacuerdo al esquema \nnacional de \nvacunación \n- Vacunación de acuerdo \nal esquema nacional de \nvacunación.\n- Control de crecimiento y \ndesarrollo (*)\n- Suplementación preventiva \nen la niña y el niño sin \nanemia.\n- Tratamiento de la anemia en \nla niña y niño.\n- Medición de hemoglobina.\n- Suplementación con \nVitamina “A”\n- Control de parasitosis a través \nde desparasitación masiva.\n- Atención nutricional\n- Consulta médica\n- Visita domiciliaria para \nseguimiento de prácticas de \nalimentación y del consumo \nde suplementos.\n- Teleconsulta, tele \ninterconsulta teleor ientación, \ntele monitoreo para \nseguimiento de prácticas de \nalimentación y del consumo \nde suplementos\n- Sesiones educativas en \nanemia.\n- Sesiones demostrativas de \npreparación de alimentos \n(promoción del consumo de \nalimentos de origen animal \nricos en hierro y de alimentos \n- Consejería nutricional \nen alimentación \ncomplementaria\n- Consejería en lactancia \nmaterna\nexclusiva.\n- Consejería durante la entrega \ndel suplemento en la niña y \nel niño. \n- Consulta médica\n- Atención nutricional\n- Suplementación preventiva \ncon hierro más ácido fólico en \nmujeres de 12 a 17 años\n- Suplementación preventiva \ncon hierro y ácido fólico en \nmujeres en edad fértil\n- Tratamiento de la anemia en \nmujeres de 12 a 17 años\n- Mediciones de hemoglobina.\n- Control de parasitosis a través \nde desparasitación masiva.\n- Consejería durante la entrega \nde suplementos\nde hierro más ácido fólico.\n- Promoción del consumo de \norigen animal ricos en hierro.\nSuplementación preventiva \ncon hierro más ácido fólico en \nmujeres de 12 a 17 años\n- Suplementación preventiva \ncon hierro y ácido fólico en \nmujeres en edad fértil\n- Tratamiento de la anemia en \nmujeres de 12 a 17 años\n- Mediciones de hemoglobina.\n- Control de parasitosis a través \nde desparasitación masiva.\n- Consejería durante la entrega \nde suplementos de hierro más \nácido fólico.\n- Promoción del consumo de \norigen animal ricos en hierro.\nFuente: Adecuado del Plan Multisectorial para la prevenció n y reducción de la anemia Materno Infantil. Periodo \n2024-2030, aprobado por Decreto Supremo N° 002-2024-SA."
+    },
+    {
+      "marcador_cita": "[[PAGINA 56]]",
+      "id": "MINSA-7665-P0056",
+      "pagina_pdf": 56,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "56\n2. Acciones de recuperación\n•\n•\n•\n•\n•\n•\n•\n3. Acciones de promoción de la salud\n•\n6.2.2. En el segundo y tercer nivel de atención Se realiz a:\n•\n•\n•\n•\n1. Atención de consulta externa\n•\n•\n•\n•\n•\n•\n6.3. COMPONENTES\n6.3.1. Componente de prestación"
+    },
+    {
+      "marcador_cita": "[[PAGINA 57]]",
+      "id": "MINSA-7665-P0057",
+      "pagina_pdf": 57,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "57\n2. Atenciones extramurales o comunitarias\n•\n•\n•\n•\n6.3.2. Componente de organización\n1. Atenciones de consulta externa  y servic io de apoyo\nOrganización de los servicios\n•\n•\n•\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 58]]",
+      "id": "MINSA-7665-P0058",
+      "pagina_pdf": 58,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "58\n6.3.3. Componente de gestión\n•\n•\n•\n•\n•\n•\n2. Organización\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 59]]",
+      "id": "MINSA-7665-P0059",
+      "pagina_pdf": 59,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "59\n•\n3. Control\na. Supervisión\n•\n•\n•\n•\nb. Monitoreo\n•\n•\nde los indicadores prestacionales en los convenios con los"
+    },
+    {
+      "marcador_cita": "[[PAGINA 60]]",
+      "id": "MINSA-7665-P0060",
+      "pagina_pdf": 60,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "60\n•\nc. Evaluación\n•\n•\n•\n•\nd. Gestión del conocimiento\n•\n•\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 61]]",
+      "id": "MINSA-7665-P0061",
+      "pagina_pdf": 61,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "61\nTabla N° 22\nIndicadores de intervenciones sanitarias para la reducc ión de la anemia\nINDICADORES DE IMPACTO FUENTE\nII1 Prevalencia de anemia en niñas y niños de 6 a 35 meses de e dad ENDES\nII2 Prevalencia de anemia mujer es adolescentes ENDES\nII3 Prevalencia de anemia en gestantes ENDES\nINDICADORES DE RESULTADO FUENTE\nIR1. Porcentaje de niños de 6 meses de edad, a término y/o con adecuado peso al nacer, que \ninician la suplementación entre 110 a 130 días y culminan la supleme ntación preventiva y no \npresentan anemia.\nHIS MINSA\nIR2. Porcentaje de niños de 12 a 18 meses que culminan esquema de suplementación pr eventiva \ny no presentan anemia. HIS MINSA\nIR3. Porcentaje de adolescentes mujeres que culminan su esquema de suplementación preventiva \ny no presentan anemia HIS MINSA\nIR4. Porcentaje de niños de 12 a 18 meses recuperados d e anemia. HIS MINSA\nIR5. Porcentaje de adolescent es mujeres con an emia recuperadas. HIS MINSA\nIR6. Porcentaje de gestantes que culminan la suplementación preventiva y no presentan anemia. HIS MINSA\nIR7. Porcentaje de gestantes recuperadas de anemia. HIS MINSA\nIR8. Porcentaje de mujeres en edad fér til que culminan la suplementación HIS MINSA\nINDICADORES DE PRODUCTO FUENTE\nIP1. Porcentaje de niños de 6 a 8 meses de edad con medición de h emoglobina de \nacuerdo a su edad. HIS MINSA\nIP2.Porcentaje de niños con anemia por deﬁciencia de hierro conﬁrmado por la medición \nde ferritina. HIS MINSA\nIP3 Porcentaje de niños de 12 a 18 meses, con diagnóstico de anemia entre los 6 y 11 meses, con \nactividades de seguimiento. HIS MINSA\nIP4 Porc entaje de niños con diagnóstico de anemia que al primer control de hemoglobina \nincrementan 1g/dL. HIS MINSA\nIP5 Porcentaje de niños con diagnóstico de anemia que, al tercer control, incrementan el n ivel de \nhemoglobina en relación al se gundo control. HIS MINSA\nIP6. Porcentaje de adolescentes mujeres que culminan la s uplementación preventiva. HIS MINSA\nIP7. Porcentaje de gestantes con 5 entregas de suplemento de hierro más ácido fóli co. HIS MINSA\nIP8 Porcentaje de madres o cuidadores de niños de 6 a 23 meses que asisten al menos a 1 sesión \ndemostrativa de preparación de alimentos. HIS MINSA\nIP9 Porcentaje de gestantes que asisten a 1  sesión demostrativa de preparación de alimentos. HIS MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 62]]",
+      "id": "MINSA-7665-P0062",
+      "pagina_pdf": 62,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "62\nTabla N° 23\nCódigos CIE -10 de Anemia\nCPMS Descripción\nExámenes de apoyo al diagnóstico\nD50.0\nD50.8\nD50.9\nD64.9\nD53.9\nO990 Anemia que complica el embarazo, el parto y e l puerperio\nProblemas relacionados c on la salud. Décima revisión. Vol. Ginebra 1994(47)."
+    },
+    {
+      "marcador_cita": "[[PAGINA 63]]",
+      "id": "MINSA-7665-P0063",
+      "pagina_pdf": 63,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "63\n•\nTabla N° 24\nCódigo de Procedimientos Médicos y Sanitarios\nCódigo CIE 10 Descripción\n85018 Hemoglobina\n85018.01 Hemoglobina con hemoglobinómetro\n82728 Dosaje de ferritina\n85031 Hemograma completo, 3era generación\n85044 Recuento man ual de reticulocitos\n85045 Recuento automatizado de reticulocitos.\n83655 Dosaje de plomo\n86140 Proteína C-Reactiva - PCR\nSuplementación\n99199.17 Suplementación con hierro\n99199.19 Suplementación con Micronutrientes \n99199.26 Suplementación de Sulfato Ferroso más Ácido Fólico\nOtras actividades\n99403.01 Consejería nutricional alimentación saludable\n99209 Atención nutricional\nC0010 Sesiones demostrativas de preparación de alimentos\n99499.11 Teleinterconsulta sincrónica\n99499.10 Telemonitoreo\n99499.08 Teleorientación Sin crónica\n99499.01 Teleconsulta en línea\nFuente: Resolución Minister ial 1044-2020-MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 64]]",
+      "id": "MINSA-7665-P0064",
+      "pagina_pdf": 64,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "64\n6.3.4. FINANCIAMIENTO\n•\n•\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 65]]",
+      "id": "MINSA-7665-P0065",
+      "pagina_pdf": 65,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "65\nRESPONSABILIDAD\nVII.\n7.1. NIVEL NACIONAL\n•\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 66]]",
+      "id": "MINSA-7665-P0066",
+      "pagina_pdf": 66,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "66\n7.2. NIVEL REGIONAL\n•\n•\n7.3. NIVEL LOCAL\n•"
+    },
+    {
+      "marcador_cita": "[[PAGINA 67]]",
+      "id": "MINSA-7665-P0067",
+      "pagina_pdf": 67,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "67\nVIII.\nANEXOS"
+    },
+    {
+      "marcador_cita": "[[PAGINA 68]]",
+      "id": "MINSA-7665-P0068",
+      "pagina_pdf": 68,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "68\nANEXO N° 1\nFLUJOGRAMA\nSUPLEMENTACIÓN DE ANEMIA POR DEFICIENCIA DE HIERRO\nSuplementación \n1° Control de\nHb según edad\ny condición\nNiño, adolescente,\nMEF, gestante\nHb con valor por\ndebajo de lo normal\nHb con valor\nnormal\nHb con valor por\ndebajo de lo normal\nHb con valor\nnormal\nHb con valor por\ndebajo de lo normal\nHb con valor\nnormal\nContinúa\nsuplementación\nContinúa suplementación\nsegún esquema \nDescartar\nanemia por\nhierro u otros\ntipos.\nMedición\nde Hb\n2°,3°..\nControl de Hb\nde acuerdo\na la edad y\ncondición\nANEXO N° 2\nCONTENIDOS TÉCNICOS PARA LA ALIMENTACIÓN DE LA GESTANTE \nY MADRE QUE DA DE LACTAR\nadicional a tus comidas principales."
+    },
+    {
+      "marcador_cita": "[[PAGINA 69]]",
+      "id": "MINSA-7665-P0069",
+      "pagina_pdf": 69,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "2 raciones adicionales a tus comidas principales. Las raciones \ndiariamente alimentos ricos en hierro de origen animal \nporque ayudan al buen crecimiento de el/la bebé y al estado \nnutricional de la madre.\ncomo parte de una alimentación saludable."
+    },
+    {
+      "marcador_cita": "[[PAGINA 70]]",
+      "id": "MINSA-7665-P0070",
+      "pagina_pdf": 70,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "70\nlentejas, frijoles, arvejas, habas, pallares, garbanzos, entre otros, \nson sabrosas, muy saludables y se preparan de muchas formas, \ncebada, quinua).\ncomo parte de la alimentación diaria para cubrir las necesid ades \nde calcio.\nhierro y ácido fólico para prevenir la anemia.\nal día."
+    },
+    {
+      "marcador_cita": "[[PAGINA 71]]",
+      "id": "MINSA-7665-P0071",
+      "pagina_pdf": 71,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "71\nsazonadores comerciales por su alto contenido de sodio.\nprocesados, evita consumirlos diariamente.\nultra procesados debido a su escaso contenido nutricional ysu alto \ncontenido de sodio, azúcar, grasas saturadas, grasas transy aditivos.\ncompañía."
+    },
+    {
+      "marcador_cita": "[[PAGINA 72]]",
+      "id": "MINSA-7665-P0072",
+      "pagina_pdf": 72,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "72\nANEXO N° 3\nCONTENIDO DE HIERRO EN ALIMENTOS DE ORIGEN ANIMAL Y \nREQUERIMIENTO  DE HIERRO\nAlimentos Cantidad de Hierro en mg por ración \nde 2 cucharadas (30 gramos) Recomendación\nSangre de pollo cocida 8.9\n• En las mujeres gestantes: 5 \ncucharadas de estos alimentos \nricos en hierro en su comida \ndiaria.\n• En las n iñas o niños, a partir \nde los 6 meses de edad, \nagregarle 2 cucharadas de \nestos alimentos ricos en hierro \nen su comida diaria\nBazo de res 8.6\nRiñón de res 2.0\nHígado de pollo 2.6\nCharqui de res 3.7\nPulmón (Bofe) 2.0\nHígado de res 1.6\nCarne seca de llama 1.97\nCorazón de res 1.1\nCarne de Carnero 1.1\nCarnero, pulpa gorda 0.6\nCarnero pulpa muy magra 0.7\nCarnero, pulpa semigorda 0.8\nCarnero, pierna cocida** 1.1\nPavo 1.15\nCarne de res 1.0\nBonito 2.62\nToyo 1.04\nFuente: CENAN/INS/MINSA. 2017 Tabla Peruana de Composición de Alimentos 10ma. Edición. Lima, Perú (61)\n** Tabla Boliviana 2005\nREQUERIMIENTO DE HIERRO SEGÚN EDAD Y CONDICIÓN\nRequerimientos de Hierro\nIngesta diaria de Hierro \nrecomendada (mg/día)\nMujeres Varones\nNiñas o niños de 6 meses a 8 años 11\n Niñas o niños de 9 años a adolescentes de 13 años 8\nAdolescentes de 14 a 18 años 15 11\nGestantes 30\n Mujeres que dan de lactar o puérperas. 15\nFuente: Adaptado de FAO/OMS. (2001). Human Vitamin and Mineral Requirements.\nFood and Nutritio n Division - FAO. Roma, Italia (60)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 73]]",
+      "id": "MINSA-7665-P0073",
+      "pagina_pdf": 73,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "73\nANEXO N° 4\nMENSAJES EDUCATIVOS CLAVES PARA LA ENTREGA DE LOS SUPLEMENT OS \nDE HIERRO O MICRONUTRIENTES\nI. Consejería durante la entrega de  suplementos\nExplicar a la madre/padre/ cuidador del niño o adolescente/joven y adulta:\n• Abrir el suplemento de hierro gotas o jarabe o tableta y administrar según la dosis correspondiente; en caso de \ngotas /jarabe utilizar el gotero o la cuchara medidora para dar el suplemento según lo indicado.\n• Dar el suplemento en una sola toma o fraccionado (2 o 3 tomas), a la misma hora todos los días, alejados de los \nalimentos.\n• No se debe tomar leche, calcio ni antiácidos al mismo tiempo que los suplementos de hierro. Se debe esperar al \nmenos 2 horas después de ingerirlos para to mar el suplemento de hierro.\n• Asegura rse que el niño tome todo las gotas o el jarabe, inme dia tamente para e vitar la tinción de los  dientes.\n• Tomar el suplemento de preferencia con jugos ricos en vitamina C o  agua hervida.\n• El suplemento de hierro debe ser suspendido cuando se está recibiendo tr atamiento con antibióticos y reiniciarse en \nforma inme diata al terminar el tr atamiento.\n• No debe tomarse el suplemento de hierro con alimentos ricos en ﬁbra, como granos integrales, verduras c rudas, \nsalvado, alimentos o be bidas con cafeína.\n• Los medicamentos que reducen la acidez estomacal afectará n la absorción del hierro y pueden causar deﬁciencia \nde este mineral. Indic ar que espere al menos 2 horas entre las dosis de estos fármaco s y los suplementos de hierro.\n• Las tabletas de hierro pueden llevar a que otros fármacos qu e el o la paciente esté tomando no actúe igual de \nbien. Algunos de estos fármacos abarcan aquellos usados para el tr atamiento del hipotiro idismo, la enfer medad de \nParkinson y las con vulsiones.\nNO OLVIDAR\n• Lavarse las manos con agua y jabón, antes de dar el suplemento de hierro.\n• Lavar el dosiﬁcador (gotero o cuchara medidora), en juagar con agua hervida y manten er en un lugar limpio y fresco \nhasta la próxima dosis.\nII. Dónde guardar el suplemento  de Hierro en gotas o jarabe\n• Mantener el suplemento de hierro, gotas o jarabe (o sobres d e Micronutrientes) o table tas bien cerrados y protegidos \nde la luz solar, calor y humedad en lugar fresco, seguro, bien cerrado.\n• El suplemento debe guardarse LEJOS DEL ALCANCE DE LOS NIÑOS, para evitar la in gesta accidental que pudiera \ncausar intoxicación.\n• Debe guardarse en su caja, en un lugar fresco, seguro, bien cerrado. \nIII. Consejería durante la entrega de micronutrientes\nExplicar a la madre, padre o c uidador:\n• Los Micronutrientes no necesitan cocinarse , debe ser añadido en una ración de comida espesa del bebé, ya sea en \npapill as, purés, segundos o fruta triturada y consumirla antes de  los 15 minutos.\n• Explicar que los Micronutrientes NO deben mezclarse con la comida caliente, pues le cambiará de color, olor y sabor \na la comida y la niña o niño no querrá co nsumirla.\n• Se recomienda no mezclar los Micronutrientes con líquidos o semilíqui dos como leche, jugos, agua o sopas, debido \na que el polvo de Micronutrientes se quedara ¨suspendido¨ y no se mezcla adec uadamente.\n• La ración de comida a la cual se agregó los Micronutrientes no se puede recalent ar.\n• El consumo de Micronutrientes no debe ser administrado jun to con otros me dicamentos, debe ser suspendido si la \nniña o niño está tomando antibióticos y podrá reiniciarse al terminar el tr atamiento\nIV. Cómo preparar los micronutrientes\nPara preparar los Micronutrientes debemos c umplir con los siguientes pasos:\n1. Debemos lavarnos las manos con agua y jabón antes de preparar el alimento del bebe.\n2. Separar 2 cucharas de comida de consistencia espesa (puré, mazamorra, segundo o fruta triturada) del plato d el niño.\n3. Abrir el sobre con los dedos o tijera (no con los dientes) p or la esquina y con c uidado.\n4. Cuando la comida está tibia , echar todo el contenido del sobre en las 2 cucharas de co mida espesa  separada.\n5. Mezclar bien las 2 cucharas de co mida separada con los Micronutrientes.\nFinalmente, ofrecerle de comer primero las 2 cucharas mezcl adas con los Micronutrien tes, en no más de 15 minutos, y \nluego continu ar con el resto de la c omida."
+    },
+    {
+      "marcador_cita": "[[PAGINA 74]]",
+      "id": "MINSA-7665-P0074",
+      "pagina_pdf": 74,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "74\nANEXO N° 5\nFLUJOGRAMA\nDIAGNÓSTICO DE ANEMIA POR DEFICIENCIA DE HIERRO\nTiene anemia\nNO SI\nNO\nNO\nSI\nAnemia por\nANEXO N° 6\nMedición\nde Hb\nPaciente con factores de riesgo o sospecha de\nAnemia microcítica\nhipocrómica con\nreticulocitos\nnormales   \nInicia suplementación\nsegún esquema  \nReferir a manejo\nespecializado\nSolicitar: \nHemograma completo 3era generación\nRecuento de reticulocitos\nFrotis sanguíneo\nDosaje Ferritina\nProteína C reactiva\nParasitológico\nGota Gruesa\nDosaje de Plomo"
+    },
+    {
+      "marcador_cita": "[[PAGINA 75]]",
+      "id": "MINSA-7665-P0075",
+      "pagina_pdf": 75,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "75\nANEXO N° 6\nFLUJOGRAMA\nTRATAMIENTO Y SEGUIMIENTO DE LA ANEMIA POR DEFICIENCIA DE HIERRO\nHb normal\ncontra\nreferir a\n1er nivel\nde atención\nNO\nNO\nNO NO\nSI\nSI\nSI\nAdherencia al\ntratamiento\nInvestigar Motivo\nReevaluar tratamiento\nAnemia por\nAnemia Severa\nHB\nNormal\nValor normal\nde HB\nAnemia Leve y Moderada \nTratamiento con\nsuplemento de hierro \nReferencia a\nEESS de mayor\n capacidad\nresolutiva \n1er Control\n(al mes de tratamiento) \nIncremento\nContinuar tratamiento y cita\nmensual hasta el tercer control \nContinuar esquema de tratamiento\ny cita mensual hasta el sexto  mes  \nALTA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 76]]",
+      "id": "MINSA-7665-P0076",
+      "pagina_pdf": 76,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "76\nBIBLIOGRAFÍA\nIX."
+    },
+    {
+      "marcador_cita": "[[PAGINA 77]]",
+      "id": "MINSA-7665-P0077",
+      "pagina_pdf": 77,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "77"
+    },
+    {
+      "marcador_cita": "[[PAGINA 78]]",
+      "id": "MINSA-7665-P0078",
+      "pagina_pdf": 78,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "78"
+    },
+    {
+      "marcador_cita": "[[PAGINA 79]]",
+      "id": "MINSA-7665-P0079",
+      "pagina_pdf": 79,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 80]]",
+      "id": "MINSA-7665-P0080",
+      "pagina_pdf": 80,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "AV. Salaverry 801 - Lima - Jesús María - Perú\n(01) 315 6600"
+    }
+  ]
+}

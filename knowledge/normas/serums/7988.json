@@ -1,0 +1,1237 @@
+{
+  "id": "MINSA-7988",
+  "id_fuente_oficial": "7988",
+  "titulo": "1 MANUAL PARA LA APLICACIÓN DE LA PRUEBA DE EVALUACIÓN DEL DESARROLLO INFANTIL (EDI) Versión Peruana – Primera Edición 2026",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Manual",
+  "numero_norma": null,
+  "fecha_aprobacion": null,
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "fuentes_oficiales": [
+    {
+      "tipo": "archivo_local",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "1 MANUAL PARA LA APLICACIÓN DE LA PRUEBA DE EVALUACIÓN DEL DESARROLLO INFANTIL (EDI) Versión Peruana – Primera Edición 2026",
+      "url": null,
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "7988.pdf",
+  "huella_sha256_pdf_fuente": "ea5d45de0162b97d92461db0ae046fe5767f57fe1f86cc68a2ed75cf057a7b15",
+  "paginas_pdf": 119,
+  "paginas_con_texto": 119,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "texto_nativo_pdf",
+  "ocr_aplicado": false,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 119,
+    "paginas_con_texto": 119,
+    "caracteres_texto_extraido": 51545
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-7988-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "1 \n     \n \nMANUAL PARA LA APLICACIÓN DE LA \nPRUEBA DE EVALUACIÓN DEL \nDESARROLLO INFANTIL (EDI)\n \nVersión Peruana –  Primera Edición  \n2026"
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-7988-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "2026 \n3 \n \nManual para la Aplicación \nde la Prueba de Evaluación \ndel Desarrollo Infantil (EDI)\n \nVersión Peruana - Primera Edición \n \n \n \n \n \n \n \n \n \n \nDirección General de Intervenciones \nEstratégicas en Salud Pública \nMinisterio de Salud \nLima – Perú"
+    },
+    {
+      "marcador_cita": "[[PAGINA 3]]",
+      "id": "MINSA-7988-P0003",
+      "pagina_pdf": 3,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "4 \nManual para la Aplicación de la Prueba de Evaluación del Desarrollo Infantil (EDI) \n \n \nCatalogación hecha por la Biblioteca del Ministerio de Salud \n \nManual para la aplicación de la prueba de evaluación del desarrollo infantil (EDI). V ersión Peruana-Primera \nEdición/ Ministerio de Salud. Dirección General de Intervenciones Estratégicas en Salud Pública. D irección de \nIntervenciones por Curso de Vida y Cuidado Integral - Lima: Ministerio de Salud; 2026. \n119 p. ilus. \n \nDESARROLLO INFANTIL / NEURODESARROLLO / TAMIZAJE / RIESGO / CRECIMIENTO Y DESARROLLO / NIÑO \n  \n  Hecho el Depósito Legal en la Biblioteca Nacional del Perú N° 2026- \n \n \n \nDiseño y diagramación: \nAlfonso Portillo Mozombite, UNICEF \n \n© MINSA, Julio 2026 \n \nMinisterio de Salud \nAv. Salaverry N° 801, Lima 11-Perú \nTelf.: (51-1) 315-6600 \nhttps://www.gob.pe/minsa/ \nwebmaster@minsa.gob.pe \n \n1ª. Edición, julio 2026 \n \nVersión Digital: https://bvs.minsa.gob.pe/local/MINSA/7988.pdf \n \n \n \n \n \n \n \nManual para la Aplicación de la Prueba de Evaluación del Desarrollo Infantil (EDI) Versión \nPeruana-Primera Edición \n \n \nMinisterio de Salud. Dirección General de Intervenciones Estratégicas en Salud Pública. Dirección de Intervenciones  \npor Curso de Vida y Cuidado Integral. (MINSA/DGIESP/DVICI). \n \nResponsables de la Elaboración: \nLic. Blanca Távara Campos, MINSA/DGIESP/DVICI/EVN \nDra. Carla Cortez Vergara, UNICEF \n \nEquipo Técnico: \nLic. Domitila Huamán Baltazar, Equipo técnico Etapa de Vida Niño \nLic. Marisol Borda Belizario, Equipo Técnico Etapa de Vida Niño \nLic. Clarisa Gilma Coaquira Carpio, Equipo Técnico Etapa de Vida Niño \nLic. María Elena Flores Ramírez, Equipo Técnico Etapa de Vida Niño \nDr. Jorge Alejandro Medrano Galoc, Equipo Técnico Etapa de Vida Niño \nDra. Hayde Taipe Silva, Equipo Técnico del componente Neonatal. \nLic. Liz Milagros Albornoz Ureta, Equipo técnico del Componente Neonatal. \nLic. María Del Rosario Adriana Coricaza Rivas, Equipo técnico del componente Neonatal \n \nRevisores: \nDr. Antonio Rizzoli Cordoba, Hospital Infantil de México Federico Gómez \nLic. Josefina Vásquez Awad, Consultora UNICEF \nLic. Milagros Castillo Fuerman, Consultora UNICEF \nLic. María Elena Ugaz Villacorta, UNICEF \nBlga. Gisely Hijar Guerra, Consultora UNICEF"
+    },
+    {
+      "marcador_cita": "[[PAGINA 4]]",
+      "id": "MINSA-7988-P0004",
+      "pagina_pdf": 4,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Manual para la Aplicación de la Prueba de Evaluación del Desarrollo Infantil (EDI) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n JUAN CARLOS VELASCO GUERRERO \nMinistro de Salud \n \nHENRY ALFONSO REBAZA IPARRAGUIRRE \nViceministro de Salud Pública \n \nLUIS MELCHOR LORO CHERO \nViceministro de Prestaciones y Aseguramiento en Salud \n \nJULIO CÉSAR NIÑO BAZALAR \nSecretario General \n \nCONSTANTINO SEVERO VILA CÓRDOVA \nDirector General de la Dirección General de Intervenciones \nEstratégicas en Salud Pública \n \nLOURDES LUCIA ORTEGA VERA \nDirectora Ejecutiva de la Dirección de Intervenciones por Curso de \nVida y Cuidado Integral"
+    },
+    {
+      "marcador_cita": "[[PAGINA 5]]",
+      "id": "MINSA-7988-P0005",
+      "pagina_pdf": 5,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "6 \n5 \nManual para la Aplicación de la Prueba de Evaluación del Desarrollo Infantil (EDI) \n \n \nColaboradores: \n \n \nDavid Kershenobich Stalnikowitz, Secretaría de Salud de México \nRamiro López Elizalde, Secretaría de Salud de México \nMarco Vinicio Gallardo Enríquez, Secretaría de Salud de México \nDaniel Aceves Villagrán, Centro de Salud de la Infancia y Adolescencia (CeNSIA) \nSamantha Gaertner Barnard, Centro de Salud de la Infancia y Adolescencia (CeNSIA) \nJosé Ignacio Santos Preciado, Hospital Infantil de México Federico Gómez (HIMFG) \nVesta Louise Richardson López-Collada, Hospital Infantil de México  Federico Gómez \n(HIMFG) \nJosé Domingo Gamboa Marrufo, Hospital Infantil de México Federico Gómez (HIMFG) \n \n \nParticiparon de la adaptación de la versión peruana profesionales de salud de \nmedicina general, pediatría y subespecialidades pediátricas, así como \nprofesionales de enfermería de las tres regiones del país."
+    },
+    {
+      "marcador_cita": "[[PAGINA 6]]",
+      "id": "MINSA-7988-P0006",
+      "pagina_pdf": 6,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "7 \nManual para la Aplicación de la Prueba de Evaluación del Desarrollo Infantil (EDI) \n \n \n \n \n \n \n \n     Tabla de Contenidos \n \n \n 8 \n 11 \n 13 \n 14 \n 17 \n 18 \n 20 \n 22 \n 24 \n 26 \n 29 \n 32 \n 33 \n 34 \n 37 \n 39 \n 41 \n 43 \n 44 \n45 \n 46"
+    },
+    {
+      "marcador_cita": "[[PAGINA 7]]",
+      "id": "MINSA-7988-P0007",
+      "pagina_pdf": 7,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "8\nLa prueba de Evaluación del Desarrollo Infantil (EDI) es una herramienta de \ntamizaje, originalmente diseñada y validada en México, que ha sido adoptada para \nla detección temprana de problemas del neurodesarrollo en niños desde un mes \nde nacidos hasta los 5 años, 11 meses y 29 días, organizada en 15 grupos de edad.\nEn el contexto peruano, este manual ha sido adaptado en concordancia con la incorporación \nde la prueba EDI como instrumento oﬁcial de tamizaje dentro de la Norma T écnica de \nSalud para el Control del Crecimiento y Desarrollo de la Niña y el Niño NTS (N°238-\nMINSA/ DGIESP-2025). Su aplicación se realizará en el marco de esta normativa y estará \na cargo de profesionales de la salud —médicos y enfermeras/os— capacitados para tal ﬁn.\nLas edades cronológicas establecidas como mínimas e indispensables para la aplicación \nde la prueba EDI son: 1 mes, 6 meses, 9 meses, 18 meses, 30 meses, 42 meses y 60 \nmeses. Asimismo, la prueba deberá aplicarse ante la presencia de cualquier hallazgo o \nindicador de riesgo identiﬁcado durante las actividades de vigilancia del desarrollo.\nNota aclaratoria: En el texto del presente manual se emplearán los términos “niño” o “niños”\ncomo genéricos para referirse a ambos sexos (niño/niña o niños/niñas), con el único ﬁn \nde facilitar la lectura y comprensión del documento, sin que esto implique discriminación   \nalguna."
+    },
+    {
+      "marcador_cita": "[[PAGINA 8]]",
+      "id": "MINSA-7988-P0008",
+      "pagina_pdf": 8,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "9\nINTRODUCCIÓN\nManual para la aplicación de la prueba \nEvaluación del Desarrollo Infantil (EDI)\nVERDE:\nAMARILLO:\nROJO:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 9]]",
+      "id": "MINSA-7988-P0009",
+      "pagina_pdf": 9,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "10\nINTRODUCCIÓN\nIntroducción\nAsistencia a dos o menos controles prenatales\nHospitalización del niño en la Unidad de Cuidados Intensivos Neonatales (UCIN) al \nnacimiento o antes del primer mes de vida con duración mayor a cuatro días."
+    },
+    {
+      "marcador_cita": "[[PAGINA 10]]",
+      "id": "MINSA-7988-P0010",
+      "pagina_pdf": 10,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "11\nManual para la aplicación de la prueba \nEvaluación del Desarrollo Infantil (EDI)\nCÁLCULO DE EDAD\nPor ejemplo en un niño nacido el 5 de febrero del 2024 y evaluado el 23 de septiembre del 2025.\n2025\n2024\n2025\n2023"
+    },
+    {
+      "marcador_cita": "[[PAGINA 11]]",
+      "id": "MINSA-7988-P0011",
+      "pagina_pdf": 11,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "12\nCálculo de edad cronológica\nCÁLCULO DE EDAD\nSi el niño del ejemplo 2, a quien se calculó una edad cronológica de ocho meses seis días, nació a las 34 \nsemanas de gestación, se hace de la siguiente forma: 40 - 34 =  6 semanas. Para convertir las semanas \nresultantes a días, se multiplican por 7: 6 x 7 = 42 días. Para corregir la edad, se deben restar los 42 días \na la edad cronológica:\n2025\n2024\n2024\n2025\n2024"
+    },
+    {
+      "marcador_cita": "[[PAGINA 12]]",
+      "id": "MINSA-7988-P0012",
+      "pagina_pdf": 12,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "13\nFACTORES DE \nRIESGO BIOLÓGICO \nManual para la aplicación de la prueba \nEvaluación del Desarrollo Infantil (EDI)\nFRB 5 . Retardo en la respiración y circular de cordón umbilical en el \ncuello durante el parto o cesárea.\nPregunte a cuántos controles prenatales asistió la madre durante el embarazo.\nLa madre debió acudir a más de dos.\nFRB 7. Madre menor a 16 años al momento del parto o cesárea\ncontroles prenatales"
+    },
+    {
+      "marcador_cita": "[[PAGINA 13]]",
+      "id": "MINSA-7988-P0013",
+      "pagina_pdf": 13,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "14\nEXPLORACIÓN\n NEUROLÓGICA\nExploración neurológica\n(Aplique y observe los 3 items)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 14]]",
+      "id": "MINSA-7988-P0014",
+      "pagina_pdf": 14,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "15\nManual para la aplicación de la prueba \nEvaluación del Desarrollo Infantil (EDI)\nEXPLORACIÓN\n NEUROLÓGICA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 15]]",
+      "id": "MINSA-7988-P0015",
+      "pagina_pdf": 15,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "16\nEXPLORACIÓN\n NEUROLÓGICIA\nExploración neurológica"
+    },
+    {
+      "marcador_cita": "[[PAGINA 16]]",
+      "id": "MINSA-7988-P0016",
+      "pagina_pdf": 16,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "17\n2026"
+    },
+    {
+      "marcador_cita": "[[PAGINA 17]]",
+      "id": "MINSA-7988-P0017",
+      "pagina_pdf": 17,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "18\n(Observe)\n(Observe)\n(Observe)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\nUna (01) o ninguna obtenida en Verde, la caliﬁcación será      ROJO.\nNota: El resultado deberá reﬂejarse en color, no en cifras.\n(pág. 54)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 18]]",
+      "id": "MINSA-7988-P0018",
+      "pagina_pdf": 18,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "19\n(pág. 62)\nDADO QUE ES EL PRIMER GRUPO EVALUADO, NO HAY \nÍTEMS PARA APLICAR EN CASO DE NO HACER LO QUE \nCORRESPONDE PARA LA EDAD.\n1. Asistencia a dos o menos controles prenatales.\n(Observe)\n(Observe)\nEn este grupo de edad es obligatorio aplicar los siguientes FRB y ALE.\n(pág. 54)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 19]]",
+      "id": "MINSA-7988-P0019",
+      "pagina_pdf": 19,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "20\n**1. Cuando acuesta a su bebé boca abajo, ¿levanta su cabeza \ndurante al menos 3 segundos?\n**2. Cuando carga a su bebé, ¿logra sostener la cabeza sin que se le \nvaya bruscamente hacia atrás o hacia algunos de los lados?\n**1. ¿Puede seguir con la vista el movimiento de objetos de colores \nvivos?\n1. Cuando su bebé oye un ruido, ¿voltea hacia la fuente de sonido, \nestando ésta fuera de su campo visual?\n2. ¿Hace sonidos como “a”, “e”, “u”?\n**2. ¿Se lleva la mano a la boca?\n1.  ¿Hace sonidos con la boca cuando le hablan?\n2. ¿Reconoce los rostros que le son familiares y sonríe?\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\n1 ninguna obtenida en Verde, la caliﬁcación será      AMARILLO.\nNota: El resultado deberá reﬂejarse en color, no en cifras.\n(pág.58)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 20]]",
+      "id": "MINSA-7988-P0020",
+      "pagina_pdf": 20,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "21\n4. ¿Considera que algo no va del todo bien en el comportamiento, \ndesarrollo o características de su bebé?\n(Observe)\n(Observe)\n(Observe)\n1. Asistencia a dos o menos controles prenatales.\n(Observe)\n(pág. 58)\nAMARILLO.\nROJO."
+    },
+    {
+      "marcador_cita": "[[PAGINA 21]]",
+      "id": "MINSA-7988-P0021",
+      "pagina_pdf": 21,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "22\n  2. Cuando su bebé se sienta, ¿Ha observado si logra sostener la cabeza sin \nque se vaya bruscamente hacia adelante, atrás o hacia alguno de los lados?\n(Observe)\n(Observe)\n(Observe)\n1.¿Sonríe su bebé con facilidad?\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\nUna (01) o ninguna obtenida en Verde, la caliﬁcación será      AMARILLO.\nNota: El resultado deberá reﬂejarse en color, no en cifras.\n(pág. 62)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 22]]",
+      "id": "MINSA-7988-P0022",
+      "pagina_pdf": 22,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "23\n4. ¿Considera que algo no va del todo bien en el comportamiento, \ndesarrollo o características de su bebé?\n**1. Cuando lo sostiene por el tronco su cabeza cae bruscamente \nhacia adelante, atrás o a los lados?\n(Observe)\n(Observe)\n(Observe) (Observe)\n(Observe)\n(Observe)\n(Observe)\nAsistencia de dos o más controles prenatales.1.\n(pág. 62)\nROJO.\nAMARILLO."
+    },
+    {
+      "marcador_cita": "[[PAGINA 23]]",
+      "id": "MINSA-7988-P0023",
+      "pagina_pdf": 23,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "24\n**1. ¿Extiende su bebé alguno de sus brazos para tratar de agarrar un \nobjeto que está a su alcance?\n**2. ¿Cuándo lo sostiene del tronco su cabeza cae bruscamente hacia  \nadelante, atrás o a los lados?\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 66)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\nUna (01) o ninguna obtenida en Verde, la caliﬁcación será      AMARILLO.\nNota: El resultado deberá reﬂejarse en color, no en cifras."
+    },
+    {
+      "marcador_cita": "[[PAGINA 24]]",
+      "id": "MINSA-7988-P0024",
+      "pagina_pdf": 24,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "25\n**4. ¿Considera que algo no va del todo bien en el comportamiento, \ndesarrollo o características de su bebé?\n**1. ¿Hay asimetría en los movimientos de las manos?\n**3. ¿Persiste el reﬂejo de Galant o de incurvación?\n**2. ¿Muestra indiferencia por los objetos?\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\nAsistencia de dos o más controles prenatales.1.\n(pág. 66)\nROJO.\nAMARILLO."
+    },
+    {
+      "marcador_cita": "[[PAGINA 25]]",
+      "id": "MINSA-7988-P0025",
+      "pagina_pdf": 25,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "26\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 70)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\nUna (01) o ninguna obtenida en Verde, la caliﬁcación será      AMARILLO.\nNota: El resultado deberá reﬂejarse en color, no en cifras."
+    },
+    {
+      "marcador_cita": "[[PAGINA 26]]",
+      "id": "MINSA-7988-P0026",
+      "pagina_pdf": 26,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "27\nOPCIONALES (No modiﬁcan la caliﬁcación global)\n2. Presencia de sangrados, infecciones de vías urinarias o cervicovaginitis, \npresión alta o enfermedades sistémicas durante el embarazo.\n5. Retardo en la respiración o circular de cordón umbilical a cuello \ndurante el parto o cesárea.\n3. Gestación menor a 34 semanas.\n4. Peso de su niño al nacer de 1500 g o menos.\n6. Hospitalización de su niño en la Unidad de Cuidados Intensivos \nNeonatales (UCIN) al nacimiento o antes del primer mes de vida con \nuna duración mayor a 4 días.\n1. Asistencia a dos o menos controles prenatales.\n7. Madre menor a 16 años al momento del parto.\n**3. ¿Se le diﬁculta sostener objetos con las manos durante al menos \n10 segundos?\n**4. Cuando está acostado y usted lo toma de las manos, ¿no hace \nesfuerzo para sentarse?\n**5. Cuando está boca arriba, ¿se le diﬁculta girar su cuerpo hacia los \nlados?\n6. ¿Considera que algo no va del todo bien en el comportamiento, \ndesarrollo o características de su bebé?\n1. ¿Presenta desinterés por sus manos?\n2. Rara vez o nunca le ha oído balbucear o emitir sonidos guturales.\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 70)\nROJO.\nAMARILLO."
+    },
+    {
+      "marcador_cita": "[[PAGINA 27]]",
+      "id": "MINSA-7988-P0027",
+      "pagina_pdf": 27,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "28"
+    },
+    {
+      "marcador_cita": "[[PAGINA 28]]",
+      "id": "MINSA-7988-P0028",
+      "pagina_pdf": 28,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "29\n**2. Cuando su bebé quiere ir de un lado a otro y se encuentra boca arriba, \n¿se voltea para quedar boca abajo y arrastrarse sobre su abdomen?\n2. Cuando le da de beber líquidos, ¿Lo ayuda a sostener el vaso o la taza?\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 74)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\nUna (01) o ninguna obtenida en Verde, la caliﬁcación será      AMARILLO.\nNota: El resultado deberá reﬂejarse en color, no en cifras."
+    },
+    {
+      "marcador_cita": "[[PAGINA 29]]",
+      "id": "MINSA-7988-P0029",
+      "pagina_pdf": 29,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "30\nOPCIONALES (No modiﬁcan la caliﬁcación global)\n2. Presencia de sangrados, infecciones de vías urinarias o cervicovaginitis, \npresión alta o enfermedades sistémicas durante el embarazo.\n5. Retardo en la respiración o circular de cordón umbilical en el  cuello \ndurante el parto o cesárea.\n3. Gestación menor a 34 semanas.\n4. Peso de su niño al nacer de 1500 g o menos.\n6. Hospitalización de su niño en la Unidad de Cuidados Intensivos \nNeonatales (UCIN) al nacimiento o antes del primer mes de vida con \nuna duración mayor a 4 días.\n1. Asistencia a dos o menos controles prenatales.\n7. Madre menor a 16 años al momento del parto.\n4. ¿Considera que algo no va del todo bien en el comportamiento, \ndesarrollo o características de su bebé?\n**1. ¿Se le diﬁculta mantener un objeto en cada mano?\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 74)\nROJO.\nAMARILLO."
+    },
+    {
+      "marcador_cita": "[[PAGINA 30]]",
+      "id": "MINSA-7988-P0030",
+      "pagina_pdf": 30,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "31\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 78)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\nUna (01) o ninguna obtenida en Verde, la caliﬁcación será      AMARILLO.\nNota: El resultado deberá reﬂejarse en color, no en cifras."
+    },
+    {
+      "marcador_cita": "[[PAGINA 31]]",
+      "id": "MINSA-7988-P0031",
+      "pagina_pdf": 31,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "32\nOPCIONALES (No modiﬁcan la caliﬁcación global)\n2. Presencia de sangrados, infecciones de vías urinarias o cervicovaginitis, \npresión alta o enfermedades sistémicas durante el embarazo.\n5. Retardo en la respiración o circular de cordón umbilical en el cuello \ndurante el parto o cesárea.\n3. Gestación menor a 34 semanas.\n4. Peso de su niño al nacer de 1500 g o menos.\n6. Hospitalización de su niño en la Unidad de Cuidados Intensivos \nNeonatales (UCIN) al nacimiento o antes del primer mes de vida con \nuna duración mayor a 4 días.\n1. Asistencia a dos o menos controles prenatales.\n7. Madre menor a 16 años al momento del parto.\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 78)\nROJO.\nAMARILLO."
+    },
+    {
+      "marcador_cita": "[[PAGINA 32]]",
+      "id": "MINSA-7988-P0032",
+      "pagina_pdf": 32,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "33\n**2. ¿Le gusta sacar y meter cosas de las bolsas, cajas o recipientes?\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 82)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\nUna (01) o ninguna obtenida en Verde, la caliﬁcación será      AMARILLO.\nNota: El resultado deberá reﬂejarse en color, no en cifras."
+    },
+    {
+      "marcador_cita": "[[PAGINA 33]]",
+      "id": "MINSA-7988-P0033",
+      "pagina_pdf": 33,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "34\nOPCIONALES (No modiﬁcan la caliﬁcación global)\n \n**1. Cuando coloca de pie al niño en una superﬁcie plana, ¿no logra \nmantenerse parado, aunque lo sujeten del tronco?\n4. ¿Considera que algo no va del todo bien en el comportamiento, \ndesarrollo o características de su bebé?\n2. ¿Se le diﬁculta comunicarse de forma verbal?\n3. ¿Aún balbucea y no se expresa con palabras?\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 82)\nROJO.\nAMARILLO."
+    },
+    {
+      "marcador_cita": "[[PAGINA 34]]",
+      "id": "MINSA-7988-P0034",
+      "pagina_pdf": 34,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "35\n2. Cuando va a desvestir a su niño, ¿le ayuda quitándose parte de su \nropa, como los zapatos o sandalias?\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 86)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\nUna (01) o ninguna obtenida en Verde, la caliﬁcación será      AMARILLO.\nNota: El resultado deberá reﬂejarse en color, no en cifras."
+    },
+    {
+      "marcador_cita": "[[PAGINA 35]]",
+      "id": "MINSA-7988-P0035",
+      "pagina_pdf": 35,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "36\n**13-15 2. ¿Le gusta sacar y meter cosas de las bolsas, cajas o recipientes?\nOPCIONALES (No modiﬁcan la caliﬁcación global)\n \n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 86)\nROJO.\nAMARILLO."
+    },
+    {
+      "marcador_cita": "[[PAGINA 36]]",
+      "id": "MINSA-7988-P0036",
+      "pagina_pdf": 36,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "37\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 90)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\nUna (01) o ninguna obtenida en Verde, la caliﬁcación será      AMARILLO.\nNota: El resultado deberá reﬂejarse en color, no en cifras."
+    },
+    {
+      "marcador_cita": "[[PAGINA 37]]",
+      "id": "MINSA-7988-P0037",
+      "pagina_pdf": 37,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "38\nOPCIONALES (No modiﬁcan la caliﬁcación global)\n \n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 90)\nROJO.\nAMARILLO."
+    },
+    {
+      "marcador_cita": "[[PAGINA 38]]",
+      "id": "MINSA-7988-P0038",
+      "pagina_pdf": 38,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "39\n**1. Cuando su niño salta, ¿levanta los dos pies del suelo a la vez?(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 94)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\nUna (01) o ninguna obtenida en Verde, la caliﬁcación será      AMARILLO.\nNota: El resultado deberá reﬂejarse en color, no en cifras."
+    },
+    {
+      "marcador_cita": "[[PAGINA 39]]",
+      "id": "MINSA-7988-P0039",
+      "pagina_pdf": 39,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "40\nOPCIONALES (No modiﬁcan la caliﬁcación global)\n2. Presencia de sangrados, infecciones de vías urinarias o cervicovaginitis, \npresión alta o enfermedades sistémicas durante el embarazo.\n5. Retardo en la respiración o circular de cordón umbilical en el cuello\n durante el parto o cesárea.\n3. Gestación menor a 34 semanas.\n4. Peso de su niño al nacer de 1500 g o menos.\n6. Hospitalización de su niño en la Unidad de Cuidados Intensivos \nNeonatales (UCIN) al nacimiento o antes del primer mes de vida con \nuna duración mayor a 4 días.\n1. Asistencia a dos o menos controles prenatales.\n7. Madre menor a 16 años al momento del parto.\n1. ¿Se le diﬁculta mucho relacionarse con personas que no le son \nfamiliares?\n2. ¿Se frustra mucho cuando se le diﬁculta hacer algo y deja de \nhacerlo o se pone a llorar?\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 94)\nROJO.\nAMARILLO."
+    },
+    {
+      "marcador_cita": "[[PAGINA 40]]",
+      "id": "MINSA-7988-P0040",
+      "pagina_pdf": 40,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "41\n1. ¿Puede abotonar un botón de una prenda de vestir?\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 98)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\nUna (01) o ninguna obtenida en Verde, la caliﬁcación será      AMARILLO.\nNota: El resultado deberá reﬂejarse en color, no en cifras."
+    },
+    {
+      "marcador_cita": "[[PAGINA 41]]",
+      "id": "MINSA-7988-P0041",
+      "pagina_pdf": 41,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "42\n?\n \n**1. ¿Le cuesta trabajo manipular objetos pequeños como: bolas \npequeñas de papel?\n**2. ¿Le cuesta trabajo entender órdenes sencillas como: “ve con tu \nmamá”?\n4. ¿Le cuesta mucho trabajo separarse de su mamá o de la persona \nque lo cuida y cuando se aleja de él se pone a llorar?\n5. ¿Usa sus juguetes de forma inusual, es decir, en vez de rodar sus \ncarritos o jugar con sus peluches, sólo los ordena por tamaño, color o forma? \n**3. Cuando alguien le habla, ¿evita el contacto visual?\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(Observe)\n(pág. 98)\nROJO.\nAMARILLO."
+    },
+    {
+      "marcador_cita": "[[PAGINA 42]]",
+      "id": "MINSA-7988-P0042",
+      "pagina_pdf": 42,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "43\n**1. ¿Puede meter un pasador o cordón por los agujeros de una cuenta o de \nun zapato?\n**2. ¿Puede contarle algo de lo que hizo ayer?\natraparla?\nde la baranda?\n(pág. 102)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\nUna (01) o ninguna obtenida en Verde, la caliﬁcación será      AMARILLO.\nNota: El resultado deberá reﬂejarse en color, no en cifras."
+    },
+    {
+      "marcador_cita": "[[PAGINA 43]]",
+      "id": "MINSA-7988-P0043",
+      "pagina_pdf": 43,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "44\nOPCIONALES (No modiﬁcan la caliﬁcación global)\n \n(pág. 102)\nROJO.\nAMARILLO."
+    },
+    {
+      "marcador_cita": "[[PAGINA 44]]",
+      "id": "MINSA-7988-P0044",
+      "pagina_pdf": 44,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "45\n1. ¿Sabe su niño darse volantines?\n**2. ¿Puede su niño saltar hacia adelante cayendo con los pies juntos?\n**3. ¿Puede su niño saltar con un sólo pie hacia adelante tres veces \ncayendo con el mismo pie?\n(pág. 106)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\nUna (01) o ninguna obtenida en Verde, la caliﬁcación será      AMARILLO.\nNota: El resultado deberá reﬂejarse en color, no en cifras."
+    },
+    {
+      "marcador_cita": "[[PAGINA 45]]",
+      "id": "MINSA-7988-P0045",
+      "pagina_pdf": 45,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "46\n**37-48 1. ¿Puede meter un pasador o cordón por los agujeros de una \ncuenta o de un zapato?\n**37-48 2. Cuando le avientan a su niño una pelota grande, ¿puede atraparla?\n**37-48 2. ¿Puede contarle algo de lo que hizo ayer?\nOPCIONALES (No modiﬁcan la caliﬁcación global)\n2. Presencia de sangrados, infecciones de vías urinarias o cervicovaginitis, \npresión alta o enfermedades sistémicas durante el embarazo.\n5. Retardo en la respiración o circular de cordón umbilical en el cuello\n durante el parto o cesárea.\n3. Gestación menor a 34 semanas.\n4. Peso de su niño al nacer de 1500 g o menos.\n6. Hospitalización de su niño en la Unidad de Cuidados Intensivos \nNeonatales (UCIN) al nacimiento o antes del primer mes de vida con \nuna duración mayor a 4 días.\n1. Asistencia a dos o menos controles prenatales.\n7. Madre menor a 16 años al momento del parto.\n(pág. 106)\nROJO.\nAMARILLO."
+    },
+    {
+      "marcador_cita": "[[PAGINA 46]]",
+      "id": "MINSA-7988-P0046",
+      "pagina_pdf": 46,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "47\n(pág. 106)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 47]]",
+      "id": "MINSA-7988-P0047",
+      "pagina_pdf": 47,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "48\n**1. ¿Puede su niño saltar con un solo pie hacia adelante siete veces \ncayendo con el mismo pie?\n**2. ¿Puede saltar hacia atrás con los pies juntos?\nmolesto\n(pág. 110)\nCaliﬁque por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios:\n2 respuestas obtenidas en Verde, la caliﬁcación será\n       VERDE.\nUna (01) o ninguna obtenida en Verde, la caliﬁcación será      AMARILLO.\nNota: El resultado deberá reﬂejarse en color, no en cifras."
+    },
+    {
+      "marcador_cita": "[[PAGINA 48]]",
+      "id": "MINSA-7988-P0048",
+      "pagina_pdf": 48,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "49\n¿Sabe su niño darse volantines?\n¿Puede dibujar un cuadrado?\n ¿Sabe usar el tiempo futuro?\n¿Puede decir el nombre de dos de sus amigos?\n¿Puede contar correctamente hasta 10?\n¿Cuándo habla, utiliza las palabras ayer, hoy y mañana?\n¿Puede decir el nombre correcto de 4 colores y los puede \nreconocer?\n¿Se puede bañar solo?\n ¿Sabe contar cuentos?\n¿Sabe escribir 2 o más letras?\n¿Puede su niño saltar hacia adelante cayendo con los pies \njuntos?\n¿Puede su niño saltar con un solo pie hacia adelante tres \nveces cayendo con el mismo pie?\n¿Puede dibujar una persona con 4 o más partes del cuerpo: \nojos, nariz, boca, pelo, tronco, brazos, piernas, etc.?\n Cuando algo le gusta mucho, ¿dice: “ d ame más”?\nOPCIONALES (No modiﬁcan la caliﬁcación global)\n \n1. ¿El niño necesita acercarse mucho a los objetos que le llaman la \natención o inclina la cabeza para verlos?\n4. ¿Se distrae fácilmente y le cuesta mucho trabajo concentrarse en \nalguna actividad por más de cinco minutos?\n2. ¿El niño se cae frecuentemente al correr?\n3. ¿El niño se orina en la cama por las noches?\n¿Le gusta jugar al papá, a la mamá o actuar como otra persona de la familia?\n(pág. 110)\nROJO.\nAMARILLO."
+    },
+    {
+      "marcador_cita": "[[PAGINA 49]]",
+      "id": "MINSA-7988-P0049",
+      "pagina_pdf": 49,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "50"
+    },
+    {
+      "marcador_cita": "[[PAGINA 50]]",
+      "id": "MINSA-7988-P0050",
+      "pagina_pdf": 50,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "51"
+    },
+    {
+      "marcador_cita": "[[PAGINA 51]]",
+      "id": "MINSA-7988-P0051",
+      "pagina_pdf": 51,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "52\n1\nMES\nALE 1.3 ¿Su hijo(a) tiene problemas para lactar: se atora/atraganta; se \npone morado; presenta problemas para succionar?\nALE 1.4  ¿Considera que el desarrollo de su niño es inadecuado?\nPregunte a la madre, padre o cuidador p rimario: “¿El b ebé presenta tos o una expresión en la cara de\nmolestia cuando lacta?”, “¿Durante la alimentación frecuentemente presenta náuseas, vómitos, se\npone morado, pálido, o se atora/ a traganta?”. Deﬁna la frecuencia e intensidadde la conducta en\ncomparación con otros niños(as) de su misma edad.\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 52]]",
+      "id": "MINSA-7988-P0052",
+      "pagina_pdf": 52,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "53\n1\nMES\nMF 1.1.¿Su bebé mantiene las manos cerradas/empuñadas  la mayor \nparte del tiempo?\nPregunte a la madre, padre o cuidador primario si el bebé mantiene las \nmanos cerradas/empuñadas  la mayor parte del día o, si por el contrario, \nlas tiene abiertas y ﬂojas.\nPregunte a la madre, padre o cuidador primario: ¿deja de llorar el bebé si usted le habla con \nuna voz tranquilizadora?, ¿deja de llorar cuando escucha el sonido de su voz, aunque usted \nno lo toque o lo cargue? Deﬁna la frecuencia e intensidad de la conducta en comparación con \notros niños de su misma edad.\nLE 1.2. ¿Hace algún ruido con la boca, llora cuando está incómodo o \nquiere lactar?\ncuidador principal\nprincipal\nprincipal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 53]]",
+      "id": "MINSA-7988-P0053",
+      "pagina_pdf": 53,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "54\n1\nMES\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 54]]",
+      "id": "MINSA-7988-P0054",
+      "pagina_pdf": 54,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "55\n1\nMES"
+    },
+    {
+      "marcador_cita": "[[PAGINA 55]]",
+      "id": "MINSA-7988-P0055",
+      "pagina_pdf": 55,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "56\n2\nMESES\n**ALE 2.1. ¿Están las manos de su niño permanentemente \ncerradas/empuñadas con el pulgar adentro?\nALE 2.3. ¿Frecuentemente se encuentra aletargado(a)/adormecido(a) y \nno muestra interés por lo que sucede a su alrededor?, ¿cuesta trabajo \nmantenerlo despierto?\n¿Considera que algo no va del todo bien en el comportamiento, \ndesarrollo o características de su bebé? \ncuidador principal\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 56]]",
+      "id": "MINSA-7988-P0056",
+      "pagina_pdf": 56,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "57\n2\nMESES\n**MG 2.1. Cuando acuesta a su bebé boca abajo, ¿levanta su cabeza \ndurante al menos 3 segundos?\nColoque al niño en posición prona (boca abajo) y llame su atención \ncon un objeto atractivo (sonaja o juguete) para que levante la \ncabeza y la mantenga así por lo menos tres segundos. Observe si lo \nhace. Repetición del ítem: hasta 2 veces más de cada lado."
+    },
+    {
+      "marcador_cita": "[[PAGINA 57]]",
+      "id": "MINSA-7988-P0057",
+      "pagina_pdf": 57,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "58\n**LE 2.1. Cuando su bebé oye un ruido fuera de su campo visual, \n¿voltea en dirección al sonido?\nColocándose fuera del campo visual del bebé, utilice algún objeto ruidoso (campana) y \nhágalo sonar primero en su costado izquierdo y luego en el derecho esperando que \nvoltee hacia la fuente de sonido. Repetición del ítem: hasta 2 veces más de cada lado.\nRealice en  e l niño las maniob ras correspondientes p ara valorar el \ntono pasivo del niño, evaluando ángulos y simetría de las maniobras, \ntomando e n cuen ta q ue u na l imitación importante o in capacidad \npara l ograr los ángulos  s egún l a edad, es  u n da to s ugestivo de \nhipertonía (espasticidad, rigidez); mientras que el sobrepasar estos \nángulos de manera importante sugiere hipotonía (ﬂacidez).\n2\nMESES\ncuidador principal\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 58]]",
+      "id": "MINSA-7988-P0058",
+      "pagina_pdf": 58,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "59\nALA 2.3. ¿Su hijo tiene problemas para lactar: se atora/atraganta, \nse pone morado o presenta problemas para succionar?\n2\nMESES\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 59]]",
+      "id": "MINSA-7988-P0059",
+      "pagina_pdf": 59,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "60\n3\nMESES\nSosteniendo al bebé por el tronco observe si logra mantener su cabeza, sin dejarla caer \nhacia adelante, hacia atrás o hacia los lados.\nALE 3.4. ¿Considera que algo no va del todo bien en el\ncomportamiento, desarrollo o características de su bebé?\n**ALE 3.1.  ¿ Cuándo lo sostiene por  e l tronco, su  c abeza c ae \nbruscamente hacia adelante, atrás o a los lados?\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 60]]",
+      "id": "MINSA-7988-P0060",
+      "pagina_pdf": 60,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "61\n3\nMESES\n**MG 3.2. Cuando sienta al bebé, ¿ha observado si logra sostener la \ncabeza sin que se le vaya bruscamente hacia adelante, atrás o hacia \nalguno de los lados?\nEstando s entado e l bebé, deje de sostener la cabe za y v ea s i la \nmantiene o se cae.\n**MF 3 .2. ¿Tiene el bebé las manos abiertas la ma yor parte del \ntiempo?\nPregunte a l a madr e, p adre o c uidador p rimario si el bebé se da \ncuenta d e sus manos,  s i las mi ra m ientras las mue ve d urante a l \nmenos 3 segundos o si juega con ellas y con qué frecuencia lo hace. \nDeﬁna la frecuencia e intensidad de la conduc ta e n comparación \ncon otros niños de su misma edad.\nColoque al bebé en la mesa de exploración permitiéndole que se quede tranquilo,\nmientras ambas manos toman la posición en reposo, que debe ser abierta la mayor parte\ndel tiempo. Es importante que el bebé no esté cogiendo o intentando coger algún objeto.\ncuidador principal\ncuidador principal\nprincipal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 61]]",
+      "id": "MINSA-7988-P0061",
+      "pagina_pdf": 61,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "62\nSO 3.1. ¿Sonrie su bebé con facilidad?\n3\nMESES\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 62]]",
+      "id": "MINSA-7988-P0062",
+      "pagina_pdf": 62,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "63\n3\nMESES"
+    },
+    {
+      "marcador_cita": "[[PAGINA 63]]",
+      "id": "MINSA-7988-P0063",
+      "pagina_pdf": 63,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "64\n4\nMESES\nColoque al bebé en supino (boca arriba) sosteniendo la cuerda con la pelota por encima de su \ncabeza y muévala para atraer su atención. Aliente al bebé para que trate de coger el objeto.\n**ALE 4.3. ¿Persiste el reﬂejo de Galant o de incurvación?\n**ALE 4.3. ¿Considera que algo no va del todo bien en el\ncomportamiento, desarrollo o características de su bebé?\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 64]]",
+      "id": "MINSA-7988-P0064",
+      "pagina_pdf": 64,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "65\n**MG 4.2. Cuando el bebé está acostado boca arriba, ¿se voltea \nhacia los lados?\n**MF 4.1. ¿Extiende su bebé alguno de sus brazos para tratar de \ncoger un objeto que está a su alcance?\nColoque al bebé en decúbito dorsal (boca arriba) y llame su atención \nhablándole, cantándole o mostrándole algún juguete atractivo para \nque logre ponerse de c ostado, dándose v uelta hacia el l ado del  \nestímulo. Repetición del ítem: hasta 2 veces más de cada lado.\nColoque a l bebé e n decúbito d orsal ( boca a rriba) sosteniendo la \ncuerda con la pelota por encima de su cabeza y muévala para atraer \nsu atención. Aliéntelo para q ue trate de a garrar el objeto. Realice el \nprocedimiento en ambos lados.\nColoque a l bebé  e n decúbito dorsal ( boca a rriba) y o frézcale u n \nobjeto atractivo (sonaja, cubo, etc.) para que lo mantenga en la mano \nal menos 1 0 segundos. Valore ambas manos. R epetición del ítem: \nhasta 2 veces más de cada lado.\n4\nMESES\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 65]]",
+      "id": "MINSA-7988-P0065",
+      "pagina_pdf": 65,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "66\nSO 4.1. Piensa usted  q ue c uando su bebé ve s u pecho  o  la leche, \n¿sabe que en poco tiempo le va a dar de lactar?\nPregunte a la madre, padre o cuidador primario si el bebé tiene conductas anticipatorias \ncuando ve el pecho materno, como cambios en la expresión facial, agitación o aumento \nde la frecuencia  c ardiaca, d emostrando que sabe que  s e le  v a a alimentar. Deﬁna la \nfrecuencia e intensidad de a conducta e n comparación con ot ros niños de  s u misma \nedad.\nNota: Si p or r azones médi cas el  b ebé no  p uede r ecibir lac tancia m aterna, adecue la \npregunta a la situación especíﬁca.\n**ALA 4.1 ¿El reﬂejo de Moro está ausente o es asimétrico?\n**ALA 4.2. ¿Cuándo  l o sostiene del t ronco su cabeza cae brús ca-\nmente hacia adelante, atrás o a los lados?\nSostenga al bebé por el tronco y siéntelo, permitiendo que logre mantener su cabeza, sin \ndejarla caer hacia adelante, atrás o a los lados, aunque sea muy brevemente.\n4\nMESES\ncuidador principal\ncuidador principal\nprincipal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 66]]",
+      "id": "MINSA-7988-P0066",
+      "pagina_pdf": 66,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "67\n4\nMESES"
+    },
+    {
+      "marcador_cita": "[[PAGINA 67]]",
+      "id": "MINSA-7988-P0067",
+      "pagina_pdf": 67,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "68\n5 A 6\nMESES\nPregunte si el bebé se da cuenta de sus manos, si las mira mientras las mueve o por el \ncontrario parece no darse cuenta de ellas. Deﬁna la frecuencia e intensidad de la conducta \nen comparación con otros de su misma edad.\nColoque al bebé en decúbito dorsal (boca arriba) y ofrézcale un objeto atractivo (sonaja, \ncubo, etc.) para que lo mantenga en la mano al menos 10 segundos. Valore ambas manos. \nRepetición del ítem: hasta dos veces más de cada lado.\nColoque al bebé en decúbito dorsal (boca arriba) y t omándolo de las manos  levántelo, \npermita que eleve la cabeza y se impulse con el cuerpo hacia la posición de sentado.\nColoque al niño en decúbito dorsal (boca arriba) llamando su atención hablándole, cantándole \no mostrándole algún juguete atractivo para que logre ponerse de costado, dándose vuelta \nhacia el lado del estímulo. Repetición del ítem: hasta 2 veces más de cada lado.\nALE 5.2. ¿Rara vez o nunca lo ha oido balbucear o emitir sonidos guturales?\nALE 5.2. ¿Considera que algo no va del todo bien en el comportamiento, \ndesarrollo o características de su bebé?\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 68]]",
+      "id": "MINSA-7988-P0068",
+      "pagina_pdf": 68,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "69\nColoque a l bebé e n decúbito d orsal (boca arriba) y levántelo \ntomándolo de los brazos, permita que eleve la cabeza y se impulse \ncon el cuerpo hacia la posición sentado.\nColoque al bebé sentado sobre las piernas del cuidador y sobre la \nmesa sitúe un objeto atractivo (sonaja, cubo o muñeco) moviéndolo \npara llamar su atención. Motívelo para que trate de coger el objeto.\n**MF 5.2. Cuando la madre, padre o cuidador primario sostiene al \nbebé, ¿intenta i nsistentemente a garrar u n objeto c ercano a  é l, \naunque no pueda alcanzarlo?\n5 A 6\nMESES\nprincipal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 69]]",
+      "id": "MINSA-7988-P0069",
+      "pagina_pdf": 69,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "70\n5 A 6\nMESES\n** LE 5.1. Si llama a s u bebé cuando  él no lo  puede ver, ¿mueve la \ncabeza en dirección a su voz?\nq\n-\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 70]]",
+      "id": "MINSA-7988-P0070",
+      "pagina_pdf": 70,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "71\n5 A 6\nMESES"
+    },
+    {
+      "marcador_cita": "[[PAGINA 71]]",
+      "id": "MINSA-7988-P0071",
+      "pagina_pdf": 71,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "72\n7 A 9\nMESES\nALE 6.4.¿Considera que algo no va del todo bien en el\ncomportamiento, desarrollo o características de su bebé?\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 72]]",
+      "id": "MINSA-7988-P0072",
+      "pagina_pdf": 72,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "73\n**MG 6.2. Cuando su bebé quiere ir de un lado a otro y se encuentra \nboca arriba, ¿se voltea para quedar boca a bajo y arrastrarse sobre \nsu abdomen?\n**MF 6.1. Cuando quiere agarrar las cosas, ¿utiliza sus dedos como si \nestuviera arrastrando un objeto con los dedos separados (rastrillo)?  \nSobre la mesa sitúe  e l cubo o un jugue te llamativo y pequeñ o, \nmoviéndolo p ara llamar su  a tención. Motívelo  p ara que  t rate de \narrastrar el objeto hacia él con la mano.\nRepetición del ítem: hasta 2 veces más.\n7 A 9\nMESES\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 73]]",
+      "id": "MINSA-7988-P0073",
+      "pagina_pdf": 73,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "74\nLE 6.2. ¿Hace gestos o señas para decir lo que quiere?\nSO 6.2. Cundo le da de beber líquidos, ¿lo ayuda a sostener/coger \nel vaso o la taza?\n7 A 9\nMESES\ncuidador principal\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 74]]",
+      "id": "MINSA-7988-P0074",
+      "pagina_pdf": 74,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "75\n7 A 9\nMESES"
+    },
+    {
+      "marcador_cita": "[[PAGINA 75]]",
+      "id": "MINSA-7988-P0075",
+      "pagina_pdf": 75,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "76\n10 A 12\nMESES\nColoque al niño sentado en el suelo y llame su atención con un \njuguete atractivo que se encuentre fuera de su alcance para que \nel niño tenga que desplazarse sobre su abdomen o gateando para \nllegar a él.\nALE 7.4. ¿Considera que algo no va del todo bien en el\ncomportamiento, desarrollo o características de su bebé?\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 76]]",
+      "id": "MINSA-7988-P0076",
+      "pagina_pdf": 76,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "77\nColoque al bebé sentado con sus brazos encima de la mesa. \nColoque un objeto pequeño sobre la mesa moviéndolo para llamar \nsu atención. Motívelo para que trate de tomarlo con la mano.\n**LE 7 . 1. Cuando su niño está jugando en una actividad que lo tiene \nentretenido y usted le dice “no, no ” ,  ¿ d eja de hacerla, aunque sea brevemente?\nDeje sobre la mesa un objeto atractivo a una distancia cercana, para \nque el n iño intente cogerlo con la mano. Cuando esté haciendo e l \nmovimiento para alcanzar el juguete dígale con voz clara y ﬁrme: “no, \nno”.\n10 A 12\nMESES\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 77]]",
+      "id": "MINSA-7988-P0077",
+      "pagina_pdf": 77,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "78\n10 A 12\nMESES\ncuidador principal\ncuidador principal\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 78]]",
+      "id": "MINSA-7988-P0078",
+      "pagina_pdf": 78,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "79\n10 A 12\nMESES"
+    },
+    {
+      "marcador_cita": "[[PAGINA 79]]",
+      "id": "MINSA-7988-P0079",
+      "pagina_pdf": 79,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "80\n13 A 15\nMESES\n**ALE 8.1. Cuando colocas de pie a tu niño en una superﬁcie plana, \n¿no logra mantenerse parado aunque lo sujetes del tronco?\nALE 8.4. ¿Considera que algo no va del todo bien en el\ncomportamiento, desarrollo o características de su bebé?\nColoque al  b ebé de pie sobre l a mesa mientras lo sostiene \nﬁrmemente del  t ronco, o bserve si log ra l a postura c ompleta de \nmanera independiente.\nPregunte a l a mad re, padre o cuidador primario si  a l bebé se le \ndiﬁculta comunicarse con los demás utilizando palabras o sonidos.\ncuidador principal\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 80]]",
+      "id": "MINSA-7988-P0080",
+      "pagina_pdf": 80,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "81\n13 A 15\nMESES\nSiente al niño en una silla pequeña o en un tapete y motívelo para que se levante. \nObserve si logra ponerse de pie desde la posición de sentado apoyando ligeramente \nlas manos en el suelo.\nSitúe al niño de pie en el centro del consultorio, lejos de muebles \nen donde pueda apoyarse. Coloque frente a él un juguete atractivo \nen el piso, pídale que agarre el juguete y se lo entregue.\nPregunte a l a madre, padre o cuidador primario si le gusta tirar o \naventar juguetes al suelo o si encuentra divertido tirarlo una y otra \nvez, esperando que el cuidador lo levante del suelo y se lo devuelva.\nMF 8.1. ¿Le gusta tirar o lanzar juguetes u otros objetos al suelo?\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 81]]",
+      "id": "MINSA-7988-P0081",
+      "pagina_pdf": 81,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "82\n**MF 8 .2. ¿Le gusta sacar y me ter cosas de las  b olsas, cajas o \nrecipientes?\nColoque la caja, bolsa o recipiente sobre la mesa. Ábrala y dígale al \nniño: “Mira, aquí hay unos juguetes divertidos. Voy a sacar algunos”. \nEmpuje la caja hacia él y estimúlelo para que los saque. “Ahora sácalos \ntú y míralos. ¿Te gustaría jugar con ellos?”. Luego de que el niño haya \nsacado por lo menos 4 juguetes deje que juegue un rato con ellos y \ndiga: “Ahora vamos a guardar todos los juguetes”.\nColoque al niño sentado sobre las piernas del cuidador. Sitúe sobre la \nmesa una bolita de papel, motívelo para que la tome con las yemas de \nlos dedos.\nPregunte a la madre, padre o cuidador primario: ¿qué gestos hace?, ¿puede describirlos? \nCuando hace gestos ¿ha notado si los acompaña con sonidos? Por ejemplo señala para  \npedir algo y vocaliza, jala de la ropa y vocaliza, niega con la cabeza y dice”no”, levanta la taza \ny dice “eche” o levanta las manos para que lo carguen y grita o vocaliza.\n13 A 15\nMESES\ncuidador principal\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 82]]",
+      "id": "MINSA-7988-P0082",
+      "pagina_pdf": 82,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "83\n13 A 15\nMESES\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 83]]",
+      "id": "MINSA-7988-P0083",
+      "pagina_pdf": 83,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "84\n16 A 18\nMESES\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 84]]",
+      "id": "MINSA-7988-P0084",
+      "pagina_pdf": 84,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "85\n16 A 18\nMESES\ncuidador principal:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 85]]",
+      "id": "MINSA-7988-P0085",
+      "pagina_pdf": 85,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "86\n16 A 18\nMESES\n**MF 9 . 3. S i us ted le da  u n peda zo de papel y un lápiz  o c rayola, \n¿utiliza la punta para tratar de dibujar? \nPonga frente al niño papel  y un lápiz o crayola. Observe si trata de \ndibujar.\nSO 9.2. Cuando va a desvestir a su niño, ¿le ayuda quitándose parte \nde su ropa, como los zapatos o sandalias?\nPregunte a la madre, padre o cuidador primario: ¿suele interesarse \nel n iño por lo que  u sted hace en la casa ?, ¿lo  h a vis to i mitando \nalguna tarea que usted hace habitualmente, como barrer o limpiar? \nTeta\nPregunte a la madre, padre o cuidador primario: ¿ya está usando la \ncuchara para comer?, ¿derrama mucho el alimento o maneja la \ncuchara con habilidad?\nPuede sustituir cuchara por pan en la misma oración, en caso de \nser necesario.\nPregunte a la madre, padre o cuidador primario: qué palabras con sentido y de manera\nespontánea dice el niño. Haga una lista. Por ejemplo puede decir “guau-guau” para perro,\n“ e che” para leche, “aba” para agua, etc. Si el cuidador tiene problemas para recordar, enumere\nusted las más frecuentes preguntando que palabras utiliza para nombrar lo siguiente:\ncuidador principal:\ncuidador principal\ncuidador principal\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 86]]",
+      "id": "MINSA-7988-P0086",
+      "pagina_pdf": 86,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "87\nPregunte a la madre, padre o cuidador primario si el niño ha perdido alguna habilidad o \naprendizaje que ya había logrado. Distinga pérdida de un hito que ha desaparecido para \nevolucionar y convertirse en otro de un nivel mayor de desarrollo. La pérdida debe ser: \nmayor a tres meses, importante, constante y no transitoria.\n16 A 18\nMESES\ncuidador principal\ncuidador principal\ncuidador principal\nprincipal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 87]]",
+      "id": "MINSA-7988-P0087",
+      "pagina_pdf": 87,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "88\n19 A 24\nMESES\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 88]]",
+      "id": "MINSA-7988-P0088",
+      "pagina_pdf": 88,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "89\n19 A 24\nMESES\n** MF  1 0.2. ¿Puede  d esenvolver un jugue te u o bjeto pequeño  q ue \neste envuelto en papel celofán?\nMuéstrale un juguete u objeto pequeño envuelto en un papel celofán. \nDiga: “ Mira, aquí tengo un j uguete, lo v oy a  a brir”. D esenvuelva el \njuguete quitándole el  p apel. Asegú rese d e que lo está mi rando \nmientras lo h ace. A hora o frézcale un nue vo j uguete al n iño y diga: \n\"¿quieres abrirlo tú? Aquí lo tienes”.\nObserve si lo desenvuelve.\nPregunte a la madre, padre o cuidador primario: si el niño puede comer ayudándose de una \ncuchara o trozo de pan (o la palabra que corresponda en el contexto local). Pídale al cuidador \nque le dé ejemplos. Deﬁna la frecuencia de la conducta.\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 89]]",
+      "id": "MINSA-7988-P0089",
+      "pagina_pdf": 89,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "90\nPregunte a la madre, padre o cuidador primario qué palabras con sentido y de manera espon -\ntánea dice. Haga una lista. Si la mamá o el cuidador tiene problemas para recordar, enumere \nusted las más fr ecuentes pr eguntando q ué p alabra u tiliza p ara nombrar e stas u o tras \npalabras comunes en el contexto:\nmamá teta papá leche dame papa\nUpa\nT e ta\nPapa\nPon el lapiz sobre la mesa\nDale el vaso a mamá\n19 A 24\nMESES\ncuidador principal\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 90]]",
+      "id": "MINSA-7988-P0090",
+      "pagina_pdf": 90,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "91\n**ALA 10.1. Cuando camina, ¿primer o apoya los dedos y luego el talón o \ndespués de v arios meses solo apo ya la punt a de los p ies?\nPregunte a la madre, padre o cuidador primario si el niño ha perdido alguna habilidad o \naprendizaje que ya había logrado. Distinga pérdida de un hito que ha desaparecido para \nevolucionar y convertirse en otro de un nivel mayor de desarrollo. La pérdida debe ser: \nmayor a tres meses, importante, constante y no transitoria.\n19 A 24\nMESES\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 91]]",
+      "id": "MINSA-7988-P0091",
+      "pagina_pdf": 91,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "92\n25 A 30\nMESES\n** MG 11.1. Cuando su niño salta, ¿levanta los dos pies del suelo a la vez?\ncuidador principal\ncuidador principal:\ncuidador principal:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 92]]",
+      "id": "MINSA-7988-P0092",
+      "pagina_pdf": 92,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "93\n25 A 30\nMESES\n** MF 11.1. ¿Puede abrir un frasco con tapa rosca de plástico solo?\nDele un frasco de plástico con tapa rosca y dígale: “aquí tienes un \nfrasco. ¡Enséñame como lo abres!” No le muestre cómo hacerlo, espere \na que lo haga solo.\nNota: Colocar dentro del frasco un objeto pequeño que produzca \ninterés por sacarlo.\nColóquese frente al niño y muéstrele los cubos. Diga: \"Mira......gusanito\" \n“Mira, voy a construir un tren/gusanito.” “¡Ahora es tu turno, muéstrame\ncomo construyes un tren/gusanito!” “Repetición del ítem: hasta 2 veces más.”\nPregunte a la madr e, padre o cuidador primario si utiliza de mane ra espontánea y ap ropiada \npronombres personales como: “yo” (cuando se reﬁere a  sí mismo), “tú” (cuando se diri ge a  \notro), “él/ella” (cuando habla de una tercera persona) y el pronombre posesivo “mío” (cuando se \nreﬁere a algo que le pertenece). Deﬁna la frecuencia e intensidad de la conducta en comparación \ncon otros de su misma edad. Asegúrese que no se reﬁera a sí mismo en tercera persona (hablar \nde sí mismo como si fuera otra persona). Es suﬁciente con que utilice una de estas palabras \ncorrectamente.\nPregunte a la madre, padre o cuidador primario si utiliza oraciones de  3 p alabras (la or ación \ndebe incluir verbo). Haga una lista, por ejemplo: “mamá quiero leche”, “papá mira carro”, “ dame \nmi pelota”.\nPregunta: \"¿Cómo te llamas?, ¡Dime tu nombre!\"\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 93]]",
+      "id": "MINSA-7988-P0093",
+      "pagina_pdf": 93,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "94\nPregunte a la mad re, padre o cuidador primario: ¿a qué le gusta j ugar?, \n¿juega espontáneamente a imitar acciones de la vida en el hogar, el mercado \no la comunidad?\nEste ítem busca investigar si tiene juego simbólico.\nPregunte a la madre, padre o cuidador primario si su niño se lava la cara o las manos sin ayuda \ncuando se le pide. Si es capaz de abrir por sí solo la llave, coger el jabón, frotarse/jabonarse las \nmanos, enjuagarlas con agua. Cerciórese que también puede lavarse la cara. Deﬁna la frecuencia \ne intensidad de la conducta en comparación con otros niños de su misma edad.\nPregunte a la madre, padre o cuidador primario si el niño ha perdido alguna habilidad o aprendizaj e  \nque ya había logrado. que ha desaparecido para evolucionar y c onvertirse en otro de un nivel \nmayor de  d esarrollo. L a pérdida debe ser:  m ayor a t res meses, importante, cons tante y no \ntransitoria.\n25 A 30\nMESES\ncuidador principal\ncuidador principal:\ncuidador principal\ncuidador principal:\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 94]]",
+      "id": "MINSA-7988-P0094",
+      "pagina_pdf": 94,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "95\n25 A 30\nMESES"
+    },
+    {
+      "marcador_cita": "[[PAGINA 95]]",
+      "id": "MINSA-7988-P0095",
+      "pagina_pdf": 95,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "96\n31 A 36\nMESES\ncuidador principal:\ncuidador principal:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 96]]",
+      "id": "MINSA-7988-P0096",
+      "pagina_pdf": 96,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "97\n31 A 36\nMESES\nMF 12.1. ¿Puede su niño abotonar un botón de una prenda de vestir?\nPregunte a l a mad re, padre o cuidador primario:  ¿ se logra abo tonar bo tones de su  c hompa, \npantalón o alguna otra prenda de vestir sin ayuda?\ncuidador principal:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 97]]",
+      "id": "MINSA-7988-P0097",
+      "pagina_pdf": 97,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "98\nPregunte a la madre, padre o cuidador primario: las personas que no son de la familia, ¿comprenden \nlo qué dice su niño?, ¿cuánto cree usted que alcanzan a entender? Las personas que no son familiares \ndeben comprender 75 por ciento o más o la mayor parte de lo que el niño(a) hable.\nPregunte a l a madre, padre o c uidador primario si se separa fácilmente de sus padres cuando \ntienen que dejarlo en algún sitio, con otros familiares o en la guardería. No debe presentar ansiedad \nmarcada ni indiferencia completa ante la separación. Deﬁna la frecuencia e intensidad de la conducta \nen comparación con otros niños de su misma edad.\n31 A 36\nMESES\ncuidador principal:\ncuidador principal:\ncuidador principal:\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 98]]",
+      "id": "MINSA-7988-P0098",
+      "pagina_pdf": 98,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "99\nPregunte a la madre, padre o cuidador primario si el niño forma oraciones complejas que incluyen la \nacción (verbos) o si utiliza únicamente palabras aisladas. En esta señal se busca evaluar si existe un \nretraso severo en el desarrollo del lenguaje. Por ejemplo: “leche”,“ c arro”,“pelota”.\nPregunte a la madre, padre o cuidador primario si el niño ha perdido alguna habilidad o aprendizaje \nque y a había logrado. Distinga pé rdida de un hi to q ue h a desaparecido para e volucionar y  \nconvertirse en otro de un nivel mayor de desarrollo. La pérdida debe ser: mayor a tres meses, \nimportante, constante y no transitoria.\n31 A 36\nMESES\ncuidador principal:\ncuidador principal\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 99]]",
+      "id": "MINSA-7988-P0099",
+      "pagina_pdf": 99,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "100\n37 A 48\nMESES\n**ALE 13.1. ¿Le cuesta trabajo tomar un  l ápiz o c rayola c on l os dedos \níndice, pulgar y medio?\nOfrézcale al niño un lápiz o un crayola y una hoja de papel y dígale: “¡Haz \nun dibujo para mí!, ¡dibuja lo que quieras!” La señal está presente si tiene \ndiﬁcultades p ara tomar el  l ápiz o c rayola c on dedos  í ndice, pulgar y  \nmedio.\nPasador\ncuidador principal:\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 100]]",
+      "id": "MINSA-7988-P0100",
+      "pagina_pdf": 100,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "101\n37 A 48\nMESES\nEn un lugar con espacio suﬁciente, diga:“¡Ahora vamos a jugar  a saltar en un pie! ¡Mira cómo lo \nhago! ¡Ahora tú! ¡Salta en un pie como yo lo hice!!” Debe saltar en un pie por lo menos 3 veces. \nObserve si lo hace.\nRepetición del ítem: hasta 2 veces más, de cada lado.\nEn un lugar con espacio suﬁciente, colóquese frente al niño, a una distancia \nmayor a u n metro y d iga: “ ¡Vamos a j ugar a  la pelota!” Láncele  l a \npelota diciend o:“¡Atrapa la pelota!” Observe si lo hace.\nRepetición del ítem: Hasta 2 veces más.\nPregunte a la madre, padre o cuidador primario: ¿puede su niño subir o bajar las escaleras por sí solo, \nsin que lo lleven de la mano y sin apoyarse de la pared o de la baranda? Corrobore invitándolo a subir \ny después a bajar hasta 4 escalones de manera lenta. Observe cuanta ayuda necesita.\nColóquese frente al niño y diga: “Mira, aquí tengo unas bolitas y un cordón. \nVoy a meter el cordón en estas bolitas”. Retire las bolitas y déselas junto con \nel pasador y diga: “ A hora te toca a ti. Mete las bolitas una por una”.\nRepetición del ítem: hasta 2 veces más.\nPregunte a la madre, padre o cuidador primario: ¿Conversa su niño con usted? ¿Cuando su niño \nquiere algo, lo di ce c on p alabras o sólo con gestos o h aciendo algún sonido r epetitivo como \n“uhh-uhh”?\n**MG 13.2. Cuando le lanzan a su niño una pelo ta g rande, ¿ puede \ncogerla/atraparla?\n**MG 13.3. ¿Sube y  baja las e scaleras s in ap oyarse de la  pared o d e la \nbaranda?\n*MF 1 3.1. ¿ Puede me ter un pasador  o c ordón  por los agujeros de  u na \nbolita  o de un zapato?\ncuidador principal:\ncuidador principal:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 101]]",
+      "id": "MINSA-7988-P0101",
+      "pagina_pdf": 101,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "102\n37 A 48\nMESES\n**LE 13.2. ¿Puede contarle algo de lo que hizo ayer?\nSO 13.3. ¿Juega con otros niños al papá, a la mamá, al doctor, al vendedor de \ntienda o el mercado u otros del contexto?\ncuidador principal\ncuidador principal\ncuidador principal\ncuidador principal\ncuidador principal:\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 102]]",
+      "id": "MINSA-7988-P0102",
+      "pagina_pdf": 102,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "103\n37 A 48\nMESES\nPregunte al niño, en tono divertido: “Dime, y tú ¿eres niña o niño?”\nPregunte a la madre, padre o cuidador primario si el niño ha perdido alguna habilidad o aprendizaje \nque ya h abía log rado. Distinga pé rdida de  u n hi to que  h a desapar ecido para e volucionar y  \nconvertirse en otro de un nivel mayor de desarrollo. La pérdida debe ser: mayor a tres meses, \nimportante, constante y no transitoria.\ncuidador principal\ncuidador principal\ncuidador principal\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 103]]",
+      "id": "MINSA-7988-P0103",
+      "pagina_pdf": 103,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "104\nPregunte a la madre, padre o cuidador primario si su niño se viste o desviste solo. Se debe caliﬁcar \ncomo SI, en caso de que al niño aún se le di ﬁculte quitarse pantalones, camisa, polo, medias y \nzapatos.\nALE 14.2. ¿Aún  s e le  d iﬁculta desvestirse solo, p or e jemplo: abotonar, \namarrar pasadores, ponerse o quitarse un polo, etc?\n49 A 59\nMESES\ncuidador principal\ncuidador principal\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 104]]",
+      "id": "MINSA-7988-P0104",
+      "pagina_pdf": 104,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "105\nPregunte a la madre, padre o cuidador primario: “¿su niño logra darse volantines?” Deﬁna la frecuencia \ne intensidad de la conducta.\nEn un lugar con espacio suﬁciente, diga: “¡vamos a jugar a saltar con los dos pies juntos! ¡Mira cómo \nlo hago! ¡Ahora te toca a ti!”\nEn un lugar con espacio suﬁciente, diga: “¡ahora vamos a jugar a salta en un \npie ! ¡ Mira como lo hago!¡Ahora tú salta en un pie como yo lo hice!” Debe \nsaltar con el mismo pie hacia adelante por lo menos 3 veces.\nRepetición del ítem: hasta 2 veces más de cada lado.\n**MG 14.2. ¿Puede su niño saltar hacia adelante cayendo con los pies juntos?\n**MG 14.3. ¿Puede su niño brincar con un solo pie hacia adelante tres veces \ncayendo con el mismo pie?\nMG 14.1. ¿Sabe su niño darse volantines?\n49 A 59\nMESES\ncuidador principal\ncuidador principal:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 105]]",
+      "id": "MINSA-7988-P0105",
+      "pagina_pdf": 105,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "106\n49 A 59\nMESES\nPregunte al niño: “¿Qué vas a hacer mañana? ¿A dónde vas a ir más tarde? ¿Cuándo irás a la escuela?”\nPregunte a la madre, padre o cuidador primario si el niño utiliza la expresión “dame más” cuando algo \nle gusta mucho. Por ejemplo:“ dame más papa”. Deﬁna la frecuencia e intensidad de la conducta en \ncomparación con otros niños de su misma edad.\nPregunte a la madre, padre o cuidador primario si el niño imita a a personas \nde su familia y de su entorno cercano y asume roles típicos de algunos de \nsus miembros, como: “hacer como que cocina”, “hacer como que regaña a \notro niño”, “hacer como que se va a trabajar”. Deﬁna la frecuencia e intensidad \nde la conducta en comparación con otros niños de su misma edad.\ncuidador principal\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 106]]",
+      "id": "MINSA-7988-P0106",
+      "pagina_pdf": 106,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "107\n49 A 59\nMESES\nPregunte a la madre, padre o cuidador primario si el niño ha perdido alguna habilidad o aprendizaje \nque ya había logrado. Distinga pérdida de un hito que ha desaparecido para evolucionar y convertirse \nen otro de un nivel mayor de desarrollo. La pérdida debe ser: mayor a t res meses, importante, \nconstante y no transitoria.\ncuidador principal\ncuidador principal\ncuidador principal\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 107]]",
+      "id": "MINSA-7988-P0107",
+      "pagina_pdf": 107,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "108\n60 A 71\nMESES\ncuidador principal:\ncuidador principal:\ncuidador principal:\ncuidador principal:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 108]]",
+      "id": "MINSA-7988-P0108",
+      "pagina_pdf": 108,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "109\n60 A 71\nMESES\n**MG 15.1. ¿Puede su niño saltar con un solo pie hacia adelante siete veces \ncayendo con el mismo pie?\nRealice previamente una línea recta en el suelo. Muéstrele cómo se hace.\nRepetición del ítem hasta dos veces más.\n**MG 15.2. ¿Puede brincar hacia atrás con los pies juntos?"
+    },
+    {
+      "marcador_cita": "[[PAGINA 109]]",
+      "id": "MINSA-7988-P0109",
+      "pagina_pdf": 109,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "110\n60 A 71\nMESES\n**LE 15.2. ¿Comunica sus emociones diciendo palabras como: “feliz”, “triste” y \n“molesto”? “si recibes regalos o tu comida favorita, ¿cómo te sientes?”\nColóquese frente al niño y diga: “toca tu nariz, aplaude y levántate”. Para validar el ítem el niño debe \nhacer todo en el orden dado.\nColóquese frente al niño y diga: “Pon mucha atención, vamos a jugar a las adivinanzas, si yo digo: \n\"el sol sale de día, ¿la luna sale de...?” o \"Los peces van por el agua, ¿los pájaros van por el...?\". ” \nPuede repetir la oración una vez más.\n**CO 1 5.2. ¿Puede completar oraciones con la palabra q ue signiﬁca lo \nopuesto? Por ejemplo: ““El sol sale de día y la luna sale de…”.\n**CO 15.3. ¿Identiﬁca el valor de dos o más números en diferentes textos, \nincluyendo monedas o billetes?\n**LE 1 5.3. ¿ Puede seguir órdenes verbales de t res pasos, por e jemplo: \n“aplaude, dáme el lápiz y levántate”?\ncuidador principal\ncuidador principal\ncuidador principal"
+    },
+    {
+      "marcador_cita": "[[PAGINA 110]]",
+      "id": "MINSA-7988-P0110",
+      "pagina_pdf": 110,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "111\n60 A 71\nMESES"
+    },
+    {
+      "marcador_cita": "[[PAGINA 111]]",
+      "id": "MINSA-7988-P0111",
+      "pagina_pdf": 111,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "112\n.\nPregúntele a la madre, padre o cuidador primario si el niño presenta dolor de cabeza, visión borrosa \no mareo la mayoría de los días de la semana en comparación con otros niños de su misma edad.\ncuidador principal\ncuidador principal\ncuidador principal\n60 A 71\nMESES"
+    },
+    {
+      "marcador_cita": "[[PAGINA 112]]",
+      "id": "MINSA-7988-P0112",
+      "pagina_pdf": 112,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "113\nFormato FUA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 113]]",
+      "id": "MINSA-7988-P0113",
+      "pagina_pdf": 113,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "114"
+    },
+    {
+      "marcador_cita": "[[PAGINA 114]]",
+      "id": "MINSA-7988-P0114",
+      "pagina_pdf": 114,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "115"
+    },
+    {
+      "marcador_cita": "[[PAGINA 115]]",
+      "id": "MINSA-7988-P0115",
+      "pagina_pdf": 115,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "116"
+    },
+    {
+      "marcador_cita": "[[PAGINA 116]]",
+      "id": "MINSA-7988-P0116",
+      "pagina_pdf": 116,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "117"
+    },
+    {
+      "marcador_cita": "[[PAGINA 117]]",
+      "id": "MINSA-7988-P0117",
+      "pagina_pdf": 117,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "118"
+    },
+    {
+      "marcador_cita": "[[PAGINA 118]]",
+      "id": "MINSA-7988-P0118",
+      "pagina_pdf": 118,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "119"
+    },
+    {
+      "marcador_cita": "[[PAGINA 119]]",
+      "id": "MINSA-7988-P0119",
+      "pagina_pdf": 119,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "120"
+    }
+  ]
+}
