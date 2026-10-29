@@ -1,0 +1,57 @@
+{
+  "id": "MINSA-RESOLUCION-MINISTERIAL-N-641-2026MINSA",
+  "id_fuente_oficial": null,
+  "titulo": "Publicacion Oficial - Diario Oficial El Peruano",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Resolución Ministerial",
+  "numero_norma": "RM N.° 641-2026-MINSA",
+  "fecha_aprobacion": null,
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "fuentes_oficiales": [
+    {
+      "tipo": "archivo_local",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "Publicacion Oficial - Diario Oficial El Peruano",
+      "url": null,
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "RESOLUCIÓN MINISTERIAL N° 641-2026MINSA.pdf",
+  "huella_sha256_pdf_fuente": "9f62259f226efc60e78d3e166be9a7ba11c40b75a91c183ff988f2229613f56a",
+  "paginas_pdf": 1,
+  "paginas_con_texto": 1,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "texto_nativo_pdf",
+  "ocr_aplicado": false,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 1,
+    "paginas_con_texto": 1,
+    "caracteres_texto_extraido": 7204
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-641-2026MINSA-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "72 NORMAS LEGALES Sábado 25 de julio de 2026  El Peruano /\nde la Dirección General de Aseguramiento e Intercambio \nPrestacional, de la Dirección General de Salud Ambiental \ne Inocuidad Alimentaria, de la Dirección General de \nOperaciones en Salud, de la Dirección General de Personal \nde la Salud, de la Dirección General de Gestión del Riesgo \nde Desastres y Defensa Nacional en Salud, de la Dirección \nGeneral de Telesalud, Referencias y Urgencias, de la \nOficina General de Comunicaciones, del Instituto Nacional \nde Salud, de la Oficina General de Asesoría Jurídica, de la \nSecretaría General, del Despacho Viceministerial de Salud \nPública y del Despacho Viceministerial de Prestaciones y \nAseguramiento en Salud; y,\nDe conformidad con lo dispuesto en el Decreto \nLegislativo N° 1161, Ley de Organización y Funciones del \nMinisterio de Salud; y, el Reglamento de Organización y \nFunciones del Ministerio de Salud, aprobado por Decreto \nSupremo N° 008-2017-SA;\nSE RESUELVE:\nArtículo 1.- Aprobar el Documento Técnico: \nLineamientos para la gestión de eventos de salud \npública de origen biológico con riesgo de introducción y \npropagación en el Perú, de acuerdo al Anexo que forma \nparte integrante de la presente Resolución Ministerial y \nque se publica en la sede digital del Ministerio de Salud.\nArtículo 2.- Encargar a la Oficina de Transparencia \ny Anticorrupción de la Secretaría General la publicación \nde la presente Resolución Ministerial y su Anexo en la \nsede digital del Ministerio de Salud, en la misma fecha \nde publicación de la presente Resolución Ministerial en el \nDiario Oficial El Peruano.\nRegístrese, comuníquese y publíquese.\nJUAN CARLOS VELASCO GUERRERO\nMinistro de Salud\n2538165-1\nAprueban Documento Técnico \ndenominado: Consideraciones para la \nPrevención y Diagnóstico Temprano de las \nMaloclusiones en Niñas y Niños\nRESOLUCIÓN MINISTERIAL\nN° 641-2026/MINSA\nLima, 24 de julio del 2026\nVISTO, el Expediente N° DGIESP-DSABU20260000228, \nque contiene el Memorándum N° D003648-2026-DGIESP-\nMINSA que adjunta el Informe N° D000010-2026-DGIESP-\nDSABU-MINSA, y la Nota Informativa N° D001863-2026-\nDGIESP-MINSA que anexa las Notas Informativas N° \nD000180-2026-DGIESP-DSABU-MINSA y N° D000006-\n2026-DGIESP-DSABU-RAF-MINSA, de la Dirección \nGeneral de Intervenciones Estratégicas en Salud Pública; \ny, el Informe N° D000761-2026-OGAJ-MINSA, de la Oficina \nGeneral de Asesoría Jurídica;\nCONSIDERANDO:\nQue, los numerales I y II del Título Preliminar de la \nLey N° 26842, Ley General de Salud, señalan que la \nsalud es condición indispensable del desarrollo humano y \nmedio fundamental para alcanzar el bienestar individual y \ncolectivo. La protección de la salud es de interés público. \nPor tanto, es responsabilidad del Estado regularla, \nvigilarla y promoverla;\nQue, el numeral 1) del artículo 3 y el artículo 4 \ndel Decreto Legislativo N° 1161, Decreto Legislativo \nque aprueba la Ley de Organización y Funciones del \nMinisterio de Salud, establecen que el Ministerio de Salud \nes competente en salud de las personas, y que el Sector \nSalud está conformado por el Ministerio de Salud, como \norganismo rector, las entidades adscritas a él y aquellas \ninstituciones públicas y privadas de nivel nacional, \nregional y local, y personas naturales que realizan \nactividades vinculadas a las competencias establecidas \nen dicha Ley, y que tienen impacto directo o indirecto en \nla salud, individual o colectiva;\nQue, los literales b) y h) del artículo 5 del Decreto \nLegislativo N° 1161 señalan que son funciones rectoras \ndel Ministerio de Salud formular, planear, dirigir, coordinar, \nejecutar, supervisar y evaluar la política nacional y sectorial \nde promoción de la salud, vigilancia, prevención y control \nde las enfermedades, recuperación, rehabilitación en \nsalud, tecnologías en salud y buenas prácticas en salud, \nbajo su competencia, aplicable a todos los niveles de \ngobierno; así como, dictar normas y lineamientos técnicos \npara la adecuada ejecución y supervisión de la política \nnacional y políticas sectoriales de salud, entre otros;\nQue, la Política Nacional Multisectorial de Salud “Perú, \nPaís Saludable al 2030”, aprobada por Decreto Supremo \nN° 026-2020-SA, contempla que las enfermedades \nbucodentales comparten factores de riesgo con las \nenfermedades crónicas más comunes, como las \nenfermedades cardiovasculares, cáncer, enfermedades \nrespiratorias crónicas y diabetes, señalando que el factor de \nriesgo más importante es una higiene bucodental deficiente \ny que el ejercicio de prácticas adecuadas de higiene bucal \nes una actividad poco frecuente entre la población de 1 a 11 \naños, a nivel nacional; por lo que, establece como objetivo \nprioritario 1: Mejorar los hábitos, conductas y estilos de vida \nsaludables de la población, orientándose a desarrollar en \nlas personas hábitos, conductas y estilos de vida saludables \ncon la finalidad de disminuir los factores causales de la \npérdida de años de vida saludables por discapacidad o \npor muerte prematura, en los que tiene responsabilidad la \npersona y familia a través de sus conductas;\nQue, el artículo 63 del Reglamento de Organización y \nFunciones del Ministerio de Salud, aprobado por Decreto \nSupremo N° 008-2017-SA, modificado por Decreto \nSupremo N° 011-2017-SA, establece que la Dirección \nGeneral de Intervenciones Estratégicas en Salud Pública \nes el órgano de línea del Ministerio de Salud, dependiente \ndel Viceministerio de Salud Pública, competente para \ndirigir y coordinar las intervenciones estratégicas en Salud \nPública en materia de salud bucal, entre otras;\nQue, mediante los documentos del visto, la Dirección \nGeneral de Intervenciones Estratégicas en Salud Pública \nha propuesto para aprobación el Documento Técnico: \nConsideraciones para la Prevención y Diagnóstico \nTemprano de las Maloclusiones en Niñas y Niños;\nEstando a lo propuesto por la Dirección General de \nIntervenciones Estratégicas en Salud Pública;\nCon el visado de la Dirección General de Intervenciones \nEstratégicas en Salud Pública, de la Dirección General \nde Operaciones en Salud, de la Dirección General de \nAseguramiento e Intercambio Prestacional, de la Oficina \nGeneral de Asesoría Jurídica, del Despacho Viceministerial \nde Salud Pública y del Despacho Viceministerial de \nPrestaciones y Aseguramiento en Salud; y,\nDe conformidad con lo dispuesto en el Decreto \nLegislativo N° 1161, Ley de Organización y Funciones del \nMinisterio de Salud; y, el Reglamento de Organización y \nFunciones del Ministerio de Salud, aprobado por Decreto \nSupremo N° 008-2017-SA;\nSE RESUELVE:\nArtículo 1.- Aprobar el Documento Técnico: \nConsideraciones para la Prevención y Diagnóstico \nTemprano de las Maloclusiones en Niñas y Niños, que \ncomo Anexo forma parte integrante de la presente \nResolución Ministerial.\nArtículo 2.- Encargar a la Oficina de Transparencia y \nAnticorrupción de la Secretaría General la publicación de \nla presente Resolución Ministerial y su Anexo en la sede \ndigital del Ministerio de Salud (www.gob.pe/minsa), en la \nmisma fecha de publicación de la presente resolución en \nel Diario Oficial El Peruano.\nRegístrese, comuníquese y publíquese.\nJUAN CARLOS VELASCO GUERRERO\nMinistro de Salud\n2538160-1"
+    }
+  ]
+}

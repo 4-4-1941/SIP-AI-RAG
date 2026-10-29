@@ -1,0 +1,757 @@
+{
+  "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030",
+  "id_fuente_oficial": null,
+  "titulo": "PLAN NACIONAL MULTESECTORIAL LUCHA CONTRA EL CANCER 2025 2030",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Plan Nacional",
+  "numero_norma": null,
+  "fecha_aprobacion": null,
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "fuentes_oficiales": [
+    {
+      "tipo": "archivo_local",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "PLAN NACIONAL MULTESECTORIAL LUCHA CONTRA EL CANCER 2025 2030",
+      "url": null,
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "PLAN NACIONAL MULTESECTORIAL LUCHA CONTRA EL CANCER 2025 2030.PDF",
+  "huella_sha256_pdf_fuente": "e5dbf33ea232d70853dd83bcfabc6370125745a695fa10eed2161a74e873de95",
+  "paginas_pdf": 71,
+  "paginas_con_texto": 71,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "texto_nativo_pdf",
+  "ocr_aplicado": false,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 71,
+    "paginas_con_texto": 71,
+    "caracteres_texto_extraido": 58061
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Essy Maradiegue Ch.\nDirección De Prevención Y Control De Cáncer \n“Plan Nacional \nMultisectorial de Cáncer \n2025 – 2030”"
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Agenda:\n●Marco Normativo del Plan\n●Propuesta de Plan Nacional Multisectorial de\nCáncer 2025-2030."
+    },
+    {
+      "marcador_cita": "[[PAGINA 3]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0003",
+      "pagina_pdf": 3,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Agenda:\n●Marco Normativo del Plan\n●Propuesta de Plan Nacional Multisectorial de Cáncer\n2025-2030."
+    },
+    {
+      "marcador_cita": "[[PAGINA 4]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0004",
+      "pagina_pdf": 4,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "POLÍTICA GENERAL DE GOBIERNO PARA EL PRESENTE MANDATO PRESIDENCIAL\nEJES"
+    },
+    {
+      "marcador_cita": "[[PAGINA 5]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0005",
+      "pagina_pdf": 5,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Política Nacional Multisectorial de Salud al 2030\n(PNMS)\n“Perú, país saludable”\nCon fecha 24 de agosto del 2020 a través\ndel Decreto Supremo N° 026-2020/SA que\naprueba la “Política Nacional\nMultisectorial de Salud al 2030: Perú, país\nsaludable, estableciendo el mandato que\ntodas las instituciones del Estado aborden\nde manera multisectorial el tema de la\nsalud dentro de sus planes y políticas."
+    },
+    {
+      "marcador_cita": "[[PAGINA 6]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0006",
+      "pagina_pdf": 6,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Agenda:\n●Marco Normativo del Plan\n●Propuesta de Plan Nacional Multisectorial de Cáncer\n2025-2030."
+    },
+    {
+      "marcador_cita": "[[PAGINA 7]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0007",
+      "pagina_pdf": 7,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "FORMULACIÓN DEL PLAN NACIONAL MULTISECTORIAL DE CANCER 2025-2030\nPresentación del\nInforme del Plan\nNacional de cuidados\nIntegrales del cáncer\n2020-2024 (periodo\n2021-2023)\nAutorización de\nFormulación del Plan\nNacional Multisectorial\nde cáncer 2025-2030\npor Despacho\nViceministerial de Salud\nPública.\nReunión de\nconcertación para\npresentar la propuesta y\nnecesidad de formular\nun Plan Multisectorial\nde Cáncer.\nAprobación de la RM\nN°765-2024/MINSA.\nConformación del\nGrupo de Trabajo\nMultisectorial.\nInstalación del Grupo de\nTrabajo Multisectorial.\n11 Reuniones del Grupo\nde Trabajo\nMultisectorial.\nPresentación de la\npropuesta Plan\nMultisectorial de\nCáncer 2025-2030.\n28 de febrero, 2024\n19 de julio, 2024\n7 de agosto 2024\n1 de noviembre, 2024\n11 de noviembre, 2024\n7 de febrero, 2025\n11 de noviembre, 2024 \n- 6 de febrero, 2025"
+    },
+    {
+      "marcador_cita": "[[PAGINA 8]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0008",
+      "pagina_pdf": 8,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "SECTORES PARTICIPANTES DE ELABORACIÓN DE PROPUESTA DEL PLAN NACIONAL \nMULTISECTORIAL CÁNCER 2025-2030\nSECTOR AREA/DIRECCIÓN/OFICINA\nMINISTERIO DE TRABAJO Y \nPROMOCION DEL EMPLEO\nDirección de Seguridad y Salud en el Trabajo\nSuperintendencia Nacional de Fiscalización Laboral\nMINISTERIO DE DESARROLLO \nAGRARIO Y RIEGO\nSanidad Agraria del Perú\nOficina de Planeamiento\nMINISTERIO DE ENERGIA Y MINAS Instituto Peruano de Energía y Minas\nMINISTERIO DE DESARROLLO E \nINCLUSION SOCIAL\nDirección de Articulación y Fortalecimiento de Capacidades\nDirección de Gestión Territorial\nMINISTERIO DE DEFENSA\nEjercito del Perú\nMarina de Guerra\nMINISTERIO DE VIVIENDA\nDirección General de Asuntos Ambientales\nDirección General de Políticas y Regulación en \nConstrucción y Saneamiento"
+    },
+    {
+      "marcador_cita": "[[PAGINA 9]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0009",
+      "pagina_pdf": 9,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "SECTORES PARTICIPANTES DE ELABORACIÓN DE PROPUESTA DEL PLAN NACIONAL \nMULTISECTORIAL CÁNCER 2025-2030\nSECTOR AREA/DIRECCIÓN/OFICINA\nMINISTERIO DE EDUCACIÓN\nDirección General de Educación Básica Regular\nDirección General de Calidad de la Gestión Escolar\nMINISTERIO DEL AMBIENTE\nDirección de Control de la Contaminación y Sustancias Químicas\nDirección General de Diversidad Biológica\nMINISTERIO DE CULTURA\nDirección de Políticas para la Población Afroperuana\nDirección de Políticas Indígenas \nMINISTERIO DEL INTERIOR Departamento de Oncología del Hospital Nacional PNP\nORGANISMOS PÚBLICOS DESCONCENTRADOS\nSEGURO SOCIAL DE SALUD\nINSTITUTO NACIONAL DE SALUD\nSEGURO INTEGRAL DE SALUD - FONDO INTANGIBLE SOLIDARIO DE SALUD\nINSTITUTO NACIONAL DE ENFERMEDADES NEOPLASICAS"
+    },
+    {
+      "marcador_cita": "[[PAGINA 10]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0010",
+      "pagina_pdf": 10,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "SECTORES PARTICIPANTES DE ELABORACIÓN DE PROPUESTA DEL PLAN NACIONAL \nMULTISECTORIAL CÁNCER 2025-2030\nSECTOR SALUD: MINISTERIO DE SALUD\nAREA/DIRECCIÓN/OFICINA\nDespacho Viceministerial de Salud Publica Dirección de Promoción de la Salud\nOficina General de Planeamiento, \nPresupuesto  y Modernización\nDirección de Intervenciones por Curso de Vida \ny Cuidado Integral.\nDirección de Prevención y control del Cáncer Dirección de Salud Mental\nSecretaria de Coordinación del Consejo \nNacional de Salud\nDirección de Prevención y Control de la \nDiscapacidad\nCentro Nacional de Epidemiología, Prevención \ny Control de Enfermedades (CDC Perú) \nDirección de Prevención y Control de VIH-\nSIDA, Enfermedades de Transmisión Sexual y \nHepatitis.\nDirección General de Salud Ambiental Dirección de Salud Bucal.\nDirección General de Comunicaciones Dirección de Salud Sexual y Reproductiva.\nDirección de Inmunizaciones Dirección de Pueblos Indígenas \nDirección de Telesalud Unidad funcional de Salud Ocupacional"
+    },
+    {
+      "marcador_cita": "[[PAGINA 11]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0011",
+      "pagina_pdf": 11,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "ÁRBOL DE PROBLEMAS (CAUSA  - EFECTO) PLAN NACIONAL MULTISECTORIAL CÁNCER \n2025-2030\nFalta de conocimiento de la\npoblación sobre prevención del\ncáncer.\nMitos comunes e ideas falsas sobre\nel cáncer\nLimitado acceso a la información\nsobre la prevención del cáncer\nLimitada oferta de servicios de prevención,\ndiagnostico y tratamiento del cáncer\nInsuficiente personal de salud con competencias\nen la atención integral del cáncer\nSistema de registro e información fragmentado\nSistema de salud fragmentado y segmentado\nDeficiente integración entre los tres niveles de\natención y sub sectores de salud\nBarrera socioeconómica\nIncremento de la contaminación del medio\nambiente\nLimitado acceso a saneamiento básico\nInsuficiente regulación y control de las\npolíticas relacionadas al uso y exposición a\nagentes cancerígenos\nEscasa articulación entre los niveles de\ngobierno\nLimitada participación comunitaria\nEscaso abordaje multisectorial en la\npromoción de la salud\nIncremento del gasto catastrófico de bolsillo \npara la familia del paciente oncológico.\nEmpobrecimiento de la familia\n Reducción de las expectativas de vida\nIncremento de años perdidos de vida saludable e impacto \nnegativo en la calidad de vida de la población.\nDiscapacidad y muerte prematura por cáncer \n Incremento del gasto público para el \ntratamiento del cáncer. \nPérdida de productividad y capacidad laboral \nde la población económicamente activa.\nRiesgo de morbilidad y mortalidad por \ncáncer en el Perú\nInadecuados estilos de vida que incrementan el \nriesgo a desarrollar una enfermedad oncológica\nLimitado acceso a servicios de atención integral \ndel cáncer\nExposición a entornos que incrementan el riesgo \na desarrollar una enfermedad oncológica\nPROBLEMA \nPÚBLICO\nCAUSAS \nDIRECTAS\nEFECTOS\nCAUSAS \nINDIRECTAS"
+    },
+    {
+      "marcador_cita": "[[PAGINA 12]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0012",
+      "pagina_pdf": 12,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "OBJETIVOS DEL PLAN NACIONAL MULTISECTORIAL CÁNCER \n2025-2030\nDisminuir la morbilidad y \nmortalidad por cáncer en \nla población territorio \nperuano al 2030\nObjetivo General\nObjetivos Específicos\nPromover estilos de vida saludables para \nla prevención del cáncer en la población \nperuana al 2030\nIncrementar el acceso a servicios \nde salud para la atención integral \ndel cáncer en la población del \nterritorio peruano al 2030\nDisminuir la exposición a entornos no \nseguros que incrementan el riesgo de \ndesarrollar una enfermedad \noncológica en la población del \nterritorio peruano al 2030"
+    },
+    {
+      "marcador_cita": "[[PAGINA 13]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0013",
+      "pagina_pdf": 13,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Presupuesto Estimado \nS/. 1100,000,000\n(Mil cien millones de soles)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 14]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0014",
+      "pagina_pdf": 14,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Plan Nacional de Cuidados Paliativos para \nEnfermedades Oncológicas y no \nOncológicas en el Perú\n(2021 – 2023)\nResolución Ministerial Nº 939-2021/MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 15]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0015",
+      "pagina_pdf": 15,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Objetivo General : Mejorar la respuesta del sistema nacional de salud para la atención de cuidados \npaliativos de las personas con enfermedades oncológicas y no oncológicas, sus \ncuidadores, familias y comunidad durante el periodo 2021-2023\nOE1: Elaborar e implementar documentos normativos de gestión operativa necesarios para la atención \nen Cuidados Paliativos\nOE2: Fortalecer la capacitación y disponibilidad de los recursos humanos para implementar la atención \nen cuidados paliativos para enfermedades oncológicas y no oncológicas a nivel nacional\nOE3: Integrar y fortalecer la atención de cuidados paliativos en los servicios de los establecimientos de \nsalud en el marco de las redes integradas de salud y articulando los tres niveles de atención.\nObjetivos del Plan de Cuidados paliativos para Enfermedades Oncológicas y no \nOncológicas en el Perú\n(2021 – 2023)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 16]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0016",
+      "pagina_pdf": 16,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Evaluación de ejecución del Objetivo N° 1: “Elaborar e implementar documentos normativos de gestión\nnecesarios para la atención en Cuidados Paliativos”.\nNombre de Indicador Descripción del Cálculo del \nIndicador\nUnidad \nde \nMedida\nMeta o \nValor \nEsperad\no -\nEjecución de Metas Físicas Ejecución de Presupuesto\n2021 2022 2023 2021 2022 2023\nMeta \n% \navanc\ne\nMeta % \navance Meta % \navance Presupuesto % Ejecución Presupuesto % \nEjecución Presupuesto % Ejecución \nPorcentaje de\ndocumentos normativos\naprobados\nNúmero de documentos\nnormativos aprobados x100 RM/DS 70% 2 0 2 0 2 0 60,000 - 60,000 - 80,000 -Número de documentos\nnormativos programados\nPorcentaje de instituciones\nque integran al sistema\ninformático las variables\npara la atención en\nCuidados Paliativos de\ncalidad a la historia clínica\nexistente.\nNúmero de instituciones que\nintegran al sistema único\ninformático las variables para la\natención en CP de calidad a la\nhistoria clínica existente x100\nInstitución 50% 5 0 5 0 5 0 60,000 - 100,000 - 120,000 -\nNúmero de instituciones con\nsistema de Historia clínica\n% de PP correspondientes\nque incorporan y\nactualizan atención en\ncuidados paliativos (**)\nNúmero de direcciones que \nincorporan atención en cuidados \npaliativos en sus programas \npresupuestales\nPP \nactualizad\no e \nincorpora\ndo en \nCuidados \nPaliativos  \n70% 2 50% 2 0 2 0 20,000 - 20,000 -\n40,000\n-\nNúmero de direcciones \ncorrespondientes en atención de \ncuidados paliativos\nEvaluación del Plan Nacional de Cuidados Paliativos para Enfermedades \nOncológicas y no Oncológicas en el Perú\n(2021 – 2023)\nFuente: Informe Final del PNCP N° 110-2024-OGPPM - Elaborado por DPCAN"
+    },
+    {
+      "marcador_cita": "[[PAGINA 17]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0017",
+      "pagina_pdf": 17,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Tabla N°2: Evaluación de ejecución del Objetivo N°2, “Fortalecer la capacitación y disponibilidad de los Recursos Humanos para implementar la atención en cuidados paliativos para enfermedades oncológicas y\nno oncológicas a nivel nacional”.\nNombre de Indicador Descripción del Cálculo del \nIndicador\nUnidad de \nMedida\nMeta o \nValor \nEsperado \n-\nEjecución de Metas Físicas Ejecución de Presupuesto\n2021 2022 2023 2021 2022 2023\nMeta % \navance Meta % \navance Meta % \navance Presupuesto % Ejecución Presupuesto % \nEjecución Presupuesto % Ejecución \nPorcentaje de regiones que realiza\ninforme de análisis situacional y\nvaloración de disponibilidad de RHUS\npara atención de cuidados paliativos\nN° de regiones que realiza informe de \nanálisis situacional y valoración de \ndisponibilidad de RHUS para atención de \ncuidados paliativos de acuerdo a plan\nInformes de \nanálisis \nsituacional y \nvaloración de \ndisponibilidad\n80% 5 0 10 0 10 0 25,000 -\n25,000\n- - -\nN° total de regiones x 100\nPorcentaje de profesionales\ncapacitados en atención de cuidados\npaliativos\nN° de profesionales capacitados en \nconocimientos y habilidades Profesional de \nsalud 70% 400 0 400 0 500 30% 18,000 - 119,200 - 131,200 -N° profesionales programados para las \ncapacitaciones x 100\nPorcentaje documentos técnicos que\naprueban perfil laboral de los\nprofesionales de salud involucrados en la\natención de cuidados paliativos\nN° documentos técnicos de perfil laboral \nde los profesionales de salud involucrados \nen la atención de cuidados paliativos \naprobados\nProgramas \npresupuestale\ns actualizados \ne \nincorporados \nen Cuidados \nPaliativos  \n50% 0 0 0 0 3 100% - - 30,000 - 30,000 -N° documentos técnicos de perfil laboral \nde los profesionales de salud involucrados \nen la atención de cuidados paliativos \nprogramados x 100\nPorcentaje de universidades públicas y\nprivadas con facultades de Ciencias de\nSalud, que implementan normatividad\nRM N° 960-2020/MINSA\nNúmero de universidades que \nimplementan en los sílabos de formación, \ncompetencias en cuidados paliativos en \npregrado.\nUniversidad 80% 1 100% 1 100% 1 0\n- - 15,000 - 20,000 -\nTotal, de la Meta x 100\nPorcentaje de universidades públicas y\nprivadas con facultades de Ciencias de\nSalud, que suscriben convenios con\nMINSA aceptando la Propuesta\nFormativa de EIP en postgrado en\ncuidados paliativos\nNúmero de universidades que suscriben \nlos convenios para aceptación en \npostgrado de la propuesta formativa\nUniversidad 80% 1 0 1 0 1 0\nTotal, de la Meta x 100\nEvaluación del Plan Nacional de Cuidados Paliativos para Enfermedades \nOncológicas y no Oncológicas en el Perú (2021 – 2023)\nFuente: Informe Final del PNCP N° 110-2024-OGPPM - Elaborado por DPCAN"
+    },
+    {
+      "marcador_cita": "[[PAGINA 18]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0018",
+      "pagina_pdf": 18,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Tabla N°3: Evaluación de ejecución del Objetivo N° 3, “Integrar y fortalecer la atención de cuidados paliativos en los servicios de los establecimientos de salud en el marco de las redes integradas de salud y\narticulando los tres niveles de atención”.\nEvaluación del Plan Nacional de Cuidados Paliativos para Enfermedades \nOncológicas y no Oncológicas en el Perú (2021 – 2023)\nNombre de Indicador Descripción del Cálculo del \nIndicador\nUnidad de \nMedida\nMeta o \nValor \nEsperado \n-\nEjecución de Metas Físicas Ejecución de Presupuesto\n2021 2022 2023 2021 2022 2023\nMeta % \navance Meta % \navance Meta % \navance Presupuesto % Ejecución Presupuesto % \nEjecución Presupuesto % Ejecución \n% de pacientes con diagnóstico\noncológico tributario para atención de\nCP que reciben atención de CP\nN° de Pacientes con diagnóstico \noncológico incluidos en el programa de \natención de CP Atendidos 70% 1993\n7%\n2650\n7.1%\n5335\n10%\n500,000 - 2,275,000 - 3,370,000\n-\nN° de Pacientes con diagnóstico \noncológico tributario para atención de CP\n% de pacientes con diagnóstico no\noncológico tributario para atención de\nCP que reciben atención de CP\nN° de Pacientes con diagnóstico no \noncológico incluidos en el programa de \natención de CP Atendidos 70% 3000 0 4000 0 5500 0\nN° de Pacientes con diagnóstico no \noncológico tributario para atención de CP\n% IPRESS con oferta de CP en la\ncartera de servicios\nNº IPRESS con oferta de CP incorporada \nen cartera de servicios IPRESS con \nCP en cartera \nde servicio\n80% 7\n100%\n7\n100%\n7\n71%\nN° de IPRESS que deben contar con ACP \nen cartera de servicios de acuerdo al \nanálisis situacional previo\n% Redes que conforman redes de CP\npor Ámbito territorial\nNº de redes de EESS incorporados en una \nred de cuidado paliativos regional o local\nRed con \nincorporación \nde ACP \norganizado\n80% 4 0 4 0 4 0 30,000 - 100,000 - 200,000 -Nº redes de EESS programados por \nDIRIS/DIRESA/GERESA x año\n% de EESS que cuentan con 80% de\nProductos * farmacéuticos esenciales\npara CP\nN° de EESS que cuentan con 80% ME*\nEESS 80% 7 100% 7 100% 7 71%\n90,000 - 360,000 - 720,000 -\nTotal, de los EESS con ACP x 100\n% de dispositivos médicos disponibles Nº de DM disponibles en el EESS\nDM 60% 7 100% 7 100% 7 71%N° total de DM incluidos en el catálogo de \nDM\nFuente: Informe Final del PNCP N° 110-2024-OGPPM - Elaborado por DPCAN"
+    },
+    {
+      "marcador_cita": "[[PAGINA 19]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0019",
+      "pagina_pdf": 19,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Tacna \n(2)\nPiura\n(2)\nCusco (2)\nAncash \n(2)\nJunín (1)\nLima \ny Lima \nRegión\n(4) \nLamb\nayequ\ne (1)\nLa Libertad \n(2) \nIca \n(2)\nArequipa (2) \nHospitales para contrareferencia \n1 Brigada Hospital Cayetano Heredia\n1 Brigada Hospital María Auxiliadora\n1 Brigada Hospital Hipolito Unanue\n1 Brigada Hos´pital Santa Rosa\nHospital A. Loayza\nHospitales para contrareferencia \n2 Brigada Hospital Hipolito Unanue\n2 Brigada IREN Sur \nHospital Goyeneche\n2 Brigada Hosiptal Regional del Cusco\nHospital Antonio Lorena\n2 Brigada Hospital Eleasar Barrón Guzman\nHospital Victor Ramos Guardia \n2 Brigada Hospital Regional de Ica\nHospital Santa María del Socorro\n2 Brigada IREN Norte\n2 Brigada Hospital Santa Rosa\nHospital de Apoyo Sullana\n1 Brigada IREN Centro\n1 Brigada Hospital Regional \nHospital Las Mercedes \n1 Brigada \nHospital Regional de Huacho\nHospital HuaralLima Región \nBRIGADAS DE ATENCION DOMICILIARIA EN CPO \nDIRIS LIMA METROPOLITANA \nDIRIS Lima Sur\nDIRIS Lima Norte\nDIRIS Lima Este\nDIRIS Lima Centro\nLa Libertad\nPiura\nJunin \nLambayeque \nBRIGADAS DE ATENCION DOMICILIARIA EN CPO \nREGIONES  \nTacna\nArequipa \nCusco\nAncash\nIca\n2024\n2023\nImplementación\nde 4 Brigadas a\nnivel de Región\nLima\nImplementación\nde 17 Brigadas\nen 10 regiones a\nnivel País.\nLogros y Resultados en Cuidados Paliativos Oncológicos en Domicilio\n1447\n2308\n4598\n5909\n0\n1000\n2000\n3000\n4000\n5000\n6000\n7000\n2021 2022 2023 2024\n(CORTE\nAGOSTO)\nA T E N C I O N E S  E N  C U I D A D O S  \nP A L I A T I V O S  O N C O L Ó G I C O S  \nE N  D O M I C I L I O  \nImplementación de\nBrigadas de\nCuidados Paliativos\nBRIGADAS DE CUIDADOS PALIATIVOS ONCOLOGICOS\nFuente: Elaborado por la DPCAN. 2024"
+    },
+    {
+      "marcador_cita": "[[PAGINA 20]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0020",
+      "pagina_pdf": 20,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Gracias"
+    },
+    {
+      "marcador_cita": "[[PAGINA 21]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0021",
+      "pagina_pdf": 21,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Evaluación del Plan\nNacional de Cuidados\nIntegrales del Cáncer\n2020-2024."
+    },
+    {
+      "marcador_cita": "[[PAGINA 22]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0022",
+      "pagina_pdf": 22,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "“Implementación de Políticas Públicas para la \nprevención y control del cáncer en el Perú”\n1. Informe Final del Plan Nacional de cuidados integrales del cáncer 2021-2024. \n2. Informe sobre el proceso de formulación del Plan Multisectorial del cáncer 2025-2030\n3. Informe Final del Plan Nacional de cuidados paliativos para enfermedades oncológicas y enfermedades no \noncológicas\n4. Informe Final del Plan de Vacunación contra el VPH en el Perú – 2024\n5. Informe Final sobre el proceso de formulación del Plan de Vacunación contra el VPH en el Perú - 2025"
+    },
+    {
+      "marcador_cita": "[[PAGINA 23]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0023",
+      "pagina_pdf": 23,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Plan Nacional de Cuidados Integrales del Cáncer 2020 - 2024 \nIncrementar el acceso para el cuidado integral\ndel cáncer, a través de las acciones estratégicas\ncon adecuación intercultural, de promoción de la\nsalud, prevención primaria, prevención\nsecundaria, diagnostico temprano, tratamiento\noportuno, que incluya la atención de cuidados\npaliativos desde el primer nivel de atención,\nacentuando la supervisión, monitoreo y\nevaluación integral de las metas.\nOE1.Disminuir la prevalencia de factores de riesgo del cáncer en la \npoblación\nOE2. Incrementar la capacidad operativa y de calidad de los servicios de \nsalud para el cuidado integral del cáncer.\nOE3. Mejorar la disponibilidad de suministros médicos y tecnologías para \nel cuidado integral del cáncer.\nOE4. Desarrollar el modelo de cuidado integral del cáncer por curso de \nvida entre IPRESS.\nOE5. Fortalecer los servicios oncológicos desconcentrados y \ndescentralizados para una atención oportuna en el cuidado integral del \ncáncer.\nOE6. Desarrollar e integrar los sistemas de información para el cuidado \nintegral del cáncer.\nOE7. Desarrollar investigación clínica y de salud pública, para mejorar la \ntoma de decisiones en el cuidado integral del cáncer.\nOE8. Incrementar los recursos humanos y fortalecer competencias, para \nel cuidado integral del cáncer.\nOE9. Incrementar la protección financiera para el cuidado integral del \ncáncer.\nOBJETIVO GENERAL\nOBJETIVOS ESPECÍFICOS"
+    },
+    {
+      "marcador_cita": "[[PAGINA 24]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0024",
+      "pagina_pdf": 24,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PRESUPUESTO DEL PP0024, PERIODO 2018 - 2024. \nPLAN NACIONAL DE CUIDADOS \nINTEGRALES DEL CANCER\nFuente: Portal de Transparencia Económica –fecha 27/12/2024"
+    },
+    {
+      "marcador_cita": "[[PAGINA 25]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0025",
+      "pagina_pdf": 25,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "LEY Nº 31336\nLey Nacional del Cáncer\n30.03.22 Reglamento aprobado\n10.08.21 Ley aprobada\nCobertura de Atención integral, desde la sospecha \noncológica\nRed Oncológica Nacional\nSuministros oncológicos\nAcciones en materia de prevención y control del cáncer\nRegistro Nacional del Cáncer. RCBP. RCH.  INEN - CDC\nBanco Nacional de Tumores y Red NBT\nFortalecimiento de la infraestructura y equipamiento\nOBJETO DE LA LEY\nGarantizar la cobertura universal, gratuita y prioritaria de\nlos servicios de salud para todos los pacientes\noncológicos, indistintamente al tipo de cáncer que\npadezcan, con la finalidad de asegurar el acceso al\nderecho fundamental a la salud en igualdad de\ncondiciones y sin discriminación.\nDS Nº 004-2022-SA que aprueba el Reglamento de la Ley N°\n31336, Ley Nacional del Cáncer"
+    },
+    {
+      "marcador_cita": "[[PAGINA 26]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0026",
+      "pagina_pdf": 26,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Nombre del \nIndicador\nDescripción del Cálculo del \nIndicador\nPeriodo - Proceso 2021 2022 2023 2024\nUnidad \nde \nMedida\nMeta o \nValor \nEsperad\no -\nMeta \nanual\n% \nEjecu-\nción\nMeta \nanual\n% \nEjecu-\nción\nMeta \nanual\n% \nEjecu-\nción\nMeta \nanual\n% \nEjecu-\nción\n1. Porcentaje de \nCobertura de \npoblación con \nconsejería en \nFactores de Riesgo \npara el Cáncer.\nPoblación que ha recibido \nconsejería sobre factores de \nriesgo para cáncer\nPersona \ninformada 75% 1,579\n, 934 77.4% 1,382,\n380 75.1% 2,829,8\n88 65.3% 3,114,000 69%\nPoblación total x100\n2. Porcentaje de \nCobertura de \nvacunación contra el \nVPH a niñas de 5to \ngrado de primaria\nN° de niños y niñas de 5to grado \nde primaria que han recibido la \nvacuna de VPH Niña \nprotegida 65% 239,2\n53 59% 304,76\n6 74.8% 619,417 95.9% 802,565 99%N° Total de niños y niñas de 5to \ngrado de primaria a nivel nacional \nx 100\nEvaluación del Plan Nacional de Cuidados Integrales \ndel Cáncer 2020 – 2024.\nEvaluación del Objetivo N°1: Disminuir la prevalencia de factores de riesgo del cáncer en \nla población\nFuente: HIS- MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 27]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0027",
+      "pagina_pdf": 27,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Nombre de Indicador Descripción del Cálculo del \nIndicador\nPeriodo - Proceso 2021 2022 2023 2024\nUnidad de \nMedida\nMeta o \nValor \nEsperado -\nMeta \nanual\n% \nEjecució\nn \nMeta \nanual\n% \nEjecuci\nón  \nMeta \nanual\n% \nEjecuci\nón \nMeta \nanual\n% \nEjecució\nn \n1.Porcentaje de mujeres\nde 30 a 49 años con\nresultado de IVAA\nN° de mujeres de 30 a 49 años \ncon resultado de IVAA Mujer Tamizada \ncon IVAA 65-80% 25% 19% \n(209335) 28% 22% \n(389088) 30% 25% \n(298508) 32% 22% \n(273471)N° total de mujeres de 30 a 49 \naños x 100\n2. Porcentaje de mujeres\nde 30 a 49 años con\nresultado de PM- VPH\nN° de mujeres de 30 a 49 años \ncon resultado de VPH Mujer Tamizada \ncon DM-VPH 65-80% 5% 2% \n(26746) 6% 5% \n(57271) 8% 10% \n(121759) 10% 18% \n(223047)N° total de mujeres de 30 a 49 \naños x 100\n3. Porcentaje de mujeres\nde 25 a 64 años con\nresultado de PAP\nN° de mujeres de 25 a 64 años \ncon resultado de PAP Mujer tamizada \ncon PAP 65-80% 35% 27% \n(292363) 36% 33% \n(389088) 37% 40% \n(468253) 39% 38% \n(470757)N° total de mujeres de 30 a 49 \naños x 100\n4. Porcentaje de mujeres\nde 50 a 69 años tamizadas\ncon resultados de\nmamografía bilateral.\nN° de mujeres de 50 a 69 años \ntamizadas con resultados de \nmamografía bilateral Mujer tamizada 30% 108,900 3.6% 138,600 4.8% 141,900 7.5% 237,600 13.5%\nN° total de mujeres de 50 a 69 \naños programadas para tamizar.\n5. Porcentaje de personas\n(varón/ mujer) de 50 a 70\naños con tamizaje de\ncáncer de colon\nN° de personas con tamizaje de \ncáncer de colon - recto Persona \nTamizada 12% 238,994 13.6% 617,078 8.9% 372,949 48.3% 390,837 27.9%N° total de personas de 50 a 70 \naños programadas a tamizar x \n100\n6. Porcentaje de varones\nde 40 a 75 años con\nresultado de PSA\nN° de varones de 40 a 75 años \ncon resultados de PSA Persona \nTamizada 12% 175,790 15.4% 385,669 16.6% 201,742 76.1% 212,515 27.2%N° total de varones de 40 a 75 \naños programadas a tamizar x \n100\nEvaluación del Plan Nacional de Cuidados Integrales del \nCáncer 2020 – 2024.\nEvaluación del Objetivo N\n°\n2: Incrementar la capacidad operativa y de calidad de los servicios de salud para el cuidado \nintegral del cáncer\nFuente: HIS- MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 28]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0028",
+      "pagina_pdf": 28,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Implementación territorial del tamizaje de cáncer de cuello uterino \nmediante la Detección Molecular del Virus del Papiloma Humano (DM-\nVPH)\n+ 350,000\nMujeres de 30 a 49 años \ntamizadas con DM-VPH  desde \nel 2021 \n Adquisición de\n800,000 mil\npruebas de DM-\nVPH para 21 regiones.\n 25 laboratorios\noperativos a nivel\nnacional .\n 60 profesionales de la\nsalud capacitados para\nel procesamiento de\nmuestras.\n 8 400 profesionales de la\nsalud capacitados en\nconsejería y toma de\nmuestra.\n En proceso de\nadquisición de\nequipamiento para el\nmanejo de casos\npositivos al tamizaje. (69\nvideocolposcopios).\n Mas de 350 médicos\ncapacitados en el\nmanejo de lesiones\npremalignas.\nTercera Fase del escalamiento 2024\nFuente: Elaborado por la DPCAN. 2024 \n+ 150,000\nMujeres de 30 a 49 años \ntamizadas con DM-VPH  de \nenero a junio 2024\nREGION MAMOGRAFOS \nOPERATIVOS\nMAMOGRAFOS \nEN PROCESO\nAMAZONAS - 1\nANCASH 2\nAPURIMAC 1 -\nAREQUIPA 2 -\nAYACUCHO 1 -\nCAJAMARCA 2 1\nCALLAO 4 -\nCUSCO 3 -\nHUANUCO 2 -\nHUANCAVELICA 1 -\nICA 1 1\nJUNIN 4 -\nLA LIBERTAD 3 -\nLAMBAYEQUE 2 -\nLIMA \nMETROPOLITANA 15 1\nLIMA REGION 2 -\nLORETO 3 -\nMADRE DE DIOS 1 -\nMOQUEGUA 2 -\nPASCO 2 -\nPIURA 3 -\nSAN MARTIN 4 -\nTACNA 1 -\nTUMBES 1 -\nUCAYALI 1 -\nTOTAL 63 4\nFortalecimiento del tamizaje de cáncer de mama a través de la \nmamografía\nMAMÓGRAFOS OPERATIVOS\nNIVEL DE ATENCIÓN NÚMERO\nI-3 1\nI-4 6\nII-1 16\nII-2 17\nII-E 4\nIII-1 11\nIII-2 5\nIII-E 3\nTOTAL 63\n3916\n6642\n10590\n32143\n0 10000 20000 30000 40000\n2021\n2022\n2023\n2024\nNúmero de tamizajes de cáncer de \nmama mediante la mamografía \nFuente: HIS-MINSA."
+    },
+    {
+      "marcador_cita": "[[PAGINA 29]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0029",
+      "pagina_pdf": 29,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Evaluación del Plan Nacional de Cuidados Integrales \ndel Cáncer 2020 – 2024.\nEvaluación del Objetivo N\n°\n3: Mejorar la disponibilidad de suministros médicos y tecnologías para el cuidado integral del cáncer\nNombre de \nIndicador\nDescripción del \nCálculo del \nIndicador\nUnidad de \nMedida\nMeta o \nValor \nEsperado \n-\n2021 2022 2023 2024\nMeta \nanual\n% \nEjecuc\nión \nMeta \nanual\n% \nEjecuci\nón  \nMeta \nanual\n%Ejec\nución \nMeta \nanual\n%Ejec\nución \n1. N° de \nservicios \noncológicos \nabastecidos\nN° de servicios \noncológicos \nabastecidos Servicio \noncológico \nabastecido\n100% 24 79% 24 85% 24 88% 28 82%N° de servicios \noncológicos a \nnivel nacional\nDisponibilidad de medicamentos para el \ntratamiento del Cáncer \n58 ítems de Medicamentos oncológicos \nincluidos en el PNUME y listas \ncomplementarias\n22 ítems de Medicamentos oncológicos\nNO PNUME o de alto costo\nFuente: Análisis de la Disponibilidad de Cáncer a nivel de Establecimientos de Salud de la DIRIS/GERESA/DIRESA/DISA correspondiente al mes de diciembre 2024. Disponible en:\nhttps://www.digemid.minsa.gob.pe/webDigemid/publicaciones/disponibilidad -de-productos-farmaceuticos/"
+    },
+    {
+      "marcador_cita": "[[PAGINA 30]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0030",
+      "pagina_pdf": 30,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Evaluación del Plan Nacional de Cuidados Integrales \ndel Cáncer 2020 – 2024.\nEvaluación del Objetivo N\n°\n4\n: Desarrollar el modelo de cuidado integral del cáncer por curso de vida entre IPRESS que conforman la RIS\nNombre de \nIndicador\nDescripción del \nCálculo del \nIndicador\nUnidad \nde \nMedida\nMeta o \nValor \nEsperado \n2021 2022 2023 2024\nMeta \nanual\n% \nEjecuci\nón \nMeta \nanual\n% \nEjecuci\nón  \nMeta \nanual\n%Ejecu\nción \nMeta \nanual\n%Ejecu\nción \n1.  N° de \ndocumentos \nnormativos \nelaborados para \nel manejo \nintegral de \ncáncer\nN° de documentos \nnormativos \nelaborados para el \nmanejo integral de \ncáncer\nDocument\no \nnormativo \nelaborado\n1 1 0 1 0 1 0 1 100%\nFuente: HIS-MINSA."
+    },
+    {
+      "marcador_cita": "[[PAGINA 31]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0031",
+      "pagina_pdf": 31,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "DOCUMENTOS NORMATIVOS CÁNCER APROBADOS 2024\nN° DOCUMENTO NORMATIVO ESTADO\n1\nReglamento de la Ley de prevención del\ncáncer en las mujeres y del fortalecimiento\nde la atención especializada oncológica\nAprobado con Decreto Supremo N° 001-2024-SA. Decreto Supremo que\naprueba el Reglamento de la Ley N° 31561, Ley de prevención del cáncer en\nlas mujeres y del fortalecimiento de la atención especializada oncológica\n2 Reglamento de la Ley que aprueba la\nSemana Nacional Perú Contra el Cáncer.\nAprobado con Decreto Supremo N° 010-2024-SA Decreto Supremo que aprueba\nel Reglamento de la Ley N°31006, Ley que establece la tercera semana de\noctubre de cada año como la Semana Nacional de Lucha contra el Cáncer.\n3 Reglamento de Ley que modifica la Ley\nNacional del Cáncer.\nAprobado con Decreto Supremo Nº018-2024-SA, Decreto Supremo que modifica\nel Reglamento de la Ley N° 31336, Ley Nacional del Cáncer.\n4 Norma Técnica de Salud sobre el acceso y\ncobertura Oncológica.\nAprobado con Resolución Ministerial N.º 876-2024/MINSA, aprobó la Norma\nTécnica de Salud (NTS) N.°218-MINSA/DGIESP-2024.\n5\nGuía de Práctica Clínica Tratamiento de\nLeucemia Linfoblástica Aguda en pacientes\npediátricos\nAprobado con Resolución Directoral N°011-2024-CETS/INS la Guía de Práctica\nClínica para el Tratamiento de Leucemia Linfoblástica Aguda en Pacientes\nPediátricos.\n6 Guía práctica clínica para el diagnóstico y\nestadiaje de cáncer de mama Aprobada con Resolución Directoral Nº008-2024-CETS/INS\n7\nGuía de práctica clínica para el tamizaje de\ncáncer de mama en el primer nivel de\natención\nAprobada con Resolución Directoral N°003-2024-CETS/INS,\n8\nGuía de práctica clínica para el tamizaje del\ncáncer colorrectal en el primer nivel de\natención\nAprobada con Resolución Directoral N°002-2024-CETS/INS,\n9 Reglamento de radiación solar Documento fue prepublicado (en elaboración con ministerios involucrados)\nFuente: Elaborado por la DPCAN. 2024"
+    },
+    {
+      "marcador_cita": "[[PAGINA 32]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0032",
+      "pagina_pdf": 32,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Evaluación del Plan Nacional de Cuidados Integrales \ndel Cáncer 2020 – 2024.\nEvaluación del Objetivo N°5: Fortalecer los servicios oncológicos desconcentrados y descentralizados para una atención oportuna en el \ncuidado integral del cáncer.\nNombre de \nIndicador\nDescripción del \nCálculo del \nIndicador\nUnidad de \nMedida\nMeta o \nValor \nEsperado\n2021 2022 2023 2024\nMeta \nanual\n% \nEjecu\nción \nMeta \nanual\n% \nEjecuc\nión  \nMeta \nanual\n%Ejec\nución \nMeta \nanual\n%Ejec\nución \nPorcentajes de \npersonas que \nreciben tratamiento \npara cáncer\n% de personas que \nreciben tratamiento \npara cáncer en los \nhospitales Persona que\nrecibe\ntratamiento\npara cáncer\n8% 105,445 93% 112,178 56,9% 131,131 58.8% 152,987 63%% de personas con \ndiagnóstico de \ncáncer, (demanda \ny referencia) en los \nhospitales\nFuente: HIS- MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 33]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0033",
+      "pagina_pdf": 33,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "SERVICIOS ONCOLOGICOS \n(QUIMIOTERAPIA ENDOVENOSA)  (28) \nLAMBAYEQUE \nHospital Regional de Lambayeque \nPIURA\nHospital Santa Rosa\nHospital Apoyo 2 \nSullana\nLA LIBERTAD\nIREN NORTE\nLIMA\nHospital María Auxiliadora\nHospital Dos de Mayo\nHospital Arzobispo Loayza\nINSN San Borja\nHospital Cayetano Heredia\nHospital Hipólito Unanue\nHospital Santa Rosa\nHospital Sergio Bernales\nINEN\nICA\nHospital Santa María de Socorro \nHospital Regional de Ica\nHospital San Juan de Dios\nAREQUIPA\nHospital Regional Honorio Delgado*\nHospital Goyeneche\nIREN SUR \nCAJAMARCA\nHospital Regional de Cajamarca \nCUSCO\nHospital Regional de Cusco\nHospital Antonio Lorena\nJUNIN\nIREN CENTRO \nSAN MARTIN\nHospital Lamas IIE\nHospital de Tarapoto\nLORETO\nHospital Regional de \nLoreto Felipe Arriola\nTUMBES\nHospital  José Alfredo \nMendoza Olavarría\nANCASH\nHospital Eleazar Guzmán Barrón\nHospital Victor Ramos Guardia \nHospital La Caleta\nLIMA PROVINCIAS\nHospital General de Huacho\nHospital Rezola\nHospital San Juan Bautista Huaral\nTACNA\nHospital Regional de \nTacna\nRADIOTERAPIA (10)\nLIMA\nINEN\nHospital María \nAuxiliadora (T)\nHospital Dos de Mayo \n(T)\nHospital Arzobispo \nLoayza (T)\nAREQUIPA\nHospital Goyeneche\nIREN SUR\nLA LIBERTAD\nIREN NORTE (T)\nLAMBAYEQUE\nHospital Regional de \nLambayeque (T)\nSERVICIOS ONCOLOGICOS \n(TRATAMIENTO VIA ORAL) (7) \nCALLAO\nHospital D. Alcides Carrión \nSERVICIOS QUIRÚGICOS \nONCOLÓGICOS (8)\nSANTA MARTIN\nHospital de Moyobamba\nAYACUCHO\nHospItal Regional de \nAyacucho\nAREQUIPA\nIREN SUR\nHospital Honorio Delgado \nLIMA\nINSN - San Borja\nINSN – Breña\nINEN\nHospital Dos de Mayo\nLIMA\nHospital San Juan de \nLurigancho\nSERVICIOS ONCOLÓGICOS \nPEDIÁTRICOS (9) \nTRUJILLO\nHospital Belén \nLIMA\nHospital Sergio Bernales \nPUNO\nHospital Regional \nde Puno\nPIURA\nHospital de Apoyo II -\nSullana\nUCAYALI\nHospital Regional de \nUcayali\nAMAZONAS\nHospital Regional \nVirgen de Fátima\nMOQUEGIA\nHospital Regional de \nMoquegua\nJUNIN\nIREN  CENTRO \n*Instituciones que cuenta \ncon servicios propios de RT\nLogros y Resultados en la descentralización del Diagnostico, Tratamiento y \nCuidados Paliativos Cáncer\nCUSCO\nHospital Regional Cusco\nHospital Antonio Lorena\nFuente: Elaborado por la DPCAN. 2024 \nPuno\nHospital regional \nManuel Núñez \nButron"
+    },
+    {
+      "marcador_cita": "[[PAGINA 34]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0034",
+      "pagina_pdf": 34,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Fortalecimiento del \nServicio de Anatomía \nPatológica, Periodo \n2023-2024\nCOMPRA DE EQUIPOS BIOMEDICOS  2023 y 2024\nDESCRIPCION EQUIPO 2023 2024\nCRIOSTATO 04 11\nESTACIÓN DE INCLUSIÓN INTEGRADA DE PARAFINA 05 17\nPROCESADOR AUTOMÁTICO DE TEJIDOS 05 09\nCOLOREADOR AUTOMÁTICO DE LÁMINAS 04 14\nTOTAL 18 51\nDESCRIPCION\nPERIODO\n2023 2024\nMAMÓGRAFOS 29 02\nECOGRAFOS 18 33\nTOMOGRAFOS COMPUTARIZADOS - 07\nRESONADOR MAGNETICO - 02\nTOTAL 47 44\nFortalecimiento del Servicio de \nDiagnóstico por Imágenes, \nPERIODO 2023-2024\n2023\n2024\n47 EQUIPOS\n44 EQUIPOS\n2023\n2024\n18 EQUIPOS\n51 EQUIPOS\nFuente: Elaborado por la DPCAN. 2024"
+    },
+    {
+      "marcador_cita": "[[PAGINA 35]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0035",
+      "pagina_pdf": 35,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Evaluación del Plan Nacional de Cuidados Integrales \ndel Cáncer 2020 – 2024.\nEvaluación del Objetivo N\n°\n6: Desarrollar e integrar los sistemas de información para el cuidado integral del cáncer.\nNombre de Indicador Descripción del Cálculo del \nIndicador\nUnidad de \nMedida\nMeta o Valor \nEsperado -\n2021 2022 2023 2024\nMeta \nanual\n% \nEjecución \nMeta \nanual\n% \nEjecución  \nMeta \nanual %Ejecución Meta \nanual\n%Ejecuci\nón \nN° de Registros de cáncer de\nbase poblacional (RCPB) Lima\nMetropolitana,\nArequipa y Trujillo fortalecidos.\nN° de Registros de cáncer de base\npoblacional (RCPB) fortalecidos en\nLima Metropolitana, Arequipa y Trujillo\nRegistro de \ncáncer de \nbase \npoblacional \n3 RCBP 3 100% 3 100% 3 100% 3 100%\nN° total de RCPB programados a\nfortalecer en Lima Metropolitana,\nArequipa y Trujillo x 100\nN° de Registros de cáncer de\nbase poblacional (RCPB)\nCajamarca, Loreto (Iquitos) y\nJunín (Huancayo) implementados\nN° de Registros de cáncer de base\npoblacional (RCPB) fortalecidos en\nCajamarca, Loreto y Junín\nRegistro de \ncáncer de \nbase \npoblacional \n3 RCBP 3 100% 3 100% 3 100% 3 100%\nN° total de RCPB programados a\nimplementar en Cajamarca, Loreto y\nJunín x 100\n% Unidades notificantes (UN) del\nsistema de vigilancia\nepidemiológica de cáncer de\nbase hospitalaria operativos en\nEESS de segundo y tercer nivel\nde atención\nUnidades notificantes (UN) del\nsistema de vigilancia epidemiológica\nde cáncer de base hospitalaria\noperativos en EESS de segundo y\ntercer nivel de atención\nNúmero de \nHospitales \nNivel 2 y 3 \ncon Registros \nHospitalarios \nde Cáncer en \nfuncionamien\nto\n88 18 51% 20 69% 22 93% 55 81.8%\nN° EESS de segundo y tercer nivel de\natención X 100\n% de Registro Nacional de\nCáncer pediátrico\nN° de RCBP pediátricos\nimplementados\nNúmero de \nhospitales e \ninstitutos con \nregistro\n6 hospitales e \ninstitutos con \nregistro\n6 0 7 0 8 100% 9 88.9%N° de RCBP pediátricos programados\na implementar\nFuente: HIS-MINSA."
+    },
+    {
+      "marcador_cita": "[[PAGINA 36]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0036",
+      "pagina_pdf": 36,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Observatorio de intervenciones en Prevención y \nControl del Cáncer (REUNIS)\nTablero de seguimiento\nhttps://www.minsa.gob.pe/reunis/?op\n=2&niv=2&tbl=1"
+    },
+    {
+      "marcador_cita": "[[PAGINA 37]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0037",
+      "pagina_pdf": 37,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Vigilancia Epidemiológica y Registro de \nCáncer \nObservatorio de cáncer infantil\nhttps://www.minsa.gob.pe/reunis/?op\n=2&niv=2&tbl=2"
+    },
+    {
+      "marcador_cita": "[[PAGINA 38]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0038",
+      "pagina_pdf": 38,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Evaluación del Plan Nacional de Cuidados Integrales \ndel Cáncer 2020 – 2024.\nEvaluación del Objetivo N\n°\n7: Desarrollar investigación clínica y de salud pública, para mejorar la toma de decisiones en el cuidado integral del \ncáncer.\nNombre de Indicador Descripción del Cálculo del \nIndicador Unidad de Medida Meta o Valor \nEsperado -\n2021 2022 2023 2024\nMeta \nanual\n% \nEjecución \nMeta \nanual\n% \nEjecución  \nMeta \nanual\n%Ejecuci\nón \nMeta \nanual\n%Ejecuci\nón \nN° de IPRESS nivel III que \ndesarrollan investigación en \ncáncer\nN° de IPRESS nivel III que \ndesarrollan investigación en \ncáncer\nIPRESS nivel III que \ndesarrollan \ninvestigación en \ncáncer\n2 IPRESS\nNivel III\n2 100% 3 100% 4 100% 5 100%\nN° total de IPRESS \nprogramadas para desarrollar\nFuente: HIS-MINSA."
+    },
+    {
+      "marcador_cita": "[[PAGINA 39]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0039",
+      "pagina_pdf": 39,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Evaluación del Plan Nacional de Cuidados Integrales \ndel Cáncer 2020 – 2024.\nEvaluación del Objetivo N°8\n: Incrementar los recursos humanos y fortalecer competencias, para el cuidado integral del cáncer.\nNombre de Indicador Descripción del \nCálculo del Indicador\nUnidad de \nMedida\nMeta o \nValor \nEsperado -\n2021 2022 2023 2024\nMeta \nanual\n% \nEjecución \nMeta \nanual\n% \nEjecución  \nMeta \nanual\n% \nEjecución \nMeta \nanual\n% \nEjecución \nNúmero de regiones \ncon profesionales de la \nsalud que adquieren \ncompetencias para el \ndiagnóstico de cáncer\nN° de regiones con \nprofesionales de la \nsalud que adquieren \ncompetencias para el \ndiagnóstico de cáncer\nRegiones con \nprofesionales \ncapacitados \nen diagnostico \nde cáncer \n20 regiones 5 90% 5 95% 5 100% 5 100%\nN° total de regiones\nFuente: HIS-MINSA."
+    },
+    {
+      "marcador_cita": "[[PAGINA 40]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0040",
+      "pagina_pdf": 40,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "CAPACITACIÓN A LOS PROFESIONALES DE LA SALUD EN CANCER 2020-2024\nPERIODO CODIGO \nACTIVIDAD ACTIVIDAD ACADÉMICA PARTICIPANTES \nCERTIFICADOS\n2020 CNPA17-20 Diagnóstico precoz de cáncer en niños y adolescentes 1320\n2021 4231E1 Diagnóstico precoz de cáncer en niños y adolescentes 319\n2021 4232E1 Tamizaje de cáncer 462\n2021 4231E2 Diagnóstico precoz de cáncer en niños y adolescentes 247\n2021 4234 Diagnóstico precoz de cáncer en adultos 446\n2021 4231E3 Diagnóstico precoz de cáncer en niños y adolescentes 204\n2022 4351E1\nMODULO I: diagnóstico precoz de cáncer en niños y\nadolescentes del programa de formación laboral en cuidado\nintegral de cáncer en paciente pediátrico (1° edición)\n17\n2022 4361 Tamizaje de cáncer del programa de formación laboral\ncuidado integral de cáncer en paciente adulto 175\n2022 4351E2\nMODULO I: diagnóstico precoz de cáncer en niños y\nadolescentes del programa de formación laboral en cuidado\nintegral de cáncer en paciente pediátrico.\n18\n2022 4362\nMENCIÓN I: diagnóstico precoz de cáncer en adultos del\nprograma de formación laboral cuidado integral de cáncer en\npaciente adulto\n64\n2023 4361 Tamizaje de cáncer 1004\n2023 4351 Diagnóstico precoz de cáncer en niños y adolescentes 70\nTOTAL 7218\nESCUELA NACIONAL DE SALUD PÚBLICA\n DPCAN\n-\nDPROM\n-\nOMS\nTEMA PERIODO\n2023 2024\nProducto de Mujer Tamizada en\nCáncer de Mama.\n100 126\nPrevención de Cáncer de Cuello\nUterino\n200 182\nDetección precoz de cáncer\ninfantil\n1500 1200\nRegistro y codificación de la\nconsulta externa en el HIS MINSA.\n1200 1711\nPrevención de cáncer de próstata,\npiel, colon y recto\n1200 -\nTOTAL 4200 3219\n14,637 profesionales de la salud \ncapacitados en cáncer \nFUENTE: ENSAP,2024\nFuente: Elaborado por la DPCAN. 2024"
+    },
+    {
+      "marcador_cita": "[[PAGINA 41]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0041",
+      "pagina_pdf": 41,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Fuente: Portal de Transparencia Económica –fecha 26/06/2023\nAVANCE DE EJECUCIÓN PRESUPUESTAL PARA LA CONTRATACIÓN DE PERSONAL –AÑO 2024\nPP024-PREVENCIÓN Y CONTROL DEL CANCER\nPRESUPUESTO ADICIONAL PARA LA CONTRATACIÓN DE PROFESIONALES DE LA SALUD:\nFuente: Portal de Transparencia Económica 06/01/2024\nLey 31953 Art. 54, Literal a) [S/ 66,210 421 ] Prevención y control del Cáncer\nFuente:  MCAR AIRHSP 31/12/2024\nPLIEGOS\nART. 54 \nLITERAL A) \nREGISTRO \nAIRHSP\nOCUPADA\nS\nVACANTE\nS\nGOBIERNO REGIONAL DE LA PROVINCIA CONSTITUCIONAL \nDEL CALLAO 33 29 4\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE AMAZONAS 11 11 0\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE ANCASH 29 26 3\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE APURIMAC 14 13 1\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE AREQUIPA 45 44 1\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE AYACUCHO 10 10 0\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE CAJAMARCA 20 17 3\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE CUSCO 34 29 5\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE \nHUANCAVELICA 14 9 5\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE HUANUCO 19 16 3\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE ICA 20 18 2\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE JUNIN 42 38 4\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE LA LIBERTAD 33 31 2\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE \nLAMBAYEQUE 36 33 3\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE LIMA 19 17 2\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE LORETO 26 25 1\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE MADRE DE \nDIOS 22 14 8\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE MOQUEGUA 13 11 2\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE PASCO 23 21 2\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE PIURA 24 21 3\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE PUNO 7 6 1\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE SAN MARTIN 25 17 8\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE TACNA 27 27 0\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE TUMBES 17 15 2\nGOBIERNO REGIONAL DEL DEPARTAMENTO DE UCAYALI 29 24 5\nM. DE SALUD 153 140 13\nTOTAL 745 662 83\nDevengado % Dev.\nUCAYALI 2,735,957 2,697,233 2,626,605 2,626,588 96.00%\nLIMA 1,421,719 1,305,664 1,305,664 1,305,313 91.81%\nTUMBES 1,579,664 1,266,930 1,266,930 1,266,456 80.17%\nCUSCO 2,865,687 2,306,989 2,306,843 2,224,905 77.64%\nMOQUEGUA 1,288,691 916,663 916,663 916,658 71.13%\nICA 1,944,604 1,678,182 1,678,182 1,380,009 70.97%\nCALLAO 2,705,055 1,889,381 1,889,380 1,889,376 69.85%\nPIURA 2,072,104 1,446,482 1,446,482 1,446,476 69.81%\nTACNA 2,454,239 2,224,112 2,224,112 1,698,351 69.20%\nJUNIN 4,002,800 2,656,929 2,656,929 2,655,577 66.34%\nCAJAMARCA 2,174,315 1,426,141 1,426,141 1,426,145 65.59%\nLAMBAYEQUE 3,093,059 2,050,836 2,050,836 1,937,163 62.63%\nAPURIMAC 1,179,442 739,058 739,058 738,163 62.59%\nLORETO 2,199,504 1,403,509 1,329,323 1,329,327 60.44%\nAREQUIPA 4,295,618 2,586,442 2,586,442 2,586,434 60.21%\nLA LIBERTAD 3,246,390 1,947,172 1,947,172 1,947,189 59.98%\nANCASH 2,315,958 1,679,315 1,671,506 1,387,583 59.91%\nAMAZONAS 1,152,391 675,816 675,816 675,811 58.64%\nSAN MARTIN 2,269,329 1,506,214 1,506,214 1,302,040 57.38%\nAYACUCHO 829,019 417,329 417,329 417,325 50.34%\nMADRE DE DIOS 2,030,152 1,779,386 1,779,386 927,283 45.68%\nPUNO 760,013 371,550 371,550 343,076 45.14%\nPASCO 2,299,656 1,139,082 1,137,882 1,015,197 44.15%\nHUANCAVELICA 1,279,463 527,023 527,023 527,030 41.19%\nHUANUCO 1,919,427 289,372 289,372 289,378 15.08%\nTOTAL 54,114,256 36,926,810 36,772,839 34,258,853 63.30%\nM. DE SALUD 12,096,165 8,556,332 8,556,332 8,251,138 68.21%\nTOTAL general 66,210,421 45,483,142 45,329,171 42,509,991 68.69%\nDevengado 31.12.2024 \nPliego Recursos \nasignados Certificación Compromiso"
+    },
+    {
+      "marcador_cita": "[[PAGINA 42]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0042",
+      "pagina_pdf": 42,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Evaluación del Plan Nacional de Cuidados Integrales \ndel Cáncer 2020 – 2024.\nEvaluación del Objetivo N°9: Fortalecer la protección financiera para el cuidado integral del cáncer\nFuente: SIS/FISSAL\nNombre de Indicador Descripción del Cálculo \ndel Indicador\nUnidad de \nMedida\nMeta o Valor \nEsperado -\n2021 2022 2023 2024\nMeta \nanual\n% \nEjecución Meta anual\n% \nEjecució\nn  \nMeta \nanual\n%Ejecuc\nión \nMeta \nanual\n%Ejecuc\nión \nNúmero de IPRESS con \nservicios de oncológicos \nconsiderados en convenios \ncon las IAFAS SIS/FISSAL\nN° servicios oncológicos SERVICIO \nONCOLOGICO \nCON CONVENIO \nFIRMADO\n8 SERVICIOS \nONCOLOGICO\nS\n2 0 2 0 2 4 2 2\nNúmeros de IPRESS con \nconvenio firmados\nDEPARTAMENTO IPRESS convenio \nFISSAL\nIPRESS con servicios \nde oncología pediátrica\nAMAZONAS 1\nANCASH 3\nAPURIMAC 2\nAREQUIPA 6 1\nAYACUCHO 3\nCAJAMARCA 2\nCALLAO 3\nCUSCO 2 2\nHUANCAVELICA 1\nHUANUCO 1\nICA 3\nJUNIN 5\nLA LIBERTAD 3\nLAMBAYEQUE 2\nLIMA 5\nLIMA METROPOLITANA 20 4\nLORETO 3\nMADRE DE DIOS 1\nMOQUEGUA 1\nPIURA 2\nPUNO 3\nSAN MARTIN 3\nTACNA 1\nTUMBES 1\nUCAYALI 2\nTotal 79 7\nCONVENIO CON EL FONDO \nINTANGIBLE SOLIDARIO DE \nSALUD (FISSAL)\nEl 99% de servicios\noncológicos están\ndentro del convenio con\nlas IAFAS SIS/FISSAL.\n 79 IPRESS con Servicio de\nOncología Adulto\n 7 IPRESS con Servicios de\nOncología Pediátrica\nAÑO ASEGURADOS\nCOSTO DE ATENCIONES EN CANCER\nATENCIONES ATENDIDOS VALOR NETO\n2019 20,093,159 820,848 113,989 176,891,581\n2020 23,822,486 537,049 78,037 164,368,543\n2021 25,297,063 866,181 88,817 260,086,266\n2022 25,173,770 1,105,985 115,108 291,764,234\n2023 25,749,455 1,301,478 139,445 329,776,188\nCOBERTURA SEGURO INTEGRAL DE SALUD (SIS)\nFUENTE: SIS 2024\nFUENTE: SIS 2024\nNota:\n El financiamiento del SIS cubre únicamente los gastos variables de las\nprestaciones recibidas por sus afiliados.\n Los Productos farmacéuticos, Dispositivos Médicos y Productos Sanitarios, son\nfinanciados por la DPCAN."
+    },
+    {
+      "marcador_cita": "[[PAGINA 43]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0043",
+      "pagina_pdf": 43,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "GESTIONES DE PRESUPUESTO ADICIONAL \nPARA EL FORTALECIMIENTO DE LAS ACCIONES DEL PP 024-\nPREVENCIÓN Y CONTROL DEL CANCER \nAÑO 2025"
+    },
+    {
+      "marcador_cita": "[[PAGINA 44]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0044",
+      "pagina_pdf": 44,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Presupuesto Adicional - 2022\nDecreto Supremo N° 189-2022-EF\n1\n2\n3\n4\n5\nS/.38,049,245.00\nS/. 46,666,325.00\nS/. 33,000,000.00\nTOTAL:\nS/ 122, 908, 943.00\n(CIENTO VEINTIDÓS MILLONES NOVECIENTOS OCHO MIL \nNOVECIENTOS CUARENTA Y TRES Y 00/100 SOLES )\nS/. 3,463,673.00\nINSTITUTO NACIONAL DE \nENFERMEDADES NEOPLÀSICA \nMINISTERIO DE SALUD Y DIVERSOS \nGOBIERNOS REGIONALES\nmonitoreo e implementación de \nintervenciones estratégicas\nMINISTERIO DE SALUD Y DIVERSOS \nGOBIERNOS REGIONALES Equipamiento \nbiomédico\nCENARES – Recursos estratégicos-\nAdquisición de Medicamentos e \ninsumos médicos\nMINISTERIO DE SALUD Y DIVERSOS \nGOBIERNOS REGIONALES\nMantenimiento de infraestructura\nANEXO S/.1,729,700.00\nANEXO\nANEXO\nANEXO\nANEXO"
+    },
+    {
+      "marcador_cita": "[[PAGINA 45]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0045",
+      "pagina_pdf": 45,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Presupuesto Adicional AÑO 2023 \nTransferencia-Ley de Presupuesto Público N° 31368-Articulo 37\na)\nb)\nc)\nd)\ne)\nS/ 199,377,224\nTOTAL:S/ 515, 346, 660.00 (QUINIENTOS \nQUINCE MILLONES TRESCIENTOS \nCUARENTA Y SEIS MIL SEISCIENTOS \nSESENTA Y 00/100 SOLES) \nS/ 100, 000, 000\nMINISTERIO DE SALUD Y \nDIVERSOS GOBIERNOS \nREGIONALES\nContratación de Profesionales de \nla salud\nMINISTERIO DE SALUD\nCompra Centralizada de \nEquipamiento Biomédico\nINSTITUTO NACIONAL DE \nENFERMEDADES \nNEOPLÀSICA\nEquipamiento Biomédico\nCENARES – Recursos \nestratégicos- Adquisición de \nMedicamentos e insumos \nmédicos\nLITERAL\nLITERAL\nLITERAL\nLITERAL\nLITERAL\nS/ 23, 910 ,855 \nLITERAL f)\nMINISTERIO DE SALUD Y \nDIVERSOS GOBIERNOS \nREGIONALES\nServicio de Mantenimiento\nINSTITUTO NACIONAL DE \nENFERMEDADES \nNEOPLÀSICA\nImplementación de la Red \noncológica \nS/ 10,000,000\nS/ 5,346,660\nS/ 176,711,921"
+    },
+    {
+      "marcador_cita": "[[PAGINA 46]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0046",
+      "pagina_pdf": 46,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Presupuesto Adicional AÑO 2024 \nLey de Presupuesto del Sector Público N° 31954 - Articulo 54\na)\nb)\nc)\nd)\nTOTAL: S/ 456 216 718,00 \n(CUATROCIENTOS \nCINCUENTA Y SEIS MILLONES \nDOSCIENTOS DIECISEIS MIL \nSETECIENTOS \nDIECIOCHO Y 00/100 SOLES) \nS/ 674,400\nMINISTERIO DE SALUD Y DIVERSOS GOBIERNOS \nREGIONALES \ncontratación de profesionales, técnicos y\nasistenciales de la salud y personal\nadministrativo - Régimen cas\nMINISTERIO DE SALUD\nfortalecimiento de las brigadas móviles para el\nmonitoreo y supervisión\nMINISTERIO DE SALUD\nCompra Centralizada de \nEquipamiento médico y Biomédico\nCENARES – compra centralizada de \nlos recursos estratégicos\nLITERAL\nLITERAL\nLITERAL\nLITERAL\nLITERAL\nS/ 66,210,421\nMINISTERIO DE SALUD\nservicio de mantenimiento \npreventivo de equipamiento médico \ny biomédico\nS/ 121,266,000\nS/ 614,150\nS/ 231, 235, 029\nMINSA\nTOTAL: S/ \n420,000,000\ne)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 47]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0047",
+      "pagina_pdf": 47,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Presupuesto adicional- Ley de presupuesto año 2025\nPP024-Prevención y Control del Cáncer\nN° DETALLE\nLey de presupuesto \n2025\n(S/.)\nAsignación \nPresupuestal \nMultianual\n(S/.)\nT1 Garantizar la continuidad de las acciones del PP 0024 - Prevención y control del Cáncer bajo el\nRégimen Laboral Especial del Decreto Legislativo Nº 1057. - 66,607,223.00\nT2 Financiamiento para la compra centralizada de equipamiento médico y biomédico, para el\nfortalecimiento de la atención integral del cáncer en los 3 niveles de atención a nivel nacional. 121,000,000.00\n-\nT3 Financiamiento para la implementación de los servicios de teleapoyo en la prevención y el\ndiagnóstico del cáncer. 2,997,435.00 -\nT4 Financiamiento para la compra centralizada de los recursos estratégicos en salud para la prevención\ny control del cáncer. 195,000 000 -\nTotal 318,997,435.00 66,607,223.00\n385,604,658.00\nAÑO PRESUPUESTO ADICIONAL\n2020 0\n2021 0\n2022 122,908,943\n2023 515,346,660\n2024 456,216,718\n2025 385,604,658\n1,480,076,979"
+    },
+    {
+      "marcador_cita": "[[PAGINA 48]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0048",
+      "pagina_pdf": 48,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Plan de Acción para la Mejora del desempeño del \nPP0024 .\nAcciones concretas a ejecutar para la implementación de la recomendación Medio de verificación\nFecha final plazo para \nimplementar la \nrecomendación\nR1.3.1 Lanzamiento del observatorio de Cáncer Informe 8/03/2025\nR4.3 Evaluación del Plan Nacional de Cuidados Integrales del Cáncer 2020-2024. Informe de evaluación 31/03/2025\nR.1.1 Actualización de evidencias en la prevención y control del cáncer de mama y cuello uterino. Infore Técnico 30/06/2025\nR2.1 Diagnóstico situacional de RRHH para la atención oncológica Informe Técnico 30/06/2025\nR2.2 Diagnóstico situacional de equipamiento para la atención oncológica Informe Técnico 30/06/2025\nR2.3 Elaboración y aprobación del Plan Nacional Multisectorial de Cáncer 2025-2030. Plan Nacional Multisectorial de Cáncer \n2025-2030 30/06/2025\nR3.1 Identificación de necesidades de capacitación en Prevención del Cáncer de Cuello Uterino y Mama. Informe Técnico 30/06/2025\nR1.3.3 Asistencia técnica a las UE sobre el uso y mejora de herramientas tecnológicas para el acopio de data Plan de Asistencia Técnica\nInforme de Asistencia Técnica\n30/06/2025\n31/12/2026\nR3.2 Fortalecimiento de habilidades y competencias para profesionales en Prevención y Control del Cáncer de Cuello Uterino y \nMama.\nPlan de capacitación\nInforme Técnico\n30/06/2025\n31/12/2026\nR4.1 Desarrollo de actividades de monitoreo y supervisión, con seguimiento de recomendaciones. Plan de monitoreo y supervisión Informe \nde monitoreo y supervisión y/o Actas\n30/06/2025\n31/12/2026"
+    },
+    {
+      "marcador_cita": "[[PAGINA 49]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0049",
+      "pagina_pdf": 49,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Plan de Acción para la Mejora del desempeño del \nPP0024 .\nAcciones concretas a ejecutar para la implementación de la recomendación Medio de verificación\nFecha final plazo para \nimplementar la \nrecomendación\nR1.2. Fortalecimiento de capacidades para la mejora del sistema de referencia y contrarreferencia Plan especifico de mejora de \ncapacidades 15/08/2025\nR.1.2 Actualización de las fichas de indicadores por áreas Informe técnico de actualización de \nfichas 28/08/2025\nR.1.3 Taller de validación del anexo 2 del PP 024 Informe de validación 29/09/2025\nR.1.4 Elaboración de informe técnico del Anexo 2 Informe Técnico 20/11/2025\nR1. Actualización del anexo 2 del PP 024 Informe Técnico elevado a la OGPPM 28/11/2025\nR.1.5 Validación del Anexo 2 por OGPPM Informe favorable de OGPPM 28/11/2025\nR1.2.1 Mejora de la plataforma para el registro de información del tamizaje de cáncer de cuello uterino mediante Detección \nMolecular de Virus de Papiloma Humano (DM-VPH) Informe Técnico 31/12/2025\nR1.2.2 Identificación de oportunidades de mejora de registro de datos de pacientes oncológicos en el REFCON y traslado de \npropuestas de mejora a la Dirección General de Telemedicina (DIGITEL) Informe 31/12/2025\nR1.3. Mejora de las herramientas tecnológicas actuales para el acopio de data de las DIRIS, DIRESAS y GORE Informe Técnico 31/12/2025\nR1.3.2 Actualización permanente del observatorio de Cáncer Informe Técnico 31/12/2025\nR3.3 Elaboración y aplicación de una herramienta de seguimiento operativo del tamizaje del cáncer de Mama y Cuello Uterino Informe Técnico 31/12/2025\nR4.2 Desarrollo de actividades de asistencia técnica, con seguimiento de recomendaciones. Informe de asistencia técnica y/o Actas 31/12/2026"
+    },
+    {
+      "marcador_cita": "[[PAGINA 50]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0050",
+      "pagina_pdf": 50,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Gracias"
+    },
+    {
+      "marcador_cita": "[[PAGINA 51]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0051",
+      "pagina_pdf": 51,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "VACUNACIÓN CONTRA EL \nVIRUS DEL PAPILOMA \nHUMANO\nDIRECCIÓN DE INMUNIZACIONES                                                                                               \nDIRECCIÓN GENERAL DE INTERVENCIONES ESTRATÉGICAS EN SALUD PÚBLICA     \nMINISTERIO DE SALUD"
+    },
+    {
+      "marcador_cita": "[[PAGINA 52]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0052",
+      "pagina_pdf": 52,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nPLAN NACIONAL DE VACUNACIÓN \nCONTRA EL VIRUS DEL PAPILOMA \nHUMANO\nAÑO FISCAL 2024"
+    },
+    {
+      "marcador_cita": "[[PAGINA 53]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0053",
+      "pagina_pdf": 53,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nIncrementar la cobertura de vacunación de niñas y niños\nde 9 a 13 años de edad y adolescentes hasta los 18 años\nde edad contra el Virus del Papiloma Humano.\n• Ampliar el acceso a la vacunación de niñas, niños y\nadolescentes a nivel nacional, a través de dotación de\nbrigadas para vacunar contra el VPH en el presente año.\n• Realizar reuniones de capacitación, información y\norientación para la población objetivo, padres, tutores y\ndocentes sobre los beneficios y bondades de la vacuna\ncontra el VPH, a fin de lograr aceptabilidad y mejores\ncoberturas de vacunación contra el VPH.\nObjetivo general\nNota: Actualizado con RM N° 218-2024-MINSA, donde se incluye a los adolescentes de 14 a 18 años.\nObjetivos específicos"
+    },
+    {
+      "marcador_cita": "[[PAGINA 54]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0054",
+      "pagina_pdf": 54,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nAMPLIACIÓN DE LA EDAD DE VACUNACIÓN DE \n9 A 18 AÑOS DE EDAD VARONES Y MUJERES"
+    },
+    {
+      "marcador_cita": "[[PAGINA 55]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0055",
+      "pagina_pdf": 55,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nSe programaron para la contratación de 282\nbrigadas de vacunación y 74 digitadores:\nSe contrataron 296 vacunadores, 304\nanotadores y 85 digitadores, quienes realizaron\nla vacunación y el registro de las personas\nvacunadas.\nDOTACIÓN DE RECURSO HUMANO PARA\nCONFORMAR LA BRIGADAS PARA LA\nINTENSIFICACIÓN DE LA VACUNACIÓN\nCONTRA VPH\n1\nACCIONES CLAVES REALIZADAS"
+    },
+    {
+      "marcador_cita": "[[PAGINA 56]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0056",
+      "pagina_pdf": 56,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nPROVISIÓN DE VACUNAS, INSUMOS Y\nMATERIALES MÉDICOS NECESARIOS PARA LA\nVACUNACIÓN.\nEntrega de vacunas, jeringas, materiales e\ninsumos médicos a los niveles operativos\npara la vacunación:\nAbastecimiento de 1,017,243 vacunas contra\nVPH a nivel regional, así como de materiales,\ninsumos médicos y accesorios (mochilas porta\ntermos) requeridos para la vacunación contra el\nVPH.\nFORTALECIMIENTO DE ALIANZAS\nINTERSECTORIALES PARA IMPULSAR LA\nVACUNACIÓN CONTRA EL VPH\nArticulación con el Ministerio de Educación\npara el abordaje intersectorial a través de\ncoordinaciones, capacitaciones y reuniones:\nFacilidades para las intervenciones en los colegios\npúblicos y privados: 106,215 actividades de\ncapacitación dirigido a docentes, padres de familia\ny alumnado, con un total de 1,805,655 beneficiarios\naproximadamente.\n2\nACCIONES CLAVES REALIZADAS\n3"
+    },
+    {
+      "marcador_cita": "[[PAGINA 57]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0057",
+      "pagina_pdf": 57,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nMONITOREO, SUPERVISIÓN Y EVALUACIÓN\nDE LAS ACTIVIDADES DE VACUNACIÓN\nCONTRA VPH\nVisitas de asistencia técnica, monitoreo,\nsupervisión y evaluación acompañaron el proceso\nde vacunación.\nSe realizaron 10 reuniones virtuales a nivel nacional\npara evaluar los avances de vacunación contra el\nVPH, 16 visitas a DIRESA, GERESA y DIRIS\npriorizadas 1 reunión nacional presencial de\nevaluación 2024 y programación de actividades 2025.\nFORTALECIMIENTO DE ESTRATEGIAS\nCOMUNICACIONALES EFECTIVAS\nEstrategia de comunicación con mensajes\nclaros y culturalmente apropiados.\nSe realizaron trabajos conjuntos con la Dirección\nde Pueblos Indígenas, para el acercamiento y\npropiciar diálogos y encuentros que permitan en el\nmarco de sus costumbres la vacunación a su\npoblación\n5\nACCIONES CLAVES REALIZADAS\n4"
+    },
+    {
+      "marcador_cita": "[[PAGINA 58]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0058",
+      "pagina_pdf": 58,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nPresupuesto exclusivo para las actividades de\nvacunación, asignándose un monto de S/11,260,948\nsoles a las DIRIS, DIRESAS y GERESAS para\ngarantizar las actividades operativas en los\nestablecimientos de salud.\nCon el presupuesto se realizaron los contratos de las\npersonas, se adquirieron insumos y material médico,\nvacunas y mochilas porta termos, logrando una\nejecución de 99.9%.\nASIGNACIÓN PRESUPUESTAL PARA EL PLAN\nNACIONAL DE VACUNACIÓN CONTRA EL VIRUS\nDEL PAPILOMA HUMANO PARA EL AÑO FISCAL\n2024\n6\nACCIONES CLAVES REALIZADAS"
+    },
+    {
+      "marcador_cita": "[[PAGINA 59]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0059",
+      "pagina_pdf": 59,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nLOGROS ALCANZADOS\n1 146 722\nDOSIS APLICADAS\n1 705 \nSERVICIOS DE \nVACUNACIÓN \nAMPLIADOS\n106 215\nCAPACITACIONES\n1 805 655\nBENEFICIARIOS\nCOBERTURAS DE \nVACUNACIÓN\nNUMERO DE SERVICIOS DE \nVACUNACIÓN AMPLIADOS\n% DE REUNIONES,  CAPACITACIÓN, \nINFORMACIÓN Y ORIENTACIÓN\n1\n 2\n 3"
+    },
+    {
+      "marcador_cita": "[[PAGINA 60]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0060",
+      "pagina_pdf": 60,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\n0.00\n20.00\n40.00\n60.00\n80.00\n100.00\n2019 2020 2021 2022 2023 2024*\n79.69\n19.83\n58.96\n74.81\n96.04\n100.00\nFuente: HISMINSA. *2024 avance de cobertura de enero a diciembre.\nCOVID-19 \n(Cierre de colegios)\nCOBERTURAS DE VACUNACIÓN CONTRA EL VPH\nPERIODO 2019-2024*\n79.69%\n19.83%\n58.96%\n74.81%\n96.04%\n100.00%"
+    },
+    {
+      "marcador_cita": "[[PAGINA 61]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0061",
+      "pagina_pdf": 61,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nPeriodo enero a diciembre 2024\nLeyenda (enero-diciembre)\n0% - <80.00%\n80.01% - <95.00%\n95.01% - 100.00%\nFuente : HIS MINSA actualizado al 24.01.2025. *Información preliminar de diciembre / Incluye información de ESSALUD\nAVANCE DE COBERTURAS DE VACUNACIÓN CONTRA EL VPH\n802 565 1 146 722 100%PERÚ"
+    },
+    {
+      "marcador_cita": "[[PAGINA 62]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0062",
+      "pagina_pdf": 62,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nFuente: Reportes del HISMINSA, con fecha de Consulta al 18/01/2025* \ndenominador Población RENIEC\nAvance nacional en niñas y adolescentes de 9 a 14 \naños\nEDAD \nPUNTUAL POBLACIÓN\nVACUNADAS \nHASTA EL 31 \nDIC. 2023\nVACUNADAS \nHASTA EL \n31/12/2024\nTOTAL DE \nVACUNADAS % BRECHA \n9 años 304,336 36,502 97,979 134,481 44.19% 169,855\n10 años 298,074 213,709 165,098 378,807 100.00% 0\n11 años 295,420 202,109 33,558 235,667 79.77% 59,753\n12 años 298,311 210,911 26,896 237,807 79.72% 60,504\n13 años 305,092 211,883 24,919 236,802 77.62% 68,290\n14 años 303,112 286,248 23,551 309,799 100.00% 0\nTOTAL 1,804,345 1,161,362 372,001 1,533,363 84.98% 270,982\nESTRATEGIA MUNDIAL PARA LA ELIMINACIÓN DEL CÁNCER CERVICOUTERINO"
+    },
+    {
+      "marcador_cita": "[[PAGINA 63]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0063",
+      "pagina_pdf": 63,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nPLAN NACIONAL DE VACUNACIÓN \nCONTRA EL VIRUS DEL PAPILOMA \nHUMANO\nPARA EL AÑO FISCAL 2025"
+    },
+    {
+      "marcador_cita": "[[PAGINA 64]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0064",
+      "pagina_pdf": 64,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nContribuir con la reducción de la morbilidad y mortalidad\nasociadas al cáncer de cuello uterino causado por el Virus\ndel Papiloma Humano (VPH) en el Perú\nReducir el número de niñas, niños y adolescentes\nde 9 a 18 años susceptibles a la infección por los\nvirus de papiloma humano (VPH) oncogénicos.\nFinalidad\nObjetivo"
+    },
+    {
+      "marcador_cita": "[[PAGINA 65]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0065",
+      "pagina_pdf": 65,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nNiñas, niños, adolescentes\nvarones y mujeres de 9 a\n18 años que se encuentren\nen territorio peruano,\nincluyendo población\nmigrante y refugiada.\nNota:\nLa meta estimada de vacunación está compuesta por el 100% de niñas y niños de 9 años,\nmás el 20% de niñas, niños y adolescentes de 10 a 18 años no vacunados.\n918 585\nMETA\nPOBLACIÓN OBJETIVO"
+    },
+    {
+      "marcador_cita": "[[PAGINA 66]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0066",
+      "pagina_pdf": 66,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\n Reuniones de capacitación para la\nimplementación del Plan, dirigida\nal personal de salud de las\nDIRESA, GERESA y DIRIS.\n Reuniones de capacitación\ndirigidas al personal responsable\nde las redes y micro redes y\nbrigadas de vacunación, sobre\naspectos técnicos de la\nvacunación\nACTIVIDAD 01\nVACUNACIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES\nDE 9 A 18 AÑOS EN TERRITORIO PERUANO\nCONTRATACIÓN DE \nRECURSOS HUMANOS PARA \nLA VACUNACIÓN CONTRA \nEL VPH\n1.1\nSe contratarán vacunadores y\nanotadores para conformar 379\nbrigadas por mes durante 4\nmeses.\nEn el marco de la eliminación del\ncáncer cérvico uterino\ncerraremos brechas con las\nniñas de 9 a 14 años.\nADQUISICIÓN Y \nDISTRIBUCIÓN DE VACUNAS \nY JERINGAS A LAS DIRESAS-\nGERESAS Y DIRIS\n1.2\nLas vacunas serán distribuidas\npor CENARES conjuntamente\ncon las jeringas a los almacenes\nregionales o sub regionales o\nquienes hagan sus veces, en\ncondiciones de adecuadas de\ncadena de frío: vacunas\ndisponibles en las regiones\n445,615.\n1.3\nCAPACITACIÓN AL \nPERSONAL DE SALUD"
+    },
+    {
+      "marcador_cita": "[[PAGINA 67]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0067",
+      "pagina_pdf": 67,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\n379\nN° DE BRIGADAS\nBrigadas por mes,   \ndurante 4 meses."
+    },
+    {
+      "marcador_cita": "[[PAGINA 68]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0068",
+      "pagina_pdf": 68,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nDESARROLLO DE ACCIONES DE\nMONITOREO Y SUPERVISIÓN A\nDIRIS/DIRESA/GERESA POR PARTE DE\nMINSA\nACTIVIDAD 02\nMONITOREO Y SUPERVISIÓN DE LAS ACTIVIDADES DE \nVACUNACIÓN CONTRA VPH\n2.1 2.2CONTRATACIÓN DE RECURSO HUMANO\nPARA REALIZAR EL MONITOREO,\nSUPERVISIÓN Y EVALUACIÓN DE LA\nVACUNACIÓN A NIVEL OPERATIVO\nSe contratarán 46 digitadores y 35\nmonitores a nivel nacional.\nEl Ministerio de Salud, a través de la\nDirección de Inmunizaciones,\nmonitoreo y supervisa el cumplimiento\nde la vacunación y ejecución\npresupuestal y de acuerdo a los\nnudos críticos identificados se realiza\nasistencia técnica."
+    },
+    {
+      "marcador_cita": "[[PAGINA 69]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0069",
+      "pagina_pdf": 69,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nSe realizarán coordinaciones y\nreuniones con docentes de\nInstituciones Educativas, a los\npadres de familia, docentes y\npoblación objetivo sobre los\nbeneficios y avances de la\nvacunación contra VPH, a efectos\nde lograr el convencimiento y\naceptación de la vacuna.\nACTIVIDAD 03\nIMPLEMENTACIÓN DE\nACTIVIDADES DE INFORMACIÓN,\nEDUCACIÓN Y COMUNICACIÓN\nDIRIGIDAS A LA POBLACIÓN\nOBJETIVO, PADRES, TUTORES Y\nDOCENTES, DESTACANDO LOS\nBENEFICIOS DE LA VACUNA\nCONTRA EL VPH, PARA\nFOMENTAR SU ACEPTACIÓN\n3.1 DESARROLLO DE REUNIONES DE\nINFORMACIÓN Y ORIENTACIÓN A PADRES\nDE FAMILIA, TUTORES, DOCENTES Y\nPOBLACIÓN OBJETIVO"
+    },
+    {
+      "marcador_cita": "[[PAGINA 70]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0070",
+      "pagina_pdf": 70,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "PROTEGETU\nVPHVPH\nFUTURO\nELEL\nCONTRACONTRA\nPROTEGETU\nFUTURO\nPRESUPUESTO\nTOTAL :      S/ 97 272 429"
+    },
+    {
+      "marcador_cita": "[[PAGINA 71]]",
+      "id": "MINSA-PLAN-NACIONAL-MULTESECTORIAL-LUCHA-CONTRA-EL-CANCER-2025-2030-P0071",
+      "pagina_pdf": 71,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Gracias!"
+    }
+  ]
+}

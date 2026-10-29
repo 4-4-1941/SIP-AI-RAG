@@ -1,0 +1,277 @@
+{
+  "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA",
+  "id_fuente_oficial": null,
+  "titulo": "Resolución Ministerial N° 627-2008-MINSA PATOLOGÍA CLÍNICA",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Resolución Ministerial",
+  "numero_norma": "RM N.° 627-2008-MINSA",
+  "fecha_aprobacion": null,
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "fuentes_oficiales": [
+    {
+      "tipo": "archivo_local",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "Resolución Ministerial N° 627-2008-MINSA PATOLOGÍA CLÍNICA",
+      "url": null,
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "Resolución Ministerial N° 627-2008-MINSA PATOLOGÍA CLÍNICA.pdf",
+  "huella_sha256_pdf_fuente": "b6f6dec884098c32542065931a9063fb9a32a58fd380974296ec7dc613be9afa",
+  "paginas_pdf": 23,
+  "paginas_con_texto": 23,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "ocr_local_windows_es_ES",
+  "ocr_aplicado": true,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 23,
+    "paginas_con_texto": 23,
+    "caracteres_texto_extraido": 42899
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "MINISTERIO DE SALUD DEL aeJo/uct7n 0 etaria Ga C. Reyes J. L F. COCA S c P.M.A ADB. es N . ,14.. (L...Se.Ti3•yge€.... 248 Visto el Expediente NO 07-080496-001 que contiene el Memorándum NO 3835- 2007-DGSP/MINSA, de la Dirección General de Salud de las Personas; CONSIDERANDO: Que, el artículo 20 de la Ley NO 27657, Ley del Ministerio de Salud, establece que el Ministerio de Salud es el ente rector del Sector Salud que conduce, regula y promueve la intervención del Sistema Nacional de Salud, con la finalidad de lograr el desarrollo de la persona humana, a través de la promoción, protección, recuperación y rehabilitación de su salud y del desarrollo de un entorno saludable, con pleno respeto de los derechos fundamentales de la persona, desde su concepción hasta su muerte natural; Que, el artículo 410 del Reglamento de Organización y Funciones del Ministerio de Salud, aprobado por Decreto Supremo NO 023-2005-SA, dispone que la Dirección General de Salud de las Personas, es el órgano técnico normativo en los procesos relacionados, entre otros, a los servicios de salud; Que, mediante documento del visto, el Director General de Salud de las Personas ha propuesto para su aprobación el proyecto de \"Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica\", con la finalidad de mejorar la calidad de atención que se brinda en la Unidad Productora de Servicios (UPS) de Patología Clínica de los servicios de salud públicos y privados del Sector Salud; Con el visado del Director General de la Dirección General de Salud de las Personas, del Director General de la Oficina General de Planeamiento y Presupuesto, de la Directora General de la Oficina General de Asesoría Jurídica y del Viceministro de Salud; De conformidad con el literal l) del artículo 80 de la Ley NO 27657, Ley del Ministerio de Salud;"
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "De thriA C. gayes J. P.M. AB B. SE RESUELVE: Artículo 10.- Aprobar la \"NTS NO -MINSA/DGSP-V.OI- \"Noma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica\", que en documento adjunto forma parte integrante de la presente Resolución Ministerial. Artículo 20.- La Dirección General de Salud de las Personas, es responsable de la difusión, supervisión e implementación de la citada Norma Técnica de Salud. Artículo 30.- Las Direcciones de Salud y las Direcciones Regionales de Salud a nivel nacional, son responsables de la difusión, implementación, supervisión y aplicación de la citada Norma Técnica de Salud, dentro del ámbito de sus respectivas jurisdicciones. Artículo 40.- Disponer que la Oficina General de Comunicaciones publique la Resolución Ministerial presente la dirección electrónica http://www.minsa.qob.pe/portal/06transparencia/normas.asp del Portal de Internet del Ministerio de Salud. Regístrese, comuníquese y publíquese L. F. OCA S. HERNÁN GARRIDO - Ministro de Salud Reyes N TAÑÉ"
+    },
+    {
+      "marcador_cita": "[[PAGINA 3]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0003",
+      "pagina_pdf": 3,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS NO . MINSA/DGSP. v.0f Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica NTS NO -MINSA/DGSP. V.01. 1. 2. C. Reyes O. L. F. COCA S. 3. De VOB ABAD B. 4. De Reyes N. NORMA TÉCNICA DE SALUD DE LA UNIDAD PRODUCTORA DE SERVICIOS DE PATOLOGiA CLÍNICA FINALIDAD Mejorar la calidad de atención que se brinda en la Unidad Productora de Servicios (UPS) de Patología Clínica de los servicios de salud públicos y privados del Sector Salud. OBJETIVOS 2.1 OBJETIVO GENERAL Establecer los criterios para la organización y el funcionamiento de la UPS de Patología Clínica, de los servicios de salud públicos y privados para una adecuada gestión en la misma. 2.2. OBJETIVOS ESPECíFlCOS 2.1.1 2.1.2 2.1.3 Regular las condiciones minimas de infraestructura, equipamiento y recursos humanos para brindar el servicio de Patología Clínica. Establecer los criterios referidos a gestión, organización y prestación de servicios de la UPS de Patología Clínica, con énfasis en la calidad, seguridad y oportunidad. Asegurar el flujo adecuado de los recursos destinados a la atención de los pacientes en la UPS de Patología Clínica, así como promover el uso racional de los mismos. ÁMBITO DE APLICACIÓN La presente Norma Técnica de Salud es de aplicación en todos los establecimientos públicos y privados del Sector Salud que cuentan con la UPS de Patología Clínica y en los Servicios Médicos de Apoyo de Patología Clínica que operen en forma independiente de un establecimiento de salud. BASE LEGAL 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. Ley NO 26842, Ley General de Salud. Ley NO 27813, Ley del Sistema Nacional Coordinado y Descentralizado de Salud. Ley NO 27657, Ley del Ministerio de Salud. Decreto Supremo NO 013-2002-SA, que aprueba el Reglamento de la Ley 27657. Decreto Supremo NO 023-2005-SA, que aprueba e' Reglamento de Organización y Funciones del Ministerio de Salud. Decreto Supremo NO 013-2006-SA, que aprueba el Reglamento de Establecimientos de Salud y Servicios Médicos de Apoyo. Resolución Ministerial NO 482-96-SNDM, que aprueba las Normas Técnicas para Proyectos de Arquitectura Hospitalaria. Resolución Ministerial NO 769-2004/MlNSA, que aprueba la Norma Técnica de Categorías de Establecimientos del Sector Salud. Resolución NO 0071-20041CTR-lNDECOPl que aprueba la NTP-ISO 15189:2004 Laboratorios Médicos, sobre requisitos particulares para la calidad y competencia. Resolución Ministerial NO 588—2005/MlNSA, que aprueba el Listado de Equipos Biomédicos Básicos para establecimientos de Salud. Resolución Ministerial NO 597-2006/MlNSA, que aprueba la Norma Técnica de Salud para la Gestión de la Historia Clinica. 1"
+    },
+    {
+      "marcador_cita": "[[PAGINA 4]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0004",
+      "pagina_pdf": 4,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "z P. 5. 4. . Reyes J. L. F, COCA S. o B. Reyes N. NTS NO -MINSNDGSP. V.M Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica 12. Resolución Ministerial NO 628-2006/MlNSA, que aprueba los Lineamientos de Política del PRONAHEBAS. 13. Resolución Ministerial NO 456-2007/MlNSA, que aprueba la Norma Técnica de Salud NO 050—MlNSA/DGSP-V.02 Norma Técnica de Salud para la Acreditación de Establecimientos de Salud y Servicios Médicos de Apoyo 14. Resolución Jefaturat NO 478-2005-J—OPD/INS, que aprueba el documento normativo MAN-INS-OOI \"Manual de Bioseguridad en Laboratorios de Ensayo, Biomédicos y Clínicos\" Serie de Normas Técnicas NO 18 DISPOSICIONES GENERALES 5.1 DEFINICIONES OPERATIVAS UPS de Patología Clínica Es un servicio médico de apoyo, encargado de diseñar, organizar, dirigir y realizar acciones de apoyo al diagnóstico y tratamiento, brindando asesoría médica especializada para identificar, prevenir y evaluar cambios en el estado de salud, mediante pruebas de laboratorio clínico y acciones de medicina de laboratorio y medicina transfusional. Esta UPS puede brindar servicios dentro de un establecimiento de salud, en forma independiente o dentro de una red. Área de Atención Pre analítica Área de recepción, orientación, identificación, registro de solicitud de análisis clínicos, asesoría médica pre-analítica, toma de muestra, verificación de la misma y distribución al área analítica Área Analítica Área donde se realizan los procedimientos de análisis, debidamente estandarizados y validados para el uso clínico, según necesidades. Área de Atención Post analítica Área de transferencia de resultados, validación del proceso analítico, correlato e interpretación clínica, asesoría médica post analítica y entrega de resultados. 5.2 5.3 Laboratorio Referencial Laboratorio externo al cual es referida una muestra para un procedimiento de análisis suplementario o confirmatorio e informe. Servicio Médico de Apoyo Los servicios médicos de apoyo son unidades productoras de servicios de salud que funcionan independientemente o dentro de un establecimiento con internamiento o sin internamiento, según corresponda, que brindan servicios complementarios o auxiliares de la atención médica, que tienen por finalidad coadyuvar en el diagnóstico y tratamiento de los problemas clínicos. Los establecimientos de salud categorizados como 1-3, 1-4, 11-1, 11-2, 111-1 y 111-2 deben contar con UPS de Patología Clínica, ios cuales deberán mantener una coordinación permanente con los establecimientos categorizados como 1-1 y 1-2 garantizando el trabajo de la red de laboratorio correspondiente. La UPS de Patología Clínica debe contar con infraestructura física, recursos humanos, reactivos, materiales e insumos así como con el equipamiento biomédico necesario para una prestación de servicios en condiciones razonables de operatividad y seguridad. EI equipo biomédico empleado en la atención, debe estar sujeto a mantenimiento preventivo y correctivo, de manera prioritaria. 5.4 Los análisis clínicos que requieren los diferentes servicios de salud son de estricta competencia del equipo de Patología Clínica, bajo la responsabilidad del médico patólogo clínico. 2"
+    },
+    {
+      "marcador_cita": "[[PAGINA 5]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0005",
+      "pagina_pdf": 5,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "5.5 5.6 5.7 5.8 5.9 NTS NO - MINSA/DGSP. V.M Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica Se debe garantizar la operatividad del servicio durante ei horario de atención del establecimiento. A partir de los establecimientos de salud de categoría 11-1 hasta los 111-2, se debe contar con un Médico Cirujano especialista en Patología Clínica Además, asegurar que a partir de los establecimientos de salud categorizados como 1-4 hasta 111-2 se debe contar con profesional licenciado en Tecnología Médica en Laboratorio Clínico y/o Biólogo. EI registro de resultados y la entrega de los mismos deberá realizarse en un formato previamente establecido por la institución y de acuerdo a 10 señalado en la Norma Técnica de Salud para la Gestión de la Historia Clínica. Las UPS de Patología Clínica que funcionen en forma independiente, serán categorizadas dependiendo de su nivel de resolución, para 10 cual se tomará como referencia los recursos humanos, equipamiento y las pruebas que realicen en comparación con las que se brinda en un establecimiento de salud. Las UPS de Patología Clínica deben contar con los siguientes instrumentos de gestión. Técnico Administrativo Q etaria C'/ C. Reyes J. L. F. COCA S. P.M.AB DB, 9.9 6. Reyes N. 1 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. Manual de organización y funciones. Manual de normas y procedimientos. Manual de calidad Planes de contingencia Registro de control de documentos y archivos Registro de indicadores de producción y de calidad. Registro de contratos Registro de laboratorios de referencia y consultores Registro de servicios externos y suministros Registro de quejas y no conformidades Registro de acciones correctivas y preventivas Plan de mejoramiento continuo de la calidad Registro de auditorias internas Registro de control y supervisión Registro y codificación de personal Técnico Asistencial 1. Manual de técnicas y procedimientos analíticos 2. Manual de bioseguridad 3. Manual de mantenimiento preventivo y correctivo de equipos 4. Registro de mantenimiento preventivo y correctivo de equipos 5. Registro de control y calibración de equipos 6. Registro de control de calidad 7. Registro de accidentes de trabajo DISPOSICIONES ESPECíFlCAS 6.1 DE LA ORGANIZACIÓN Y FUNCIONAMIENTO EI Médico Patólogo Clínico será responsable de la UPS Patología Clínica en los establecimientos de salud desde la categoría 11-1 hasta 111-2. En establecimientos de salud categoría 1-3 y 1-4, el responsable será eI Tecnólogo Médico en Laboratorio Clínico y/o Biólogo La UPS de Patología Clínica de un establecimiento de salud deberá contar con las siguientes áreas: 3"
+    },
+    {
+      "marcador_cita": "[[PAGINA 6]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0006",
+      "pagina_pdf": 6,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS NO 072 - MINSA/DGSP. V.M Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica Tabla NO 1 Áreas de la UPS de Patología Clínica CATEGOR A DEL ESTABLECIMIENTO REAS Bio uímica Hematolo ia Inmunolo ía Microbiolo ía Banco de san re Biolo ia molecular Laboratorio de histocompatibilidad Toma de muestras *SE: Según Especialidad SE SE SE SE SE SE SE x x x x x x x SE x x x x x x x x x x x x 14 x x x x 1-3 1-2, 1-1 x x x x x etaria C. Reyes J. L. F. COCA S. ORIA Reyes Los Servicios Médicos de Apoyo de Patología Clínica que funcionen de manera independiente de un establecimiento de salud, de acuerdo a la disponibilidad de sus recursos humanos y tecnológicos, podrán contar con una o más de las áreas que se señalan en la Tabla anterior. La Gestión de la UPS de Patología Clínica, está a cargo del profesional responsable del servicio, a través del desarrollo de los siguientes procesos: • Dirección, el profesional responsable del servicio es el gestor clínico de la UPS, debe garantizar el cumplimiento de los objetivos del servicio a través del planeamiento, organización, coordinación, control y supervisión de las actividades técnico administrativas. Planeamiento, el gestor clínico conduce la formulación del Plan Operativo de la UPS, para su posterior incorporación al POA institucional. • Organización, el gestor clínico garantiza el funcionamiento del servicio, a través del cumplimiento, por parte del personal profesional y técnico del servicio, de la normatividad vigente tanto del área asistencial como de la administrativa. Capacitación, Docencia e Investigación, el gestor clínico deberá programar la capacitación continua del personal, como los estudios de investigación, según corresponda. Control, el gestor clínico implementa y desarrolla las políticas, programas y procedimientos de la gestión de la calidad. Aplica Programas de auditoría interna y externa, así como Programas de sistemas de medición y verificación. Documentos a utilizar: • Registro de atención al usuario • Identificación y control de no conformidades • Solución de quejas • Acciones correctivas • Registros de calidad La garantía de la calidad en el servicio se logra estableciendo mecanismos definidos y claros de aseguramiento de la calidad. EI objetivo es reconocer y minimizar los errores en las tres fases de la atención. 4"
+    },
+    {
+      "marcador_cita": "[[PAGINA 7]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0007",
+      "pagina_pdf": 7,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS NO 07 Z - MINSA/DGSP. V.01 Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica En el control de la fase analítica, programar dos procedimientos: 1. 2. Control Interno: Es prospectivo, valida el análisis procesado. EI objetivo del control interno de la calidad es detectar la eventual existencia de anomalías en el proceso de medida, debe además ser especialmente eficaz en la detección de errores que superen el máximo tolerable, es decir asegurar que los resultados obtenidos no presenten más error que el característico del procedimiento, o errores adicionales que comprometan la calidad de los resultados. Control externo: Es retrospectivo, estima el error sistemático. EI control externo de la calidad abarca diferentes procesos mediante los cuales se ejerce la evaluación de la calidad y exactitud de los resultados gracias a la intervención de una organización ajena, a través de un programa de evaluación externa ó evaluación interlaboratorial. e: aria C. Reyes O. F. COCA S. Reyes N. EI programa de control de calidad externo y de comparación entre laboratorios es importante, ya que permite valorar y verificar la confiabilidad de tas pruebas entre los laboratorios. Tabla NO 2 Control de Calidad en la UPS de Patología Clínica de los Establecimientos de 111-2, y 11-2 Control de calidad interno, interlaboratorial y externo Salud 11-1 y 14 Control de calidad interno, interlaboratorial y envío 1-3, 1-2 y 1-1 Control de calidad inter- laboratorial pre analítico y envío z EI control de calidad para los Servicios Médicos de Apoyo de Patología Clínica que funcionen de manera independiente de un establecimiento de salud, se realizará tomando en cuenta las áreas con que éste cuenta (Tabla NO 1), relacionándolas con 10 señalado en la Tabla 2. Indicadores de Calidad de la UPS de Patología Clínica La búsqueda de la calidad de un análisis clínico es compleja por estar sujeta al comportamiento observado en cada una de las siguientes etapas: 1. 2. 3. 4. 5. 6. Registro de pedido de análisis Toma de muestra Procesamiento 3.1 . Técnica 3.2 . Método normatizado 3.3 . Calibración 3.4 . Equipos 3.5 . Materiales e insumos Resultados, interpretación/opinión diagnóstica por la UPS de Patología Clínica. Trascripción de resultados Satisfacción del usuario 5"
+    },
+    {
+      "marcador_cita": "[[PAGINA 8]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0008",
+      "pagina_pdf": 8,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS NO - MINSA/DGSP. V.01 Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica Las que se constituyen en variables del proceso de ejecución del análisis y que independientemente o en conjunto, influyen en los atributos de exactitud, precisión, sensibilidad, especificidad y plausibilidad del resultado Indicadores etaria C. Reyes J. L. F. COCA S. 1. 2. 3. 4. 5. 6. Registro de pedido de análisis: % de trascripción errónea % de solicitudes con datos incompletos Toma de muestra % de recolección inapropiada de especímenes % de venopunturas innecesarias % de incidentes con los pacientes % de espera prolongada de los pacientes ambulatorios y hospitalizados % de muestras perdidas % de rotulación inadecuada % de incumplimiento de órdenes de análisis de emergencia % de pruebas no realizadas Proceso analítico % de utilización de pruebas poco frecuentes. % de empleo de reactivos vencidos % de equipos inadecuadamente calibrados % de uso del sistema de alimentación estabilizador de corriente % de estándares de calibración deficientes % de sueros de referencia inadecuados % de material de vidrio no calibrado % de muestras hemolizadas. % de muestras lipémicas- ininterrumpida (UPS)/ Resultados de interpretación/opinión diagnóstica % de falta de correlación entre resultados vinculantes % de correlación entre el cuadro clínico y los análisis realizados Trascripción de resultados % de trascripción errónea de resultados % de trascripción inoportuna de resultados Porcentaje de satisfacción del usuario externo e interno z P.M. ABAO e Reyes N. Indicadores de Gestión de la UPS de Patología Clínica • NO de exámenes de laboratorio procesados en un periodo dado. Porcentaje de exámenes de laboratorio atendidos por servicio solicitante (hospitalización, consulta externa y emergencia) Porcentaje de exámenes de laboratorio atendidos según área (Bioquímica, Microbiología, Inmunología, Hematología, Banco de Sangre y Hemoterapia) Porcentaje de exámenes de laboratorio atendidos extramuros (derivados de otras instituciones) Porcentaje de solicitudes de exámenes de laboratorio por servicio atendidas (hospitalización, consulta externa y emergencia) 6"
+    },
+    {
+      "marcador_cita": "[[PAGINA 9]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0009",
+      "pagina_pdf": 9,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "C. Reyes J. L. F. COCA S. CSORIA Reyes N - NTS NO 072 - MINSA/DGSP. V.01 Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica • Porcentaje de exámenes no informados en tiempo previsto, ai servicio solicitante • Rendimiento hora - laboratorista (individual, de grupo ó área) • Porcentaje de exámenes de laboratorio sin resultado por error técnico (procesados o no procesados) 6.2 DEL PERSONAL Del Responsable de la UPS de Patología Clínica Médico especialista en Patología Clínica con título y registro de especialista, certificado y habilitado por el Colegio Médico del Perú, con experiencia en la especialidad no menor de 5 años y como responsable de área no menor de 3 años en el nivel correspondiente. Capacitación en Gestión Administrativa, conocimientos de informática y experiencia en investigación y/o docencia Del Responsable de Área Médico especialista en Patología Clínica con título y registro de especialista y habilitado por el Colegio Médico del Perú. Experiencia en la especialidad no menor de 3 años en el nivel correspondiente, capacitación en Gestión Administrativa, conocimientos de informática básica y experiencia en investigación y/o docencia Del Patólogo Clínico Asistente Médico especialista en Patología Clínica, con título y registro de especialista y habilitado por el Colegio Médico del Perú, conocimientos de informática básica y experiencia en investigación y/o docencia Del Tecnólogo Médico en Laboratorio Clínico Licenciado en Tecnología Médica, especialidad de Laboratorio Clínico, con título profesional, colegiado, con conocimientos de informática básica, experiencia en trabajos de investigación Del Biólogo Licenciado en Biología, con título profesional, colegiado, con especialidad de Laboratorio Clínico, con conocimientos de informática básica, experiencia en trabajos de investigación Del Técnico en Laboratorio Clínico Con Titulo de Instituto Superior, conocimientos de informática básica. Del Personal por Áreas EI personal podrá trabajar a exclusividad o no, dependiendo de la producción y categoría del establecimiento: Área de bioquímica, inmunología, hematología Médico patólogo clínico. Biólogo y Tecnólogo médico, con especialidad en laboratorio clfnico. Técnicos de laboratorio Área de microbiología y biología molecular • Médico Patólogo clínico. Tecnólogo médico, con especialidad en laboratorio clínico 7"
+    },
+    {
+      "marcador_cita": "[[PAGINA 10]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0010",
+      "pagina_pdf": 10,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "O C. peyes J, eso De Reyes N. NTS NO 072 • MINSAIDGSP. V.01 Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica Biólogo Técnicos de laboratorio Área de banco de sangre Médico Patólogo clínico. • Biólogo, y Tecnólogo médico, con especialidad en laboratorio clínico. Licenciado en enfermería Técnico de laboratorio Personal del área Administrativa Secretaria Técnicos de informática 6.3 DE LA ATENCIÓN DEL USUARIO Área de Atención Pre analítica La solicitud de análisis se efectuará en los formatos establecidos en el establecimiento de salud o servicio médico de apoyo, acordes con la Norma Técnica de Salud para la Gestión de la Historia Clínica vigente. Se brindará información y orientación al personal de los servicios clínicos para la correcta solicitud de análisis. Se brindará información al paciente sobre las necesidades previas a la toma de la muestra (ayuno, dietat medidas higiénicas especiales etc.). La toma ylo recepción de muestras se efectúa en el área de toma de muestras de la UPS Patología Clínica, si el paciente está hospitalizado o en la UPS Emergencia, el personal de la UPS Patología Clínica se desplazará para la toma de muestra correspondiente. Se utilizarán los medios adecuados para mantener la muestra correctamente identificada, manteniendo en todo momento la confidencialidad. Si es necesario el transporte de muestras a otro laboratorio de referencia, deben existir los medios necesarios para la conservación de la misma, durante el transporte. Se debe realizar el cumplimiento estricto de todos y cada uno de los procedimientos pre analíticos documentados y la anotación de los registros que exijan dichos procedimientos, con el fin de asegurar la integridad y trazabilidad de la muestra final a analizar Área de Atención Post analítica • Los resultados se registrarán en los formatos establecidos en el establecimiento de salud o servicio médico de apoyo, acordes con la Norma Técnica de Salud para la Gestión de la Historia Clínica vigente, con los correspondientes registros de salida y entrega, ya sea en soporte papel o por vía informática. Se brindará un servicio de atención y respuesta a las consultas o reclamos que se hagan por pacientes o personal de salud que solicitó el análisis en relación al resultado de los mismos. 6.4 DE LA INFRAESTRUCTURA Ubicación La localización del servicio debe cumplir los requisitos siguientes: • Contar con fácil acceso para el paciente y tener relación con el acceso principal, consulta externa, hospitalización y áreas críticas. De preferencia se ubicará en la planta baja o primer nivel. 8"
+    },
+    {
+      "marcador_cita": "[[PAGINA 11]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0011",
+      "pagina_pdf": 11,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "C. Reyes J. L. F. COCA S. V. R. Reyes N. 7. MTS NO 072.. • MINSNDGSP. V.01 Norma Técnica de Salud de la Unidad Productora de Setvicios de Patología Clinica EI ambiente destinado al laboratorio debe contar con buena ventilación e iluminación natural y artificial, con espacios suficientes para que los procesos de los análisis sean fluidos. Ambientes Contará con los siguientes ambientes: Sala de espera y Admisión Recepción de muestras Área de toma de muestras. Área administrativa Áreas de procesos analíticos Almacén Área de lavados y esterilización Servicios higiénicos para pacientes Cuarto de limpieza Vestidores y servicios higiénicos para el personal Ingeniería Clínica EI laboratorio debe estar diseñado para lograr la eficiencia de su operación, optimizar la comodidad de sus ocupantes y minimizar ei riesgo de lesiones y enfermedades ocupacionales. Los pacientes, empleados y visitantes deben estar protegidos de peligros reconocidos. Se debe contar con: Sistema de aire acondicionado y/o calefacción. Sistema de iluminación artificial general e individual, graduable en intensidad. Sistema eléctrico empotrado. Sistema de tomacorriente, considerando enchufes de alto amperaje para equipos especiales. Instalaciones con línea a tierra. Soporte de grupo electrógeno y equipo de luz auxiliar. Teléfono con acceso interno y externo. La unión de paredes y muros con el piso, o techos deben contar con acabados que faciliten la limpieza y las condiciones de asepsia. Paredes cubiertas con material fácil de limpiar o lavar. Pisos impermeables, resistentes, antideslizantes, de fácil limpieza. Señalización escrita y por símbolos según normas. Sistema de manejo de residuos. 6.5 EQUIPAMIENTO EI equipamiento de la UPS de Patología Clínica, variará de acuerdo a la categoría del establecimiento y del perfil epidemiológico del establecimiento. Se adjunta listado que debe ser adecuado según establecimiento. En los casos de Banco de Sangre y Banco de órganos y Laboratorio de Histocompatibilidad serán de acuerdo a la normatividad específica (Anexo 1). RESPONSABILIDADES Nivel Nacional La Dirección General de Salud de las Personas, a través de la Dirección de Servicios de Salud, se encargará de la difusión y evaluación del cumplimiento de la presente Norma Técnica de Salud. 9"
+    },
+    {
+      "marcador_cita": "[[PAGINA 12]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0012",
+      "pagina_pdf": 12,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS NO - MINSNDGSP. V.M Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica Nivel Regional La aplicación de la presente Norma Técnica de Salud es de responsabilidad de las autoridades sanitarias regionales de salud, así como de las diferentes instituciones de salud públicas y no públicas que integran el Sector Salud. Las Direcciones de Salud, las Direcciones Regionales de Salud o quien haga sus veces, serán las encargadas de elaborar el plan de implementación de la presente norma en los establecimientos de salud de su jurisdicción. Las Direcciones de Salud, las Direcciones Regionales de Salud o quien haga sus veces en el ámbito regional serán las encargadas del seguimiento y monitoreo del cumplimiento de la presente Norma Técnica de Salud. 8. DISPOSICIONES FINALES La implementación de la presente Norma Técnica de Salud debe estar acompañada por actividades de capacitación e información al personal de los establecimientos de salud. aria C. Reyes J. 1. F. COCA S. B. es Reyes N, 9. ANEXOS Anexo 1 Anexo 2 Salud. Anexo 3 Equipamiento Mínimo de la UPS Patología Clínica Procedimientos Mínimos de la UPS según Categoría de Establecimiento de Categorías de Establecimientos de Salud 10. BIBLIOGRAFÍA 1. NTP-ISO 15189:2004 Laboratorios Médicos, sobre requisitos particulares para la calidad y competencia. INDECOPI. Perú. 2. Manual de bioseguridad en laboratorios de ensayo, biomédicos y clínicos /Elaborado por Instituto Nacional de Salud. 3a. ed.-- Lima: Ministerio de Salud, Instituto Nacional de salud, 2005. 10"
+    },
+    {
+      "marcador_cita": "[[PAGINA 13]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0013",
+      "pagina_pdf": 13,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS NO - MINSA/DGSP. V.01 Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica ANEXO 01 EQUIPAMIENTO MÍNIMO DE LA UPS DE PATOLOGíA CLíNlCA SEGÚN CATEGORíA DEL ESTABLECIMIENTO DE SALUD CATEGORiA 111-2 Equipamiento automatizado según requerimiento de la especialidad CATEGORÍA 111-1 C. Reyes J. . F. COCA S. Z 9 t,8AO ORIA Reyes N. 1) 2) 3) 4) BIOQUíMlCA Centrífuga universal de tubos Baño María Congeladora Espectrofotómetro/ fotómetro digital Refrigeradora para laboratorio Medidor de Ph digital Rotador serológico Analizador de electrolitos y gases en sangre Lector de ELISA automático Autoanalizador bioquímico Agitador Vortex Osmómetro HEMATOLOGiA • • Centrífuga universal para tubos Centrífuga para micro hematocrito Baño María Microscopio binocular estándar Microscopio de dos cabezales Contador digital de células sanguíneas Coagulómetro automático Autoanalizador hematológico de 5 estirpes Refrigeradora Cronómetro MICROBIOLOGíA • • Cabina de flujo laminar Refrigeradora para laboratorio Esterilizador de calor seco Autoclave Microscopio binocular estándar Balanza analítica de precisión Baño María de 20-25 L Analizador automático de hemocultivo Analizador de diferenciación y sensibilidad bacteriana Incubadora de cultivo Incubadora de cultivo con C02 Incubadora para anaerobiosis INMUNOLOGiA Equipo para exámenes de inmunología básica Equipo de quimioluminiscencia Equipo de ELISA Centrífuga universal de tubos Termociclador 11"
+    },
+    {
+      "marcador_cita": "[[PAGINA 14]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0014",
+      "pagina_pdf": 14,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "5) NTS NO 072 - MINSA/DGSP. V.01 Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica Cabina de flujo laminar Citómetro de flujo Microscopio de fluorescencia • Equipo de electroforesis OTROS • Destilador de agua Desionizador Reloj de tiempo CATEGORÍA 11-2 etario 03 C. Reyes J. L. F. COCA S. 1. 2. 3. 4. BIOQUíMlCA Centrífuga universal de tubos Baño María Espectrofotómetro/ fotómetro digital Refrigeradora para laboratorio Rotador serológico Analizador de electrolitos y gases en sangre Autoanalizador bioquímico 100/Hr HEMATOLOGíA Centrífuga universal para tubos Centrifuga para micro hematocrito Baño María de 20-25 L Microscopio binocular estándar Contador digital de células sanguíneas Coagulómetro semiautomático Analizador con tres diferenciales hematológicos Cronómetros MICROBIOLOGÍA • Cabina de flujo laminar Refrigeradora para laboratorio Esterilizador de calor seco Autoclave Microscopio binocular estándar Balanza analítica de precisión Baño María Incubadora de cultivo INMUNOLOGíA Equipo para exámenes de inmunología básica Refrigeradora de laboratorio Centrífuga universal de tubos Reyes N. CATEGORÍA 11-1 Microscopio binocular estándar Centrífuga universal de tubos Centrifuga para micro hematocrito Baño María Contador digital de células sanguíneas 12"
+    },
+    {
+      "marcador_cita": "[[PAGINA 15]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0015",
+      "pagina_pdf": 15,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "t aria L. F. OCA S. NTS NO 072 - MINSA/DGSP. v.0f Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica Espectrofotómetro/ fotómetro digital Refrigeradora para laboratorio Rotador serológico Analizador de Electrolitos y Gases en sangre Cabina de flujo laminar Esterilizador de calor seco Autoclave • Destilador de agua Balanza analítica Armario para materiales e insumos Sillón para toma de muestra CATEGORíA l- 4 Microscopio binocular estándar Centrífuga universal de tubos Centrífuga para microhematocrito Baño Maria Contador de células sanguíneas Fotómetro digital Rotador serológico Refrigeradora Armario para materiales e insumos Sillón para toma de muestra CATEGORÍA l- 3 Microscopio Centrífuga universal de tubos Centrífuga para hematocrito Baño María • Contador de células sanguíneas Refrigeradora Hemoglobinómetro Armario para materiales e insumos Sillón para toma de muestra P.M_ ABAD CATEGORíA 1-1, 1-2 Reyes N Armario para materiales e insumos Sillón para toma de muestra Refrigeradora para laboratorio Centrifuga Universal de tubos 13"
+    },
+    {
+      "marcador_cita": "[[PAGINA 16]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0016",
+      "pagina_pdf": 16,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS NO 07 Z - MINSAIDGSP. V.01 Norma Técnica de Salud de la Unidad Productora de SeNicios de Patología Clínica ANEXO NO 2 PROCEDIMIENTOS MÍNIMOS POR CATEGORÍA DE ESTABLECIMIENTO DE SALUD CATEGORíA 111-2 (Según especialidad.) PROCEDIMIENTOS DE INMUNOLOGÍA Rio C. Reyes J. SORIA 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 PROCEDIMIENTO Identificación de anticuerpo anti Citomegalovirus IgG Identificación de anticuerpo anti Citomegalovirus IgM Identificación anticuerpo anti Chlamydia Pneumoniae Identificación de anticuerpo anti Chlamydia Pneumoniae IBM Identificación de anticuerpo anti Chlamydia Trachomatis Identificación de anticuerpo anti Chlamydia Trachomatis Identificación de anticuerpo anti Chlamydia Trachomatis Identificación de anticuerpo anti Helicobacter Pylori IgA Identificación de anticuer o anti Helicobacter P lori I G Identificación de anticuerpo anti Helicobacter Pylori IgM Identificación de anticuerpo anti Her es virus 1 IgG Identificación de anticuer o anti Her es virus 1 1 M Identificación de anticuerpo anti Herpes virus 2 IgG Identificación de anticuer o anti Herpes virus 2 1 M Identificación de anticuerpo anti HTLV I II Identificación de anticuer o anti Rubéola I G Identificación de anticuerpo anti Rubéola I M Identificación de anticuerpo anti Toxoplasma Gondii I A Identificación de anticuerpo anti Toxo lasma Gondii I G Identificación de anticuerpo anti Toxoplasma Gondii IgM Identificación de anticuerpo anti Treponema Pallidum Identificación de anticuerpo anti Treponema Pallidum Total Identificación de anticuerpo anti Trypanosoma cruzi Cha as Total Identificación de anticuerpo anti VIH 1-2 Identificación de anticuerpo anti VIH 1-2 Prueba Confirmatoria Identificación de anticuerpo Paratífico A A lutinaciones Identificación de anticuerpo Paratífico B A lutinaciones Identificación de anticuerpo Brucella en Placa A lutinaciones Identificación de anticuerpo Brucella en Tubo Test de Rosa de Bengala Test de RPR Identificación de anticuerpo Tífico H (Aglutinaciones) Identificación de anticuerpo Tífico O (Aglutinaciones) Test de VDRL Categoría de Establecimiento de Salud x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 14"
+    },
+    {
+      "marcador_cita": "[[PAGINA 17]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0017",
+      "pagina_pdf": 17,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS NO 072 - MINSNDGSP. V.M Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clinica C. Reyes J. L. F. COCA S. P. Reyes N. 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 PROCEDIMIENTO Identificación de autoanticuerpo anti DNA nativo IFA Identificación de autoanticuerpo Anti ENA Inmunoblot Identificación de autoanticuerpo Anti Músculo Liso - Células Parietales Gástricas - Mitocondriales Identificación de autoanticuerpo Anti-ANCA Identificación de autoanticuerpo Anticardiolipina Identificación de autoanticuerpo Anti-DNA EIA Identificación de autoanticuerpo Anti-ENA Screen Identificación de autoanticuerpo Antimieloperoxidasa de Neutrófilo (p-ANCA) Identificación de autoanticuer o Antinuclear (ANA) EIA Identificación de autoanticuer o Antinuclear (ANA) IFA Identificación de autoanticuerpo Antiproteinasa 3 de Neutrófilo (c-ANCA) FTA Absorbido Hepatitis A Anticuer 01 G Hepatitis A Anticuerpo I M He atitis B Anticuerpo Anticore I M Hepatitis B Anticuerpo Anticore Total He atitis B Anticuer o contra Anti eno de Superficie Hepatitis B Anticuer o contra Antígeno e Hepatitis B Antí eno e Hepatitis B Anti eno de Su erficie Hepatitis C Anticuerpo Test de Alfafeto roteina Test de Antiestreptolisina O Test de Antiestreptolisina O por Látex Test de Antí eno CA 125 Test de Antí eno CA 15-3 Test de Antí eno CA 19-9 Test de Antí eno CA 72.4 Test de Antí eno Carcinoembrionario (CEA) Test de Antígeno Prostático Es ecífico PSA Test de Antígeno Prostático Es ecífico Libre (PSA Libre) Test de Antígeno Tumoral de Ve'iga Test de Beta 2 Microglobulina Test de Cadena Kappa Test de Cadena Lambda Test de Complemento C3 Test de Complemento C4 Test de CYFRA 21 . 1 Test de Enolasa Neuroespecífica Test de Factor Reumatoide Test de Inmunoglobulina A Test de Inmunoglobulina E Categoría de Establecimiento de Salud x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 15"
+    },
+    {
+      "marcador_cita": "[[PAGINA 18]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0018",
+      "pagina_pdf": 18,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS N007Z • MINSA/DGSP. v.0f Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica PROCEDIMIENTOS DE INMUNOLOGÍA 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 PROCEDIMIENTO Test de Inmunoglobulina G Test de Inmunoglobulina M Test de Proteína C Reactiva Test de Proteína C Reactiva Látex Dosaje de Hormona ACTH Dosaje de Hormona Aldosterona Dosaje de Hormona Androstenediona Dosaje de Hormona Beta Gonadotrofina Coriónica Dosaje de Hormona Beta HCG Fracción Libre Dosa•e de Hormona Calcitonina Dosaje de Hormona Cortisol Dosaje de Hormona de Crecimiento Dosa•e de Hormona Dehidroe iandrosterona sulfato Dosa•e de Hormona Estradiol Dosaje de Hormona Estriol Libre Dosa•e de Hormona FSH Dosa•e de Hormona Insulina Dosaje de Hormona LH Dosa•e de Hormona Pro esterona Dosae de Hormona Prolactina Dosa•e de Hormona T3 Libre Dosa•e de Hormona T4 Libre Dosa•e de Hormona Testosterona Libre Dosa•e de Hormona Testosterona Total Dosa'e de Hormona TSH N-Teiopé tido Categoría de Establecimiento de Salud x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x L. F. COCA S. 10 De Reyes N. C. Reyes J. x 16"
+    },
+    {
+      "marcador_cita": "[[PAGINA 19]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0019",
+      "pagina_pdf": 19,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS NO 072 - MINSNDGSP. V.01 Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica PROCEDIMIENTOS DE HEMATOLOGíA Categoría de Establecimiento de Salud + Bl_g_ Reyes J. P.M. . Ar,e 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 PROCEDIMIENTO Constantes corpusculares Dímero D Dosaje de Factor IX Dosaje de Factor V Dosaje de Factor VII Dosaje de Factor VIII Dosaje de Factor X Dosaje de Factor XI Dosaje de Factor XII Electroforesis de Hemoglobina Fibrinógeno Frotis de sangre periférica Gota gruesa Hematocrito manual Hemoglobina manual Hemograma Automatizado Diferencial 3 Estir es Hemograma Automatizado Diferencial 5 Estir es Mielograma Hemograma manual LCR recuento celular y diferencial Recuento de eosinófilos Recuento de linfocitos Recuento de plaquetas Recuento de reticulocitos Tiempo de Coagulación Tiempo de Protrombina Tiempo de sangría Antitrombina III Tiempo de Trombina Tiempo de Tromboplastina Parcial Activado Velocidad de sedimentación Test de Sickling (Metabisulfito) Test de Fragilidad Capilar Test de Fragilidad Globular Test de Ham Anticoagulante Lúpico Coombs Directo Coombs Indirecto Grupo Sanguíneo y Factor RH x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x • S. Reyes N x x x 17"
+    },
+    {
+      "marcador_cita": "[[PAGINA 20]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0020",
+      "pagina_pdf": 20,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS NO 0 - MINSA/DGSP. V.01 Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica PROCEDIMIENTOS DE BIOQUíMlCA Categoría de Establecimiento de Salud etaria 00 C. Reyes J. F. COCA S. z S. Reyes N. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 2() 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 4() PROCEDIMIENTO Dosaje de Acido Valproico Dosaje de Benzodiazepina Dosaje de Carbamazepina Dosaje de Ciclosporina Dosaje de Fenitoína Dosaje de Fenobarbital Electroforesis de Hemoglobina Electroforesis de Inmunofijación de proteínas Proteinograma electroforético de orina Dosaje de Calcio Iónico Dosaje de gases y electrolitos Dosaje de Apolipoproteína A Dosaje de Apolipoproteína B Dosaje de Ferritina Haptoglobina Microalbuminuria Dosaje de Mioglobina Dosa•e de Transferrina Dosaje de Acido Úrico Dosa•e de Ácidos Biliares Dosa'e de ADA Dosa•e de Albúmina Dosa•e de Amilasa Dosa•e de Bilirrubina Directa Dosa•e de Bilirrubina Total Dosa•e de Calcio Dosaje de Capacidad de Ffación de Fierro Dosa•e de CK Total Lí idos totales Dosaje de CK-MB Cinético Dosa•e de Colesterol HDL Dosaje de Colesterol LDL Dosaje de Colesterol Total Dosaje de Creatinina Dosaje de Deshidrogenasa Láctica Dosaje de Fosfatasa ácida Dosaje de Fosfatasa Alcalina Dosaje de Fósforo Dosaje de Gamma Glutamil Transpeptidasa Dosaje de Glucosa x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 18"
+    },
+    {
+      "marcador_cita": "[[PAGINA 21]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0021",
+      "pagina_pdf": 21,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS NO 072 - MINSA/DGSP. V.01 Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica PROCEDIMIENTOS DE BIOQUíMlCA C. Reyes J. L. F. COCA S. De Reyes N 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 PROCEDIMIENTO Dosaje de Hierro Sérico Dosaje de Lipasa Dosaje de Magnesio Dosaje de Proteína en LCR y otros Líquidos Bioló icos Dosaje de Proteínas Totales Dosaje de Transaminasa TGO - AST Dosaje de Transaminasa TGP - ALT Dosaje de Triglicéridos Dosaje de Urea Dosaje de Zinc Dosa•e de Acido Fólico Des ista•e de Porfiria Test de Embarazo en Orina Dosa•e de Fenilcetonuria Dosa•e de Hemoglobina Glicosilada Dosa•e de Troponina Dosaje de Vitamina B12 Examen com leto de Orina Es ermato rama Test de Watson-Schwarz Osmolaridad Lactato Tolerancia a la Lactosa Li ido rama Categoría de Establecimiento de Salud x x x X x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x 19"
+    },
+    {
+      "marcador_cita": "[[PAGINA 22]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0022",
+      "pagina_pdf": 22,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS NO 0 72 - MINSAJDGSP. V.01 Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica PROCEDIMIENTOS DE MICROBIOLOGÍA Categoría de Establecimiento de Salud 1 2 3 4 5 6 7 8 9 10 Reyes J. 11 12 13 14 15 16 • 17 18 19 L. F. COCA S. 20 21 22 23 24 e 25 26 27 28 29 30 31 44 45 Reyes 46 47 48 PROCEDIMIENTO Tinción de Gram Tinción con Azul de Metileno Investigación Directa de Hongos Investigación Directa de Ácaros Investigación de Chlamydia B. K. Esputo Observación con Tinta China Urocultivo, identificación y antibiograma Hemocultivo, identificación y antibiograma Cultivo de secreción faríngea, identificación y antibio rama Cultivo de secreción de heridas identificación y antibio rama Coprocultivo, identificación y antibiograma Cultivo de líquido cefalorraquídeo Espermocultivo Cultivos de líquidos biológicos Cultivo de secreción vaginal, identificación y antibiograma Cultivo de catéteres, identificación y antibiograma Cultivo de gérmenes anaerobios, identificación y antibio rama Cultivo de Micobacterias Antibiograma en Micobacterias Cultivo e identificación de Hongos Dermatofitos Cultivo e identificación de Hongos Levaduriformes Cultivo e identificación de Histoplasma Cultivo e identificación de Criptococo Examen Parasitológico de Heces Directo Examen Parasitológico de Heces Concentrado Identificación de parásitos en muestras biológicas Identificación de Coccideos en heces Identificación de E. Hystolítica. Eosinófilos en esputo Investigación de sangre oculta en heces Co roló ico funcional Reacción inflamatoria Test de Sudán Sustancias reductoras Examen com teto de orina x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x TM Toma de Muestra 20"
+    },
+    {
+      "marcador_cita": "[[PAGINA 23]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-N-627-2008-MINSA-PATOLOGIA-CLINICA-P0023",
+      "pagina_pdf": 23,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS NO -MINSA/DGSP. V.01 Norma Técnica de Salud de la Unidad Productora de Servicios de Patología Clínica ANEXO 3 CATEGORÍAS DE ESTABLECIMIENTOS DE SALUD 1-2 1-3 11-2 III -2 Puesto de Salud Puesto de Salud con Médico Centro de Salud sin Internamiento Centro de Salud Enfermería Servicios de Consultorio Sanidad Departamento Posta Médica Centro Médico Policlínico con Internamiento Puesto Sanitario Posta Médica Policlínico Policlínico Hospital Regional Hospital Nacional L. F. COCA S. Reyes N -41 . Reyes Hospital I Hospital II Hospital III Instituto Especializado Hospital I Hospital II Hospital III IV Instituto Posta Médica Departamento Sanitario Hospital Zonal Hospital Regional Hospital Central FAP de Sanidad Posta Naval Policlínico Naval Clínica Naval Hospital Naval- Consultorio Médicos Policlínicos Centros Médicos Clínicas Clínicas Clínicas Bu ue Hos ital Institutos 21"
+    }
+  ]
+}

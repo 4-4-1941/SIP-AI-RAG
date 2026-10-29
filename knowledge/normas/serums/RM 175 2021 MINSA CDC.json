@@ -1,0 +1,397 @@
+{
+  "id": "MINSA-RM-175-2021-MINSA-CDC",
+  "id_fuente_oficial": null,
+  "titulo": "RM 175 2021 MINSA CDC",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Resolución Ministerial",
+  "numero_norma": null,
+  "fecha_aprobacion": null,
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "fuentes_oficiales": [
+    {
+      "tipo": "archivo_local",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "RM 175 2021 MINSA CDC",
+      "url": null,
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "RM 175 2021 MINSA CDC.pdf",
+  "huella_sha256_pdf_fuente": "650470970d5245f1f31f9014ce7227fb3c6f3954c04c6c3795acd810dcd46a9b",
+  "paginas_pdf": 35,
+  "paginas_con_texto": 35,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "texto_nativo_pdf",
+  "ocr_aplicado": false,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 35,
+    "paginas_con_texto": 35,
+    "caracteres_texto_extraido": 29773
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS Nº 175 - MINSA/2021/CDC\nNorma Técnica De Salud Para \nLa Vigilancia Epidemiológica y Diagnóstico de Laboratorio \ndel Síndrome De Guillain Barré en el Perú"
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Fuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú"
+    },
+    {
+      "marcador_cita": "[[PAGINA 3]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0003",
+      "pagina_pdf": 3,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "FINALIDAD\nLa finalidad de la presente Norma Técnica de Salud es contribuir a disminuir la morbilidad y mortalidad de casos del Síndrome de \nGuillain Barré. \nOBJETIVO GENERAL \nFortalecer las acciones de vigilancia epidemiológica y de diagnóstico para la detección temprana, investigación epidemiológica y \nmonitoreo de brotes y de conglomerados de casos de Síndrome de Guillain Barré.\nOBJETIVOS ESPECIFICOS\n❑Establecer los procedimientos para la captación, registro, notificación, clasificación y análisis de casos de Síndrome de Guillain \nBarré.\n❑Estandarizar los procedimientos de investigación epidemiológica de casos de Síndrome de Guillain Barré.\n❑Establecer los procedimientos de obtención, conservación y transporte de muestras biológicas para el diagnóstico etiológico \nde los casos de Síndrome de Guillain Barré.\nNTS Nº 175 - MINSA/2021/CDC\nNorma Técnica De Salud para la Vigilancia Epidemiológica y Diagnóstico de Laboratorio \ndel Síndrome de Guillain Barré en el Perú\nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nNT n°175-MINSA/2021/CDC"
+    },
+    {
+      "marcador_cita": "[[PAGINA 4]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0004",
+      "pagina_pdf": 4,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Ámbito de aplicación\nPerú\nLa presente Norma Técnica de Salud es de aplicación obligatoria todos los \nestablecimientos de salud del segundo y tercer nivel del atención en:\n- Ministerio de Salud\n- Gobiernos Regionales, de los Gobiernos Locales\n- Seguro Social de Salud (EsSalud)\n- Sanidades de las Fuerzas Armadas y de la Policía Nacional del Perú\n- Instituto Nacional Penitenciario\n- Establecimientos de salud  privados que desarrollen actividades  \nrelacionadas a la materia del presente documento normativo. \nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nNT n°175-MINSA/2021/CDC"
+    },
+    {
+      "marcador_cita": "[[PAGINA 5]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0005",
+      "pagina_pdf": 5,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Tipo de diagnóstico SGB\nTipo de Diagnostico SGB Definición de caso\nCaso Sospechoso de \nSíndrome de Guillain \nBarré\nNivel de \ncerteza III\nPersona de cualquier edad con\n❑Debilidad muscular bilateral  (ascendente o descendente), simétrica o relativamente simétrica y\n❑ Flacidez y\n❑ Reflejos osteotendinosos disminuidos o  ausentes en extremidades y  \n❑Con 12 horas a 28 días de evolución desde el inicio de la debilidad muscular.\nCaso Confirmado de \nSíndrome de Guillain \nBarré\nNivel de \ncerteza II\nCaso sospechoso con al menos uno de los siguientes criterios:\n• Disociación albumino citológica en Líquido Céfalo Raquídeo (Cifra total de leucocitos < 50 \ncélulas/μl y elevación de proteínas > 45 mg/dl). O\n• Estudio electrofisiológico compatible con SGB tomada entre la segunda y cuarta semana de inicio \nde la debilidad muscular.\nNivel de \ncerteza I\nCaso sospechoso con los dos siguientes criterios:\n• Disociación albumino citológica en Líquido Céfalo Raquídeo (Cifra total de leucocitos < 50 \ncélulas/μl y elevación de proteínas > 45 mg/dl). Y\n• Estudio electrofisiológico compatible con SGB tomada entre la segunda y cuarta semana de inicio \nde la debilidad muscular.\nCaso descartado de \nSíndrome de Guillain \nBarré\nCaso sospechoso que durante la investigación tiene otro diagnóstico que explique el cuadro clínico, o que no \ncumpla con la definición de caso\nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú"
+    },
+    {
+      "marcador_cita": "[[PAGINA 6]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0006",
+      "pagina_pdf": 6,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Confirmación de Caso de SGB  DIFERENTE a Identificación etiológica\nAcción Prueba Hallazgo\nConfirmación del \ncaso de Síndrome \nde Guillain Barré\nPunción Lumbar Disociación albumino citológica en Líquido Céfalo Raquídeo (Cifra total de leucocitos < 50 \ncélulas/μl y elevación de proteínas > 45 mg/dl)\nElectromiografía Estudio electrofisiológico compatible con SGB tomada entre la segunda y cuarta semana de inicio \nde la debilidad muscular.\nAcción Prueba Hallazgo\nIdentificación de \nagente causal\nLa prueba a solicitar \ndepende del tiempo \nde debilidad \nmuscular y de los \nantecedentes \nepidemiológico\nPositivo a agentes patológicos\n- Enterovirus\n- Campylobacter\n- Zika\n- Influenza A, B y subtipos, SARS-CoV-2\n- Otros\nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nNT n°175-MINSA/2021/CDC"
+    },
+    {
+      "marcador_cita": "[[PAGINA 7]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0007",
+      "pagina_pdf": 7,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "➢ La punción lumbar debe realizarse antes de\nla administración de inmunoglobulina; si fue\nobtenida durante el tratamiento y el\nresultado no muestra la disociación\nalbumino citológica, opcionalmente se\npuede obtener una segunda muestra en la\nsegunda semana desde el inicio de la\ndebilidad muscular.\n➢ La evaluación electrofisiológica es realizada \nentre la segunda y cuarta semana de inicio \nde la debilidad muscular, debiendo ser \nrealizada por un profesional médico \nentrenado\nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nNT n°175-MINSA/2021/CDC"
+    },
+    {
+      "marcador_cita": "[[PAGINA 8]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0008",
+      "pagina_pdf": 8,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "La electromiografía es una principales herramientas de apoyo para:\n❑ Confirmar el diagnóstico, \n❑ Determinar las variantes clínicas  del SGB  como:\n➢ Polineuropatía desmielinizante inflamatoria aguda (siglas en \ningles AIDP)\n➢ Neuropatía axonal motora aguda (siglas en ingles AMAN)\n➢ Neuropatía axonal sensorial motora aguda (siglas en ingles \nAMSAN) \n➢ Síndrome de Miller-Fisher\nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nNT n°175-MINSA/2021/CDC"
+    },
+    {
+      "marcador_cita": "[[PAGINA 9]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0009",
+      "pagina_pdf": 9,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Fuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nNT n°175-MINSA/2021/CDC"
+    },
+    {
+      "marcador_cita": "[[PAGINA 10]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0010",
+      "pagina_pdf": 10,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Tabla N° 1 Criterio para la obtención, conservación y transporte de muestras para Síndrome \nde Guillain Barré \nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nNT n°175-MINSA/2021/CDC"
+    },
+    {
+      "marcador_cita": "[[PAGINA 11]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0011",
+      "pagina_pdf": 11,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "La ficha clínico epidemiológica \ncuenta con 10 secciones \ndistribuidas en 2 hojas con 52 \nítems\n➢ 1era hoja: Relacionada con la \nprimera atención\n➢ 2da hoja: Relacionada al \nseguimiento del paciente y \nasociación con el virus zika\n        \n                                                                                                                                                         Síndrome Guillain Barré (código CE10: G61.0)\nI. DATOS GENERALES 1. Fecha de Investigación:\n2. DIRESA/GERESA/DIRIs: 3. Red/ Micro Red\n4. Establecimiento De Salud Notificante\nII. DATOS DEL PACIENTE 5. H.Clínica N°\n6. A. Paterno A. Materno Nombres\n    9.  Edad 10.Sexo M F 11. Gestante 12. Peso \n13. Departamento      14. Provincia 15. Distrito    16. Localidad 17. Dirección\n18. Ocupación 19. Teléfono del paciente o familiar Nacionalidad\nIII. DATOS EPIDEMIOLOGICOS\n20 ¿Dónde estuvo las ultimas 4 semanas previas al inicio de la debilidad muscular?\n21. País 22. Departamento  23. Provincia         24. Distrito        25. Localidad 26. Dirección\n27. Antecedentes de enfermedad dentro de las 4 semanas previas del inicio de la debilidad muscular (Marcar con \"X\" y llenar datos)\n   Sí    \nEnfermedad crónica:  HTA            Diabetes              Obesidad             Asma \nOtros ….........................................................\nRiesgo intoxicación:      Metales pesados (   )    Organofosforado  (    ) \n28. Antecedente de vacunación previa dentro de las 4 semanas al inicio de debilidad muscular: Si\n29.   Antecedentes de familiares o contactos cercanos que las últimas  4 semanas  presentaron:        Si\nInfección gastrointestinal             Infección vías respiratorias        Otros_____________________________\nIV. EVALUACIÓN CLÍNICA  ( PERSONAL MEDICO  O ESPECIALISTA )\n30. Fecha de Inicio de debilidad muscular 31. Fecha de hospitalización 32. Servicio \n33. Caracteristicas de la debilidad muscular (marque con x) 34. Fecha de evaluación neurológica\nDebilidad                                                           35. Evaluación de la fuerza muscular\nBilateralidad \nSimetria o relativamente simetrica                                              Prox Dist\nProgresión:                                                  Miembro Sup. Izq.\nTono Muscular:                                 Miembro Sup. Der\nMiembro Inf. Izq.\nAtaxia                                                              Miembro Inf. Der.\ncompromiso de Nervios Craneales                       \nAnormalidad autonómica*                                         \nRigidez de Nuca                                                       \n36. Evaluación de reflejos osteotendinosos 37. Compromisos de los nervios craneales\nSI   SI          NO\nReflejo Bicipital Facial Izq.\nReflejo Tricipital Facial Der.\nReflejo Patelar IX-X Izq.\nReflejo Aquíleo IX-X Der.\n38. Escala de HUGHES al ingreso\nGrado 0 (   )     Grado 1 (   )     Grado 2 (   )       Grado 3 (   )      Grado 4 (   )       Grado 5 (  )         Grado 6 (  )\nV. CLASIFICACION DE SINDROME DE GUILLAIN BARRÉ\n39. SGB sospechoso 40.  SGB confirmado   41. SGB Descartado\nDer.\nSi No\nSi No\nIzq.\nInfluenza estacional                difetria y tetanos (dT)            Otra _______________________                          \nSi No\nSi No\nSi No\nSi No\nSi No\n Fecha de vacuna\nDebilidad muscular aguda\nNivel 3 Nivel 2 Nivel 1\nTrigémino Izq.\nTrigémino Der.\nIII-IV-VI Izq.\nIII-IV-VI Der.\n7. D.N.I 8. Fecha de Nacimiento\n                     kg\nPara caso SGB confirmado según criterios de certeza de Brighton:                       \nNivel de certeza 3: caso sospechoso con clínica  ( La notificación  de todo caso sospechoso debe ser inmediata al personal de epidemiologia y al \nsistema de vigilancia epidemiológica NOTISP)\nNivel de certeza 2: caso sospechoso con LCR compatible O  estudio de electrofisiología compatible para SGB, \nNivel de certeza 1: caso sospechoso con LCR compatible Y estudio de electrofisiología compatible para SGB\nInfección gastrointestinal\nReflejos Osteotendinosos \ndisminuidos o ausente: \nSi No\nAscendente Descendente\nHipotónico Normal\nNO\nFiebre (Temperatura ≥ 38 °C)\nExantema \n*Anormalidad autonómica (incluye más de uno de los siguientes: Disfunción urinaria, disfunción rectal, disfunción rectal, hipertensión arterial ( HTA), hipotensión, \ntaquicardia sinusal, arritmia, hiponatremia, fiebre)\n                                                            Ficha de investigación  Clínico Epidemiológica de la Vigilancia del\nANEXO N° 1\notros:_______________________\nInfección de vías respiratorias altas\n      Fecha  \nEmplear la Escala de Fuerza Muscular  de\nMedical Research Council (MRC):\n0 No contracción , musculo paralizado\n1 Contracción muscular sin desplazamiento\n2 Movimiento  sin vencer la gravedad\n3 Movimiento completo solo contra resistencia leve\n4 Movimiento completo contra gravedad y resistencia mod.\n5 Movimiento completo contra gravedad y resistencia\nEmplear la Escala\nNo hay respuesta\nHiporreflexia\nNormorreflexia\nHiperreflexia\nHiperreflexia con clonus\n0\n+\n++\n+++\n++++\nSI NO\nVI. EVOLUCION Y SEGUIMIENTO\n42. Ingreso a UCI 43.  Ventilación mecánica   Si (  )  No (   ) Fecha inicio  Fecha de destete\n44. Fecha de referencia y lugar de referencia ____/____/____\n45. Tratamiento: \nFecha de inicio de Plasmaféresis Número de sesiones\nFecha inicio Inmunoglobulina endovenosa       Número frascos de tratamiento\n46. Fecha de fallecimiento 47. Fecha del alta 48. Fecha de Alta voluntaria\n49. Secuela al Alta\n50. Escala de Hughes al Alta (marque con un x)\nVII. EXAMENES DE LABORATORIO\n51. Examen Resultado\nDisociación albumino-citológica:     SI (    )        No (    )\nLeuc.:__________  células/μl          Proteínas:___________________mg/dl\nAgente identificado:\nCompatible con SGB:            SI (   )      No (    )\nSub Tipo de SGB:      Desmielinizante/AIDP (    )        Axonal  AMAN(    )       Axonal AMSAN  (    ) \nMiller-Fisher SMF      (      )     Otros:…...........................................................\nAgente identificado:\nOrina Agente identificado:\nSuero PCR Agente identificado:\nAgente identificado:\nAgente identificado:\n Confirmado a zika\n IX. OBSERVACIONES\n                         \n X. INVESTIGADOR\nNombre del médico evaluador\nNombre del Investigador\nCargo:\nTeléfono:         Firma y Sello\nTodo menor de 15 años deberá adicionalmente contar con su muestra mínima de 10 gramos de heces para la vigilancia de Parálisis flácida\nSGB agudo desmielinizante (AIDP); SGB agudo axonal motora sensitiva aguda (AMSAN); SGB axonal motora  aguda (AMAN)\nmicro litros (μl ),  miligramos por decilitro (mg/dl)\nSuero IGM\nHeces: Si (   )  No (  )\nLCR:      Si(    )    No (    )\nElectromiografía:  Si (   )  No(    )\nFecha Toma de \nmuestra\n___/___/___\n___/___/___\n___/___/___\n___/___/___\n___/___/___\nGrado 6\nGrado 0\nGrado 1\nGrado 2\nGrado 3\nGrado 4\nGrado 5\n52. Probable  a zika     Descartado a zika\n VIII SGB asociado a la infección del virus zika\nFirma y Sello\nHisopado Nasofaríngeo\n___/___/___\n___/___/___\n___/___/___\nClasificación funcional de Hughes\n0 Sin discapacidad\n1 Deambula en forma limitada, capaz de correr\n2 Capaz de caminar 5 metros sin ayuda\n3 Capaz de caminar 5 metros con ayuda\n4 Sin capacidad para realizar marcha, confinado en cama o silla\n5 Necesidad de ventilación mecánica\n6 Muerte\nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nFICHA CLÍNICO EPIDEMIOLÓGICA SGB"
+    },
+    {
+      "marcador_cita": "[[PAGINA 12]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0012",
+      "pagina_pdf": 12,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Síndrome Guillain Barré (código CE10: G61.0)\nI. DATOS GENERALES 1. Fecha de Investigación:\n2. DIRESA/GERESA/DIRIs: 3. Red/ Micro Red\n4. Establecimiento De Salud Notificante\nII. DATOS DEL PACIENTE 5. H.Clínica N°\n6. A. Paterno A. Materno Nombres\n    9.  Edad 10.Sexo M F 11. Gestante 12. Peso \n13. Departamento      14. Provincia 15. Distrito    16. Localidad 17. Dirección\n18. Ocupación 19. Teléfono del paciente o familiar Nacionalidad\nIII. DATOS EPIDEMIOLOGICOS\n20 ¿Dónde estuvo las ultimas 4 semanas previas al inicio de la debilidad muscular?\n21. País 22. Departamento  23. Provincia         24. Distrito        25. Localidad 26. Dirección\n27. Antecedentes de enfermedad dentro de las 4 semanas previas del inicio de la debilidad muscular (Marcar con \"X\" y llenar datos)\n   Sí    \nEnfermedad crónica:  HTA            Diabetes              Obesidad             Asma \nOtros ….........................................................\nRiesgo intoxicación:      Metales pesados (   )    Organofosforado  (    ) \n28. Antecedente de vacunación previa dentro de las 4 semanas al inicio de debilidad muscular: Si\n29.   Antecedentes de familiares o contactos cercanos que las últimas  4 semanas  presentaron:        Si\nInfección gastrointestinal             Infección vías respiratorias        Otros_____________________________\nIV. EVALUACIÓN CLÍNICA  ( PERSONAL MEDICO  O ESPECIALISTA )\n30. Fecha de Inicio de debilidad muscular 31. Fecha de hospitalización 32. Servicio \n33. Caracteristicas de la debilidad muscular (marque con x) 34. Fecha de evaluación neurológica\nDebilidad                                                           35. Evaluación de la fuerza muscular\nBilateralidad \nSimetria o relativamente simetrica                                              Prox Dist\nProgresión:                                                  Miembro Sup. Izq.\nTono Muscular:                                 Miembro Sup. Der\nMiembro Inf. Izq.\nAtaxia                                                              Miembro Inf. Der.\ncompromiso de Nervios Craneales                       \nAnormalidad autonómica*                                         \nRigidez de Nuca                                                       \n36. Evaluación de reflejos osteotendinosos 37. Compromisos de los nervios craneales\nSI   SI          NO\nReflejo Bicipital Facial Izq.\nReflejo Tricipital Facial Der.\nReflejo Patelar IX-X Izq.\nReflejo Aquíleo IX-X Der.\n38. Escala de HUGHES al ingreso\nGrado 0 (   )     Grado 1 (   )     Grado 2 (   )       Grado 3 (   )      Grado 4 (   )       Grado 5 (  )         Grado 6 (  )\nV. CLASIFICACION DE SINDROME DE GUILLAIN BARRÉ\n39. SGB sospechoso 40.  SGB confirmado   41. SGB Descartado\nDer.\nSi No\nSi No\nIzq.\nInfluenza estacional                difetria y tetanos (dT)            Otra _______________________                          \nSi No\nSi No\nSi No\nSi No\nSi No\n Fecha de vacuna\nDebilidad muscular aguda\nNivel 3 Nivel 2 Nivel 1\nTrigémino Izq.\nTrigémino Der.\nIII-IV-VI Izq.\nIII-IV-VI Der.\n7. D.N.I 8. Fecha de Nacimiento\n                     kg\nPara caso SGB confirmado según criterios de certeza de Brighton:                       \nNivel de certeza 3: caso sospechoso con clínica  ( La notificación  de todo caso sospechoso debe ser inmediata al personal de epidemiologia y al \nsistema de vigilancia epidemiológica NOTISP)\nNivel de certeza 2: caso sospechoso con LCR compatible O  estudio de electrofisiología compatible para SGB, \nNivel de certeza 1: caso sospechoso con LCR compatible Y estudio de electrofisiología compatible para SGB\nInfección gastrointestinal\nReflejos Osteotendinosos \ndisminuidos o ausente: \nSi No\nAscendente Descendente\nHipotónico Normal\nNO\nFiebre (Temperatura ≥ 38 °C)\nExantema \n*Anormalidad autonómica (incluye más de uno de los siguientes: Disfunción urinaria, disfunción rectal, disfunción rectal, hipertensión arterial ( HTA), hipotensión, \ntaquicardia sinusal, arritmia, hiponatremia, fiebre)\n                                                            Ficha de investigación  Clínico Epidemiológica de la Vigilancia del\nANEXO N° 1\notros:_______________________\nInfección de vías respiratorias altas\n      Fecha  \nEmplear la Escala de Fuerza Muscular  de\nMedical Research Council (MRC):\n0 No contracción , musculo paralizado\n1 Contracción muscular sin desplazamiento\n2 Movimiento  sin vencer la gravedad\n3 Movimiento completo solo contra resistencia leve\n4 Movimiento completo contra gravedad y resistencia mod.\n5 Movimiento completo contra gravedad y resistencia\nEmplear la Escala\nNo hay respuesta\nHiporreflexia\nNormorreflexia\nHiperreflexia\nHiperreflexia con clonus\n0\n+\n++\n+++\n++++\nSI NO\n➢ 1 era hoja: Consta con los ítems\n▪ I.   Datos generales\n▪ II.  Datos del paciente\n▪ III. Antecedentes epidemiológicos\n▪ IV. Evaluación clínica\n▪ V. Clasificación de síndrome de Guillain \nBarré\nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nFICHA CLÍNICO EPIDEMIOLÓGICA SGB"
+    },
+    {
+      "marcador_cita": "[[PAGINA 13]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0013",
+      "pagina_pdf": 13,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "VI. EVOLUCION Y SEGUIMIENTO\n42. Ingreso a UCI 43.  Ventilación mecánica   Si (  )  No (   ) Fecha inicio  Fecha de destete\n44. Fecha de referencia y lugar de referencia ____/____/____\n45. Tratamiento: \nFecha de inicio de Plasmaféresis Número de sesiones\nFecha inicio Inmunoglobulina endovenosa       Número frascos de tratamiento\n46. Fecha de fallecimiento 47. Fecha del alta 48. Fecha de Alta voluntaria\n49. Secuela al Alta\n50. Escala de Hughes al Alta (marque con un x)\nVII. EXAMENES DE LABORATORIO\n51. Examen Resultado\nDisociación albumino-citológica:     SI (    )        No (    )\nLeuc.:__________  células/μl          Proteínas:___________________mg/dl\nAgente identificado:\nCompatible con SGB:            SI (   )      No (    )\nSub Tipo de SGB:      Desmielinizante/AIDP (    )        Axonal  AMAN(    )       Axonal AMSAN  (    ) \nMiller-Fisher SMF      (      )     Otros:…...........................................................\nAgente identificado:\nOrina Agente identificado:\nSuero PCR Agente identificado:\nAgente identificado:\nAgente identificado:\n Confirmado a zika\n IX. OBSERVACIONES\n                         \n X. INVESTIGADOR\nNombre del médico evaluador\nNombre del Investigador\nCargo:\nTeléfono:         Firma y Sello\nTodo menor de 15 años deberá adicionalmente contar con su muestra mínima de 10 gramos de heces para la vigilancia de Parálisis flácida\nSGB agudo desmielinizante (AIDP); SGB agudo axonal motora sensitiva aguda (AMSAN); SGB axonal motora  aguda (AMAN)\nmicro litros (μl ),  miligramos por decilitro (mg/dl)\nSuero IGM\nHeces: Si (   )  No (  )\nLCR:      Si(    )    No (    )\nElectromiografía:  Si (   )  No(    )\nFecha Toma de \nmuestra\n___/___/___\n___/___/___\n___/___/___\n___/___/___\n___/___/___\nGrado 6\nGrado 0\nGrado 1\nGrado 2\nGrado 3\nGrado 4\nGrado 5\n52. Probable  a zika     Descartado a zika\n VIII SGB asociado a la infección del virus zika\nFirma y Sello\nHisopado Nasofaríngeo\n___/___/___\n___/___/___\n___/___/___\nClasificación funcional de Hughes\n0 Sin discapacidad\n1 Deambula en forma limitada, capaz de correr\n2 Capaz de caminar 5 metros sin ayuda\n3 Capaz de caminar 5 metros con ayuda\n4 Sin capacidad para realizar marcha, confinado en cama o silla\n5 Necesidad de ventilación mecánica\n6 Muerte\n➢ 2 da hoja: Consta con los ítems\n▪ VI.  Evaluación y seguimiento\n▪ VII.  Exámenes de laboratorio\n▪ VIII. SGB asociado al virus zika\n▪ IX.   Observaciones\n▪ X.     Investigador\nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nFICHA CLÍNICO EPIDEMIOLÓGICA SGB"
+    },
+    {
+      "marcador_cita": "[[PAGINA 14]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0014",
+      "pagina_pdf": 14,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Fuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nFICHA CLÍNICO EPIDEMIOLÓGICA SGB \nCriterios \nclínicos \nrelevantes"
+    },
+    {
+      "marcador_cita": "[[PAGINA 15]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0015",
+      "pagina_pdf": 15,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Fuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nFICHA CLÍNICO EPIDEMIOLÓGICA SGB"
+    },
+    {
+      "marcador_cita": "[[PAGINA 16]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0016",
+      "pagina_pdf": 16,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Fuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nFICHA CLÍNICO EPIDEMIOLÓGICA SGB"
+    },
+    {
+      "marcador_cita": "[[PAGINA 17]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0017",
+      "pagina_pdf": 17,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "FICHA CLÍNICO EPIDEMIOLÓGICA SGB \nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nCriterios  \nrelevantes \npara la \nconformación"
+    },
+    {
+      "marcador_cita": "[[PAGINA 18]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0018",
+      "pagina_pdf": 18,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "FICHA CLÍNICO EPIDEMIOLÓGICA SGB \nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú"
+    },
+    {
+      "marcador_cita": "[[PAGINA 19]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0019",
+      "pagina_pdf": 19,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Tipo de Diagnóstico para zika Probable\nCaso SGB con asociación probable a \nzika\n❑Caso de SGB que reside o ha visitado áreas con trasmisión activa de zika en los 30 \ndías previos al inicio del cuadro clínico de SGB\nÓ\n❑Caso de SGB que haya tenido contacto sexual sin protección con una persona con \nantecedente de residencia o viaje en las últimas 8 semanas a un área de transmisión \nactiva de zika o tenga una prueba positiva para zika.\nCaso SGB con asociación confirmada a \nzika\n❑Caso de SGB con resultado laboratorial positivo de infección reciente para zika \nmencionado en la Norma Técnica Sanitaria N° 125-MINSA/2016/CDC-INS, “Norma \nTécnica de Salud para la Vigilancia Epidemiológica y Diagnóstico de Laboratorio de \nDengue, Chikungunya, Zika y otras Arbovirosis en el Perú”2016 o las que haga sus \nveces.\nCaso SGB con asociación descartada a \nzika\n❑Caso de SGB con resultado laboratorial negativo a la enfermedad del virus zika10.   \n❑Caso de SGB con identificación de otro agente infeccioso (Campylobacter jejuni, \ncitomegalovirus (CMV), Enterovirus, virus Ebstein Bar (VEB), VIH, dengue, \nchikungunya, SARS COV-2 u otros agentes bacterianos y virales) y no se demostró la \nenfermedad por virus zika.\nTipo de diagnósticos para zika \nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú"
+    },
+    {
+      "marcador_cita": "[[PAGINA 20]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0020",
+      "pagina_pdf": 20,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "En situación de brote o conglomerados de casos de SGB\nNotificar de \nmanera inmediata \ntodo brote o \nconglomerado o \nincremento \ninusual\nBúsqueda activa \nen servicios\nVerificar el \ncumplimiento de \nla definición de los \ncasos de SGB\nReporte diario de \nhospitalizados a través \ndel aplicativo \n(actualizar datos en el \nsistema)\nInvestigación de los antecedentes de \nenfermedades respiratorias, digestivas \nagudas, infección viral o bacteriana, síndrome \nfebril, exantema, exposición a órganos \nfosforado o metales pesados, 4 semanas antes \ndel inicio de la debilidad muscular,  entorno \ncercano y  exposiciones comunes entre los \ncasos del SGB notificados.\nCuando se sospeche de \nuna exposición en común \nentre los casos del SGB, \nse deben tomar las \npruebas para determinar \netiología\nPara casos del SGB \nrelacionados a zika, \nse debe considerar \nla definición de caso \ndescrita \nanteriormente\nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nNT n°175-MINSA/2021/CDC"
+    },
+    {
+      "marcador_cita": "[[PAGINA 21]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0021",
+      "pagina_pdf": 21,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Fuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nANEXO N° 3\nFALLECIDO REFERENCIA HOSPITAL DE \nREFERENCIAHOSPITAL\nSector al que \npertenece \n(MINSA/ EsSalud, \nFFAA, Privado)\nRECIBIO \nTRATAMIENTO  \nINMUNOGLOBULINA\nRECIBIO \nVENTILACIÓN \nMECÁNICA\nRECIBIO \nTRATAMIENTO \nPASMAFÉRESIS\nSEMANA \nEPIDEMIOLÓGICA\nFECHA DE INICIO \nDE DEBILIDAD \nMUSCULAR\nFECHA DE \nHOSPITALIZACIÓN\nNOMBRE DEl \nHOSPITAL QUE \nNOTIFICA\nNOMBRE Y \nAPELLIDO EDAD SOSPECHOSO \n(Nivel de certeza 3)\nCONFIRMADO\n (Nivel de certeza \n1 y/o 2)\nALTA\nTIPO DE DIAGNÓSTICO\nSERVICIO\nREPORTE DIARIO EN SITUACIÓN DE BROTES O CONGLOMERADOS DEL SÍNDROME DE GUILLAIN BARRÉ"
+    },
+    {
+      "marcador_cita": "[[PAGINA 22]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0022",
+      "pagina_pdf": 22,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "En situación de brote o conglomerados de casos de SGB\nGenerar una \nalerta \nepidemiológica\nEvaluar la factibilidad \nde la toma de \nmuestras de LCR y \nelectromiografía a la \ntotalidad de los casos\nPuede generar \nprotocolos de \ninvestigaciones \nepidemiológicas \npara determinar el \nagente etiológico\nSe considera cierre de brote o \ndisminución del número de casos \nconglomerados, cuando el número \nde casos del SGB notificados se \nencuentra en lo esperado.\nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nNT n°175-MINSA/2021/CDC"
+    },
+    {
+      "marcador_cita": "[[PAGINA 23]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0023",
+      "pagina_pdf": 23,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "APLICATIVO WEB DE VIGILANCIA EPIDEMIOLÓGICA DE SÍNDROME DE GUILLAIN BARRÉ\nFuente: CDC- modulo de vigilancia epidemiológica de síndrome de Guillain barré\nSistema Web SGB"
+    },
+    {
+      "marcador_cita": "[[PAGINA 24]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0024",
+      "pagina_pdf": 24,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "El aplicativo cuenta con:\n➢ Manual operativo\n➢ Norma técnica aprobada\n➢ Ficha clínico epidemiológica\n➢ Diccionario de variable en orden de \ndescarga\n➢ Diccionario de datos en orden alfabética\nFuente: CDC- modulo de vigilancia epidemiológica de síndrome de Guillain barré\nSistema Web SGB"
+    },
+    {
+      "marcador_cita": "[[PAGINA 25]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0025",
+      "pagina_pdf": 25,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Unidad Técnica de Vigilancia de EDA/IRA/SGB, \nInfluenza y OVR \n(*Actualizado al 21/06/2023)\nSituación del síndrome de Guillain Barré\nPerú, 2023 (SE 25)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 26]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0026",
+      "pagina_pdf": 26,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Tendencia de casos de Síndrome de Guillain Barré por semana epidemiológica 2020-2023 SE 25*\n*Hasta al  21 de junio 2023 /según fecha de inicio de debilidad \nFuente: Sistema de vigilancia epidemiológica CDC-MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 27]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0027",
+      "pagina_pdf": 27,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Casos de Síndrome de Guillain Barré por \ndepartamentos de procedencia,\nPerú 2020- 2023 SE 25*\n*Hasta al  21 de junio 2023 \nFuente: Sistema de vigilancia epidemiológica CDC-MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 28]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0028",
+      "pagina_pdf": 28,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Características de los casos de Síndrome de Guillain Barré, 2020 - 2023 (SE 25*)\n*Hasta al  21 de junio 2023 \nFuente: Sistema de vigilancia epidemiológica CDC-MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 29]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0029",
+      "pagina_pdf": 29,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Características  de los casos de \nSíndrome de Guillain Barré, 2020 - 2023 \n(SE 25*)\n*Hasta al  21 de junio2023 \nFuente: Sistema de vigilancia epidemiológica CDC-MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 30]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0030",
+      "pagina_pdf": 30,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Casos de Síndrome de Guillain Barré por lugar de \nprocedencia, Perú 2023 SE 25*\n*Hasta al  21 de junio 2023 \nFuente: Sistema de vigilancia epidemiológica CDC-MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 31]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0031",
+      "pagina_pdf": 31,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Clasificación  de los casos de Síndrome \nde Guillain Barré, 2023 (SE 25*)\n*Hasta al  21 de junio2023 \nFuente: Sistema de vigilancia epidemiológica CDC-MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 32]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0032",
+      "pagina_pdf": 32,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Casos de Síndrome de Guillain Barré por semana epidemiológica según procedencia, 2023 SE 25*\n*Hasta al 21 de junio 2023 \nFuente: Sistema de vigilancia epidemiológica CDC-MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 33]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0033",
+      "pagina_pdf": 33,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Tendencia de casos de Síndrome de Guillain Barré por curso de vida, 2023 SE 25*\n*Hasta al  21 de junio 2023 \nFuente: Sistema de vigilancia epidemiológica CDC-MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 34]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0034",
+      "pagina_pdf": 34,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "Casos de Síndrome de Guillain Barré por semana epidemiológica según establecimiento de hospitalización, 2023 SE 25*\n*Hasta al 21 de junio 2023 \nFuente: Sistema de vigilancia epidemiológica CDC-MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 35]]",
+      "id": "MINSA-RM-175-2021-MINSA-CDC-P0035",
+      "pagina_pdf": 35,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "✓ Todo caso sospechoso debe ser en un plazo de 4 semanas de notificado. \n✓ Los casos que no cuenten con muestras de LCR para estudio de citoquímica o electromiografía deben tener \nobligatoriamente una evaluación neurológica y cumplir con la definición de caso sospechoso (Nivel 3 de certeza \ndiagnostica para SGB).\n✓ Cuando el caso sea referido, el establecimiento de salud de mayor capacidad resolutiva (hospitales, clínicas e \ninstitutos especializados en neurología) debe realizar la clasificación final del caso. Las UNs deben coordinar \npermanentemente para el cumplimiento de la clasificación.\n✓ Si el caso tuviera una muestra positiva a zika, se debe registrar también en el sistema de notificación de la\nvigilancia de arbovirosis.\n✓ Es responsabilidad del personal de epidemiología quien notifica hacer el control de calidad, seguimiento a los\nresultados para citoquímica en LCR y electromiografía. Así como de los posibles agentes causales.\n✓ Todo paciente menor de 15 años debe ser notificado e investigado en la vigilancia de parálisis flácida aguda y\nsolicitar una muestra de heces.\nRecomendaciones \nFuente:NTS Nº 175 - MINSA/2021/CDC Norma Técnica De Salud Para La Vigilancia Epidemiológica Y Diagnóstico De Laboratorio Del Síndrome De Guillain Barré En El Perú\nNT n°175-MINSA/2021/CDC"
+    }
+  ]
+}

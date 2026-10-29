@@ -1,0 +1,1037 @@
+{
+  "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024",
+  "id_fuente_oficial": null,
+  "titulo": "NTS N° 220-MINSA- DGIESP-2024",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": null,
+  "fecha_aprobacion": null,
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "fuentes_oficiales": [
+    {
+      "tipo": "archivo_local",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "NTS N° 220-MINSA- DGIESP-2024",
+      "url": null,
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "NTS N° 220-MINSA- DGIESP-2024.pdf",
+  "huella_sha256_pdf_fuente": "00825df88b6a2bb59c4702d708bdd6f9bedaaa473240878fe2c3813a4adc7d44",
+  "paginas_pdf": 99,
+  "paginas_con_texto": 99,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "texto_nativo_pdf",
+  "ocr_aplicado": false,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 99,
+    "paginas_con_texto": 99,
+    "caracteres_texto_extraido": 147455
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 1 de 99"
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 2 de 99 \n \n \n \n \n \n \n \n \n \n \n \nNTS N° 220-MINSA-DGIESP-2024 \nNORMA TÉCNICA DE SALUD QUE ESTABLECE EL \nPROCEDIMIENTO DE EVALUACIÓN, CALIFICACIÓN Y \nCERTIFICACIÓN DE LA INCAPACIDAD LABORAL POR \nACCIDENTE DE TRABAJO O ENFERMEDAD \nPROFESIONAL DE LOS TRABAJADORES ASEGURADOS \nAL SEGURO COMPLEMENTARIO DE TRABAJO DE \nRIESGO (SCTR) \n \nResolución Ministerial N° 884-2024-MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 3]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0003",
+      "pagina_pdf": 3,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 3 de 99 \nCatalogación hecha por la Biblioteca del Ministerio de Salud \n \nNTS N°  220-MINSA- DGIESP-2024. norma técnica de salud que establece el procedimiento de \nevaluación, calificación y certificación de la incapacidad laboral por accidente de trabajo o \nenfermedad profesional de los trabajadores asegurados al seguro complementario d e trabajo de \nriesgo (SCTR). R.M. N° 884 -2024-MINSA / Ministerio de Salud. Dirección General de Intervenciones \nEstratégicas en Salud Pública. Dirección de Prevención y Control de Enfermedades No Transmisibles, \nRaras y Huérfanas. Lima: Ministerio de Salud; 2026. \n    99 p. ilus. \nACCIDENTES DE TRABAJO  / AUSENCIA POR ENFERMEDAD  / RIESGOS LABORALES  / MEDICOS \nLABORALES / ESTUDIO DE EVALUACIÓN  \n \nHecho el Depósito Legal en la Biblioteca Nacional del Perú N° 2026-11545 \nNTS N° 220 -MINSA- DGIESP-2024. Norma Técnica de Salud que establece el Procedimiento de \nEvaluación, Calificación y Certificación de la Incapacidad Laboral por Accidente de Trabajo o \nEnfermedad Profesional de los Trabajadores asegurados al Seguro Complementario de Trabajo \nde Riesgo (SCTR). R.M. N° 884-2024-MINSA. \n \nMinisterio de Salud. Dirección General de Intervenciones Estratégicas en Salud Pública. \nDirección de Prevención y Control de Enfermedades No Transmisibles, Raras y Huérfanas.  \n \n(MINSA / DGIESP / DENOT). \n \nEquipo de Trabajo: \nM.C. Yoan Neltons Mayta Paulet, MINSA / DGIESP/ DENOT \nM.C. Julio César Castillo Fernández, MINSA / DGIESP/ DENOT \nM.C. José Fernando Madariaga Pérez, MINSA / DGIESP/ DENOT \nM.C. Salvador Ramón Zelaya Medina, MINSA / DGIESP/ DENOT \nM.C. Fiorella Verenice Mendo Caceres, MINSA / DGIESP/ DENOT \nM.C. Clara Milagros Herrera Puma, MINSA / DGIESP /DENOT \nM. C. Mary Karla Ochoa Hernandez, MINSA / DGIESP / DENOT \nLic. Enf. Bety Lope Bernuy, MINSA / DGIESP/ DENOT \nLic. Asist. Social Margot Sánchez Mocilote, MINSA / DGIESP/ DENOT \nLic. Obst. María del Rosario Mejía Andrade, MINSA / DGIESP/ DENOT \nTec. Dany Gil Cuzco, MINSA / DGIESP/ DENOT \nAsist. Tec. Jenny Diana López Echegaray, MINSA / DGIESP/ DENOT \n \nColaboradores: \nM.C. Jorge Luis Hudtwalcker Morán, International SOS \nM.C: José Jesús Francia Romero, Miembro de la SOMOMA / CMP \n \nDiseño y Diagramación: \nTec. Dany Gil Cuzco, MINSA / DGIESP/ DENOT"
+    },
+    {
+      "marcador_cita": "[[PAGINA 4]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0004",
+      "pagina_pdf": 4,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 4 de 99 \n \n© MINSA, Setiembre 2026  \nMinisterio de Salud.  \n \nAv. Salaverry N° 801, Lima 11, Perú  \nTeléfono: (51-1) 315- 6600 \nwww.gob.pe/minsa \nwebmaster@minsa.gob.pe  \n \n1era Edición, Setiembre 2026 \nVersión digital disponible:  \nhttps://bvs.minsa.gob.pe/local/MINSA/8003.pdf"
+    },
+    {
+      "marcador_cita": "[[PAGINA 5]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0005",
+      "pagina_pdf": 5,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 5 de 99 \n \n \n \n \n \n \n \n \nLUIS WILLIAMS DAYER FERNANDEZ \nMinistro de Salud \n \nMARÍA SOFÍA CUBA FUENTES \nViceministro de Salud Pública \n \nCARLOS ALBERTO ESPINOZA BARRETO \nViceministro de Prestaciones y Aseguramiento en Salud \n \nJUAN CARLOS GONZALES HIDALGO \nSecretario General \n \nWILDER VIDAURO CARPIO MONTENEGRO \nDirector General de la Dirección General de Intervenciones Estratégicas en Salud Pública \n \nPERCY ALBERTO HERRERA AÑAZCO \nDirector Ejecutivo de la Dirección de Prevención y Control de Enfermedades No \nTransmisibles, Raras y Huérfanas"
+    },
+    {
+      "marcador_cita": "[[PAGINA 6]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0006",
+      "pagina_pdf": 6,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 6 de 99 \nTabla de contenido                Pág. \nRESOLUCION MINISTERIAL……………………………………………………………………….8 \nI. FINALIDAD ................................ ................................ ................................ .......................12 \nII. OBJETIVOS ................................ ................................ ................................ .....................12 \n2.1 Objetivo Principal ................................ ................................ ................................ ........12 \n2.2 Objetivos Específicos ................................ ................................ ................................ ..12 \nIII. ÁMBITO DE APLICACIÓN ................................ ................................ .............................. 12 \nIV. BASE LEGAL ................................ ................................ ................................ ..................12 \nLeyes ................................ ................................ ................................ ................................ 12 \nDecretos Legislativos ................................ ................................ ................................ ........13 \nDecretos Supremos ................................ ................................ ................................ ..........13 \nReglamentos ................................ ................................ ................................ .....................13 \nResoluciones Ministeriales ................................ ................................ ................................ 13 \nResoluciones Jefaturales ................................ ................................ ................................ ..13 \nResoluciones Secretariales ................................ ................................ ............................... 14 \nV. DISPOSICIONES GENERALES ................................ ................................ ......................14 \n5.1 Definiciones Operativas ................................ ................................ .............................. 14 \n5.2 Abreviaturas ................................ ................................ ................................ ................24 \n5.3 La evaluación de la incapacidad laboral por AT o EP ................................ ..................25 \n5.4 La calificación y certificación de la incapacidad laboral por AT o EP ............................25 \n5.5 La condición de incapacidad laboral por AT o EP ................................ ........................26 \n5.6 El expediente médico ................................ ................................ ................................ ..26 \n5.7 La aseguradora del SCTR ................................ ................................ ...........................26 \nVI. DISPOSICIONES ESPECÍFICAS ................................ ................................ ...................27 \n6.1 De la solicitud para la evaluación, calificación y certificación de la incapacidad laboral \npor accidente de trabajo o enfermedad profesional ................................ ...........................27 \n6.1.1. Inicio de la solicitud ................................ ................................ .............................. 27 \n6.1.2 Remisión de documentos ................................ ................................ ......................27 \n6.1.3 Solicitud del empleador ................................ ................................ .........................27 \n6.1.4 Plazo del empleador ................................ ................................ .............................27 \n6.1.5 Incumplimiento del plazo ................................ ................................ .......................27 \n6.1.6 Presentación al ES evaluador ................................ ................................ ...............27 \n6.1.7 Presentación por persona de apoyo ................................ ................................ ......27 \n6.1.8 Evaluación en el ES más cercano ................................ ................................ .........27 \n6.1.9 Cobertura de costos ................................ ................................ .............................. 28"
+    },
+    {
+      "marcador_cita": "[[PAGINA 7]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0007",
+      "pagina_pdf": 7,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 7 de 99 \n6.2 De la evaluación médica de la incapacidad laboral por accidente de trabajo o \nenfermedad profesional ................................ ................................ ................................ .....28 \n6.2.1 Especialidades y equipamiento ................................ ................................ .............28 \n6.2.2 Requisitos del Establecimiento de Salud evaluador ................................ ..............30 \n6.2.3 Subetapas de la EM de la incapacidad laboral por AT o EP ................................ ..30 \n6.2.3.1 Subetapa 1: Diagnóstico y Reconocimiento de la Enfermedad Profesional o \nAccidente de Trabajo ................................ ................................ ................................ .30 \n6.2.3.2 Subetapa 2: Evaluación Médica de las Deficiencias ................................ ......36 \n6.2.3.3 Subetapa 3: Evaluación y Análisis del Rol Laboral ................................ .........38 \n6.2.3.4 Subetapa 4: Evaluación de la Restricción en la Participación ........................47 \n6.3 De La Conformación de las Comisiones Calificadoras de Incapacidad Laboral Por \nAccidente De Trabajo o Enfermedad Profesional ................................ .............................. 51 \n6.4 De La Calificación de la Incapacidad Laboral Por Accidente De Trabajo o Enfermedad \nProfesional ................................ ................................ ................................ ........................59 \n6.5 De La Certificación Y Entrega Del Certificado De Incapacidad Laboral Por Accidente De \nTrabajo O Enfermedad Profesional ................................ ................................ ...................66 \n6.6 Del Sistema de Registro de Información Para La Evaluación, Calificación y Certificación \nde la Incapacidad Laboral Por Accidente de Trabajo o Enfermedad Profesional ...............67 \nVII. RESPONSABILIDADES................................ ................................ ................................ .68 \n7.1 NIVEL NACIONAL ................................ ................................ ................................ .......68 \n7.2 NIVEL REGIONAL ................................ ................................ ................................ ......68 \n7.3 NIVEL LOCAL ................................ ................................ ................................ .............68 \nVIII. DISPOSICIONES FINALES ................................ ................................ ..........................68 \nIX. ANEXOS ................................ ................................ ................................ .........................70 \nX. BIBLIOGRAFÍA ................................ ................................ ................................ ................97"
+    },
+    {
+      "marcador_cita": "[[PAGINA 8]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0008",
+      "pagina_pdf": 8,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 8 de 99"
+    },
+    {
+      "marcador_cita": "[[PAGINA 9]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0009",
+      "pagina_pdf": 9,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 9 de 99"
+    },
+    {
+      "marcador_cita": "[[PAGINA 10]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0010",
+      "pagina_pdf": 10,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 10 de 99"
+    },
+    {
+      "marcador_cita": "[[PAGINA 11]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0011",
+      "pagina_pdf": 11,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 11 de 99"
+    },
+    {
+      "marcador_cita": "[[PAGINA 12]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0012",
+      "pagina_pdf": 12,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 12 de 99 \nI. FINALIDAD \nContribuir a la protección del bienestar del trabajador asegurado al Seguro Complementario \nde Trabajo de Riesgo, determinando la existencia o no de la incapacidad laboral por accidente \nde trabajo o enfermedad profesional y el grado de la misma. \nII. OBJETIVOS \n2.1 Objetivo Principal \nEstablecer el procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los trabajadores \nasegurados al Seguro Complementario de Trabajo de Riesgo (SCTR), requerida para el \notorgamiento de la cobertura de invalidez que brinda el Seguro Complementario de \nTrabajo de Riesgo (SCTR). \n2.2 Objetivos Específicos \n• Establecer las disposiciones para la evaluación de la incapacidad laboral por accidente \nde trabajo o enfermedad profesional. \n• Establecer los criterios para la calificación y certificación de la incapacidad laboral por \naccidente de trabajo o enfermedad profesional. \n• Establecer los criterios de conformación y funcionamiento de las Comisiones Médicas \nCalificadoras de Incapacidad Laboral por Accidente de Trabajo o Enfermedad \nProfesional. \nIII. ÁMBITO DE APLICACIÓN \nLa presente Norma Técnica de Salud es de alcance nacional y de aplicación obligatoria en los \nestablecimientos de salud del Ministerio de Salud, de los Gobiernos Regionales, Gobiernos \nLocales, del Seguro Social de Salud-EsSalud, de las Sanidades de las Fuerzas Armadas y la \nSanidad de la Policía Nacional del Perú, así como los establecimientos de salud de las \nEntidades Prestadoras de Salud privadas; a partir del nivel de categorización II-2. \nAsimismo, será de aplicación a todos los empleadores y aseguradoras públicas y privadas \nque participan en el proceso de la determinación de la invalidez por accidentes de trabajo y \nenfermedades profesionales de los trabajadores con derecho a cobertura por el Seguro \nComplementario de Trabajo de Riesgo (SCTR). \nIV. BASE LEGAL \nLeyes \n• Ley N° 26790, Ley de Modernización de la Seguridad Social en Salud.  \n• Ley N° 26842, Ley General de Salud. \n• Ley N° 30895, Ley que fortalece la función rectora del Ministerio de Salud.  \n• Ley N° 29783, Ley de Seguridad y Salud en el Trabajo.  \n• Ley N° 29946, Ley del Contrato de Seguro."
+    },
+    {
+      "marcador_cita": "[[PAGINA 13]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0013",
+      "pagina_pdf": 13,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 13 de 99 \n• Ley N° 31025, Ley que incorpora a la enfermedad causada por el COVID -19 dentro \ndel listado de enfermedades profesionales de los servidores de salud.  \nDecretos Legislativos \n• Decreto Legislativo N° 1504, Decreto Legislativo que fortalece el Instituto Nacional de \nSalud para la Prevención y Control de Enfermedades.  \nDecretos Supremos \n• Decreto Supremo N° 009-97-SA, Reglamento de la Ley N° 26790, Ley de \nModernización de la Seguridad Social en Salud.  \n• Decreto Supremo N° 003-98-SA, que aprueba las Normas Técnicas del Seguro \nComplementario de Trabajo de Riesgo.  \n• Decreto Supremo N° 008-2017-SA, Reglamento de Organización y Funciones del \nMinisterio de Salud.  \n• Decreto Supremo N° 007-2022-SA, Decreto Supremo que aprueba la Sección Primera \ndel Reglamento de Organización y Funciones del Instituto Nacional de Salud-INS. \n• Decreto Supremo N° 008-2022-SA, Actualización del Anexo 5 del Decreto Supremo N° \n009-97-SA.  \n• Decreto Supremo N°016-2023-SA que aprueba la sección primera del Reglamento de \nOrganización y Funciones del Instituto Nacional de Salud – INS Resolución Ministerial \nNº480-2008-MINSA, que aprueba la NTS N° 068 -MINSA/DGSP-V.1 \"Norma Técnica \nde Salud que establece el listado de Enfermedades Profesionales\". \nReglamentos \n• Reglamento de la Ley N° 30895, Ley que fortalece la función rectora del Ministerio de \nSalud.  \nResoluciones Ministeriales \n• Resolución Ministerial N° 308-2009-MINSA, que aprueba la NTS N° 079-\nMINSA/DGSP-INR-V.01, Norma Técnica de Salud de la Unidad Productora de \nServicios de Medicina de Rehabilitación.  \n• Resolución Ministerial N° 076-2014-MINSA, que aprueba la Guía Técnica para la \nCategorización de los Establecimientos del Sector Salud.  \n• Resolución Ministerial N° 021-2016-MINSA, que aprueba el perfil de competencias del \nmédico ocupacional debidamente titulado, colegiado y habilitado por el Colegio Médico \ndel Perú.  \n• Resolución Ministerial N° 214-2018-MINSA, que aprueba la NTS N° 139-\nMINSA/2018/DGAIN, \"Norma Técnica de Salud para la Gestión de la Historia Clínica\".  \n• Resolución Ministerial N° 653-2020-MINSA, que aprueba el Documento Técnico \n\"Bases Conceptuales para el Ejercicio de la Rectoría Sectorial del Ministerio de Salud\".  \n• Resolución Ministerial N° 826-2021-MINSA, que aprueba las \"Normas para la \nElaboración de Documentos Normativos del Ministerio de Salud\".  \nResoluciones Jefaturales \n• Resolución Jefatural N° 167-2023-J-OPE/INS, que aprueba la Sección Segunda del \nReglamento de Organización y Funciones del Instituto Nacional de Salud."
+    },
+    {
+      "marcador_cita": "[[PAGINA 14]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0014",
+      "pagina_pdf": 14,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 14 de 99 \nResoluciones Secretariales \n• Resolución Secretarial Nº076 -2024-MINSA que conforma la Unidad Funcional de \nSalud Ocupacional e Incapacidad Laboral de la Dirección General de Intervenciones \nEstratégicas en Salud Pública, dependiente de la Dirección de Prevención y Control \nde Enfermedades, No Transmisibles, Raras y Huérfanas. \nV. DISPOSICIONES GENERALES \n5.1 Definiciones Operativas \nTérmino Definición \nAccidente de \ntrabajo \nToda lesión orgánica o perturbación funcional causada en el \ncentro de trabajo o con ocasión del trabajo, por acción \nimprevista, fortuita u ocasional de una fuerza externa, repentina \ny violenta que obra súbitamente sobre la persona del trabajador \no debida al esfuerzo del mismo, con arreglo al Decreto Supremo \nN°003-98-SA y sus modificaciones. \nAccidente Común Todo accidente que no sea calificado como accidente de trabajo \ncon arreglo a las normas del Decreto Supremo N°003 -98-SA, \nserá tratado como accidente común sujeto al régimen general \ndel Seguro Social en Salud y al sistema pensionario al que se \nencuentre afiliado el trabajador. \nActividades \nprincipales \nSon aquellas actividades que están directamente relacionadas \ncon las responsabilidades centrales de un puesto de trabajo. \nEstas son las tareas clave que deben realizarse para cumplir con \nlos objetivos principales del trabajo. Ejemplos de actividades \nprincipales incluyen la producción de bienes, la prestación de \nservicios esenciales o la toma de decisiones críticas. \nActividades \nsecundarias \nSon aquellas actividades que apoyan o complementan las \nactividades principales. No son el foco principal del trabajo, pero \nson necesarias para facilitar o mantener el flujo del trabajo \nprincipal. Ejemplos de actividades secundarias podrían incluir \ntareas administrativas, limpieza, mantenimiento de equipos o la \norganización de herramientas. \nAgudeza visual \nbinocular \nLa agudeza visual (AV) es la capacidad del sistema visual para \nreconocer la imagen más pequeña a una distancia determinada. \nDepende de la integridad anátomo -funcional del aparato visual \n(transparencia de los medios oculares: córnea, cristalino, humor"
+    },
+    {
+      "marcador_cita": "[[PAGINA 15]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0015",
+      "pagina_pdf": 15,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 15 de 99 \nTérmino Definición \nacuoso y vítreo) y funcionabilidad de la retina, específicamente \nde los conos de la fóvea. \nAmbiente térmico Es la combinación de variables ambientales como temperatura, \nradiación, humedad e individuales del trabajador. \nAmbiente sonoro Son todos aquellos sonidos que son característicos de un lugar, \npropios de un momento o de una determinada actividad. \nAptitud física Capacidad de realizar diariamente tareas con vigor y alerta, sin \nfatiga excesiva y con amplia energía para disfrutar de actividades \nde ocio y afrontar emergencias imprevistas. \nAsegurado Es el trabajador asegurado que está expuesto al riesgo y a cuyo \nfavor se hubiese extendido el Seguro Complementario de \nTrabajo de Riesgo bajo cualquiera de sus coberturas. Para fines \nde la presente norma técnica de salud también hace referencia \nal beneficiario por la cobertura supletoria. \nBeneficiario por \nCobertura \nSupletoria \nAquel trabajador que realiza labores de alto riesgo señaladas en \nel Decreto Supremo N° 003-98-SA y que su empleador no haya \ncontratado el Seguro Complementario de Trabajo de Riesgo, por \nlo que está dentro del ámbito de protección de la cobertura \nsupletoria prevista en el artículo 88 del Reglamento de la Ley N° \n26790 Ley de la Modernización de la Seguridad Social de Salud. \nAseguradora Es la entidad que brinda la cobertura por prestaciones \neconómicas del Seguro Complementario de Trabajo de Riesgo. \nLo que incluye a las aseguradoras y a la Oficina de \nNormalización Provisional (ONP) cuando haya brindado la \nreferida cobertura, sea por haber celebrado un contrato de \nseguro o por la cobertura supletoria prevista en el artículo 88 del \nReglamento de la Ley N° 26790. Ley de la Modernización de la \nSeguridad Social de Salud. \nAudibilidad Capacidad del paciente para hablar a un nivel suficiente como \npara ser oído. Se puede catalogar como adecuada o bien no \nadecuada cuando no logra mantenerse en lugares con ruido leve \no no logra ser mantenida en el tiempo."
+    },
+    {
+      "marcador_cita": "[[PAGINA 16]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0016",
+      "pagina_pdf": 16,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 16 de 99 \nTérmino Definición \nAutonomía laboral Es la libertad que tienen los empleados para controlar aspectos \nde sus actividades toma de decisiones en sus tareas y \nflexibilidad de horarios. \nAutosuficiencia \neconómica \nIndependencia y nivel económico que puede tener una persona \nen relación directa con la repercusión o impacto económico \nnegativo generado por una deficiencia. Incluye la capacidad de \nla persona para cumplir con el mínimo vital de la persona y su \nfamilia. \nBipedestación Postura en la que el trabajador se encuentra de pie de forma \nestática o dinámica, excluyendo la marcha por terreno irregular \nque se valora en el apartado siguiente. \nCalificación de la \nIncapacidad \nLaboral por \nAccidente de \nTrabajo o \nEnfermedad \nProfesional \nEs el procedimiento técnico -médico y legal mediante el cual se \nestablece la pérdida de la capacidad laboral de una persona \nrelacionada a trabajo habitual y las deficiencias para realizar un \ntrabajo compatible con sus capacidades. \nCampo visual Extensión que percibe el ojo y abarca: 90° por el lado temporal, \n60° por el lado nasal y 70° por los lados superior e inferior. Un \ncampo visual que conserve los 30° centrales permite realizar la \nmayoría de las actividades porque éste es el campo en el que \ngeneralmente nos movemos. \nCapacidades Conjunto de cualidades o aptitudes que hacen que la persona \npueda ser capaz de desarrollar o ejecutar una tarea. \nCapacidad \nestructural \nSon las partes anatómicas del cuerpo, tales como los órganos, \nlas extremidades y sus componentes. \nCapacidad \nfuncional \nSon las funciones fisiológicas de los sistemas corporales \n(incluyendo las funciones psicológicas). \nCarga estática Es aquella carga constante, que no varía en el transcurso del \ntiempo. Para considerar que una carga es estática, debe tener \nmagnitud, dirección y ubicación invariables."
+    },
+    {
+      "marcador_cita": "[[PAGINA 17]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0017",
+      "pagina_pdf": 17,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 17 de 99 \nTérmino Definición \nCarga postural Se refiere a las posiciones de trabajo que dejan de estar en una \nposición natural (confort) para pasar a una posición forzada. \nCarga física de \ntrabajo \nEntendida como el conjunto de requerimientos físicos a los que \nla persona está expuesta a lo largo de su jornada laboral, y que, \nde forma independiente o combinada, pueden alcanzar un nivel \nde intensidad, duración o frecuencia suficientes para causar un \ndaño a la salud a las personas expuestas. \nCarga mental de \ntrabajo \nEs el esfuerzo intelectual que debe realizar el trabajador, para \nhacer frente al conjunto de demandas que recibe en el curso de \nrealización de su trabajo. \nCertificado de \nIncapacidad \nLaboral por \nAccidente de \nTrabajo o \nEnfermedad \nProfesional \nDocumento técnico médico y legal expedido por la Comisión \nCalificadora de la Incapacidad Laboral por Accidente de Trabajo \no Enfermedad Profesional que determina el grado y naturaleza \nde la incapacidad laboral del trabajador asegurado al SCTR. \nClases funcionales Refleja el estado de salud de la persona al momento de su \nevaluación médica, se constituye en base a la información \nbrindada por el evaluado, los signos y síntomas, así como los \nresultados de los exámenes que miden la capacidad funcional y \nanatómica de un órgano o sistema, agrupándolos por su \nfrecuencia e intensidad de los síntomas, respuesta al tratamiento \ny repercusión en el desarrollo de su vida cotidiana y laboral. \nClasificación \nInternacional del \nFuncionamiento, de \nla Discapacidad y \nde la Salud (CIF) \nConstituye el marco conceptual de la OMS para una nueva \ncomprensión del funcionamiento, la discapacidad y la salud. Es \nuna clasificación universal que establece un marco y lenguaje \nestandarizados para describir la salud y las dimensiones \nrelacionadas con e lla. Abarca tres componentes esenciales: \nfunciones corporales/estructuras, actividad y participación, \nintegrados bajo los términos \"funcionamiento\" y \"discapacidad\", \nque dependen de la condición de salud y de su interacción con \nfactores contextuales. \nComisión \nCalificadora de \nIncapacidad \nLaboral por \nEs el equipo técnico multidisciplinario responsable y encargado \nde valorar el expediente médico y calificar la incapacidad laboral \nde los asegurados o asegurados por cobertura supletoria del \nSeguro Complementario de Trabajo de Riesgo, a fin de"
+    },
+    {
+      "marcador_cita": "[[PAGINA 18]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0018",
+      "pagina_pdf": 18,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 18 de 99 \nTérmino Definición \nAccidente de \nTrabajo o \nEnfermedad \nProfesional \ndeterminar el grado de incapacidad laboral que corresponda, \naplicando los instrumentos de calificación de la incapacidad \nlaboral aprobados por el Ministerio de Salud. En adelante citada \ncomo Comisión-SCTR. \nCoordinación \nmanipulativa \nEs el movimiento que implican dar fuerza a objetos o recibir \nfuerza de objetos. \nControl emocional Es el resultado de la comprensión que una persona hace de sus \nemociones, pues estas son reacciones fisiológicas ante los \nestímulos externos que recibimos constantemente. \nConocimiento \nnumérico \nEs un grupo de habilidades que permite que se trabaje con \nnúmeros, e incluye: entender cantidades, entender conceptos \ncomo más y menos, y mayor o menor, reconocer las relaciones \nentre elementos y grupos de elementos. \nDeficiencia Pérdida o anormalidad de una estructura o función psicológica, \nfisiológica o anatómica. Puede ser temporal o permanente y en \nprincipio afecta sólo al órgano. \nDependencia En términos de ergonomía laboral se interpreta como grado de \nlibertad que tiene el trabajador en su puesto de trabajo para \nrealizar sus tareas. \nDeterminación de \nInvalidez \nEs el proceso administrativo y legal mediante el cual el órgano \ncompetente, la aseguradora o la Oficina de Normalización \nPrevisional-ONP , evalúa la documentación, entre otros el \nCertificado Médico de Incapacidad Laboral por Accidente de \nTrabajo o Enfermedad Profesional, y determina el otorgamiento \nde la prestación por incapacidad laboral derivada de \nEnfermedades Profesionales y Accidentes de Trabajo. \nDiagnóstico de \nEnfermedad \nProceso clínico mediante el cual se identifica una enfermedad en \nun paciente a través de la evaluación de síntomas, signos, \nantecedentes médicos y pruebas diagnósticas. \nEmpleador Toda persona natural o jurídica, privada o pública, que emplea a \nuno o varios trabajadores. \nEnfermedad \nComún \nToda enfermedad que no sea calificado como accidente de \ntrabajo con arreglo a las normas del Decreto Supremo N°003 -"
+    },
+    {
+      "marcador_cita": "[[PAGINA 19]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0019",
+      "pagina_pdf": 19,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 19 de 99 \nTérmino Definición \n98-SA, será tratado como enfermedad común sujeto al régimen \ngeneral del Seguro Social en Salud y al sistema pensionario al \nque se encuentre afiliado el trabajador. \nEnfermedad \nProfesional \nDe acuerdo con lo establecido por el Inciso n) de Artículo 2 del \nDecreto Supremo N° 009-97 SA, se entiende como enfermedad \nprofesional todo estado patológico permanente o temporal que \nsobreviene al trabajador como consecuencia directa de la clase \nde trabaj o que desempeña o de medio en que se ha visto \nobligado a trabajar. \nEstablecimiento de \nSalud para la \nevaluación \nEstablecimiento de salud público, privado o mixto a partir de nivel \nde categorización II -2 que realiza la etapa de evaluación de la \nincapacidad laboral por accidente de trabajo o enfermedad \nprofesional. \nEvaluación Médica \nde la Incapacidad \nLaboral por \nAccidente de \nTrabajo o \nEnfermedad \nProfesional \nEs el procedimiento médico que tiene por objetivo determinar el \ndiagnóstico de enfermedad profesional o la secuela por \naccidente de trabajo, así como de evaluar la deficiencia laboral \nproducida por la patología laboral. \nExpediente médico Conjunto de documentos en formato físico y/o magnético que \ncontiene la historia clínica y la historia ocupacional que se \nconforman para la evaluación, calificación y expedición del \nCertificado Médico de Incapacidad Laboral por Accidente de \nTrabajo o Enfermedad Profesional. \nGrado de \nIncapacidad laboral \nInterpretación de porcentaje de merma en el desarrollo del \ntrabajo habitual de la persona, reconociéndose tres situaciones: \nIncapacidad parcial, incapacidad total y gran incapacidad. \nGran Incapacidad Hace referencia a la condición de incapacidad total permanente \nque además requiera indispensablemente del auxilio de otra \npersona para movilizarse o para realizar funciones esenciales \npara la vida. \nHigiene \nocupacional \nEs una especialidad no médica orientada a identificar, reconocer, \nevaluar y controlar los factores de riesgo ocupacionales (físicos, \nquímicos, biológicos, psicosociales, disergonómicos y otros) que"
+    },
+    {
+      "marcador_cita": "[[PAGINA 20]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0020",
+      "pagina_pdf": 20,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 20 de 99 \nTérmino Definición \npuedan afectar la salud de los trabajadores, con la finalidad de \nprevenir las enfermedades ocupacionales. \nIncapacidad Es el producto de una restricción anatómica, fisiológica o \npsicológica con ausencia de la capacidad para realizar una \nactividad en la forma o dentro del margen que se considera \nnormal para el individuo, de causa laboral o general; demostrable \npor técnicas adecuadas y evidenciables desde el punto de vista \nclínico, de exámenes de ayuda al diagnóstico u otros estudios. \nPuede ser valorada en el tiempo y severidad. Es una \ncontingencia protegida que indica carencia de la capacidad \nlaboral y que se regula por normatividad específica de seguridad \nsocial o de sistemas previsionales, y que tiene repercusión \neconómica y laboral. \nIncapacidad laboral Disminución de la posibilidad o pérdida de la capacidad para \ndesarrollar las actividades laborales habituales a consecuencia \nde una enfermedad profesional o accidente de trabajo. \nIncapacidad laboral \nparcial \nDisminución en la capacidad del trabajo en una proporción igual \no mayor al 20% de la existente antes de la enfermedad \nprofesional o accidente de trabajo, pero menor a los dos tercios. \nIncapacidad laboral \npermanente \nSituación en la cual el trabajador está imposibilitado física o \npsíquicamente para realizar su trabajo habitual a consecuencia \nde una enfermedad o accidente, después de haber estado \nsometido a tratamiento médico, presentando reducciones \nanatómicas o funcio nales previsiblemente definitivas que \ndisminuyen o anulan su capacidad laboral de forma permanente. \nEsta situación se determina de acuerdo con la evidencia \ncientífica y el pronunciamiento médico respectivo, según las \ndisposiciones legales y reglamentarias. \nIncapacidad laboral \ntemporal \nPérdida o disminución de la capacidad para desarrollar las \nactividades laborales habituales a consecuencia de una \nenfermedad o daño susceptible de ser tratada y recuperada en \nun periodo determinado de acuerdo a la evidencia científica y al \npronunciamiento médico respectivo, según las disposiciones \nlegales y reglamentarias."
+    },
+    {
+      "marcador_cita": "[[PAGINA 21]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0021",
+      "pagina_pdf": 21,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 21 de 99 \nTérmino Definición \nIncapacidad laboral \ntotal \nDisminución en la capacidad del trabajo en una proporción igual \no mayor a los dos tercios de la existente antes de la enfermedad \nprofesional o accidente de trabajo. \nLenguaje expresivo Es la capacidad de manejar vocabulario y unir palabras en \noraciones para expresar su punto de vista. \nLenguaje \ncompresivo \nEs la capacidad de las personas para comprender lo que dicen \nlos demás. Es el proceso que implica recibir un mensaje y \nentender qué es lo que nos están diciendo o indicando. \nManipulación \nmanual de cargas \nCualquier operación de transporte o sujeción de una carga por \nparte de uno o varios trabajadores, como el levantamiento, la \ncolocación, el empuje, la tracción o el desplazamiento, que por \nsus características o condiciones ergonómicas inadecuadas \nentrañe ri esgos, en particular dorsolumbares, para los \ntrabajadores. \nManipulaciones \nsencillas \nManipulaciones que no reúnen las condiciones especificadas. \nEjemplos: manipulaciones de objetos. \nManipulaciones de \ncomplejidad media \nLas que se realicen preferentemente sobre objetos pequeños y/o \ncon necesidad de rapidez y/o que precisen habilidad manual, \nespecíficamente uso reiterado de pinza fina. Ejemplos: montaje \nde piezas y cierto tipo de envasados. \nManipulaciones de \ncomplejidad \nelevada \nLas que se realicen sobre objetos muy pequeños o de difícil \nmanejo y/o que precisen gran habilidad manual, exactitud o \ndelicadeza elevada, bien por sus características intrínsecas o por \nsus consecuencias. Ejemplos: intervenciones quirúrgicas; \nreparación de aparatos electrónicos o de relojería. \nMemoria visual Capacidad que posee la persona para retener la información \nvisual en un tiempo limitado. \nMenoscabo de la \ncapacidad laboral \nEs el porcentaje producto de una incapacidad, que se determina \npor una pérdida de la capacidad laboral, ganancial y productiva. \nEl menoscabo de la capacidad laboral es asignado \nexclusivamente por una Comisión Calificadora de la Incapacidad \nLaboral, en conc ordancia con las normas legales vigentes. \nRefleja el impacto que las deficiencias, el rol laboral y restricción"
+    },
+    {
+      "marcador_cita": "[[PAGINA 22]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0022",
+      "pagina_pdf": 22,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 22 de 99 \nTérmino Definición \nen la participación ocasionan sobre las actividades de la vida \ndiaria y las exigencias del trabajo. \nNaturaleza de la \nincapacidad laboral \nEsta referida a determinar el tiempo que dura la carencia de la \ncapacidad laboral, mide el pronóstico y recuperabilidad de esta, \npudiendo ser temporal o permanente. \nPerfil del puesto de \ntrabajo \nSon descripciones concretas de las características, tareas y \nresponsabilidades que tiene un puesto en la organización, así \ncomo las competencias y conocimientos que debe tener la \npersona que lo ocupe. \nOrientación \nespacial \nEs la competencia de la persona que involucra establecer \ndiferentes posiciones en el espacio y operar con ellas; incluye la \npropia posición y sus movimientos. \nOrganización Son unidades sociales o agrupaciones humanas \ndeliberadamente construidas o reconstruidas para alcanzar fines \nespecíficos. \nParticipación Rol que cumple un individuo al involucrarse en una situación \nvital, por ejemplo: comunicarse, autocuidado, relaciones \ninterpersonales. \nPostura de Trabajo Posición relativa que adoptan los segmentos corporales del \ntrabajador, independientemente de si se trabaja de pie o \nsentado. \nReconocimiento de \nEnfermedad \nprofesional \nEs el establecimiento de la relación causa efecto de los factores \ny/o agentes de riesgo laborales y una enfermedad, en base a: \ndatos clínicos, patológicos, información básica sobre la \nocupación, identificación y evaluación de los factores de riesgo \nde la ocupación y otros factores. \nRehabilitación \nprofesional \nEs parte de un proceso de rehabilitación integral que busca la \ninclusión socio-laboral del individuo. \nReinserción laboral Proceso que tiene por objetivo que un trabajador vuelva a estar \nactivo en el mercado laboral, desempeñando una labor \nprofesional, después de haber estado un tiempo inactivo por \ncualquier causa."
+    },
+    {
+      "marcador_cita": "[[PAGINA 23]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0023",
+      "pagina_pdf": 23,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 23 de 99 \nTérmino Definición \nRequerimientos del \npuesto \nSe definen como las aptitudes o facultades psicofísicas que debe \nposeer un trabajador para realizar una profesión determinada. \nRequerimientos \nauditivos \nSe valora el requerimiento de percepción de los sonidos, tanto la \nvoz humana como indicadores acústicos. Se toma como \nreferencia el umbral auditivo medio (UAM), para frecuencias \nconversacionales. \nRequerimientos \nfonatorios \nSe valoran en este apartado los requerimientos fonatorios para \nla realización de tareas. \nRestricción en la \nparticipación \nHace referencia a los problemas que puede experimentar un \nindividuo para implicarse en situaciones vitales. \nRiesgo laboral Probabilidad de que un peligro se materialice en determinadas \ncondiciones y genere daños a las personas, equipos y al \nambiente. \nRitmo Está constituido básicamente por la repetición de un patrón \nsonoro y es esencial para la percepción de los acontecimientos \nque ocurren en el tiempo. \nRol Laboral Se refiere a cómo llevar a cabo las tareas y acciones necesarias \npara ejecutar las actividades de un trabajo o empleo, de acuerdo \ncon las actitudes y aptitudes de orden psico-cognitivo y físico de \nlas personas, desarrolladas y acumuladas por los aprendizajes, \nlos conocimientos, las destrezas, y las habilidades operativas, \norganizativas, estratégicas y resolutivas que se ponen en juego \ncomo capacidad productiva. Esta capacidad productiva se define \ny se mide en términos de desempeño en un determinado \ncontexto laboral. \nSedestación \nMantenida \nPostura del trabajador en la que permanece sentado, sin \nposibilidad de cambios posturales. \nSensibilidad \nsuperficial o \nexternoceptiva, \ntermo-algésica y \ntáctil \nSensibilidad por contacto y diversas intensidades de calor \nmediante el tacto. En las profesiones en las que se requiere el \nhabitual uso de teclado informático o mecánico, se ha \nconsiderado siempre el grado de requerimiento del puesto."
+    },
+    {
+      "marcador_cita": "[[PAGINA 24]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0024",
+      "pagina_pdf": 24,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 24 de 99 \nTérmino Definición \nSensibilidad \nprofunda o \npropioceptiva \nSe considera como la sensibilidad a uno o más de los siguientes \ncriterios: barestésica (presión), batiestésica (posición articular), \nestereognosia (reconocimiento objetos), coordinación y \nestabilidad. \nSeguro \nComplementario de \nTrabajo de Riesgo \n(SCTR) \nEs el seguro que otorga prestaciones de salud y económicas por \naccidentes de trabajos de alto riesgo y enfermedades \nprofesionales a los trabajadores que colaboran en centros de \ntrabajo en los que se desarrollan actividades consideradas de \nalto riesgo. \nTrabajo de \nprecisión \nExigencia de rapidez, de habilidad manual y coordinación, así \ncomo la exactitud y delicadeza de las manipulaciones a realizar \ny la necesidad de disponer de una correcta sensibilidad táctil en \nlas manos. \nTrabajo repetitivo Movimientos continuos mantenidos durante un trabajo que \nimplica la acción conjunta de los músculos, los huesos, las \narticulaciones y los nervios de una parte del cuerpo, y que puede \nprovocar en esta misma zona la fatiga muscular, la sobrecarga, \nel dolor y, por último, una lesión. \n \n \n \n \n5.2 Abreviaturas \nAbreviatura Significado \nAT Accidente de Trabajo \nAVD Actividades de la vida diaria \nCENSOPAS-INS Centro Nacional de Salud Ocupacional y Protección del Ambiente \npara la Salud del Instituto Nacional de Salud \nCOMISIÓN SCTR Comisión Calificadora de Incapacidad Laboral por Accidente de \nTrabajo o Enfermedad Profesional \nEM Evaluación Médica"
+    },
+    {
+      "marcador_cita": "[[PAGINA 25]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0025",
+      "pagina_pdf": 25,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 25 de 99 \nEP Enfermedad Profesional \nES Establecimiento de salud \nINR Instituto Nacional de Rehabilitación \nMINSA Ministerio de Salud \nSCTR Seguro Complementario el Trabajo de Riesgo \nVRL Valoración del Rol Laboral \n \n5.3 La evaluación de la incapacidad laboral por AT o EP \nLa evaluación de la incapacidad laboral por AT o EP se realiza en los ES públicos, privados \no mixtos a partir del nivel de categorización II -2 y en las  regiones que por oferta y \naccesibilidad no exista un ES de nivel de categorización II-2 se realiza en un ES de nivel \nde categorización II-1. \n5.4 La calificación y certificación de la incapacidad laboral por \nAT o EP \nLa calificación y certificación de la incapacidad laboral por AT o EP  se realiza por las \nComisiones-SCTR conformadas en los establecimientos de salud públicos, privados o \nmixtos a partir del nivel de categorización III-1 según lo dispuesto en el numeral 6.3."
+    },
+    {
+      "marcador_cita": "[[PAGINA 26]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0026",
+      "pagina_pdf": 26,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 26 de 99 \n \n5.5 La condición de incapacidad laboral por AT o EP \nLa condición de incapacidad laboral por AT o EP  se acredita a través del Certificado de \nIncapacidad Laboral por Accidente de Trabajo o Enfermedad Profesional emitido por las \nComisiones-SCTR. \n5.6 El expediente médico \nEl expediente médico (que incluye la historia clínica) es susceptible de una auditoría de \natención de la calidad de salud, de acuerdo con la normativa vigente. \n5.7 La aseguradora del SCTR \nLa aseguradora del SCTR es responsable de la declaración de la invalidez, por lo que el \nCertificado de Incapacidad Laboral por Accidente de Trabajo o Enfermedad Profesional \npor sí sólo, no establece derecho alguno para el otorgamiento de las prestaciones \neconómicas. \nEsta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 27]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0027",
+      "pagina_pdf": 27,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 27 de 99 \nVI. DISPOSICIONES ESPECÍFICAS \n6.1 De la solicitud para la evaluación, calificación y certificación \nde la incapacidad laboral por accidente de trabajo o enfermedad \nprofesional \n6.1.1. Inicio de la solicitud \nLa solicitud para la determinación de la invalidez inicia de acuerdo con lo establecido \nen el Artículo N° 25 del Decreto Supremo N°003-98-SA. \n6.1.2 Remisión de documentos  \nCon el fin de iniciar el proceso, el empleador deberá remitir a la aseguradora los \ndocumentos establecidos en el Anexo 1. \n6.1.3 Solicitud del empleador \nCuando el proceso inicie a solicitud del empleador, el empleador deberá adjuntar los \ndocumentos establecidos en el anexo 1 al momento del ingreso de la solicitud dirigida \na la aseguradora. \n6.1.4 Plazo del empleador \nCuando el proceso inicie a solicitud del asegurado, el empleador, una vez notificado \npor la aseguradora del inicio del procedimiento tiene un plazo de cinco (05) días \nhábiles. \n6.1.5 Incumplimiento del plazo \nCuando el empleador, habiendo sido notificado de la necesidad de trasladar los \ndocumentos del asegurado a la aseguradora no cumpliera con el plazo establecido; \nla aseguradora no podrá presentar al ES evaluador la solicitud de \"Evaluación de la \nincapacidad laboral por accidente de trabajo o enfermedad profesional en el Seguro \nComplementario del Trabajo de Riesgo\". \n6.1.6 Presentación al ES evaluador \nLa Aseguradora presenta al ES evaluador la solicitud de \"Evaluación de la \nincapacidad laboral por accidente de trabajo o enfermedad profesional en el Seguro \nComplementario del Trabajo de Riesgo\" que contiene copia del documento de \nidentidad del asegurado y los documentos dispuestos en el Anexo 1 de la presente \nnorma técnica de salud. \n6.1.7 Presentación por persona de apoyo \nCuando por el tipo de deficiencia(s), el asegurado no puede ejercer su capacidad \njurídica, la solicitud puede ser presentada por la persona designada como apoyo, de \nacuerdo con lo establecido en las normas correspondientes. \n6.1.8 Evaluación en el ES más cercano \nLa aseguradora solicita la \"Evaluación Médica de la Incapacidad Laboral por \nAccidente de Trabajo o Enfermedad Profesional\" al ES evaluador más cercano al"
+    },
+    {
+      "marcador_cita": "[[PAGINA 28]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0028",
+      "pagina_pdf": 28,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 28 de 99 \ndomicilio real del asegurado. De manera excepcional, en caso que el asegurado \nsolicite ser evaluado en otro ES, procederá previa solicitud por escrito del asegurado \ny aceptación de la aseguradora. \n6.1.9 Cobertura de costos \nLa Aseguradora asume los costos relacionados con la atención de la solicitud de \nevaluación, calificación y certificación de la incapacidad laboral par accidente de \ntrabajo o enfermedad profesional, de acuerdo con el tarifario establecido por cada ES \nque forme parte del procedimiento. \n \n6.2 De la evaluación médica de la incapacidad laboral por \naccidente de trabajo o enfermedad profesional \n6.2.1 Especialidades y equipamiento \nPara la etapa de evaluación médica (EM) de la incapacidad laboral por AT o EP se \nrequiere que el ES disponga de: \n6.2.1.1 Consulta externa \nConsulta externa principalmente de las siguientes especialidades: Medicina \nOcupacional y Medio Ambiente, Medicina Física y Rehabilitación, \nNeumología, Otorrinolaringología, Oftalmología, Ortopedia y Traumatología \ny Medicina Interna. \n \n \nEsta imagen es referencial \nEsta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 29]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0029",
+      "pagina_pdf": 29,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 29 de 99 \n6.2.1.2 Servicio de Radiografía \nServicio de Radiografía, que cumpla con los requisitos establecidos en el \nanexo 10. \n \n6.2.1.3 Equipamiento de Consulta Externa \n Equipamiento de Consulta Externa según se detalla a continuación: \nEspecialidad Equipamiento \nNeumología • Espirómetro \nOtorrinolaringología • Audiómetro \n• Equipo de Potenciales Auditivos de Estado Estable \n(según corresponda) \nOftalmología • Cartillas de optotipos \n• Pantallas o proyectores de optotipos \n• Campímetro computarizado \nMedicina Física y \nRehabilitación \n• Goniómetro \nOtras especialidades \nclínicas según \ncorresponda \n• Electrocardiograma \n• Ecocardiograma \n• Prueba de Esfuerzo \n• Electromiografía \nEsta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 30]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0030",
+      "pagina_pdf": 30,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 30 de 99 \n \n \n6.2.2 Requisitos del Establecimiento de Salud evaluador  \nEl ES evaluador debe estar inscrito en el Registro del Ministerio de Salud para \nefectuar los procedimientos de evaluación médica por accidente de trabajo o \nenfermedad profesional. \n6.2.3 Subetapas de la EM de la incapacidad laboral por AT o EP \nLa EM de la incapacidad laboral por AT o EP contempla 4 subetapas: 1. Diagnóstico \ny Reconocimiento de la Enfermedad Profesional o Accidente de Trabajo. 2. \nEvaluación de las deficiencias. 3. Evaluación de rol laboral y 4. Evaluación de la \nrestricción en la participación. \n6.2.3.1 Subetapa 1: Diagnóstico y Reconocimiento de la \nEnfermedad Profesional o Accidente de Trabajo \na.  La primera subetapa de la EM de la incapacidad laboral por AT o EP es \nrealizada por el médico cirujano especialista en Medicina Ocupacional y del \nMedio Ambiente o en su s diferentes menciones debidamente titulado, \ncolegiado y habilitado por el Colegio Médico del Perú, asimismo deberá estar \nregistrado en el \"Registro de información para la Evaluación, Calificación y \nCertificación de la Incapacidad Laboral por Accidente de T rabajo o \nEnfermedad Profesional\" del MINSA. \nb.  Dicho profesional médico recibe la documentación que contiene el \nexpediente remitido por mesa de partes del ES. \nEsta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 31]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0031",
+      "pagina_pdf": 31,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 31 de 99 \nc.  El médico ocupacional realiza esta subetapa teniendo en consideración \nlo siguiente: \n• La identificación si la evaluación de la incapacidad laboral corresponde \na un AT o EP , para el caso de EP realiza la confirmación del diagnóstico \ny el reconocimiento de la EP . \n• La identificación de las deficiencias y derivación del asegurado a los \nmédicos especialista(s) relacionados a los órganos, aparatos y/o \nsistemas comprometidos, solicitando la EM. \nd.  En caso la incapacidad laboral no corresponda a un AT o EP, el médico \nocupacional hace un informe médico e indica que no procede continuar con \nla etapa de evaluación. \ne.  El informe médico establecido en el literal d. quedará registrado en el \nSistema de Registro establecido en el numeral 6.6."
+    },
+    {
+      "marcador_cita": "[[PAGINA 32]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0032",
+      "pagina_pdf": 32,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 32 de 99 \n  \nEsta imagen es referencial."
+    },
+    {
+      "marcador_cita": "[[PAGINA 33]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0033",
+      "pagina_pdf": 33,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 33 de 99   \nEsta imagen es referencial."
+    },
+    {
+      "marcador_cita": "[[PAGINA 34]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0034",
+      "pagina_pdf": 34,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 34 de 99 \n \nEsta imagen es referencial. \n \n \n \nCaso práctico es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 35]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0035",
+      "pagina_pdf": 35,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 35 de 99   \nCaso práctico es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 36]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0036",
+      "pagina_pdf": 36,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 36 de 99 \n \n6.2.3.2 Subetapa 2: Evaluación Médica de las Deficiencias \na.  La segunda subetapa de la evaluación es realizada por el médico \nespecialista del órgano, aparato y/o sistema comprometido que genera la \nincapacidad laboral; debidamente titulado, colegiado y habilitado por el \nColegio Médico del Perú; asimismo, deberá estar registrado en el \"Registro \nde información para la Evaluación, Calificación y Certificación de la \nIncapacidad Laboral por Accidente de Trabajo o Enfermedad Profesional\" \ndel MINSA. \nb.  El médico especialista realiza una evaluación objetiva de las deficiencias \nque generan la pérdida funcional del trabajador asegurado, como secuela \ndel AT o EP describiendo los signos y síntomas; puede solicitar exámenes \ncomplementarios o de ayuda diagnóstica según corresponda. \nc.  El médico especialista agrupa los hallazgos por clases funcionales \nteniendo en cuenta el documento normativo que establezca el instrumento \nde evaluación y calificación de la incapacidad laboral que apruebe el MINSA \n(Manual Nacional de Evaluación y Calificación de la Incapacidad Laboral); y \ndeterminar el diagnóstico según la Clasificación Internacional de \nEnfermedades vigente. \n d.  En caso de tratarse de médicos neumólogos o radiólogos, para el \ndiagnóstico de neumoconiosis, debe contar con capacitación certificada de \nlectura de placas radiográficas en metodología OIT. \ne.  El médico especialista elabora el Informe de Evaluación Médica de la \nIncapacidad Laboral (Anexo 2) para consignar el estado de salud actual del \nsolicitante, describe las deficiencias, la capacidad funcional y anatómica, así \ncomo los diagnósticos, secuelas y pronóstico, configurando el impedimento \ny sustentándolo con las evidencias obtenidas de: \n• La anamnesis. \n• El examen físico y mental de ser necesario \n• Los resultados de pruebas de ayuda al diagnóstico. \nf.  El médico especialista debe emitir su informe en un plazo no mayor de \ncinco (05) días hábiles de haberse cumplido con la ejecución de las \nevaluaciones médicas. \ng.  El médico especialista se encuentra prohibido de emitir pronunciamiento \nsobre el grado de incapacidad o menoscabo de la persona. \n  \nCaso práctico es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 37]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0037",
+      "pagina_pdf": 37,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 37 de 99 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nEsta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 38]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0038",
+      "pagina_pdf": 38,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 38 de 99 \n \n6.2.3.3 Subetapa 3: Evaluación y Análisis del Rol Laboral \na.  La tercera subetapa de la EM de la incapacidad por AT o EP es realizada \npor el médico cirujano especialista en Medicina Ocupacional y del Medio \nAmbiente o en su diferentes menciones, debidamente titulado, colegiado y \nhabilitado por el Colegio Médico del Perú, asimismo, deberá estar registrado \nen el \"Registro de información para la Evaluación, Calificación y Certificación \nde la Incapacidad Laboral por Accidente de Trabajo o Enfermedad \nProfesional\" del MINSA. \nb.  Si el caso amerita, el médico identifica que el trabajador evaluado haya \nsido o sea parte de un proceso de rehabilitación profesional. La \nrehabilitación profesional no es requisito ni impedimento para ser evaluado \npor la Comisión-SCTR. \nc.  El médico evalúa al paciente y realiza la evaluación de los \nRequerimientos del Puesto de Trabajo y Capacidades del Trabajador con la \ndocumentación que contiene el expediente presentado por la entidad \nempleadora del trabajador asegurado: \n• Capacidades del trabajador: Relacionado a las capacidades y  \ndestrezas cognitivas, físicas, psicosocial y de relación con los \nprocesos, objetos, máquinas, herramientas y materiales propios \ndel puesto de trabajo específico donde la persona sufre \nrestricciones. \n•  Requerimientos del puesto de trabajo: Conjunto de \nrequerimientos conformados por el lugar físico, las herramientas, \ntareas, deberes y responsabilidades, asignados a una persona \nen su ámbito laboral. Solo se debe considerar el puesto de \ntrabajo donde el trabajador laboraba y donde haya presentado el \nAT o EP sin restricciones, recomendaciones ni cambios de \npuesto. (Anexo 3). \nd.  Para la evaluación del perfil del trabajador y del puesto de trabajo se \nconsidera las dimensiones de la carga física, mental y emocional, así como \notros riesgos, con las siguientes fases: \nFase 1.  Identifica la ocupación según la Clasificación Nacional de \nOcupaciones vigente (Tabla 1) y descripción de las tareas. \nTabla 1. \nClasificación Nacional de Ocupaciones, publicado en el portal web del \nInstituto Nacional de Estadísticas e Informática (INEI) \n GRANDES GRUPOS \nGran Grupo 1 Miembros del Poder Ejecutivo, Legislativo, Judicial y  personal \ndirectivo de la administración pública y privada. \nGran Grupo 2 Profesionales científicos e intelectuales."
+    },
+    {
+      "marcador_cita": "[[PAGINA 39]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0039",
+      "pagina_pdf": 39,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 39 de 99 \nGran Grupo 3 Profesionales técnicos. \nGran Grupo 4 Jefes y empleados administrativos. \nGran Grupo 5 Trabajadores de los servicios y vendedores de comercios y \nmercados. \nGran Grupo 6 Agricultores y trabajadores calificados agropecuarios, forestales y \npesqueros. \nGran Grupo 7 Trabajadores de la construcción, edificación, productos artesanales, \nelectricidad y las telecomunicaciones. \nGran Grupo 8 Operadores de maquinaria industrial, ensambladores y conductores \nde transporte. \nGran Grupo 9 Ocupaciones elementales. \nGran Grupo 10 Ocupaciones militares y policiales. \n \nFase 2:  Identifica las dimensiones y las variables según los puestos de \ntrabajo (Tabla 2). \nTabla 2. \nDimensiones de la carga física, mental y emocional (*) \nDimensiones Variable Característica \nCarga Mental \nProcesamiento de la \ninformación \nMemoria visual \nSemejanzas y diferencias \nOrientación espacial \nConocimiento numérico \nAprendizaje de tareas \nLenguaje expresivo \nConocimiento de la escritura \nLenguaje comprensivo \nConocimiento de la lectura \nActitudes en el trabajo \nResponsabilidad: autonomía laboral y \nrealización de la tarea \nRepetitividad \nAtención"
+    },
+    {
+      "marcador_cita": "[[PAGINA 40]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0040",
+      "pagina_pdf": 40,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 40 de 99 \nRitmo \nOrganización \nRelaciones de trabajo \nSeguridad \n \nAptitudes Físicas \n \nManipulación Manual de carga \nCarga Física \nCoordinación manipulativa \nCarga postural/Trabajo repetitivo \nTrabajo de precisión \nSedestación Mantenida \nBipedestación \nMarcha por terreno irregular \nCampo visual \nAgudeza visual \nRequerimiento Auditivo \nRequerimiento fonatorio \nRequerimiento de olfato y/o gusto \nSensibilidad: superficial y/o profunda \nCarga Emocional Carga Emocional \nControl emocional \nRelaciones Psicosociales \nOtros Riesgos Factores Ambientales \nAmbiente térmico \nAmbiente sonoro \nCondiciones lumínicas \nHigiene ocupacional  \n(*) Modificado del Manual de Evaluación de Requerimientos para la Valoración de la \nCapacidad Laboral (MERCAL-2014). Instituto de Seguridad Social, España."
+    },
+    {
+      "marcador_cita": "[[PAGINA 41]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0041",
+      "pagina_pdf": 41,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 41 de 99 \nFase 3: Evalúa los requerimientos del puesto de trabajo por cada dimensión \nidentificada: Bajo, Medio, Alto, Muy Alto. Según tabla 3. \nTabla 3. \n  Nivel de Requerimientos del puesto de trabajo (*) \nRequerimiento \nbajo: \nActividad con experiencia y que requiere un adiestramiento, \nentrenamiento o capacitación básica. \nRequerimiento \nmedio: \nActividades con experiencia y con un grado de adiestramiento, \nentrenamiento o capacitación técnica que le permita desarrollar su \nactividad laboral manteniendo un rendimiento habitual. \nRequerimiento \nalto: \nActividades con experiencia y con el adiestramiento, entrenamiento \no capacitación universitaria necesarios. Se define como exigencia \nlaboral intensa o \"cualificada\". \nRequerimiento \nmuy alto: \nActividades con experiencia y especialmente adiestrada, entrenada \no capacitación universitaria avanzado (postgrado). Se define como \nexigencia laboral especialmente intensa. \n(*) Modificado del Manual de Evaluación de Requerimientos para la Valoración de la \nCapacidad Laboral (MERCAL-2008). Instituto de Seguridad Social, España. \nFase 4: Evalúa las Capacidades del trabajador para lo cual se categoriza \ncada dimensión, de acuerdo a la evaluación de las deficiencias según el \nórgano o sistema afectado: sin dificultad, con dificultad no significativa, con \ndificultad leve, con dificultad moderada, con dificultad severa, sin capacidad. \nSegún Tabla 4. \nTabla 4. \n        Nivel de Capacidades del Trabajador (*) \nSin dificultad: Puede realizar sus actividades laborales sin dificultad. \nCon dificultad \nno \nsignificativa: \nPuede realizar sus actividades laborales en calidad y/o cantidad con \ndificultad no significativa. \nCon dificultad \nleve: \nPuede realizar sus actividades laborales en calidad y/o cantidad con \ndificultad leve. \nCon dificultad \nmoderada: \nPuede realizar sus actividades laborales en calidad y/o cantidad con \ndificultad moderada \nCon dificultad \nsevera: \nPuede realizar sus actividades laborales en calidad y/o cantidad con \ndificultad severa \nSin Capacidad: No puede realizar actividades \n(*) Modificado del Manual de Evaluación de Requerimientos para la Valoración de la \nCapacidad Laboral (MERCAL). Instituto de Seguridad Social, España."
+    },
+    {
+      "marcador_cita": "[[PAGINA 42]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0042",
+      "pagina_pdf": 42,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 42 de 99 \nFase 5: Realiza comparación de los requerimientos según las dimensiones; \npara las capacidades del trabajador, para lo cual se realiza un análisis \nmédico-ocupacional por cada caso en específico, y se otorga un puntaje de \nRol Laboral del 0 al 5, de acuerdo al Anexo 5 tomando en cuenta la Tabla 5. \nTabla 5. \nPuntaje del Rol Laboral según Requerimientos del Puesto y Capacidades del \nTrabajador \nRequerimiento/Capacidades Bajo Medio Alto Muy Alto \nSin dificultad: 0 0 0 0 \nCon dificultad no significativa: 1 1 2 2 \nCon dificultad leve: 2 2 3 3 \nCon dificultad moderada: 3 3 4 4 \nCon dificultad severa: 4 4 5 5 \nSin capacidad: 5 5 5 5 \n(*) Elaborado por la Unidad Funcional de Salud Ocupacional e Incapacidad Laboral, DENOT- \nDGIESP/MINSA \nSi el nivel de capacidades es valorado sin dificultad, independientemente del \nnivel de requerimiento del puesto de trabajo el nivel del Rol Laboral será de \n0. \nSi el nivel de capacidades es valorado sin capacidad independientemente \ndel requerimiento del puesto de trabajo el puntaje del Rol Laboral será de 5. \nEn los requerimientos del puesto de trabajo que presenten más de una \ncaracterística en la misma o en diferentes variables y/o dimensiones, se \ntomara en cuenta la característica de mayor nivel. \ne.  El médico especialista en Medicina Ocupacional y Medio Ambiental o en \nsus diferentes menciones completa los formatos correspondientes al \nInforme de evaluación del rol laboral. (Anexo 5). \nf.  El médico especialista debe emitir su informe de evaluación y análisis del \nrol laboral en un plazo no mayor de tres (03) días hábiles de haberse \ncumplido con la ejecución de la evaluación."
+    },
+    {
+      "marcador_cita": "[[PAGINA 43]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0043",
+      "pagina_pdf": 43,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 43 de 99 \n \n  \nEsta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 44]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0044",
+      "pagina_pdf": 44,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 44 de 99 \n \nEste flujo es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 45]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0045",
+      "pagina_pdf": 45,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 45 de 99 \n \n \nEste flujo de caso práctico es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 46]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0046",
+      "pagina_pdf": 46,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 46 de 99 \n \nEste flujo de caso práctico es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 47]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0047",
+      "pagina_pdf": 47,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 47 de 99 \n6.2.3.4 Subetapa 4: Evaluación de la Restricción en la \nParticipación \na.  La cuarta subetapa de la EM de la incapacidad por AT o EP es realizada \npor el médico cirujano especialista en Medicina Física y Rehabilitación o en \nsus diferentes menciones, debidamente titulado, colegiado y habilitado por \nel Colegio Médico del Perú, asi mismo, deberá estar registrado en el \n\"Registro de información para la Evaluación, Calificación y Certificación de \nla Incapacidad Laboral por Accidente de Trabajo o Enfermedad Profesional\" \ndel MINSA. \nb.  La evaluación de la restricción en la participación hace referencia a los \nproblemas que un individuo puede experimentar al involucrarse en \nsituaciones vitales. \nc.  Para evaluar la restricción en la participación se debe tener en cuenta los \nsiguientes criterios: Capacidad de la ejecución, dependencia y uso de \nproducto, instrumentos, equipo o sistema técnico de apoyo. \nd.  Las categorías por considerar en esta subetapa de evaluación son: \nAprendizaje y Aplicación del conocimiento, Comunicación, Movilidad, \nCuidado Personal, Vida doméstica y Vida económica. \ne.  La elección de categorías a evaluar se hace de acuerdo a la evaluación \nde las deficiencias según el órgano o sistema afectado. \nf.  El médico especialista debe completar el Anexo 6 de Evaluación de la \nrestricción en la participación y emitir el informe en un plazo no mayor de \ntres (03) días hábiles. \n \n6.2.4  \nPara el inicio de sus funciones, los médicos evaluadores deberán demostrar cursos \nde especialización o de postgrado de incapacidad laboral y/o capacitaciones en \nevaluación de la incapacidad laboral por AT o EP otorgadas por la DGIESP del \nMINSA. \n6.2.5  \nLos médicos especialistas que realizan la etapa de evaluación no deben de tener \nconflicto de intereses con la aseguradora y el asegurado."
+    },
+    {
+      "marcador_cita": "[[PAGINA 48]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0048",
+      "pagina_pdf": 48,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 48 de 99 \n \nEsta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 49]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0049",
+      "pagina_pdf": 49,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 49 de 99 \n \n Esta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 50]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0050",
+      "pagina_pdf": 50,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 50 de 99 \n \n Esta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 51]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0051",
+      "pagina_pdf": 51,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 51 de 99 \n6.3 De La Conformación de las Comisiones Calificadoras de \nIncapacidad Laboral Por Accidente De Trabajo o Enfermedad \nProfesional \n6.3.1. \nLas Comisiones-SCTR tienen jurisdicción macrorregional y se implementan en los \nestablecimientos de salud públicos, privados o mixtos a partir del nivel de \ncategorización III-1 de las capitales de las regiones de mayor densidad poblacional \nafiliada al SCTR, tomando en cuenta la siguiente distribución: \n• Macro Región Norte con sede en la ciudad de Trujillo: Ancash, Cajamarca, La \nLibertad, Lambayeque, Piura y Tumbes. \n• Macro Región Centro con sede en la ciudad de Huancayo: Apurímac, \nAyacucho, Huancavelica, Huánuco, Huancayo, Pasco e Ica. \n• Macro Región Sur con sede en la ciudad de Arequipa: Arequipa, Cusco, \nMadre de Dios, Moquegua, Puno y Tacna. \n• Macro Región Oriente con sede en la ciudad de Iquitos: Amazonas. Loreto, \nSan Martín y Ucayali. \n• Macro Región Lima con sede en la ciudad de Lima: Callao, Cañete, Lima \nCentro, Lima Norte, Lima Sur, Lima Este. \n \nEsta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 52]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0052",
+      "pagina_pdf": 52,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 52 de 99 \n6.3.2.  Las Comisiones -SCTR se oficializan por Resolución Directoral del ES \ncorrespondiente. En el subsector privado las Comisiones -SCTR se oficializan \nmediante documento oficial emitido por el Director Médico. Bajo responsabilidad, el \nES debe remitir copia de la resolución o documento que oficializa la Comisión-SCTR \na la Oficina de Normalización Provisional -ONP , a las Aseguradoras privadas y a la \nDirección General de Intervenciones Estratégicas en Salud Pública del MINSA, en \nun plazo máximo de quince (15) días contados a partir de dicha oficialización. \n6.3.3.  La Comisión - SCTR se conforma para un periodo de dos (2) años. La \nComisión-SCTR está encargada de atender las solicitudes de calificación del grado \nde la incapacidad laboral, así como de emitir el Certificado Médico de Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional. \n6.3.4.  La Comisión -SCTR está conformadas por cinco (5) miembros que son \npersonal de la salud y un (1) profesional de abogacía propio del ES, conforme a lo \nsiguiente: \na.  Médico especialista en Medicina Física y Rehabilitación debidamente titulado, \ncolegiado y habilitado por el Colegio Médico del Perú, registrado en el \"Registro de \ninformación para la Evaluación, Calificación y Certificación de la Incapacidad Laboral \npor Accidente de Trabajo o Enfermedad Profesional\" y con 3 años de experiencia \nprofesional como mínimo. \nb.  Médico especialista en Medicina Ocupacional o Médico con Grado de Maestría \nen Medicina Ocupacional debidamente titulado, colegiado y habilitado por el Colegio \nMédico del Perú, registrado en el \"Registro de información para la Evaluación, \nCalificación y  Certificación de la Incapacidad Laboral por Accidente de Trabajo o \nEnfermedad Profesional\" y con 3 años de experiencia profesional como mínimo. \nc. Médico especialista en otorrinolaringología debidamente titulado, colegiado y \nhabilitado por el Colegio Médico del Perú, registrado en el \"Registro de información \npara la Evaluación, Calificación y Certificación de la Incapacidad Laboral por \nAccidente d e Trabajo o Enfermedad Profesional\" y con 3 años de experiencia \nprofesional como mínimo. \nd.  Médico especialista en Neumología debidamente titulado, colegiado y habilitado \npor el Colegio Médico del Perú, registrado en el \"Registro de información para la \nEvaluación, Calificación y Certificación de la Incapacidad Laboral por Accidente de \nTrabajo o Enfermedad Profesional\" y con 3 años de experiencia profesional como \nmínimo. \ne.  Licenciado en Psicología debidamente titulado, colegiado y habilitado por el \nColegio de Psicólogos del Perú y con 3 años de experiencia profesional en Salud \nOcupacional como mínimo. \nf.  Abogado debidamente titulado, colegiado y habilitado, como mínimo con 1 año de \nexperiencia profesional en el sector público, acreditada en materia de: Seguridad \nSocial en Salud, Seguro Complementario de Trabajo de Riesgo, Calificación de \nIncapacidad Laboral o Derechos de la Persona con Discapacidad."
+    },
+    {
+      "marcador_cita": "[[PAGINA 53]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0053",
+      "pagina_pdf": 53,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 53 de 99 \n  \n Esta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 54]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0054",
+      "pagina_pdf": 54,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 54 de 99 \n6.3.5.  La presidencia de la Comisión -SCTR recae en el profesional médico con \nmayor antigüedad en el ejercicio profesional. \n6.3.6.  La secretaría de la Comisión -SCTR recae en el médico especialista en \nMedicina Ocupacional y del Medio Ambiente o Médico con Grado de Maestría en \nMedicina Ocupacional. \n6.3.7.  Cada miembro de la Comisión-SCTR cuenta con un suplente designado por \nel Director del ES. Los miembros suplentes en los casos de Neumología y \nOtorrinolaringología deben ser reemplazados por médicos de las mismas \nespecialidades, siempre que la calificación sea referida a enfermedades auditivas y \npulmonares. En caso se trate de la calificación de otros diagnósticos, los suplentes \nde la comisión SCTR pueden ser especialistas en medicina interna y ortopedia y \ntraumatología. \n6.3.8.  Para el inicio de sus funciones, profesionales de la salud y abogacía titulares \ny suplentes que conforman la Comisión -SCTR deberán demostrar cursos de \nespecialización o de postgrado de incapacidad laboral, o salud ocupacional o afines. \n6.3.9.  Cada miembro titular y suplente no debe mantener conflicto de intereses \nprevio al inicio de la calificación de cada caso, y debe firmar una declaración jurada \nde tal hecho. \n6.3.10.  En caso de renuncia o cese de algún miembro, se debe designar a su \nreemplazo por el periodo de vigencia faltante, dicha designación se oficializa según \nlo indicado en el subnumeral 6.3.3. \n6.3.11.  En ningún caso, los médicos integrantes del Comité Calificador del SCTR \ndel INR como Única Instancia Administrativa pueden integrar las Comisiones-SCTR \nde los establecimientos de salud públicos y privados y además no podrá tener \nconflicto de intereses con las Aseguradoras. \n6.3.12.  La Comisión-SCTR se reúne como mínimo dos (2) veces al mes de manera \nordinaria, o extraordinaria, según la demanda de atención de solicitudes para la \ncalificación y emisión de los Certificados Médicos. \n6.3.13.  La Comisión-SCTR debe contar con un Libro de Actas, que contiene el \ndesarrollo de las sesiones; así como con un archivo en físico de toda la \ndocumentación y complementariamente una carpeta digital de los Certificados \nMédicos de Incapacidad Laboral por Accidente de Trabajo o Enfermedad Profesional \nemitidos con una numeración correlativa y datos relevantes."
+    },
+    {
+      "marcador_cita": "[[PAGINA 55]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0055",
+      "pagina_pdf": 55,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 55 de 99 \n6.3.14.  Las funciones de los profesionales de la salud de la Comisión-SCTR son: \n \nEsta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 56]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0056",
+      "pagina_pdf": 56,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 56 de 99 \n6.3.15.  Las funciones de los profesionales de abogacía de la Comisión-SCTR son: \n6.3.16.  En caso de ausencia del presidente de la Comisión -SCTR a una de las \nsesiones de la comisión, esta será presidida por el miembro suplente, y en caso de \nausencia de este último asume la presidencia para dicha sesión el siguiente miembro \ncon mayor antigüedad en el ejercicio profesional. \nEsta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 57]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0057",
+      "pagina_pdf": 57,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 57 de 99 \n6.3.17.  Son responsabilidades del presidente de la Comisión-\nSCTR: \n• Preside las sesiones de la comisión, mantiene el orden y permite que todos \nlos miembros tengan la oportunidad de expresar sus opiniones. \n• Dirige, convoca y organiza las sesiones de las comisiones ordinarias y/o \nextraordinarias. \n• Supervisa y dirige todo el proceso de evaluación y calificación de la \nincapacidad laboral. \n• Representa a la comisión ante las autoridades y las diversas entidades \npúblicas y privadas. \n• Supervisa y revisa la calidad de los informes médicos emitidos por los \nmédicos especialistas y/u otros exámenes auxiliares complementarios \nsolicitados. \n• Vela por el correcto cumplimiento de los acuerdos adoptados por la comisión. \n• Firma el acta, certificado o acuerdo de cada sesión de la comisión, \nconjuntamente con los demás miembros. \n• Aprueba la agenda de los temas que se tratarán en cada sesión de la \ncomisión. \n6.3.18. Son responsabilidades del secretario de la Comisión-\nSCTR: \n• Administra y custodia en carpeta física y un respaldo en carpeta digital que \ncontenga toda la documentación de la comisión, firmada y escaneada en \nformato PDF. \n• Ingresa la información al Sistema de Registro de información para la \nEvaluación, Calificación y Certificación de la Incapacidad Laboral por \nAccidente de Trabajo o Enfermedad Profesional de MINSA. \n• Administra y custodia el libro de Actas. \n• Coordina la elaboración de documentos que se generen y que se requieran. \n• Convoca a reuniones ordinarias o extraordinarias. \n6.3.19. Las facultades de la Comisión-SCTR son: \n• De ser necesario, cita al trabajador asegurado para la evaluación y valoración \ncorrespondiente. \n• Solicita la evaluación e informes de los médicos u otros profesionales \nespecialistas según la lesión por el AT o EP. \n• Solicita exámenes y evaluaciones complementarias, diferentes a los \nacompañados en el expediente que considere indispensables para \nfundamentar su calificación y certificación. \n• De considerarlo necesario, solicita antecedentes e informes adicionales a las \nAseguradoras, Establecimientos de Salud que hayan atendido al trabajador \npor las contingencias laborales y Entidades Empleadoras."
+    },
+    {
+      "marcador_cita": "[[PAGINA 58]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0058",
+      "pagina_pdf": 58,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 58 de 99 \n \nEsta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 59]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0059",
+      "pagina_pdf": 59,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 59 de 99 \n6.3.20. Los miembros de la Comisión-SCTR deben abstenerse \nde formar parte del proceso de calificación en los siguientes \nsupuestos: \n• Si es cónyuge, conviviente, pariente dentro del cuarto grado de \nconsanguinidad o segundo de afinidad, con cualquiera de los trabajadores \nasegurados solicitantes o tuviere interés en el resultado del procedimiento de \ncertificación médica. \n• Si ha prestado servicios profesionales como médico tratante, asesor, perito o \ntestigo contratado por el trabajador asegurado solicitante, las aseguradoras \n(incluida la Oficina de Normalización Previsional), sus representantes o los \nabogados designados en el procedimiento. \n• Cuando algún integrante de la Comisión -SCTR incurra en algún conflicto de \nintereses en los últimos doce (12) meses, distinto a los señalados en los \napartados precedentes, con cualquiera de los intervinientes en el \nprocedimiento de certificación médica en e l referido procedimiento, se \nabstendrán de participar en la calificación en el referido procedimiento, \nexpresando los motivos de dicha decisión a la Comisión-SCTR. \nEn cualquiera de los supuestos mencionados en el presente numeral, el miembro \ncuya abstención es comunicada a la Comisión-SCTR, será sustituido por el miembro \nsuplente. \n6.3.21. La Comisión-SCTR cuenta con el apoyo administrativo permanente para el \nejercicio de sus funciones. \n6.4 De La Calificación de la Incapacidad Laboral Por Accidente \nDe Trabajo o Enfermedad Profesional \n6.4.1 La aseguradora solicita la \"Calificación y Certificación de la Incapacidad \nlaboral por Accidente de Trabajo o Enfermedad Profesional\" a través del Sistema de \nRegistro, al ES que conforme la Comisión-SCTR de la capital de la región donde se \nhaya realizado la evaluación o en su defecto al ES que conforme la Comisión-SCTR \nen la sede de la macrorregión a la que pertenece según lo establecido numeral 6.3.1 \nde la presente Norma Técnica de Salud. \n6.4.2 La Comisión -SCTR realiza la calificación que consiste en valorar \nobjetivamente la gravedad de la incapacidad, el rango de calificación oscila entre un \nmínimo de cero por ciento (0%) y un máximo de cien por ciento (100%), \ncorrespondiendo, cincuenta por ciento (50%) a la calificación de las deficiencias y el \notro cincuenta ciento (50%) a la Valoración del Rol Laboral y de la Restricción en la \nParticipación. \n6.4.3 La Comisión-SCTR establece el porcentaje de las deficiencias utilizando el \ninstrumento de evaluación y calificación de la incapacidad laboral (Manual Nacional \nde Evaluación y Calificación del Grado de Incapacidad) aprobado por el MINSA; para \nlos casos en que se encuentren afectados dos o más órganos o sistemas, aplicando \nla fórmula de Balthazar o de suma combinada: A + [(100 – A)xB/100], donde \"A\" es"
+    },
+    {
+      "marcador_cita": "[[PAGINA 60]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0060",
+      "pagina_pdf": 60,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 60 de 99 \nla deficiencia de mayor valor y \"B\" la deficiencia de menor valor. Posterior a la \nobtención del porcentaje global de las deficiencias, se multiplicará por \"0.5\" que \ncorresponde a la calificación de la deficiencia (50%) del menoscabo de la capacidad \nlaboral. \n6.4.4 Para la calificación del rol laboral y restricción en la participación, la Comisión-\nSCTR sumará aritméticamente los resultados de calificación de las Restricciones del \nRol Laboral más el resultado de la calificación de las Restricciones del Rol de \nParticipación, más la calificación de la edad (Anexo 7 y 8). \n6.4.5 Para la calificación de la incapacidad laboral, la Comisión -SCTR realiza una \nsuma aritmética del porcentaje obtenido en la calificación de las deficiencias (hasta \nun 50%) y del porcentaje obtenido de la calificación del rol laboral y restricción en la \nparticipación (hasta un 50%) según la distribución de la Tabla 6."
+    },
+    {
+      "marcador_cita": "[[PAGINA 61]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0061",
+      "pagina_pdf": 61,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 61 de 99 \n \n \nEsta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 62]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0062",
+      "pagina_pdf": 62,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 62 de 99 \n \n \n \n \n \n \n \n \n  \nEsta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 63]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0063",
+      "pagina_pdf": 63,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 63 de 99"
+    },
+    {
+      "marcador_cita": "[[PAGINA 64]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0064",
+      "pagina_pdf": 64,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 64 de 99"
+    },
+    {
+      "marcador_cita": "[[PAGINA 65]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0065",
+      "pagina_pdf": 65,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 65 de 99 \n \nLa imagen del caso es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 66]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0066",
+      "pagina_pdf": 66,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 66 de 99 \n6.5 De La Certificación Y Entrega Del Certificado De Incapacidad \nLaboral Por Accidente De Trabajo O Enfermedad Profesional \n6.5.1 El Certificado de Incapacidad Laboral por Accidente de Trabajo o Enfermedad \nProfesional es emitido por las Comisiones -SCTR de acuerdo con el Anexo 9; será \nvisado por el Director General del ES y remitido al trabajador asegurado y a la \naseguradora que presentó la solicitud de certificación de la incapacidad laboral por \nAT o EP en el SCTR, dentro del plazo de cinco (05) días hábiles posterior a la \nculminación del procedimiento. Adicionalmente, se le enviará a la aseguradora que \npresentó la solicitud de certi ficación de la incapacidad laboral por AT o EP en el \nSCTR, los exámenes realizados de forma física o digitalizado. \n6.5.2 En el caso de rectificación y/o corrección del Certificado Médico de \nIncapacidad Laboral, se considera lo siguiente: \na) La Comisión-SCTR podrá corregir errores tipográficos, ortográficos, aritméticos u \nomisión en algún aspecto de la formalidad requerida en el certificado, que no \nmodifiquen el fondo de la decisión, previa demostración de su fundamento. \nb) Para efecto de lo dispuesto en el inciso a), la aseguradora que presentó la solicitud \nde certificación de la incapacidad laboral por AT o EP en el SCTR podrá presentar \nsolicitudes de rectificación, aclaración y/o corrección del certificado emitido dentro de \nlos tres (03) días hábiles siguientes a la notificación del certificado emitido. \nc) La Comisión-SCTR podrá de oficio efectuar la actuación señalada en el inciso a) \ndel presente numeral, dentro del plazo de cinco (05) días hábiles de emitido el \ncertificado. \n6.5.3 En caso de existir discrepancias entre la aseguradora del SCTR y el trabajador \nevaluado por el Certificado de Incapacidad Laboral por Accidente de Trabajo o \nEnfermedad Profesional emitido por la Comisión-SCTR, en un plazo máximo de diez \n(10) días hábiles contados a partir de su notificación, la aseguradora o el asegurado \na través de su aseguradora, podrán solicitar elevar el expediente al INR, para su \npronunciamiento como instancia única administrativa, conforme a las materias y \nprocedimiento establec ido en el artículo 28 de las Normas Técnicas del Seguro \nComplementario de Trabajo de Riesgo, aprobadas por Decreto Supremo N° 003-98-\nSA y demás normas vigentes del SCTR."
+    },
+    {
+      "marcador_cita": "[[PAGINA 67]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0067",
+      "pagina_pdf": 67,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 67 de 99 \n6.6 Del Sistema de Registro de Información Para La Evaluación, \nCalificación y Certificación de la Incapacidad Laboral Por \nAccidente de Trabajo o Enfermedad Profesional \n \n \nEsta imagen es referencial \nEsta imagen es referencial \nEsta imagen es referencial"
+    },
+    {
+      "marcador_cita": "[[PAGINA 68]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0068",
+      "pagina_pdf": 68,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 68 de 99 \nVII. RESPONSABILIDADES \n7.1 NIVEL NACIONAL \nEl MINSA, a través del Viceministerio de Salud Pública y la Dirección General de \nIntervenciones Estratégicas en Salud Pública (DGIESP) o quien haga de sus veces es \nresponsable de la difusión de la presente Norma Técnica de Salud hasta el nivel regional,  \nasí como de brindar la asistencia técnica para la implementación, la supervisión y \nevaluación de su cumplimiento. \n7.2 NIVEL REGIONAL \nLa DIRESA/GERESA/DIRIS es responsable de difundir la presente Norma Técnica de \nSalud en su respectivo ámbito o jurisdicción, así como de brindar asistencia técnica, \nimplementarla y hacer cumplir lo establecido, monitorear, supervisar y evaluar su \ncumplimiento. \n7.3 NIVEL LOCAL \nLos titulares o responsables de la conducción o administración de las entidades públicas \ny privadas comprendidas en el ámbito de aplicación son responsables de aplicar, en lo \nque les corresponda, la presente Norma Técnica de Salud, bajo responsabilidad. \nVIII. DISPOSICIONES FINALES \n8.1  \nLos ES evaluadores y los ES que conformen Comisiones -SCTR no deben tener \ndependencia económica o comercial con la aseguradora a la que el trabajador asegurado \nse encuentre afiliado, a fin de garantizar la imparcialidad de los procedimientos, \ncumpliendo con los protocolos y estándares técnicos y éticos correspondientes. \n8.2  \nLa metodología de evaluación, calificación y certificación de la incapacidad laboral \nestablecida en la presenta norma técnica de salud es aplicable para las nuevas solicitudes \npresentadas por los asegurados. Las solicitudes presentadas antes de la aprobaci ón de \nla presente norma técnica de salud, los procesos dirimentes en trámite y las \nreevaluaciones serán evaluadas, calificadas y certificadas con la metodología vigente \nanterior a la aprobación de la presente norma técnica de salud. \n8.3  \nA partir de la vigencia de la presente norma técnica de salud, las Comisiones Médicas \nCalificadoras de Incapacidad constituidas al amparo del Decreto Supremo N° 166 2005-\nEF se encuentran prohibidas de emitir certificados médicos, informes de evaluación \nmédica y/o dictámenes médicos que contengan los diagnósticos señalados en el listado \nde enfermedades profesionales establecido en la Resolución Ministerial N° 480 -\n2008/MINSA o la norma que la sustituya."
+    },
+    {
+      "marcador_cita": "[[PAGINA 69]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0069",
+      "pagina_pdf": 69,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 69 de 99 \n8.4  \nEn caso el expediente descrito en el numeral 6.1 se encuentre incompleto porque la \nempresa empleadora haya fenecido, y con ello no se permita tener la documentación \nnecesaria para el reconocimiento de la EP; la aseguradora del SCTR solicita que el \nCENSOPAS-INS, realice la evaluación pertinente para el recon ocimiento de la EP , la \nevaluación de la deficiencia, del rol laboral y/o restricción en la participación en el marco \nde sus funciones y cumpliendo con los requisitos establecidos en el numeral 6.2 según \ncorresponda. \n8.5  \nEn un plazo de doscientos diez (210) días hábiles y bajo responsabilidad, las Gerencias \nRegionales de Salud, las Direcciones Regionales de Salud y las Direcciones de Redes \nIntegradas de Salud, mediante los ES ubicados en su jurisdicción deberán implementar  \nlos servicios de evaluación y conformar y establecer el funcionamiento de sus \nComisiones-SCTR de acuerdo a los de los numerales 6.2, 6.3 y 6.4 de la presente Norma \nTécnica de Salud. \n8.6  \nEl MINSA elabora y aprueba en el plazo de 90 (noventa) días calendario el instrumento de \nevaluación y calificación de la incapacidad laboral (Manual Nacional de Evaluación y \nCalificación del Grado de Incapacidad) que debe contener como mínimo las siguiente s \nunidades debidamente desarrolladas: \na) Unidad I Deficiencias por alteraciones debidas a neoplasias o cáncer. \nb) Unidad II Deficiencias por alteraciones del sistema cardiovascular. \nc) Unidad III Deficiencias por trastornos del sistema respiratorio. \nd) Unidad IV Deficiencias del sistema digestivo. \ne) Unidad V Deficiencias del sistema urinario y reproductor. \nf) Unidad VI Deficiencias por trastornos de la piel, faneras y daño estético. \ng) Unidad VII Deficiencias por alteraciones del sistema hematopoyético. \nh) Unidad VIII Deficiencias por alteraciones del sistema endocrino. \ni) Unidad IX Deficiencias por alteraciones del sistema auditivo y vestibular. \nj) Unidad X Deficiencias por alteraciones del olfato, del gusto, de la voz, del habla y \nde las vías aéreas superiores. \nk) Unidad XI. Deficiencias por alteraciones del sistema visual. \nl) Unidad XII Deficiencias del sistema nervioso central y periférico. \nm) Unidad XIII. Deficiencias por trastornos mentales y del comportamiento. \nn) Unidad XIV. Deficiencias por alteración de las extremidades superiores e \ninferiores. \no) Unidad XV. Deficiencias por alteración de la columna vertebral y pelvis. \n8.7  \nEn tanto el MINSA no apruebe el documento normativo que establezca el instrumento de \nevaluación y calificación de la incapacidad laboral, para la calificación de la deficiencia se \nemplea un instrumento que tenga criterios similares a los señalados en el nu meral"
+    },
+    {
+      "marcador_cita": "[[PAGINA 70]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0070",
+      "pagina_pdf": 70,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 70 de 99 \nanterior, y que se utilice en el sistema privado de administración de fondos de pensiones \npara tal efecto. \n8.8  \nEl MINSA a través de la Dirección General de Intervenciones Estratégicas en Salud \nPública en coordinación con las regiones planificará un proceso de capacitación continua \na los médicos evaluadores y miembros de las Comisiones -SCTR a fin de adquirir \ncapacidades en el proceso de evaluación, calificación y certificación de la incapacidad \nlaboral por AT o EP . \n8.9  \nEl INR deberá actualizar su procedimiento de evaluación y calificación de incapacidad \nlaboral para el SCTR en Única Instancia Administrativa a ser aprobado con Resolución \nDirectoral, previa comunicación a la Dirección General de Intervenciones Estratégicas en \nSalud Pública. \nIX. ANEXOS \nAnexo 1:   Documentos que integran el expediente que debe presentar la \nAseguradora del SCTR al ES. \nAnexo 2:  Informe de Evaluación Médica de Incapacidad Laboral. \nAnexo 3:  Informe de Análisis del Puesto de Trabajo. \nAnexo 4:  Instructivo de Valoración de los Requerimientos del Puesto. \nAnexo 5:  Informe de Evaluación del Rol Laboral. \nAnexo 6:  Ficha de evaluación de la Restricción en la Participación. \nAnexo 7:  Calificación de la edad. \nAnexo 8:  Informe de Calificación del Rol Laboral y Restricción en la Participación. \nAnexo 9:  Certificado de Incapacidad Laboral por Accidente de Trabajo o Enfermedad \nProfesional. \nAnexo 10:  Estándares para la toma de radiografías de Neumoconiosis-OIT."
+    },
+    {
+      "marcador_cita": "[[PAGINA 71]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0071",
+      "pagina_pdf": 71,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 71 de 99 \nANEXO 1 \nDocumentos que integran el expediente que debe presentar  \nla Aseguradora del SCTR al ES.(*)"
+    },
+    {
+      "marcador_cita": "[[PAGINA 72]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0072",
+      "pagina_pdf": 72,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 72 de 99 \nANEXO 2 \n \nINFORME DE EVALUACIÓN MÉDICA DE INCAPACIDAD LABORAL \nLOGOTIPO INSTITUCIONAL                       \n                              \n  INFORME DE EVALUACIÓN MÉDICA DE INCAPACIDAD LABORAL   \n                              \n                              \n  Centro Asistencial (Hospital/Instituto)          Nº Expediente     \n           \n      Fecha Día Mes Año   \n  MINSA     EsSalud     EPS               \n                              \n  Servicio             Especialidad   \n          \n                              \n                              \n  DATOS PERSONALES DEL EVALUADO   \n  Apellido paterno       Apellido materno     Nombres         \n          \n                              \n  Nº DNI / Carnet de Extranjería   Sexo     Edad   Fecha de nacimiento   \n                      \n                              \n  Grado de instrucción   Profesión         Experiencia laboral   \n             \n                              \n  Dirección actual                         \n  Calle/Jirón/Avenida         Block/Manzana/Urbanización         \n          \n                              \n  Distrito         Provincia       Departamento       \n              \n                              \n                              \n  INFORME MÉDICO                       \n                              \n  Antecedentes                         \n  \n  \n  \n    \n    \n    \n                              \n  Anamnesis                         \n  \n  \n  \n    \n    \n    \n                              \n  Examen Físico (Resaltar signos resaltantes asociado a siniestro laboral)           \n  \n  \n  \n    \n    \n    \n                              \n  Resultados de exámenes de apoyo diagnóstico"
+    },
+    {
+      "marcador_cita": "[[PAGINA 73]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0073",
+      "pagina_pdf": 73,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 73 de 99 \n                       \n                              \n  Diagnósticos                     CIE-10   \n        \n        \n        \n        \n                              \n  Pronóstico (marcar)                   \n  Favorable Recuperable Irrecuperable Malo         \n          \n \n         \n  \n \nNaturaleza (Marcar) \n Temporal  \n    \nPermanente  \n \n  \n                      \n                              \n  OBSERVACIONES   \n      \n                              \n                              \n  FIRMA Y SELLO   \n  \n  \n  \n  \n  \n      \n      \n      \n  MÉDICO ESPECIALISTA DEL ESTABLECIMIENTO DE SALUD    JEFE DE SERVICIO DEL ESTABLECIMIENTO DE SALUD    \n                              \nFuente: Adaptación de la Directiva Sanitaria N° 003-MINSA/DGSP.V01 Aplicación técnica del Certificado Médico requerido para \nel otorgamiento de pensión de invalidez-DS N° 166-2005-EF aprobado por R.M N° 478-2006-MINSA"
+    },
+    {
+      "marcador_cita": "[[PAGINA 74]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0074",
+      "pagina_pdf": 74,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 74 de 99 \nANEXO 3 \n \nINFORME DE ANÁLISIS DEL PUESTO DE TRABAJO \n \nDATOS DE FILIACIÓN DEL PUESTO DE TRABAJO \nEmpresa: \nRubro de la empresa: \nNombre del puesto de trabajo: \n \nFecha:      \nClasificador nacional de \nocupaciones (CNO) \n1 2 3 4 \n \nREQUERIMIENTO DEL PUESTO DE TRABAJO Y CAPACIDADES DEL TRABAJADOR.  \n1. ACTIVIDADES DEL TRABAJADOR  \n \nTareas Principales \n \n \n \n \n \nTareas Secundarias \n \n \n \nUso de Maquinarias/Equipos o \nHerramientas \n \n \n \n \nEquipos de Protección Personal \n \n \n \n \n2.    HORARIO DE TRABAJO  \nHoras diarias Horario Turno Horas extras \n    \n \n \n3.   FORMACIÓN Y EXPERIENCIA EXIGIDA \nActividades sin experiencia ni \nentrenamiento \n \nActividades con experiencia \nbásica, pero sin adiestramiento.  \n \nActividad con experiencia y que \nrequiere un adiestramiento, \nentrenamiento o capacitación \nbásicos \n \nActividades con experiencia y con \nun grado de adiestramiento, \nentrenamiento o capacitación \ntécnica que le permita desarrollar"
+    },
+    {
+      "marcador_cita": "[[PAGINA 75]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0075",
+      "pagina_pdf": 75,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 75 de 99 \nsu actividad laboral manteniendo \nun rendimiento habitual \nActividades con experiencia y con \nel adiestramiento, entrenamiento o \ncapacitación universitaria \nnecesarios. Se define como \nexigencia laboral intensa o \n\"cualificada\". \n \nActividades con experiencia y \nespecialmente adiestrada, \nentrenada o capacitación \nuniversitaria avanzado \n(postgrado). Se define como \nexigencia laboral especialmente \nintensa \n \n \n4.  DIMENSIONES DE CARGA LABORAL \n \nFísica  \nMental \n \nEmocional  \n \n5.   NIVEL DE REQUERIMIENTOS DEL PUESTO DE TRABAJO \n \n \nRequerimiento \nNivel \nBajo Medio Alto Muy Alto \nMental     \nMemoria visual     \nSemejanzas y diferencias     \nOrientación espacial     \nConocimiento numérico     \nAprendizaje de tareas     \nLenguaje expresivo     \nConocimiento de la escritura     \nLenguaje comprensivo     \nConocimiento de la lectura     \nResponsabilidad: autonomía \nlaboral y realización de la tarea \n    \nRepetitividad     \nAtención     \nRitmo     \nOrganización     \nRelaciones de trabajo     \nSeguridad     \nFísica"
+    },
+    {
+      "marcador_cita": "[[PAGINA 76]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0076",
+      "pagina_pdf": 76,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 76 de 99 \nManipulación Manual de carga,     \nCoordinación manipulativa     \nCarga postural/Trabajo repetitivo \n \n    \nTrabajo de precisión \n \n    \nSedestación Mantenida \n \n    \nBipedestación     \nMarcha por terreno irregular \n \n    \nCampo visual \n \n    \nAgudez visual \n \n    \nRequerimiento Auditivo \n \n    \nRequerimiento fonatorio \n \n    \nRequerimiento de olfato y/o \ngusto \n \n    \nSensibilidad: superficial y/o \nprofunda \n \n    \nEmocional     \nControl emocional     \nRelaciones Psicosociales     \nOtros     \n     \n     \n \n \n6. INFORMACIÓN COMPLEMENTARIA \nAdjuntar, si se considera necesario, análisis de tareas, procedimientos y descripción del \npuesto (fotos, planos, etc.)."
+    },
+    {
+      "marcador_cita": "[[PAGINA 77]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0077",
+      "pagina_pdf": 77,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 77 de 99 \nANEXO 4 \n \nINSTRUCTIVO DE VALORACIÓN DE LOS REQUERIMIENTOS DEL PUESTO  \n \n1. Carga Mental y Carga Emocional \n \n \n \n \n \n \n \n \n \n \n \n \n \n2. Carga Física \n \n2.1 Carga biomecánica por postura /repetitividad:  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2.2 Manejo de cargas:  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2.3 Trabajo de precisión:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 78]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0078",
+      "pagina_pdf": 78,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 78 de 99 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2.4 Sedestación mantenida y Bipedestación:  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2.5 Marcha por terreno irregular: \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n3. Requerimientos Visuales \n3.1 Agudeza Visual"
+    },
+    {
+      "marcador_cita": "[[PAGINA 79]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0079",
+      "pagina_pdf": 79,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 79 de 99 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n3.2 Campo Visual \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n4. Requerimientos Auditivos \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n5. \nRequerimientos fonatorios:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 80]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0080",
+      "pagina_pdf": 80,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 80 de 99 \n• Audibilidad: El trabajador debe tener la capacidad para hablar a un nivel suficiente como \npara ser oído. Se considera 25%e cuando debe mantenerse en lugares con ruido leve y la \naudición debe ser mantenida en el tiempo. \n \n• Inteligibilidad: El trabajador debe mantener un porcentaje superior al 90% de las palabras \nidentificables, de ser así se le da un valor del 25%.  \n \n• Eficiencia funcional: Será eficiente cuando se alcancen al menos 80-100 palabras por \nminuto. Si es así se le da un valor del 25%.  \n \n• Análisis perceptual con la escala GRBAS: la escala de Hirano se aplicará de la siguiente \nforma (G: grado global de conservación vocal. R: sin aspereza o pulsos glóticos B: voz \naérea por glotis suficiente. A: fonación espontánea suficiente para el puesto. S: tensión \nvocal o impresión auditiva sin esfuerzo. Cada ítem se califica de 0-3 (0= normal; 1= leve; 2= \nmoderado; 3= severo). La sumatoria de valores inferiores a 5 se consideran de baja \nexigencia. Si es de baja exigencia un valor del 25%. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n6. Requerimientos de olfato y/o gusto: \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n7. Sensibilidad: \n7.1 Superficial:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 81]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0081",
+      "pagina_pdf": 81,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 81 de 99 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n7.2 Profunda o propioceptiva:  \n \n \n \nANEXO 5  \nINFORME DE EVALUACIÓN DEL ROL LABORAL"
+    },
+    {
+      "marcador_cita": "[[PAGINA 82]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0082",
+      "pagina_pdf": 82,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 82 de 99 \nLOGOTIPO \nINSTITUCIONAL                       \n                              \n  EVALUACIÓN DE ROL LABORAL   \n                              \n                              \n  Centro Asistencial (Hospital/Instituto)                   \n  \n  \n  Nº Expediente     \n              \n                    Fecha Día Mes Año   \n  MINSA     EsSalud     EPS               \n                              \n                              \n  DATOS PERSONALES DEL EVALUADO   \n  \nApellido \npaterno       Apellido materno     Nombres         \n          \n                              \n  Nº DNI / Carnet de Extranjería   Sexo     Edad   Fecha de nacimiento   \n                      \n                              \n  Grado de instrucción   Profesión         Tiempo laboral     \n              \n                              \n   Marcar con una \"X\" la categoría asignada   \n  NIVEL PUNTAJE ASIGNADO   \n   Sin limitaciones en el puesto de trabajo original 0   \n    \n    \n   Limitaciones leves para la actividad laboral en el puesto de trabajo original 1 \n  \n    \n    \n  \n Limitaciones moderadas para la actividad laboral en el puesto de trabajo \noriginal \n2 \n  \n    \n    \n  \n Con limitaciones severas para la actividad laboral del puesto de trabajo \noriginal \n   \n3 \n  \n    \n  \n    \n \n \nCon limitaciones severas para la actividad laboral del puesto de trabajo \noriginal y limitaciones leves para actividades laborales de otro puesto de \ntrabajo \n \n4 \n \n  \n  \n \n  \n Sin posibilidad de realizar actividades laborales 5"
+    },
+    {
+      "marcador_cita": "[[PAGINA 83]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0083",
+      "pagina_pdf": 83,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 83 de 99 \n    \n    \n  a.   \n                  \nPUNATJE ASIGNADO \n    \n                              \n                              \n          \n  \n          \n                    \n                    \n                    \n          \nMÉDICO ESPECIALISTA EN MEDICINA Y DEL \nMEDIO AMBIENTE           \n                              \nFuente Adaptado de Ministerio de Trabajo, Manual Único para la Calificación de la Perdida de la Capacidad Laboral \ny Ocupacional, MINTRABAJO, Colombia: 2014."
+    },
+    {
+      "marcador_cita": "[[PAGINA 84]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0084",
+      "pagina_pdf": 84,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 84 de 99 \nCalificación de las Restricciones del Rol Laboral y Capacidades Laborales. Una vez \nidentificado el puntaje de comparación de requerimientos y capacidades, se asignará \nel porcentaje adecuado según la siguiente tabla:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 85]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0085",
+      "pagina_pdf": 85,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 85 de 99 \nANEXO 6 \n \nFICHA DE EVALUACIÓN DE LA RESTRICCIÓN EN LA PARTICIPACIÓN- CIF \nLOGOTIPO INSTITUCIONAL           \n            \nEVALUACIÓN DE LA RESTRICCIÓN EN LA PARTICIPACIÓN - CIF \n            \n    Centro Asistencial (Hospital/Instituto)                     \n            N° Expediente \n \n     \n        Fecha Día Mes Año   \n  \n \n MINSA                                        EsSalud \n \n \n  \nEPS \n \n           \n                        \n  DATOS PERSONALES DEL EVALUADO            \n  Apellido Paterno Apellido materno   Nombres     \n           \n  N° DNI/ Carnet de Extranjería Sexo  Edad   Fecha de nacimiento     \n  \n \n \n  \n \n    \n \n    \n \nTeniendo el cuenta el Instructivo de Clasificación del nivel de dependencia en la restricción en la participación, marque con una “X” la clase \nasignada \n1 \n  \nAprendizaje y aplicación del conocimiento (valor máximo posible 2.0) CLASES  \nNivel de gravedad, excluyentes entre los cinco indicadores \nA B C D E \n0 0.2 0.4 0.6 0.8 \n1.1 Mirar: Usar el sentido de la vista intencionalmente para apreciar estímulos visuales, como ver un \nacontecimiento deportivo o niños jugando.           \n1.2 Escuchar: Usar el sentido del oído para apreciar estímulos auditivos, como escuchar la radio, música o una \nlección.           \n1.3 \nPensar: Formular y manipular ideas, conceptos e imágenes, tanto orientadas como no a metas específicas, \ny que pueden ir acompañadas o no, como crear una ficción, probar un teorema, jugar con ideas, hacer una \ntormenta de ideas, meditar, valorar o ponderar, especular o reflexionar \n          \n1.4 \nResolver problemas y tomar decisiones: Encontrar soluciones a problemas y situaciones detectando y \nanalizando las consecuencias, desarrollando opciones y soluciones, evaluando efectos potenciales de las \nsoluciones y ejecutando la solución escogida, como resolver una disputa entre dos personas \n          \n1.5 \nLlevar a cabo tareas simples: Llevar a cabo, acciones sencillas o complejas y coordinadas relacionadas con \nlos componentes mentales y físicos implicados en una tarea, como iniciar una tarea, organizar el tiempo, \nespacio y materiales para una realizar una tarea, llevarla a cabo, completarla y mantener la actividad. \n          \n2 \n  \nComunicación (valor máximo posible 4.0) A B C D E \nNivel de gravedad, excluyentes entre los cinco indicadores 0 0.2 0.4 0.6 0.8 \n2.1 Comunicarse con recepción de mensajes verbales           \n2.2 \nComunicarse con---recepción de---mensajes escritos: Comprender el significado literal e implícito de \nmensajes que están estructurados a través del lenguaje escrito (incluido Braille), como seguir eventos \npolíticos en el periódico o entender el mensaje de una escritura religiosa o de una historia. \n          \n2.3 Habla: Producir palabras, frases y párrafos en mensajes hablados con significado literal e implícito, como la \nhabilidad de expresar un hecho o contar una historia en lenguaje oral."
+    },
+    {
+      "marcador_cita": "[[PAGINA 86]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0086",
+      "pagina_pdf": 86,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 86 de 99 \n2.4 Mensajes escritos: La habilidad de producir mensajes con significado literal o implícito, expresados \nmediante el lenguaje escrito, como escribir una carta a un amigo.           \n2.5 \nConversación: Iniciar, sostener y finalizar un intercambio de pensamientos e ideas, llevado a cabo a través \nde lenguaje hablado, escrito, de signos u otras formas de lenguaje, con una o más personas conocidas o \nextraños, en un ambiente formal o informal. \n          \n3 \n  \nMovilidad (valor máximo posible 4.0) A B C D E \nNivel de gravedad, excluyentes entre los cinco indicadores 0 0.2 0.4 0.6 0.8 \n3.1 Mantener la posición del cuerpo: Mantener el cuerpo en la misma posición durante el tiempo necesario, \ncomo permanecer sentado o permanecer de pie en el trabajo o colegio.           \n3.2 Levantar y llevar objetos: Levantar un objeto y llevarlo de un sitio a otro, como levantar una taza o llevar a \nun niño de una habitación a otra.           \n3.3 \nUso fino de la mano: Realizar acciones coordinadas relacionadas con manejar, recoger, manipular y soltar \nobjetos, utilizando una mano, los dedos y el pulgar (los dedos de la mano), como levantar monedas de una \nmesa, o girar un tirador/perilla/picaporte. \n          \n3.4 Uso de la mano y el brazo: Realizar las acciones coordinadas que se requieren para manipular y mover \nobjetos utilizando las manos y los brazos, como girar tiradores/perillas/picaportes o lanzar o coger un objeto           \n3.5 Andar y desplazarse por el entorno: Avanzar sobre una superficie a pie, paso a paso, de manera que al \nmenos un pie esté siempre en el suelo, como caminar hacia delante, hacia atrás o de lado.            \n4       \n  \nCuidado Personal (valor máximo posible 4.0) A B C D E \nNivel de gravedad, excluyentes entre los cinco indicadores 0 0.2 0.4 0.6 0.8 \n4.1 \nLavarse: Lavarse y secarse todo el cuerpo o partes del cuerpo, utilizando agua y materiales o métodos \napropiados de lavado y secado, como bañarse ducharse, lavarse las manos y la cara, el pelo; y secarse \ncon una toalla \n          \n4.2 Higiene personal relacionada con los procesos de excreción: Planificación y ejecución de la eliminación de \nresiduos humanos (menstruación, orinar y defecar) y la propia limpieza posterior           \n4.3 \nVestirse: Llevar a cabo las acciones coordinadas relacionadas con ponerse y quitarse ropa y calzado en el \norden correcto y de acuerdo con las condiciones climáticas, como poner, colocar y quitar, camisas, faldas, \nblusas, pantalones, ropa interior, medias, sombreros, guantes, abrigos, zapatos, botas, sandalias y \nzapatillas/pantuflas. \n          \n4.4 \nComer y beber: Llevar a cabo las tareas y acciones coordinadas relacionadas con comer y beber la comida \no bebida que está servida, llevarla a la boca y consumirla de una manera culturalmente aceptable, en un \ncontexto/entorno uniforme, cortar o partir la comida en pequeños trozos, abrir botellas y latas, usar \ncubiertos. \n          \n4.5 \nCuidado de la propia salud: Asegurar la salud y bienestar físico y mental, en un contexto/entorno uniforme, \ncomo mantener una dieta balanceada/equilibrada, un nivel adecuado de actividad física, una temperatura \ncorporal adecuada, prevenir daños para la salud, seguir prácticas sexuales seguras, incluyendo el uso de \npreservativos, seguir los planes de inmunización y realizar exámenes físicos regulares. \n          \n5 \n  \nVida Doméstica (valor máximo posible (4.0) A B C D E \nNivel de gravedad, excluyentes entre los cinco indicadores 0 0.2 0.4 0.6 0.8 \n5.1 Adquisición de un lugar para vivir: Comprar, alquilar, amueblar y organizar una casa, apartamento u otra \nvivienda           \n5.2 \nAdquisición de bienes y servicios: Seleccionar, obtener y transportar todos los bienes y servicios necesarios \npara la vida diaria, como seleccionar, obtener, transportar y almacenar comida, bebida, ropa, productos de \nlimpieza, combustible, artículos para la casa, utensilios, baterías de cocina, aparatos domésticos y \nherramientas; procurarse servicios y utilidades domésticas"
+    },
+    {
+      "marcador_cita": "[[PAGINA 87]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0087",
+      "pagina_pdf": 87,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 87 de 99 \n5.3 \nRealizar los quehaceres de la casa: Ocuparse de la casa limpiándola, lavando la ropa, usando aparatos \ndomésticos, almacenando comida y eliminando la basura, como barrer, pasar el trapeador, limpiar las \nencimeras, paredes y otras superficies; recoger y eliminar la basura de la casa; ordenar habitaciones, \narmarios y cajones; recoger, lavar, secar, doblar y planchar ropa; limpiar calzado; utilizar escobas, cepillos y \naspiradoras; utilizar lavadoras, secadoras y planchas \n          \n5.4 \nCuidado de los objetos del hogar: Mantener y reparar los objetos del hogar y otros objetos personales, \nincluyendo la casa y su contenido, la ropa, los vehículos y los dispositivos de ayuda y el cuidado de plantas \ny animales, como pintar o empapelar las habitaciones, reparar los muebles, reparar las cañerías, \nasegurarse de que los vehículos funcionan adecuadamente, regar las plantas, cuidar y alimentar mascotas \ny animales domésticos. \n          \n5.5 \nAyudar a los demás: Ayudar a miembros de la casa y a otras personas en su aprendizaje, en la \ncomunicación, en el auto cuidado o en el desplazamiento dentro o fuera de la casa; preocuparse por el \n“bienestar” de los miembros de la casa y de otras personas \n          \n6.0 \nAutosuficiencia económica (valor máximo posible (2.0)  \n \n \nPorcentaje \n \n \nSituación del \nevaluado \n \n \n \nNivel de gravedad, excluyentes entre los tres indicadores \nConsignar una sola situación \n6.1 . \nAutosuficiencia económica completa: Evaluado ejerce un rol laboral que le permite generar los mismos \ningresos económicos antes de adquirir las secuelas del accidente de trabajo o enfermedad profesional.  \n \n0%  \n6.2  \nAutosuficiencia económica recortada: Evaluado ejerce el mismo rol laboral o un rol laboral  diferente al \nhabitual que le genera reducción de ingresos económicos antes de adquirir las secuelas del accidente de \ntrabajo o enfermedad profesional \n. \n1%  \n6.3 Sin Autosuficiencia económica: Evaluado no ejerce un rol laboral debido a la secuela del accidente o \nenfermedad profesional, lo que le impide generar ingresos económicos. \n. \n2%  \n \n  \nMÉDICO ESPECIALISTA EN MEDICINA FÍSICA Y \nREHABILITACION  \n \n \n \nFuente Adaptado de Ministerio de Trabajo, Manual Único para la Calificación de la Perdida de la Capacidad Laboral \ny Ocupacional, MINTRABAJO, Colombia: 2014. \n \n \n \n \nInstructivo de Clasificación del nivel de dependencia en la restricción en la \nparticipación"
+    },
+    {
+      "marcador_cita": "[[PAGINA 88]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0088",
+      "pagina_pdf": 88,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 88 de 99"
+    },
+    {
+      "marcador_cita": "[[PAGINA 89]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0089",
+      "pagina_pdf": 89,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 89 de 99 \nPARA LA CALIFICACIÓN DE LA INCAPACIDAD POR ACCIDENTE DE TRABAJO O \nENFERMEDADES PROFESIONALES SE CONSIDERARÁN LOS SIGUIENTES \nPARÁMETROS SOBRE LA CLASIFICACIÓN INTERNACIONAL DE FUNCIONAMIENTO \n(CIF)."
+    },
+    {
+      "marcador_cita": "[[PAGINA 90]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0090",
+      "pagina_pdf": 90,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 90 de 99 \nANEXO 7 \nCALIFICACIÓN DE LA EDAD"
+    },
+    {
+      "marcador_cita": "[[PAGINA 91]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0091",
+      "pagina_pdf": 91,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 91 de 99 \n \nANEXO 8  \nINFORME DE CALIFICACIÓN DEL ROL LABORAL Y RESTRICCIÓN EN LA \nPARTICIPACIÓN \nLOGOTIPO INSTITUCIONAL                       \n                              \n  INFORME DE EVALUACION DEL ROL LABORAL Y RESTRICCIÓN EN LA PARTICIPACIÓN   \n                              \n                              \n  Centro Asistencial (Hospital/Instituto)                   \n  \n  \n  Nº Expediente     \n              \n                    Fecha Día Mes Año   \n  MINSA     EsSalud     EPS               \n                              \n                              \n  DATOS PERSONALES DEL EVALUADO   \n  Apellido paterno       Apellido materno     Nombres         \n          \n                              \n  Nº DNI / Carnet de Extranjería   Sexo     Edad   Fecha de nacimiento   \n                      \n                              \n  Grado de instrucción   Profesión         Tiempo laboral     \n                \n                              \n  Dirección actual                         \n  Calle/Jirón/Avenida         Block/Manzana/Urbanización         \n          \n                              \n  Distrito         Provincia       Departamento       \n              \n                              \n                              \n  DATOS LABORALES DEL EVALUADO   \n  Entidad Empleadora (Razón Social)   RUC     CIIU       \n                \n                              \n  Dirección (principal)         Teléfono     Correo electrónico     \n              \n                              \n  Aseguradora de SCTR (Razón social)   Teléfono     Correo electrónico     \n              \n                              \n  Puesto de trabajo         Tiempo puesto (meses) Tiempo de experiencia (meses) \n              \n                              \n  Tipo de contrato     Fecha de ingreso               \n                        \n                              \n                              \n  SINIESTRO LABORAL                       \n                      \n    Accidente de Trabajo                     \n                              \n    Fecha de Accidente   Naturaleza de lesión   Parte del cuerpo afectado"
+    },
+    {
+      "marcador_cita": "[[PAGINA 92]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0092",
+      "pagina_pdf": 92,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 92 de 99 \n    CIE-10 Diagnóstico                   \n          \n          \n          \n                            \n    Enfermedad Ocupacional                     \n                              \n    Fecha de diagnóstico   Causa       Lugar de diagnóstico   \n                    \n                              \n    CIE-10 Diagnóstico                   \n          \n                              \n                              \n  INFORME MÉDICO OCUPACIONAL   \n  Evaluación de las Capacidades y Requerimientos del Puesto de Trabajo    \n  \n  \n  \n    \n    \n    \n                              \n     \n  \n  \n  \n    \n    \n    \n                              \n  Calificación del rol laboral   \n  \n  \n  \n    \n    \n    \n                              \n  Calificación de la restricción en la participación-CIF   \n      \n                              \n  Calificación de la Edad   \n      \n                              \n                              \n                              \n                              \n  OBSERVACIONES   \n      \n                              \n                             \n  FIRMA Y SELLO   \n        \n  \n          \n                  \n                  \n                  \n        MÉDICO OCUPACIONAL – Comisión-SCTR"
+    },
+    {
+      "marcador_cita": "[[PAGINA 93]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0093",
+      "pagina_pdf": 93,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 93 de 99 \nANEXO 9 \nCERTIFICADO DE INCAPACIDAD LABORAL POR ACCIDENTE DE TRABAJO O \nENFERMEDAD PROFESIONAL \nLOGOTIPO \nINSTITUCIONAL                         \n                                \nCERTIFICADO DE INCAPACIDAD POR ACCIDENTE DE TRABAJO O ENFERMEDAD PROFESIONAL \n                               \n                                \n  Nº de Certificado    Centro Asistencial (Hospital/Instituto)   Fecha       \n          Día Mes Año   \n                       \n  Nº de Expediente                       \n      MINSA     \nEsS\nalud     EPS       \n                                \n                                \n  DATOS PERSONALES DEL EVALUADO   \n  \nApellido \npaterno       Apellido materno       Nombres       \n          \n                                \n  Nº DNI / Carnet de Extranjería   Sexo       \nEda\nd   Fecha de nacimiento   \n                        \n                                \n  Estado civil   Grado de instrucción   Profesión       \n              \n                                \n  Teléfono       Correo electrónico           \n                  \n  \n Dirección Actual \n  \n                          \n  Calle/Jirón/Avenida           Block/Manzana/Urbanización       \n            \n                                \n  Distrito         Provincia     Departamento       \n              \n                                \n  \nSINIESTRO \nLABORAL                 \n Accidente de Trabajo     Fecha de accidente             \n                                \n  \nEnfermedad \nOcupacional     Fecha de diagnóstico             \n                                \n                                \n  \nLa Comisión Calificadora de Incapacidad por Accidente de Trabajo o Enfermedad Profesional, de acuerdo con sus \nfacultades certifica lo siguiente:"
+    },
+    {
+      "marcador_cita": "[[PAGINA 94]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0094",
+      "pagina_pdf": 94,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 94 de 99 \n  a. Diagnósticos                     CIE-10   \n        \n        \n        \n        \n        \n                                \n  \nb. Incapacidad \nGrado                           \n    Parcial     Total     Gran \nIncapacidad      \n  \n  \n Naturaleza \n                            \n  d. Menoscabo                         \n   Temporal   Permanente   %             \n               \n            I. Porcentaje de Deficiencia               \n            \nII. Valoración Rol laboral y \nrestricción en la Participación               \n            \nMENOSCABO DE LA \nCAPACIDAD LABORAL               \n  Fecha de inicio de incapacidad       \n        Día Mes Año   \nNo se \nprecisa           \n                            \n                                \n  OBSERVACIONES   \n     \n                                \n  FIRMA Y SELLO   \n  \n  \n  \n  \n  \n  \n  \n        \n        \n        \n  PRESIDENTE DEL COMISIÓN-SCTR  MIEMBRO DEL COMISIÓN-SCTR  MIEMBRO DEL COMISIÓN-SCTR   \n    \n  \n \n \n                 \n  \n \n \n \n \n \n \n            \nFuente: Adaptación de la Directiva Sanitaria N°  003-MINSA/DGSP.V01 Aplicación técnica del Certificado Médico requerido para el otorgamiento de pensión de invalidez -DS \nN° 166-2005-EF aprobado por R.M N° 478-2006-MINSA \n \n  \n \n \n \n \n \n \n \nMIEMBRO DE LA COMISIÓN-SCTRTR \n \nOM \n \n \n \n \nMIEMBRO DE LA COMISIÓN-SCTRTR"
+    },
+    {
+      "marcador_cita": "[[PAGINA 95]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0095",
+      "pagina_pdf": 95,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 95 de 99 \nANEXO 10 \n \nESTÁNDARES PARA LA TOMA DE RADIOGRAFIAS DE NEUMOCONIOSIS OIT \n \n Equipo \nConvencional \n• Equipo de rayos x fijo con generador no menor de 300 mA a 125 KV con fuente de poder \neléctrico independiente, con tubo de ánodo rotatorio, con spot focal menor a 2mm de diámetro, \ncon filtración total equivalente de 0,7 mmAL y colimación de haz de radiación.  \n• Parrilla o buky Vertical, Grilla de 10:1 y 100 líneas por pulgada.  \n• Barrera emplomada de protección para el operador.  \n• Mandil emplomado.  \n• Chasis con pantalla intensificadora de velocidad media sensible al verde de 14x14 y 14x17 \npulgadas (35x35 y 35x43cm).  \n• Procesadora automática de películas radiográficas. \n• Negatoscopio de 3 cuerpos con luminosidad entre 50 – 100 lux. \n• Infraestructura adecuada con licencia del IPEN para el trabajo con radiaciones ionizantes en el \ndiagnóstico médico. \nDigital \n• Los sistemas radiográficos para adquirir, visualizar y almacenar imágenes de tórax para la \nclasificación de neumoconiosis deben cumplir con las versiones más recientes de los \nestándares DICOM (Digital Imaging and Communications in Medicine) u otros estánda res \ncomparables (por ejemplo, MEDICOM EN 12052). Los estándares DICOM (http://medical. \nnema.org) son ampliamente aceptados y usados internacionalmente para imágenes \nradiográficas. Especifican un formato común para el almacenamiento y transferencia de \nimágenes digitales y para los niveles de brillo y contraste, además de una consistente escala \nde grises para cuando se presenten las imágenes en monitores de visualización o se impriman \nlas imágenes digitales. Se debe tener mucho cuidado en conservar la calidad y la consistencia \nde la imagen al producir las copias físicas de las imágenes digitales. \n• Equipos para imágenes aceptados para el uso de la Clasificación de la OIT, con la debida \natención a la calidad de la imagen: \n✓ El hardware con sistemas basados en la tecnología de almacenamiento de fósforo se \ndescribe como una radiografía computarizada (CR).  \n✓ Sistemas, conocido como radiografías digitales (DR), se encuentran disponibles \nrecientemente"
+    },
+    {
+      "marcador_cita": "[[PAGINA 96]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0096",
+      "pagina_pdf": 96,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 96 de 99 \nTécnica \n• El centrado correcto del tubo radiográfico y la cuidadosa posición del paciente son de gran \nimportancia para la adecuada visualización de las estructuras anatómicas y para la \ncomparación de exámenes seriados, para la incidencia PA, el tubo radiográfico debe centrarse \nen el centro de la película y el rayo dirigido horizontalmente. Los hombres deben colocarse de \ntal manera que las escápulas queden fuera de los campos pulmonares. La exposición debe \nefectuarse en inspiración completa, e inmediatamente después de haber alcanzado ésta, para \nevitar el efecto de Valsalva. Es deseable pero no esencial sacar todas las ropas por encima \nde la cintura.  \n• La distancia tubo-placa debe fijares en 1,8 m. y no debe ser menor de 1,5 m. Por estas razones, \nse recomienda una técnica con alto kilovoltaje variable y miliampere-seg. constante.  \n• Los factores de exposición pueden variar algo con cada generador y tubo. Se emplear el m s \nalto rango de kilovoltaje y el m s bajo rango de miliampere -seg. Obtenible. Para el sujeto \npromedio, con un di metro torácico A -P entre 21 y 23 cm. los factores de e xposición ser n \ncomúnmente 5mAs y aproximadamente 125 kV. El tiempo de exposición recomendado es 1/60 \nseg. (0,017) no excediendo 1/30 (0,03) seg.(basado en corriente de 60 Hz). Para corriente de \n50 Hz, los tiempos de exposición son 1/50 (0,02) y 1/25 (0,04) seg. respectivamente.  \n• Con diámetros torácicos mayores, la exposición adicional se obtiene aumentando el kilovoltaje. \nEl producto miliampere-seg, se aumentar únicamente cuando el kilovoltaje requerido para dar \nuna exposición adecuada exceda la capacidad del generador o del tubo de rayos. Con \ndistancias tubo -placa menores de 1,8 m. se ajustar la técnica disminuyendo el factor \nmiliampere-seg. Cuando se emplean técnicas con m s bajo kilovoltaje, los factores de \nexposición para un sujeto promedio ser n aproximadamente de 300 hA, 0,05  seg. (15 mAs) y \n75 kV. Para sujetos mayores se obtiene una mayor radiación, o bien aumentando el producto \nmiliampere segundo o bien el kilovoltaje.  \n• Se reconoce, sin embargo que el problema de la técnica radiográfica óptima permanece aún \ncontrovertido entre expertos internacionales. Criterios físicos sobre la calidad técnica en \nRadiografías de tórax.  \nA. Densidad óptica 1. Las regiones hiliares deben exhibir un mínimo de 0,2 unidades \nde densidad óptica por encima del velado. 2. Las regiones de parénquima deben \nexhibir un máximo de 1,8 unidades de densidad óptica por encima del velado.  \nB. Contraste de gran imagen: (diferencia de densidad óptica entre el segmento más \noscuro de parénquima pulmonar y las porciones más claras de las regiones hiliares). \nDebe caer en el rango entre 1,0 y 1,4 unidades de densidad óptica. \nC. Potenciales de los tubos de rayos y uso de parrilla. 1. Potenciales de 70 a 100 kV; \nemplear parrillas para todos los sujetos cuya dimensión A -P exceda 22 cm.; 2. \nPotenciales mayores de 100 kV: usar parrillas para todos los sujetos.  \nD. Tiempo de exposición no mayor de 0,1 seg. y preferentemente 0,05 seg. o menos.  \nE. Combinación película -pantalla: Usar películas de mediana velocidad y pantallas \npara asegurar un adecuado detalle de la imagen. Un buen contacto pantalla-película \nes esencial así como un control periódico. \nF. Procesamiento: Mantener la fuerza y temperatura de los procesadores químicos \ndentro de los límites recomendados por el fabricante.  \nG. Supuestos Se mantiene la limpieza de las películas, las pantallas, los líquidos de \nprocesamiento y el equipo.  \nH. Se tiene cuidado en la posición adecuada del paciente.  \nI. Se evita el movimiento del paciente."
+    },
+    {
+      "marcador_cita": "[[PAGINA 97]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0097",
+      "pagina_pdf": 97,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 97 de 99 \nX. BIBLIOGRAFÍA \n \n1) Naciones Unidas - Comisión Económica para América Latina (CEPAL); \nBietti, María; Personas con discapacidad e inclusión laboral en América \nLatina y el Caribe Principales desafíos de los sistemas de protección \nsocial. 2023. . 2023. Disponible en internet: \nhttps://repositorio.cepal.org/server/api/core/bitstreams/1535653e-6f21-456e-bb5a-\ndc446ff5c8ad/content \n2) Organización Internacional del Trabajo. Estrategia y plan de acción para \nla inclusión de la discapacidad 2014-2017. Ginebra. Disponible en internet: \nhttps://www.ilo.org/es/media/50286/download. \n3) Decreto 1507/2014, de 12 de agosto. Manual Único para la Calificación de \nla Pérdida de la Capacidad Laboral y Ocupacional Decreto 1507. \nMinisterio de Trabajo. Colombia. 2014. Disponible en internet: \nhttps://www.fondoriesgoslaborales.gov.co/documents/publicaciones/manuales/ManualUni\ncoCalificaciones_2014.pdf  \n4) Acuerdo No.  0305-2018 Manual: Calificación de la Discapacidad. \nMinisterio de Salud Pública, Dirección Nacional de Normatización, \nDirección Nacional de Discapacidades - Ecuador. 2018. Disponible en \ninternet: https://www.salud.gob.ec/wp-\ncontent/uploads/downloads/2018/12/Manual_Calificaci%C3%B3n-\nde_Discapacidad_2018.pdf \n5) Manual de buenas prácticas para la inclusión laboral de personas con \ndiscapacidad. Fundación Descúbreme. Chile. 2021. Disponible en \ninternet: https://www.descubreme.cl/wp-content/uploads/2021/05/Manual-de-Buenas-\nPracticas-de-Inclusion-Laboral.pdf \n6) Resolución Ministerial 0756 del 22 de diciembre del 2022. Manual de \nProceso y Procedimientos para la Calificación, registro y Carnetización de \ndiscapacidad. Ministerio de Salud y Deportes. Estado Plurinacional de \nBolivia. 2022. Disponible en internet: https://www.minsalud.gob.bo/6420-normas-\ny-manuales-ministerio-de-salud-y-deportes?start=2. \n7) Estrategia Española Sobre Discapacidad 2022-2030; para el acceso, goce \ny disfrute de los derechos humanos de las personas con discapacidad. \nMinisterio de Derechos Sociales y Agenda 2030.  Aprobada por Consejo \nde Ministros. España.2022. Disponible en intern et: .  \nhttps://www.mdsocialesa2030.gob.es/derechos-sociales/discapacidad/docs/estrategia-\nespanola-discapacidad-2022-2030-def.pdf \n8) Real Decreto 888/2022, de 18 de octubre, por el que se establece el \nprocedimiento para el reconocimiento, declaración y calificación del grado \nde discapacidad. España. 2022. Disponible en internet: \nhttps://www.boe.es/boe/dias/2022/10/20/pdfs/BOE-A-2022-17105.pdf \n9) Teófila V-HM, Jesús T -GM, M. C -GL, de la Torre María Victoria R -Í, \nEncarna A-J, José A -BM, et  al. Discapacidad e incapacidad laboral en \nEspaña. Actualización legislativa 2016 [Internet]. Redalyc.org. Disponible \nen internet: https://www.redalyc.org/journal/4577/457754052017/457754052017.pdf \n10) García Herrera M. Las guías de valoración de los requerimientos laborales \nen la Incapacidad Laboral: la Guía de Valoración Profesional del INSS, el"
+    },
+    {
+      "marcador_cita": "[[PAGINA 98]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0098",
+      "pagina_pdf": 98,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 98 de 99 \nmercal y la Guía Mejorada del Instituto de Biomecánica de Valencia. Med \nSegur Trab (Madr) [Internet]. 2014. Disponible en internet: \nhttps://scielo.isciii.es/scielo.php?script=sci_abstract&pid=S0465-546X2014000500014 \n11) Tordoya J, Jimmy E. Guía metodológica para elaborar el diagnóstico \nfisioterapéutico según la Clasificación Internacional del Funcionamiento \n(CIF), de la discapacidad y de la salud. Gac médica boliv [Internet]. 2016 \nDisponible en internet: \nhttp://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S1012-29662016000100011 \n12) Cañón L, Rafael J. Calificación y valoración de la enfermedad profesional: \nanálisis de la situación actual y propuestas de mejora. Med Segur Trab \n(Madr) [Internet]. 2016;62:87 –95. Disponible en internet: \nhttps://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0465-546X2016000400009 \n13) Vicente Pardo, José M. La valoración de la profesión, del trabajo, de la \nocupación, y de las tareas en el procedimiento de valoración de la \ncapacidad laboral en materia de seguridad social. Rev. Medicina y \nSeguridad del Trabajo (Internet) 2014; 60 (237) 66 0-674. Octubre - \ndiciembre 2014. Disponible en internet: \nhttps://scielo.isciii.es/pdf/mesetra/v60n237/inspeccion1.pdf \n14) Gordillo E, Marcone P , Ritter P, Veas J. Reflexión sobre la equidad del \nsistema de calificación médica para invalidez en Chile. Rev Med Chil \n[Internet]. 2021;149(6):906 –12. Disponible en internet: \nhttps://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0034-\n98872021000600906 \n15) Delgado-Carrillo, Mercedes J.; Chávez-Prado, Jorge E.; Sancan-Moreira, \nMercy T. Importancia de la evaluación clínica en la discapacidad. Dom. \nCien., ISSN: 2477-8818 Vol. 5, núm. 3, pp. 71-87. Julio 2019. \n16) Instituto Nacional de Estadística e Informática (INEI). Clasificador Nacional \nde Ocupaciones 2015. Basado en la Clasificación Internacional Uniforme \nde Ocupaciones 2008 elaborado por la Organización Internacional del \nTrabajo. Estadísticas. 2012.  En Disponible en internet:  \nhttps://cdn.www.gob.pe/uploads/document/file/4123438/Clasificador%20Nacional%20de\n%20Ocupaciones%202015.pdf?v=1676476271 \n17) Instituto de Seguridad Social, Manual de Evaluación de Requerimientos \npara la Valoración de la Capacidad Laboral (MERCAL-2008). España.  \n18) Organización Mundial de la Salud, Clasificacion Internacional del \nFuncionamiento , de la Discapacidad y de la Salud-CIF, OMS: 2001."
+    },
+    {
+      "marcador_cita": "[[PAGINA 99]]",
+      "id": "MINSA-NTS-N-220-MINSA-DGIESP-2024-P0099",
+      "pagina_pdf": 99,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "texto_nativo_pdf",
+      "calidad_extraccion": "Texto nativo extraído del PDF; las tablas y diagramas pueden perder su disposición visual.",
+      "texto": "NTS N° 220 - MINSA- DGIESP- 2024 \nNorma Técnica de Salud: Procedimiento de Evaluación, Calificación y Certificación de la Incapacidad \nLaboral por Accidente de Trabajo o Enfermedad Profesional de los Trabajadores Asegurados al Seguro \nComplementario de Trabajo de Riesgo (SCTR) \nMinisterio de Salud | Página 99 de 99"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "MINSA-RESOLUCION-MINISTERIAL-NO-356-2023-MINSA",
+  "id_fuente_oficial": null,
+  "titulo": "Resolución Ministerial Nº 356-2023-MINSA",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Resolución Ministerial",
+  "numero_norma": "RM N.° 356-2023-MINSA",
+  "fecha_aprobacion": null,
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "fuentes_oficiales": [
+    {
+      "tipo": "archivo_local",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "Resolución Ministerial Nº 356-2023-MINSA",
+      "url": null,
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "Resolución Ministerial Nº 356-2023-MINSA.pdf",
+  "huella_sha256_pdf_fuente": "25d730412d0808335742264de287d4e8185858f5617b9c2187065cc62eccc03d",
+  "paginas_pdf": 2,
+  "paginas_con_texto": 2,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "ocr_local_windows_es_ES",
+  "ocr_aplicado": true,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 2,
+    "paginas_con_texto": 2,
+    "caracteres_texto_extraido": 5594
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-NO-356-2023-MINSA-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "MINISTERIO DE SALUD No.â.ãç-2D2311HlflSA DEL K. PARDO K PMDO H. C. AUDOCH. neóo/ucidn Zt;ma, .?.0.. .dd..?QZ Visto, el Expediente NO DGIESP20220000349, que contiene las Notas Informativas NO 1483-2021-DGIESP/MINSA, NO 333-2021-DVICI-DGIESP/MINSA y NO DOOOI 57-2022-DGIESP- DVICI-MINSA, los Memorándums NO DOM 113-2022-DGIESP-MINSA y NO D000628-2023- DGIESP-MINSA y los Informes NO 048-2021-EVAJ-DVICI-DGIESP/MINSA, NO 013-2022-EVAJ- DVICI-DGIESP/MINSA, No D000003-2022-DGlESP-DVlCl-lPC-MlNSA y NO D00016-2023- DGIESP-DVICI-MINSA de la Dirección General de Intervenciones Estratégicas en Salud Publica; y, ei Informe NO D000223-2023-OGAJ-MlNSA-2023-OGAJ-MlNSA de la Oficina General de Asesoría Jurídica; CONSIDERANDO: Que, los numerales I y II del Título Preliminar de la Ley NO 26842, Ley General de Salud, establecen que la salud es condición indispensable del desarrollo humano y medio fundamental para alcanzar el bienestar individual y colectivo, y que la protección de la salud es de interés público, siendo responsabilidad del Estado regularla, vigilarla y promoverla, respectivamente; Que, el numeral 1) del artículo 3 del Decreto Legislativo NO 1161, Ley de Organización y Funciones del Ministerio de Salud, señala como ámbito de competencia del Ministerio de Salud, la salud de las personas; Que, los literales b) y h) del artículo 5 del acotado Decreto Legislativo, modificado por Decreto Legislativo NO 1504, Decreto Legislativo que fortalece al Instituto Nacional de Salud para la prevención y control de las enfermedades, establecen que son funciones rectoras del Ministerio de Salud formular, planear, dirigir, coordinar, ejecutar, supervisar y evaluar la política nacional y sectorial de promoción de la salud, vigilancia, prevención y control de las enfermedades, recuperación, rehabilitación en salud, tecnologías en salud y buenas prácticas en salud, bajo su competencia, aplicable a todos los niveles de gobierno, así como dictar normas y lineamientos técnicos para la adecuada ejecución y supervisión de la política nacional y políticas sectoriales de salud, entre otros; Que, el artículo 63 del Reglamento de Organización y Funciones del Ministerio de Salud, aprobado por Decreto Supremo NO 008-2017-SA, modificado por Decreto Supremo NO 011-2017- SA, establece que la Dirección General de Intervenciones Estratégicas en Salud Pública es el órgano de línea del Ministerio de Salud, dependiente del Viceministerio de Salud Pública, competente para dirigir y coordinar las intervenciones estratégicas en salud pública por curso de vida y cuidado integral, entre otras; S. YANCO\"RT"
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-NO-356-2023-MINSA-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "6 K. PARDO c.ALV RADOCH. cetaria S. YANCOU Que, con Resolución Ministerial NO 1001-2019/MlNSA se aprueba la NTS NO 157- MINSA/2019/DGlESP Norma Técnica de Salud para la Atención Integral de Salud de Adolescentes, con la finalidad de contribuir al desarrollo integral de la salud y el bienestar de la población adolescente, en el marco de los enfoques en derechos y ciudadanía, desarrollo positivo, género, diversidad, interculturalidad, inclusión social, curso de vida y enfoque territorial; Que, la Dirección General de Intervenciones Estratégicas en Salud Pública ha propuesto la actualización de la NTS NO 095-MINSA-DGSP-V.OI Norma Técnica de Salud: \"Criterios y Estándares de Evaluación de Servicios Diferenciados de Atención Integral de Salud para Adolescentes\", aprobada por Resolución Ministerial NO 503-2012/MlNSA, a fin que sea concordante con la N TS NO 157-MlNSA/2019/DGlESP Norma Técnica de Salud para la Atención Integral de Salud de Adolescentes, aprobada por Resolución Ministerial NO 1001-2019/MlNSA; Estando a 10 propuesto por la Dirección General de Intervenciones Estratégicas en Salud Publica; Con el visado de la Dirección General de Intervenciones Estratégicas en Salud Pública, de la Dirección General de Aseguramiento e Intercambio Prestacional, de la Dirección General de Operaciones en Salud, de la Dirección General de Telesalud, Referencia y Urgencias, de la Oficina General de Asesoría Jurídica, del Despacho Viceministerial de Salud Pública y del Despacho Viceministerial de Prestaciones y Aseguramiento en Salud; y, De conformidad con 10 dispuesto en el Decreto Legislativo NO 1161, Ley de Organización y Funciones del Ministerio de Salud, modificado por la Ley NO 30895, Ley que fortalece la función rectora del Ministerio de Salud y por el Decreto Legislativo NO 1504, Decreto Legislativo que fortalece al Instituto Nacional de Salud para la prevención y control de las enfermedades; y, el Reglamento de Organización y Funciones del Ministerio de Salud, aprobado por Decreto Supremo NO 008-2017-SA, modificado por los Decretos Supremos NO 011-2017-SA y NO 032- 2017-SA; SE RESUELVE. Artículo 1.- Aprobar la NTS N' 201 -MINSA/DGlESP-2023, Norma Técnica de Salud \"Estándares de Calidad para Evaluar Establecimientos de Salud que brindan Servicios de Cuidado Integral de Salud para Adolescentes\", que como Anexo forma parte de la presente Resolución Ministerial y que se publica en la sede digital del Ministerio de Salud. Artículo 2.- Derogar la Resolución Ministerial NO 503-2012/MlNSA, que aprueba la N TS NO 095-MINSA-DGSP-V.OI Norma Técnica de Salud: \"Criterios y Estándares de Evaluación de Servicios Diferenciados de Atención Integral de Salud para Adolescentes\" Articulo.3.- Encargar a la Oficina de Transparencia y Anticorrupción de la Secretaría General la publicación de la presente Resolución Ministerial y su Anexo en la sede digital del Ministerio de Salud. Regístrese, comuníquese y publíquese. ROSA BERTHA GUTIÉRREZ PALOMINO Ministra de Salud ato Oe"
+    }
+  ]
+}

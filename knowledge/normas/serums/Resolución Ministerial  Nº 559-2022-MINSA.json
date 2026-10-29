@@ -1,0 +1,67 @@
+{
+  "id": "MINSA-RESOLUCION-MINISTERIAL-NO-559-2022-MINSA",
+  "id_fuente_oficial": null,
+  "titulo": "Resolución Ministerial Nº 559-2022-MINSA",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Resolución Ministerial",
+  "numero_norma": "RM N.° 559-2022-MINSA",
+  "fecha_aprobacion": null,
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "fuentes_oficiales": [
+    {
+      "tipo": "archivo_local",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "Resolución Ministerial Nº 559-2022-MINSA",
+      "url": null,
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "Resolución Ministerial  Nº 559-2022-MINSA.pdf",
+  "huella_sha256_pdf_fuente": "75741c98d13a00e52758270712567adfb24d1cafe7eca00de2d8ac4b82b015bb",
+  "paginas_pdf": 2,
+  "paginas_con_texto": 2,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "ocr_local_windows_es_ES",
+  "ocr_aplicado": true,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 2,
+    "paginas_con_texto": 2,
+    "caracteres_texto_extraido": 5550
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-NO-559-2022-MINSA-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "MINISTERIO DE SALUD neJo/ucz7n O////bnzutegia/ Zima 2C de.. J. andia M. DE SAZO L.GLC. A HOLGUIN Visto, el Expediente NO 21-019816-001 , que contiene los Informes NO 01-2021-CSR- DSABU-DGIESP/MINSA, NO 04-2021-CSR-DSABU-DGIESP/MINSA, NO 05-2021-CSR- DSABU-DGIESP/MINSA y NO 09-2022-CSR-DSABU-DGIESP/MINSA, de la Dirección General de Intervenciones Estratégicas en Salud Pública, y los Informes NO 1695-2021- OGAJ/MINSA y NO 546-2022-OGAJ/MINSA, de la Oficina General de Asesoría Jurídica; CONSIDERANDO: Que, los numerales I y II del Título Preliminar de la Ley NO 26842, Ley General de Salud, establecen que la salud es condición indispensable del desarrollo humano y medio fundamental para alcanzar el bienestar individual y colectivo, y que la protección de la salud es de interés público, siendo responsabilidad del Estado regularla, vigilarla y promoverla; Que, el numeral 1 del artículo 3 del Decreto Legislativo NO 1161, Ley de Organización y Funciones del Ministerio de Salud, señala como ámbito de competencia del Ministerio de Salud, la salud de las personas; Que, el artículo 4 del citado Decreto Legislativo dispone que el Sector Salud está conformado por el Ministerio de Salud, como organismo rector, las entidades adscritas a él y aquellas instituciones públicas y privadas de nivel nacional, regional y local, y personas naturales que realizan actividades vinculadas a las competencias establecidas en la Ley de Organización y Funciones del Ministerio de Salud y que tienen impacto directo o indirecto en la salud, individual o colectiva. Asimismo, el numeral 4-AI del artículo 4-A del mencionado Decreto Legislativo, modificado por el Decreto Legislativo NO 1504, Decreto Legislativo que fortalece al Instituto Nacional de Salud para la prevención y control de las enfermedades, ha previsto que la potestad rectora del Ministerio de Salud comprende la facultad que tiene para normar, supervisar, fiscalizar y, cuando corresponda, sancionar, en los ámbitos que comprenden la materia de salud; Que, los literales b) y h) del artículo 5 del acotado Decreto Legislativo, modificado por Decreto Legislativo NO 1504, establecen que son funciones rectoras del Ministerio de Salud formular, planear, dirigir, coordinar, ejecutar, supervisar y evaluar la política nacional y sectorial de promoción de la salud, vigilancia, prevención y control de las enfermedades, recuperación, rehabilitación en salud, tecnologías en salud y buenas prácticas en salud, bajo su competencia, aplicable a todos los niveles de gobierno, así como dictar normas y lineamientos técnicos para la adecuada ejecución y supervisión de la política nacional y políticas sectoriales de salud, entre otros;"
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-RESOLUCION-MINISTERIAL-NO-559-2022-MINSA-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "E. VERA V. ALARCON O Ido L. GILC. 010 De AGUIN Que, el artículo 63 del Reglamento de Organización y Funciones del Ministerio de Salud, aprobado por Decreto Supremo NO 008-2017-SA, modificado por Decreto Supremo NO 011-2017-SA, establece que la Dirección General de Intervenciones Estratégicas en Salud Pública es el órgano de línea del Ministerio de Salud, dependiente del Viceministerio de Salud Pública, competente para dirigir y coordinar las intervenciones estratégicas en Salud Pública en materia de salud bucal, entre otras; Que, en ese sentido, la Dirección General de Intervenciones Estratégicas en Salud Pública ha propuesto la actualización de la NT S NO 150-MlNSA/2019/DGlESP, Norma Técnica de Salud para el Uso del Odontograma, aprobada por Resolución Ministerial NO 272-2019/MlNSA; Que, la Oficina General de Asesoría Jurídica mediante los Informes N c 1695-2021- OGAJ/MINSA y NO 546-2022-OGAJ/MINSA, emite opinión legal, señalando que resulta legalmente procedente la expedición de la Resolución Ministerial que aprueba la Norma Técnica de Salud precitada; Estando a 10 propuesto por la Dirección General de Intervenciones Estratégicas en Salud Pública; Con el visado del Director General de la Dirección General de Intervenciones Estratégicas en Salud Pública, de la Directora General de la Dirección General de Aseguramiento e Intercambio Prestacional, de la Directora General de la Dirección General de Operaciones en Salud, de la Directora General de la Dirección General de Personal de la Salud, del Director General (e) de la Oficina General de Asesoría Jurídica, del Viceministro de Salud Pública y del Viceministro (e) de Prestaciones y Aseguramiento en Salud; y, De conformidad con 10 dispuesto en el Decreto Legislativo NO 1161, Ley de Organización y Funciones del Ministerio de Salud, modificado por la Ley NO 30895, Ley que fortalece la función rectora del Ministerio de Salud y por el Decreto Legislativo NO 1504, Decreto Legislativo que fortalece al Instituto Nacional de Salud para la prevención y control de las enfermedades; y, el Reglamento de Organización y Funciones del Ministerio de Salud, aprobado por Decreto Supremo NO 008-2017-SA, modificado por los Decretos Supremos NO 011-2017-SA y NO 032-2017-SA; SE RESUELVE. Artículo 1 Aprobar la NTS NOf88 -MINSA/DGlESP-2022, Norma Técnica de Salud para el Uso del Odontograma, que como Anexo forma parte de la presente Resolución Ministerial. Artículo 2.- Derogar la Resolución Ministerial NO 272-2019/MlNSA, que aprueba la N TS NO 150-MlNSA/2019/DGlESP, Norma Técnica de Salud para el Uso del Odontograma. Artículo 3.- Encargar a la Oficina de Transparencia y Anticorrupción de la Secretaría General la publicación de la presente Resolución Ministerial y su Anexo en la sede digital del Ministerio de Salud. Regístrese, comuníquese\"9 publíquese. JORGE ANTONIO CÓPEZ PEÑA inistrod Salud"
+    }
+  ]
+}

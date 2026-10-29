@@ -1,0 +1,567 @@
+{
+  "id": "MINSA-RM-523-2020-MINSSA",
+  "id_fuente_oficial": null,
+  "titulo": "normas tecnicas final",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Resolución Ministerial",
+  "numero_norma": null,
+  "fecha_aprobacion": null,
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "fuentes_oficiales": [
+    {
+      "tipo": "archivo_local",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "normas tecnicas final",
+      "url": null,
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "RM 523 2020 MINSSA.pdf",
+  "huella_sha256_pdf_fuente": "0197a9e4cbb4c1d05a168e6ebe4a12812f4667284f0cd1a1061e4969dd7d1ac0",
+  "paginas_pdf": 52,
+  "paginas_con_texto": 45,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "ocr_local_windows_es_ES",
+  "ocr_aplicado": true,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 52,
+    "paginas_con_texto": 45,
+    "caracteres_texto_extraido": 83993
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "RM No 523-2020-MINSA NORMA TÉCNICA DE SALUD PARA LA VIGILANCIA DE LAS INFECCIONES ASOCIADAS A LA ATENCIÓN DE LA SALUD NTS NO 163-MlNSA/2020/CDC PERÚ Tasas incidencia de IAAS Ministerio de Salud"
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 3]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0003",
+      "pagina_pdf": 3,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "Ministerio PERÚ de Salud CENTRO NACIONAL DE EPIDEMIOLOCíA, PREVENCIÓN Y CONTROL DE ENFERMEDADES NORMA TÉCNICA DE SALUD PARA LA VIGILANCIA DE LAS INFECCIONES ASOCIADAS A LA ATENCIÓN DE LA SALUD NTS NO 163-MlNSA/2020/CDC LIMA, ABRIL 2021"
+    },
+    {
+      "marcador_cita": "[[PAGINA 4]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0004",
+      "pagina_pdf": 4,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "Norma Técnica de Salud para la vigilancia de las infecciones asociadas a la atención de la salud Norma Técnica de Salud para la vigilancia de las infecciones asociadas a la atención de la salud. Editado por: Ministerio de Salud. Centro Nacional de Epidemiología, Prevención y Control de Enfermedades (CDC) Calle Daniel Olaechea NO 199 Jesús María, Lima- Perú 10 Edición abril 2021 Hecho el Depósito Legal en la Biblioteca Nacional del Perú: NO 2021-00079 Número ISBN: 978-612-48200-2-1 Se terminó de imprimir el 01 de abril del 2021 en: Industria Gráfica MACOLE S.R.L. Jr. Cañete 129 — Cercado de Lima Lima 1 Tiraje: 1000 ejemplares Elaboración: Zenobia Eufelia Quispe Pardo Centro Nacional de Epidemiología, Prevención y Control de Enfermedades (CDC) Revisores: César Augusto Bueno Cuadra Centro Nacional de Epidemiología, Prevención y Control de Enfermedades (CDC) Martín Javier Alfredo Y agui Moscoso Instituto Nacional de Salud Colaboradores: Maritza Miriam Mayta Barrios Juan José Ramirez Illescas Mery Concepción Ale Arratea Gloria Amparo Cisneros de Vega José Luis Bolarte Espinoza Hugo Antonio Mezarina Esquivel Mitsi Lorraine Santiago Abal Carlos Francisco Santillán Salas Maria Angelica Mendoza Chirinos Harrison Ronald Sandoval Castillo @ CDC, abril, 2021 Instituto Nacional de Salud Instituto Nacional de Salud Hospital Nacional Arzobispo Loayza Hospital Nacional Cayetano Heredia Hospital Nacional Dos De Mayo Hospital Emergencias Pediátricas Instituto Nacional De Salud Niño San Borja Instituto Nacional De Salud Niño San Borja Hospital Nacional Alberto Sabogal Sologuren Clínica Ricardo Palma Ministerio de Salud. Centro Nacional de Epidemiología, Prevención y Control de Enfermedades (CDC) Calle Daniel Olaechea NO 199, Jesús María, Lima 11 - Perú Teléfono: 631-4500 Website: www.dge.gob.pe Email: postmaster@dge gob.pe"
+    },
+    {
+      "marcador_cita": "[[PAGINA 5]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0005",
+      "pagina_pdf": 5,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "MINISTERIO DE SALUD ALTA DIRECCIÓN Pilar Mazzetti Soler Ministra de Salud Luis Suárez Ognio Viceministro de Salud Pública Victor Bocangel Puclla Viceministro de Prestaciones y Aseguramiento en Salud CENTRO NACIONAL DE EPIDEMIOLOGÍA, PREVENCIÓN Y CONTROL DE ENFERMEDADES Luis Rodríguez Benavides Director General del Centro Nacional de Epidemiología, Prevención y Control de Enfermedades"
+    },
+    {
+      "marcador_cita": "[[PAGINA 6]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0006",
+      "pagina_pdf": 6,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 7]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0007",
+      "pagina_pdf": 7,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "v. VII. VIII. x. XII. CONTENIDO FINALIDAD Y JUSTIFICACIÓN TÉCNICA ÁMBITO DE APLICACIÓN BASE LEGAL DISPOSICIONES GENERALES DISPOSICIONES ESPECÍFICAS DISPOSICIONES ESPECÍFICAS DEL LABORATORIO INVESTIGACIONES EPIDEMIOLÓGICAS EN BROTES EPIDÉMICOS ESTUDIOS EPIDEMIOLÓGICOS DE LAS IAAS SUPERVISIÓN DE LA VIGILANCIA EPIDEMIOLÓGICA DE LAS IAAS RESPONSABILIDADES DISPOSICIONES FINALES ANEXOS 9 9 9 10 13 18 19 20 20 21 21 23"
+    },
+    {
+      "marcador_cita": "[[PAGINA 8]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0008",
+      "pagina_pdf": 8,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 9]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0009",
+      "pagina_pdf": 9,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "MINISTERIO DE SALUD GEL L. CUEVA c.CA Eus C. BUENO 4 N. Zerpa DEL aedo/uct'&n O/'ZÕnmteg;a/ Eima, 45... de. .u.g:g.gg Visto, el Expediente N' 20-020384-001, que contiene la Nota Informativa NO 102- 2020-CDC, ei Memorando NO 830-2020-CDC/MINSA y ei Informe NO 013-2020-UVEDH- CDC/MINSA, del Centro Nacional de Epidemiología, Prevención y Control de Enfermedades; y, el Informe NO 727-2020-OGAJ/MINSA, de la Oficina General de Asesoría Jurídica; CONSIDERANDO. Que, los numerales I y II del Título Preliminar de la Ley NO 26842, Ley General de Salud, señalan que la salud es condición indispensable del desarrollo humano y medio fundamental para alcanzar el bienestar individual y colectivo, por lo que la protección de la salud es de interés público; Que, los numerales 1), 3) y 5) del artículo 3 del Decreto Legislativo NO 1161, Ley de Organización y Funciones del Ministerio de Salud, disponen como ámbito de competencia del Ministerio de Salud, la salud de las personas; epidemias y emergencias sanitarias; e, inteligencia sanitaria, respectivamente; Que, el artículo 4 del precitado Decreto Legislativo, contempla que el Sector Salud, está conformado por el Ministerio de Salud, como organismo rector, las entidades adscritas a él y aquellas instituciones públicas y privadas de nivel nacional, regional y local, y personas naturales que realizan actividades vinculadas a las competencias establecidas en la Ley de Organización y Funciones del Ministerio de Salud, y que tienen impacto directo o indirecto en la salud, individual o colectiva, Que, los literales b) y h) artículo 5 del acotado Decreto Legislativo, modificado por Decreto Legislativo NO 1504, Decreto Legislativo que fortalece al Instituto Nacional de Salud para la Prevención y Control de las Enfermedades, establecen que son funciones rectoras del Ministerio de Salud, formular, planear, dirigir, coordinar, ejecutar, supervisar y evaluar la política nacional y sectorial de promoción de la salud, prevención y control de enfermedades, recuperación, rehabilitación en salud, tecnologías en salud y buenas prácticas en salud, bajo su competencia, aplicable a todos los niveles de gobierno, así como dictar normas y lineamientos técnicos para la adecuada ejecución y supervisión de la política nacional y políticas sectoriales de salud; Que, el artículo 119 del Reglamento de Organización y Funciones del Ministerio de Salud, aprobado por Decreto Supremo NO 008-2017-SA, establece que el Centro de Nacional de Epidemiología, Prevención y Control de Enfermedades es el órgano"
+    },
+    {
+      "marcador_cita": "[[PAGINA 10]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0010",
+      "pagina_pdf": 10,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "v. ANCEL N. Zupa L. CIJEVA C. CABEZAS DC C. BUENO desconcentrado del Ministerio de Salud, dependiente del Viceministerio de Salud Pública, responsable de gestionar los procesos de vigilancia epidemiológica e inteligencia sanitaria, así como demás funciones establecidas en la normatividad vigente; Que, asimismo, el literal a) del artículo 120 del referido Reglamento, dispone que el Centro de Nacional de Epidemiología, Prevención y Control de Enfermedades tiene como función formular, proponer e implementar normas, lineamientos, documentos normativos en materia de Vigilancia Epidemiológica en Salud Pública y Análisis de Situación de Salud, Que, con Resolución Ministerial NO 179-2005/MlNSA, se aprueba la NT NO 026- MINSA/OGE-V.OI \"Norma Técnica de Vigilancia Epidemiológica de las Infecciones Intrahospitalarias\"; Que, en ese sentido, el Centro de Nacional de Epidemiología, Prevención y Control de Enfermedades ha elaborado la Norma Técnica de Salud para la Vigilancia de las Infecciones Asociadas a la Atención de la Salud, cuya finalidad es contribuir a la prevención de las infecciones asociadas a la atención de la salud (IAAS), mediante la generación de información oportuna para la toma de decisiones; Estando a 10 propuesto por el Centro de Nacional de Epidemiología, Prevención y Control de Enfermedades; Con el visado del Director General del Centro Nacional de Epidemiología, Prevención y Control de Enfermedades, del Jefe del Instituto Nacional de Salud, de la Directora General de la Oficina General de Asesoría Jurídica, de la Viceministra de Salud Pública y del Viceministro de Prestaciones y Aseguramiento en Salud, y; De conformidad con 10 dispuesto en el Decreto Legislativo NO 1161, Ley de Organización y Funciones del Ministerio de Salud, modificado por el Decreto Legislativo NO 1 504, Decreto Legislativo que fortalece al Instituto Nacional de Salud para la Prevención y Control de las Enfermedades y por la Ley NO 30895, Ley que fortalece la función rectora del Ministerio de Salud; y, el Reglamento de Organización y Funciones del Ministerio de Salud, aprobado por Decreto Supremo NO 008-2017-SA, modificado por Decretos Supremos NO 011-2017-SA y NO 032-2017-SA; SE RESUELVE: Artículo 1.- Aprobar la NTS NO 6 3 -MINSA/2020/CDC, Norma Técnica de Salud para la Vigilancia de las Infecciones Asociadas a la Atención de la Salud, que forma parte integrante de la presente Resolución Ministerial. Artículo 2.- Derogar la Resolución Ministerial NO 179-2005/MlNSA, que aprueba la NT NO 026-MINSA/OGE-V.OI \"Norma Técnica de Vigilancia Epidemiológica de las Infecciones Intrahospitalarias\" Artículo 3.- Encargar a la Oficina de Transparencia y Anticorrupción de la Secretaría General la publicación de la presente Resolución Ministerial en el portal institucional del Ministerio de Salud. Regístrese, comuníquese y publíquese. PILAR ELENA MAZZETTI SOLER Ministra de Salud"
+    },
+    {
+      "marcador_cita": "[[PAGINA 11]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0011",
+      "pagina_pdf": 11,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "NTS N 0163-MlNSA/2020/CDC NORMA TÉCNICA DE SALUD PARA LA VIGILANCIA DE LAS INFECCIONES ASOCIADAS A LA ATENCIÓN DE LA SALUD FINALIDAD Y JUSTIFICACIÓN TÉCNICA Finalidad Contribuir a la prevención de las infecciones asociadas a la atención de la salud (IAAS), mediante la generación de información oportuna para la toma de decisiones. Justificación Las IAAS representan un problema de salud pública, un 7% de los pacientes de los países desarrollados y un 10% de los países en desarrollo han contraído como mínimo una infección relacionada a la atención de salud, asimismo cerca del 10% de los pacientes mueren por estas infeccionesl. Las IAAS causan la prolongación de las estancias hospitalarias, discapacidad a largo plazo, una mayor resistencia de los microorganismos a los antimicrobianos, muertes innecesarias y costos adicionales para nuestro sistema de salud, así como para los pacientes y sus familias. En este marco, se plantean como objetivos de esta Norma Técnica de Salud, los siguientes: Estandarizar los procesos de la vigilancia epidemiológica de las IAAS en las Instituciones Prestadoras de Servicios de Salud (IPRESS). Establecer los procesos de laboratorio, como apoyo al diagnóstico de las IAAS. Estandarizar los instrumentos y la notificación de la vigilancia epidemiológica de las IAAS. Establecer las pautas para la investigación epidemiológica de casos y brotes de las IAAS. ÁMBITO DE APLICACIÓN La presente Norma Técnica de Salud es de alcance nacional y de aplicación obligatoria en las IPRESS del Ministerio de Salud, de los Gobiernos Regionales, de los Gobiernos Locales, del Seguro Social de Salud (EsSalud), de las Sanidades de las Fuerzas Armadas y de la Policía Nacional del Perú, de los privados y otros prestadores que brinden atenciones de salud en todo el país. III. BASE LEGAL Ley NO 26842, Ley General de Salud, y sus modificatorias. Ley NO 29733, Ley de Protección de Datos Personales, y su modificatoria. Decreto Legislativo NO 1161, Ley de Organización y Funciones del Ministerio de Salud, y sus modificatorias. Decreto Supremo N? 003-2013-JUS, que aprueba el Reglamento de la Ley NP 29733, Ley de Protección de Datos Personales, y su modificatoria. Decreto Supremo NO 008-2017-SA, que aprueba el Reglamento de Organización y Funciones del Ministerio de Salud, y sus modificatorias. Resolución Ministerial NO 753-2004/MlNSA, que aprueba la NT NO 020-MINSA/ 9"
+    },
+    {
+      "marcador_cita": "[[PAGINA 12]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0012",
+      "pagina_pdf": 12,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "DGSP-V.OI \"Norma Técnica de Prevención y Control de Infecciones Intrahospitalarias\" Resolución Ministerial NO 523-2007/MlNSA, que aprueba la Guía Técnica para la Evaluación Interna de la Vigilancia, Prevención y Control de las Infecciones Intrahospitalarias. Resolución Ministerial NO 727-2009/ MINSA, que aprueba el Documento Técnico: Política Nacional de Calidad en Salud. Resolución Ministerial NO 184-2009/MlNSA, que aprueba la Directiva Sanitaria N0021-MINSA/DGE. V.OI \"Directiva Sanitaria para la Supervisión del Sistema de Vigilancia Epidemiológica en Infecciones intrahospitalarias\". Resolución Ministerial NO 546-2011/MINSA, que aprueba la NT S NO 021-MINSA/ DGSP-V.03 \"Norma Técnica de Salud Categorías de Establecimientos del Sector Salud\". Resolución Ministerial NO 506-2012/MINSA, que aprueba la Directiva Sanitaria NO 046-MINSA/DGE-V.OI, que establece la Notificación de Enfermedades y Eventos Sujetos a Vigilancia Epidemiológica en Salud Pública. Resolución Ministerial NO 168-2015/MINSA, que aprueba el Documento Técnico \"Lineamientos para la Vigilancia, Prevención y Control de las Infecciones Asociadas a la Atención de Salud\" IV. DISPOSICIONES GENERALES 4.1 DEFINICIONES OPERATIVAS: a) Infecciones Asociadas a la Atención de Salud (IAAS): Aquella condición local o sistémica resultante de una reacción adversa a la presencia de un agente infeccioso o a su(s) toxina(s), que ocurre en un paciente en un escenario de atención de salud (hospitalización o atención ambulatoria) y que no estaba presente en eI momento de la admisión2, a menos que la infección esté relacionada a una admisión previas. Asimismo, incluyen las infecciones ocupacionales contraídas por eI personal de la salud3 Se excluyen de la definición de IAAS2. Infecciones asociadas a complicaciones o extensión de otra infección presente o en incubación al ingreso, a no ser que existan evidencias clínicas o de laboratorio que se trata de una nueva infección. Infecciones del recién nacido adquiridas por vía transplacentaria (por ejemplo, herpes simple, toxoplasmosis, rubeola, citomegalovirus o sífilis) y se hacen evidentes dentro de las primeras 48 horas después del parto Las colonizaciones definidas como la presencia de microorganismos de la piel, membranas mucosas, heridas abiertas, excreciones o secreciones pero que no causan signos o síntomas adversos al huésped. Las inflamaciones generadas como respuesta del tejido a una lesión o estimulación por agentes no infecciosos (intervención quirúrgica, punciones, entre otros.) o como resultado de la respuesta del organismo a compuestos químicos. b) Definición de caso de IAAS: Se considera IAAS siempre que reúna los 10"
+    },
+    {
+      "marcador_cita": "[[PAGINA 13]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0013",
+      "pagina_pdf": 13,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "c) d) e) f) siguientes criterios: Definición operativa de IAAS, establecida en eI literal a) del subnumeral 4.1 del presente documento normativo. Asociación del factor de riesgo vigilado. Se afirma que la IAAS es potencialmente causada por un factor de riesgo siempre y cuando no haya evidencia de alguna otra causa conocida. Criterios específicos según el tipo de IAAS. Es la combinación de hallazgos clínicos, resultados de laboratorio y otras pruebas para cada tipo de IAAS, establecidos en eI Anexo 3 Vigilancia epidemiológica de las IAAS: Proceso continuo de recolección activa, análisis, interpretación y difusión de datos relacionados con la frecuencia y distribución de las IAAS de notificación obligatoria y otras optativas, según prioridad de la IPRESS. Se caracteriza por ser: O Selectiva: La vigilancia se realiza en pacientes hospitalizados sometidos a factores de riesgo extrínsecos para IAAS sobre las que existe suficiente evidencia científica de que son prevenibles a través de medidas costo-efectivas. Focalizada: Prioriza la vigilancia a las Unidades Productoras de Servicios de Salud (UPSS) que presentan las tasas más altas de uso de dispositivos médicos, procedimientos e intervenciones quirúrgicas seleccionadas en la IPRESS. Activa: Consiste en la búsqueda intencional de casos que cumplan con las definiciones de caso de IAAS establecidas en eI Anexo 3 (para fines de vigilancia epidemiológica), mediante la revisión periódica de registros en los servicios clínicos y de laboratorio por personal responsable de la vigilancia. O Permanente: EI personal responsable de la vigilancia dispone del tiempo suficiente para la búsqueda de las IAAS, según 10 establecido por la presente norma. Vigilancia posterior alta: Es la búsqueda de casos de IAAS posterior al alta en pacientes sometidos a los procedimientos o las intervenciones quirúrgicas vigiladas. EI periodo del seguimiento de los pacientes (Anexo 3) se realiza mediante la revisión de historias clínicas en consulta ambulatoria u hospitalización Personal responsable de la vigilancia: Personal capacitado cuyas funciones incluyen detectar casos (numeradores) e identificar a las personas expuestas o la exposición al factor de riesgo vigilado (denominadores); llevar los registros; y, consolidar los datos, analizarlos y notificarlos, según corresponda. En su mayoría, estas funciones son realizadas por personal profesional de enfermería u otro profesional clínico capacitado en eI tema. La disponibilidad del personal responsable para dedicación exclusiva corresponde de 1 por cada 100 camas programadas de la IPRESS Personal de la salud: Para efectos de la vigilancia, se considera al personal que desempeña actividades en eI ámbito asistencial de las IPRESS, incluyendo a personal que está en proceso de aprendizaje (estudiantes, internos, residentes, entre otros). 11"
+    },
+    {
+      "marcador_cita": "[[PAGINA 14]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0014",
+      "pagina_pdf": 14,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "g) Factor de riesgo: Es la condición o situación al cual se expone un h) i) j) k) l) hospedero, capaz de alterar su estado de salud y se asocia con una probabilidad mayor de desarrollar una IAAS. Los factores de riesgos asociados a las IAAS sujetos a vigilancia pueden ser, entre otros: Dispositivos médicos (Catéter venoso central, catéter urinario permanente, catéter venoso periférico, ventilador mecánico, nutrición parenteral total, entre otros), procedimiento (parto vaginal) e intervenciones quirúrgicas (cesárea, colecistectomía, hernioplastía inguinal, cirugía de cadera, entre otros). Catéter Venoso Central (CVC): Catéter intravascular que termina en el corazón o cerca de él o en uno de los grandes vasos, que se usa para infusión, sacar sangre o control hemodinámico. Los siguientes se consideran grandes vasos para efectos de notificar infecciones y contar los días de vía central: Aorta, arteria pulmonar, vena cava superior, vena cava inferior, venas braquiocefálicas, venas yugulares internas, venas subclavias, venas ilíacas externas y venas femorales comunes.4 Nutrición Parenteral Total (NPT): Es un tipo de alimentación que suministra una mezcla de líquidos, electrolitos, carbohidratos, aminoácidos, vitaminas, minerales y, a menudo, grasas, a través de un acceso venoso del paciente? Catéter urinario permanente (CUP): Tubo de drenaje que se inserta en la vejiga urinaria a través de la uretra, queda implantado y está conectado a un circuito cerrado de colección de orina; también se Ilama sonda de Foley. No incluye dispositivos para cateterismo de descarga.4 Catéter venoso periférico (CVP): Dispositivo intravascular de corta longitud que se instala en una vena periférica, se utiliza para la administración de terapia endovenosa. Ventilador mecánico (VM): Es un dispositivo para ayudar al paciente a respirar o controlar la respiración continuamente mediante una traqueotomía o intubación endotraqueal o nasotraqueal, incluso durante eI período de transición en que se retira eI dispositivo. La neumonía en pacientes que reciben ventilación no invasiva no se considera asociada a ventilación mecánica y no integra el numerador ni el denominador.4 m) Red de vigilancia de las IAAS: Conjunto de recursos y componentes en eI nivel local, regional y nacional que permiten coordinar y ejecutar la vigilancia epidemiológica de las IAAS con la finalidad de generar información oportuna para la toma de decisiones. n) Instituciones Prestadoras de Servicios de Salud (IPRESS): Son aquellos establecimientos de salud y servicios médicos de apoyo, públicos, privados o mixtos, creados o por crearse, que realizan atención de salud con fines de prevención, promoción, diagnóstico, tratamiento y/o rehabilitación, así como aquellos servicios complementarios o auxiliares de la atención médica, que tienen por finalidad coadyuvar en la prevención, promoción, diagnóstico, tratamiento y/o rehabilitación de la salud. 12"
+    },
+    {
+      "marcador_cita": "[[PAGINA 15]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0015",
+      "pagina_pdf": 15,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "v. DISPOSICIONES ESPECÍFICAS 5.1 5.2 ESTRUCTURA DE LA VIGILANCIA EPIDEMIOLÓGICA DE LAS IAAS: 1.1.1 1.1.2 1.1.3 La vigilancia epidemiológica de IAAS debe realizarse en todas las IPRESS públicas y privadas a nivel nacional. La incorporación de las IPRESS en la Red de vigilancia de las IAAS es de carácter obligatorio. La Red de vigilancia de las IAAS está conformada por el nivel local (todas las IPRESS), ei nivel regional (DIRIS/DIRESA/GERESA, según jurisdicción) y el nivel nacional (Centro Nacional de Epidemiología, Prevención y Control de Enfermedades - CDC). Los 3 niveles intervienen en eI monitoreo, supervisión y evaluación de la referida Red de vigilancia una vez al año, realizándose las coordinaciones previas, a través de documento oficial, para garantizar su cumplimiento. Las IPRESS deben garantizar los recursos necesarios para la vigilancia epidemiológica de las IAAS: Personal responsable de la vigilancia capacitado con acceso a fuentes de información, disponibilidad horaria, mobiliario, equipo de cómputo con acceso a internet y recursos financieros para capacitaciones y/o campañas educativas. PROCESOS DE LA VIGILANCIA EPIDEMIOLÓGICA DE LAS IAAS: Las prioridades y las necesidades de información de la Red de vigilancia de las IAAS varían entre los diferentes ámbitos de atención de la salud de la IPRESS. Sin embargo, el proceso para poner en marcha la vigilancia es común en la atención hospitalaria y en la ambulatoria (Anexo 1). Tiene 5 fases establecidas: 1 2. 3. 4. 5. Plan de vigilancia epidemiológica de las IAAS. Recolección de datos. Análisis e interpretación de los datos. Comunicación y el uso de la información. Evaluación de la vigilancia. 5.1.1 Plan de vigilancia epidemiológica de las IAAS La IPRESS desarrolla un Plan de vigilancia epidemiológica de las IAAS anualmente en eI que se incluyen los tipos de IAAS, los factores de riesgo y los servicios vigilados, según corresponda. EI espectro de estos eventos objeto de vigilancia puede ser incrementado en función de las necesidades locales, el nivel de especialización de la IPRESS y considerando los procesos de la vigilancia establecidos en la presente Norma Técnica de Salud (Anexo 1). La selección de estos eventos es determinada, entre otros factores, por: 1 2. 3. 4. La necesidad de vigilar infecciones específicas; La mayor frecuencia de un tipo particular de infección; La posibilidad de que se trate de un agente patógeno de alta transmisibilidad; Las infecciones que producen altas tasas de letalidad aumentan la 13"
+    },
+    {
+      "marcador_cita": "[[PAGINA 16]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0016",
+      "pagina_pdf": 16,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "5. estancia hospitalaria media o los costos terapéuticos. EI listado de las IAAS sujetas a vigilancia epidemiológica obligatoria se encuentran en el Anexo 2 y los criterios específicos según eI tipo de IAAS están señalados en el Anexo 3. 5.1.2 14 Recolección de datos EI personal responsable de la vigilancia de IAAS, visitará diariamente a las Unidades Productoras de Servicios de Salud (UPSS) de Neonatología, Gineco-Obstetricia, Unidades de Cuidados Intensivos, Medicina y Cirugía durante eI mes vigilado. La vigilancia de IAAS incluye: Revisar las fuentes de información (historia clínica, entrevista al paciente, cuidador y personal de la salud, libro de ingresos y egresos, libro de partos, reportes de laboratorio de microbiología u otros reportes de las UPSS, entre otros.) de los pacientes vigilados para detectar IAAS. Registrar en el formato de seguimiento de pacientes con factor de riesgo (dispositivos médicos), la información correspondiente al día de visita al servicio (Anexo 4) En caso de sospecha de infección, aplicar los criterios de definición de caso y clasificarlo si corresponde o no a un caso de IAAS. Para todos los casos confirmados de IAAS, llenar la ficha de investigación epidemiológica (Anexo 5). e En eI caso de los pacientes expuestos a factores de riesgo (procedimientos e intervenciones quirúrgicas), registrar en los formatos de la vigilancia epidemiológica de IAAS para los servicios de Gineco-Obstetricia y Cirugía (Anexos 6 y 7, respectivamente). EI consolidado mensual de la información se registra en eI aplicativo informático administrado por eI CDC. 5.1.2.1 5.1.2.2 5.1.2.3 Vigilancia de IAAS en neonatos. Los pacientes vigilados son registrados según categoría de peso al nacer, dentro de una de las siguientes categorías: Menor o igual a 750 g.; 751 a 1000 g.; 1001 a 1500 g.; 1501 a 2500 g.; y, mayor a 2500 g. Los pacientes deben permanecer en la misma categoría hasta eI alta, dado que se considera eI peso al nacer y no la variabilidad del mismo durante la internación. Vigilancia de IAAS en puérperas. Los datos se recogen en 2 oportunidades: 1) Durante la estadía hospitalaria en unidades de obstetricia o de ginecología u otras salas, según corresponda; y, 2) Luego del alta de las pacientes, según la vigilancia posterior al alta por un período de hasta 30 días después del parto Vigilancia de Infecciones de Sitio Quirúrgico (ISQ). Pueden manifestarse dentro de los 30 días posteriores a la intervención quirúrgica si no se deja un implante en eI lugar o dentro de 1 año si hay implantes. Por 10 que, se realiza la vigilancia posterior al alta considerando la o intervención"
+    },
+    {
+      "marcador_cita": "[[PAGINA 17]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0017",
+      "pagina_pdf": 17,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "5.1.2.4 5.1.2.5 quirúrgica. Vigilancia de la exposición laboral a agentes patógenos de la sangre en el personal de la salud. Esta vigilancia incluye como factor riesgo a los accidentes punzocortantes y otra exposición ocupacional (membrana mucosa o piel no intacta) a agentes patógenos de la sangre (Ver Anexos 7 Notificación de la vigilancia epidemiológica de las IAAS EI nivel local (IPRESS) realiza la notificación de la vigilancia en el aplicativo informático del CDC hasta eI séptimo día hábil del mes siguiente al mes vigilado. EI responsable de la vigilancia epidemiológica de la DISA/ DIRESA/GERESA o el que haga sus veces, consolida y realiza eI control de calidad de la información notificada por la IPRESS según su jurisdicción. 5.1.3 Análisis e interpretación de los datos Se consideran indicadores que generan la vigilancia epidemiológica para eI análisis de las IAAS (Anexo 9), los siguientes: o Densidad de incidencia: Mide eI número de casos nuevos en una cantidad determinada de persona-tiempo en una población en riesgo, la cual está compuesta por aquellos que se encuentran expuestos y todavía no han sufrido la enfermedad. La densidad de incidencia indica la velocidad con la que van apareciendo los casos conforme se acumulan los tiempos de exposición de cada persona NO de personas que contraen la enfernedad en un periodo determinado Densidad de incidencia x 1000 Suma de todos los periodos libres de la enfermedad durante el Deriodo definido en el estudio (tiempo-oersona) o Incidencia acumulada: Medida que sólo toma en cuenta los casos nuevos que provienen de una población expuesta a riesgo, delimitada al inicio del periodo de observación. Una incidencia alta nos permite prever que eI problema se extenderá en poco tiempo a toda la población susceptible. NO de personas que contraen la enfermedad en un periodo determinado Incidencia acumulada x 100C NO de personas de la población libres de la enfermedad susceptibles expuesta al riesgo al inicio del periodo. La estratificación del riesgo de IAAS es un proceso para controlar las diferencias entre factores de riesgo individuales (extrínsecos e intrínsecos) y se aplica, en general, a las infecciones de sitio quirúrgico 15"
+    },
+    {
+      "marcador_cita": "[[PAGINA 18]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0018",
+      "pagina_pdf": 18,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "5.1.4 16 y, ocasionalmente, a otros tipos de infección (por ejemplo, las infecciones neonatales estratificadas por peso al nacer). EI análisis de datos de la vigilancia de las IAAS incluye la descripción de los casos notificados de IAAS, la tendencia de las tasas y las comparaciones con las tasas referenciales según eI tipo de IAAS, identifica probables brotes, y conoce los microorganismos causales y su perfil de sensibilidad. Para interpretar eI significado de la tasa infección se requiere conocer en la práctica, eI funcionamiento de la Red de vigilancia de las IAAS y los riesgos cambiantes de la infección en la IPRESS. Si una tasa se desvía sustancialmente de la informada en períodos anteriores, debe fundamentarse estadísticamente la diferencia por medio del cálculo de la desviación estándar. A nivel local, se realizan reportes mensuales de las tasas de IAAS y los informes de análisis de los datos de la vigilancia se realizan con una periodicidad trimestral, teniendo como mínimo 4 informes al año. A nivel regional, se realizan reportes mensuales de las tasas de IAAS y los informes de análisis de los datos de la vigilancia se realizan con una periodicidad semestral y anual, teniendo como mínimo 2 informes al año. A nivel nacional, el CDC emite informes semestrales y anuales; asimismo, determina las tasas referenciales según percentiles y categoría de la IPRESS para cada uno de los tipos de IAAS. Comunicación y el uso de la información En el nivel local, eI análisis de la información es socializado a la dirección general de la IPRESS, al Comité Local de Control de Infecciones servicios o UPSS y el personal de la salud; y, a su vez, debe ser remitido al nivel regional. En ei nivel regional, la DIRESA/GERESA/DIRIS o la que haga sus veces, remite el análisis de los datos mediante los informes técnicos al Comité Regional de Control de Infecciones y al CDC; asimismo, publica la información en el boletín epidemiológico y sala de situación regional. En eI nivel nacional, eI CDC remite eI análisis de los datos mediante los informes técnicos a la Alta Dirección del MINSA y a la Dirección General de Intervenciones Estratégicas en Salud Pública (DGIESP) o la que haga sus veces; asimismo, publica la información en eI boletín epidemiológico y sala de situación nacional. La información proporcionada por la vigilancia sirve de base para la toma de decisiones en la implementación de los planes de prevención y control de las IAAS; asimismo, sirve como indicadores de la gestión de la calidad de los servicios de salud que identifica factores de riesgo que requieran ser monitorizados, evalúa el impacto de los procedimientos preventivos y orienta la educación del personal de la salud sobre las"
+    },
+    {
+      "marcador_cita": "[[PAGINA 19]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0019",
+      "pagina_pdf": 19,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "5.1.5 prácticas de prevención de las IAAS. Evaluación de la vigilancia La evaluación de la sensibilidad de vigilancia se realiza mediante un estudio de prevalencia una vez al año, realizado por personal debidamente entrenado en forma paralela a la vigilancia realizada por el personal de la IPRESS. EI porcentaje de sensibilidad aceptable es >= La fórmula para eI cálculo de la sensibilidad para eI servicio vigilado y el tipo de infección es: N a de infecciones detectadas en la vigilancia epidemiológica habitual x 100 Sensibilidad te de infecciones detectadas an el estudio de prevalencla La fórmula para el cálculo de sensibilidad para la detección de dispositivos médicos, procedimientos e intervenciones quirúrgicas que deben ser vigilados, es: de pacientes con procedimientos o dispositivos que ya estaban en la vigilancia epidemiológica habitual 100 Senslbllldad : N\" de pacientes con dispositivos médicos, procedimi e Intervenclones qulrúrgkas durante el estudlo de prevalencia 5.3 RESULTADOS DE LA VIGILANCIA EPIDEMIOLÓGICA DE LAS IAAS: La vigilancia epidemiológica de las IAAS permite: Monitorizar y detectar. La vigilancia estructurada y operativa proporciona eI medio (los datos) para establecer la línea base o punto de comparación; y, ayuda en la detección oportuna de brotes en las IPRESS, al señalar desviaciones significativas con respecto a las tasas basales (endémica) y referenciales. Identificar los factores de riesgo de las IAAS. Los datos recopilados de la vigilancia se utilizan para caracterizar epidemiológicamente el riesgo de contraer infecciones asociadas a determinadas prácticas asistenciales. Evaluar medidas preventivas. Posterior a la implementación de prácticas preventivas, los datos de la vigilancia epidemiológica se usan para investigar y determinar si las medidas fueron eficaces en relación con eI control de las infecciones. Suministrar información, educar y reforzar buenas prácticas. La presencia continua de la vigilancia epidemiológica contribuye a la toma de conciencia entre el personal de la salud acerca de las prácticas de prevención de infecciones. Asimismo, permite identificar las prácticas de alto riesgo para las IAAS. 17"
+    },
+    {
+      "marcador_cita": "[[PAGINA 20]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0020",
+      "pagina_pdf": 20,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "VI. DISPOSICIONES ESPECíFlCAS DEL LABORATORIO 6.1 6.2 6.3 6.4 6.5 6.6 6.7 18 EI laboratorio de microbiología de la IPRESS, utilizando el software Whonet o su equivalente, envía a la Oficina de Epidemiología o la que hace sus veces eI reporte de cultivos positivos por servicio y tipo de muestra con un período no mayor a 3 meses, así como también realiza informes anuales de los perfiles de resistencia antimicrobiana hallados en la IPRESS. EI laboratorio de microbiología de la IPRESS debe llevar un registro de controles de calidad interno que sustenten los resultados de las pruebas microbiológicas. Además, debe tener la condición de aprobado en el Programa de Evaluación Externa de la Calidad del Instituto Nacional de Salud (INS). EI mapa microbiológico debe ser remitido a la dirección general, al Comité Local de Control de Infecciones y a la Oficina de Epidemiologia de la IPRESS; además es enviado al Laboratorio de Referencia Regional de la DIRESA/ GERESA/DIRIS o la que haga sus veces para su revisión y consolidación, el cual 10 remite a su vez al Laboratorio de Referencia Nacional de Infecciones Intrahospitalarias del INS. EI INS elabora informes anuales del perfil de resistencia nacional en base a la data enviada por las IPRESS y los remite a los órganos del MINSA (CDC, DIGIESP o la que haga sus veces, DIGEMID y DIGESA). Se vigilan patrones específicos de resistencia a los antimicrobianos de importancia para la salud pública para identificar oportunamente la emergencia de la resistencia: Staphylococcus aureus o Staphylococcus coagulasa negativo intermedio o resistente a Vancomicina y resistentes a linezolid. Enterococcus spp. Intermedio o resistente a Vancomicina y resistentes a linezolid Enterococcus faecalis resistente a ampicilina o penicilina (beta lactamasa positivo). Enterobacterias con resistencia a carbapenemes y resistencia a colistina à4 Qg/mL. Pseudomonas aeruginosa resistente a carbapenemes. Acinetobacter baumannii resistente a carbapenemes. EI hallazgo de las cepas señaladas en el numeral 6.5 es notificado por la IPRESS dentro de las 24 horas a la DIRESA/GERESA/DIRIS (Oficina de Epidemiologia o la que hagas sus veces y al Laboratorio de Referencia Regional o eI que haga sus veces), la cual a su vez comunica al CDC y al Laboratorio de Referencia Nacional de Infecciones Intrahospitalarias del INS para su verificación. EI INS emite los resultados de la verificación según eI tiempo consignado en eI catálogo de servicios del Netlab y comunica por correo electrónico a la IPRESS correspondiente."
+    },
+    {
+      "marcador_cita": "[[PAGINA 21]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0021",
+      "pagina_pdf": 21,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "Vil. INVESTIGACIONES EPIDEMIOLÓGICAS EN BROTES EPIDÉMICOS 7.1 7.2 7.3 7.4 7.5 7.6 7.7 Se considera como brote epidémico: La ocurrencia de un mayor de número de casos en cantidad que supere a 10 esperado (aumento a partir de un caso); o, La aparición de un nuevo (primer) caso por un microorganismo (parásito, virus, bacterias y hongos) con nuevo perfil de resistencia en eI servicio o en la IPRESS o, Cambio del perfil de resistencia a los antimicrobianos, dentro de un periodo, lugar y población específica. EI estudio de brotes epidémicos es conducido por eI responsable de la Oficina de Epidemiologia o la que haga sus veces de la IPRESS; debiendo contar con el apoyo del Comité Local de Control de Infecciones y del jefe del servicio donde ocurre eI evento La sospecha de un posible brote de IAAS puede provenir de 3 fuentes: Personal de la salud asistencial de servicios Personal de vigilancia: Durante las visitas o en eI análisis de los resultados de la vigilancia activa. Laboratorio de microbiología: Durante la revisión de los resultados positivos de los cultivos de secreciones provenientes de pacientes con IAAS Las IPRESS, a través del responsable de la vigilancia epidemiológica o quien haga sus veces, notifica brotes epidémicos de IAAS dentro de las 24 horas de constatado eI evento vía web: https://www.dge.gob.pe/notificar/; y, por correo electrónico a la DIRIS/DIRESA/GERESA o la que haga sus veces y al CDC. vdàT8Dtificado eI brote epidémico al CDC, la IPRESS conserva las cepas y coordina la derivación de cepas al Laboratorio de Referencia Regional para eI envío al Laboratorio de Referencia Nacional de Infecciones Intrahospitalarias del INS. EI INS emite el informe de la confirmación diagnóstica especializada, derivando al CDC los resultados obtenidos Los informes de los brotes epidémicos (informe inicial, seguimiento y/o final) son elaborados por la Oficina de Epidemiologia o la que haga sus veces en la IPRESS, debiendo remitirlo a la Oficina de Epidemiologia de la DIRESA/ GERESA/DIRIS o la que haga sus veces, la cual 10 deriva al CDC. EI nivel regional y/o nacional brindan asistencia técnica en caso corresponda. EI CDC, en coordinación con eI INS, la DIGIESP o la que haga sus veces, la DIGESA, la DIGEMID, entre otros, elabora los informes de los brotes epidémicos, los cuales son remitidos a la Alta Dirección del Ministerio de Salud. 19"
+    },
+    {
+      "marcador_cita": "[[PAGINA 22]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0022",
+      "pagina_pdf": 22,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "VIII. ESTUDIOS EPIDEMIOLÓGICOS DE LAS IAAS: 8.1 La vigilancia epidemiológica de las IAAS determina prioridades que orienten a la investigación en los diferentes niveles, según los recursos disponibles. Estos estudios pueden comprender, entre otros, los siguientes temas: Estudios de costos de IAAS. Estudios de letalidad asociada a IAAS Carga de enfermedad. Resistencia a los antimicrobianos. Evaluación del impacto de las intervenciones de prevención y control. IX. SUPERVISIÓN DE LA VIGILANCIA EPIDEMIOLÓGICA DE LAS IAAS 9.1 9.2 9.3 9.4 9.5 9.6 20 La supervisión de la vigilancia epidemiológica de las IAAS a nivel de la IPRESS se realiza 1 vez al año y está a cargo de la DIRESA/GERESA/DIRIS o quien haga sus veces según jurisdicción. Debe ser realizada por personal responsable capacitado y contar con recursos logísticos. La DIRESA/GERESA/DIRIS o la que haga sus veces, si fuera necesario, puede conformar un equipo de supervisión teniendo la responsabilidad de capacitarlos y entrenarlos en forma estandarizada para la supervisión. Los profesionales del equipo de supervisión trabajan bajo la coordinación del profesional responsable del nivel regional. La supervisión se realiza previa comunicación oficial a la IPRESS, indicando los instrumentos a utilizar. Una vez culminada la supervisión, la DIRESA/ GERESA/DIRIS o la que haga sus veces, realiza eI informe con los hallazgos y problemas identificados, brinda asistencia técnica sobre las medidas correctivas necesarias para la solución y comunica al CDC en un plazo no mayor a 7 días hables posteriores a la supervisión. La IPRESS desarrolla un plan de intervención con las medidas correctivas por implementar por cada hallazgo, en eI cual se consideran las etapas, metas y plazos para conseguir un adecuado desarrollo de la vigilancia epidemiológica de las IAAS. La DIRESA/GERESA/DIRIS o la que haga sus veces, emite un informe por escrito al CDC con los hallazgos consolidados de las supervisiones de cada IPRESS de su jurisdicción y las acciones correctivas que se realizaron en el nivel regional y local o los avances logrados con respecto a la supervisión. EI nivel nacional (CDC) debe realizar eI monitoreo y seguimiento de las observaciones realizadas en los informes remitidos por el nivel regional."
+    },
+    {
+      "marcador_cita": "[[PAGINA 23]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0023",
+      "pagina_pdf": 23,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "X. RESPONSABILIDADES NIVEL NACIONAL: EI Ministerio de Salud, a través del CDC, es responsable de la difusión de la presente Norma Técnica de Salud hasta eI nivel regional; así como de brindar asistencia técnica y supervisar su cumplimiento. Asimismo, a través del INS, es responsable de brindar asistencia técnica y supervisar hasta eI nivel regional, eI cumplimiento del apoyo del laboratorio para la vigilancia epidemiológica, de acuerdo a 10 establecido en la presente Norma Técnica de Salud NIVEL REGIONAL La DIRIS/DIRESA/GERESA o la que haga sus veces en el ámbito regional, a través de la Oficina de Epidemiología o la que haga sus veces, es responsable de la difusión de la presenta Norma Técnica Salud en el ámbito de su jurisdicción, así como su implementación, asistencia técnica y supervisión de su cumplimiento. Asimismo, a través de los Laboratorios de Referencia Regional es responsable de brindar asistencia técnica y supervisar a la IPRESS, en eI cumplimiento al apoyo del laboratorio de microbiología para la vigilancia según 10 establecido en la presente Norma Técnica de Salud. NIVEL LOCAL Los directores o jefes de las IPRESS son los responsables de la implementación y aplicación de la presente Norma Técnica de Salud. XI. DISPOSICIONES FINALES Las IPRESS adecuan su organización interna a efecto de implementar la presente Norma Técnica de Salud y facilitan la disponibilidad de recursos humanos y otros recursos necesarios para la operatividad y cumplimiento de la misma. 21"
+    },
+    {
+      "marcador_cita": "[[PAGINA 24]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0024",
+      "pagina_pdf": 24,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 25]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0025",
+      "pagina_pdf": 25,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "XII. ANEXOS"
+    },
+    {
+      "marcador_cita": "[[PAGINA 26]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0026",
+      "pagina_pdf": 26,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 27]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0027",
+      "pagina_pdf": 27,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "ANEXO N 1 PROCESOS DE LA VIGILANCIA EPIDEMIOLÓGICA DE LAS IAAS PROCESOS DE LA VIGILANCIA EPIDEMIOLÓGICA DE LAS IAAS Evaluar eI Sistema de Vigilancia EVALUACIÓN COMUNICACIÓN Comunicar mejorar practicas PLAN DE VIGILANCIA INTERPRETACIÓN Seleccionar población y resultados a vigilar Definir infecciones RECOLECCIÓN DE DATOS ANÁLISIS DE DATOS Calcular tasas, aplicar metodologia de estratificación de riesgo Fuente: Ontario Agency for Health Protection and Promotion, Provincial Infectious Diseases Advisory Committee. Best practices for surveillance of health care- associated infections in patient and resident populations. Toronto, ON: Queen's Printer for Ontario; 2011 25"
+    },
+    {
+      "marcador_cita": "[[PAGINA 28]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0028",
+      "pagina_pdf": 28,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "ANEXO N 0 2 LISTADO DE EVENTOS SUJETAS A VIGILANCIA EPIDEMIOLÓGICA 2 3 4 5 6 IAAS Infección del torrente sanguíneo (Bacteriemia primaria y sepsis clínica). Infección del tracto urinario Neumonía Infección de sitio OBLIGATORIA FACTOR DE RIESGO Catéter venoso central (CVC) Catéter venoso periférico (C VP) Nutrición Parenteral Total (NPT) Catéter para hemodiálisis Catéter urinario permanente (CUP) Ventilador mecánico Colecistectomía por laparotomía Colecistectomía con laparoscopía quirúrgico: superficial y Hernioplastía inguinal profundo Prótesis de cadera Parto Cesárea (PC) Parto Cesárea (PC) Endometritis puerperal Parto vaginal (P V) Exposición laboral a Accidentes agentes patógenos de punzocortantes y la sangre en personal salpicaduras de la salud UPSS Unidad de Cuidados Intensivos (UCI) Adultos, UCI Pediátricas, UCI Neonatal, Neonatología. UCI Neonatal y Neonatología. UCI Adultos, UCI Pediátricas, UCI Neonatal. UCI Adultos. UCI Adultos, UCI Pediátricas, Medicina y Cirugía. UCI Adultos, UCI Pediátricas, UCI Neonatal. Cirugía adultos y pediátrica. Traumatología. Gineco-Obstetricia. Gineco-Obstetricia. Todos los servicios * UCI Adultos incluye toda UCI que preste servicios a pacientes adultos críticamente enfermos, tales como: UCI cardiovascular, quirúrgica, médico/quirúrgica, traumatológica, gineco -obstetricia, neuroqui- rúrgica, quemados, oncológica, entre otras. 26"
+    },
+    {
+      "marcador_cita": "[[PAGINA 29]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0029",
+      "pagina_pdf": 29,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "1. ANEXO NO 3 CRITERIOS ESPECíFlCOS SEGÚN EL TIPO DE Infección del Torrente Sanguíneo (ITS), incluye bacteriemia primaria y sepsis clínica: La ITS se clasifica en bacteriemia confirmada por laboratorio (BAC) o septicemia clínica (SCLIN). Las ITS pueden ser primarias o secundarias, según haya o no una infección en otro sitio que sea la causa. Para la vigilancia, sólo se toma en cuenta la bacteriemia primaria confirmada por laboratorio, y la sepsis clínica precoz o tardía y asociada a catéter central o umbilical. Debe cumplir uno de los siguientes criterios: Bacteriemia primaria confirmada por laboratorio (BAC) CRITERIO 1 a) En 1 0 más hemocultivos del paciente se aisló un agente patógeno, excepto para microorganismos contaminantes comunes de la piel (literal c) del criterio b) EI microorganismo cultivado de la sangre no guarda relación con a) b) infecciones de otro(s) sitio(s) c) CRITERIO 2 Paciente con al menos 1 de los siguientes signos o síntomas: • Fiebre (>38 2C) • Escalofríos, • Hipotensión. En el caso de neonatos, fiebre >38, hipotermia, apnea y bradicardia; y, Resultados de laboratorio positivos que no se relacionen con infección en otro sitio; y, EI siguiente criterio de laboratorio: Microorganismos contaminantes comunes de la piel (es decir, difteroides [Corynebacterium spp.], Bacillus [no B. anthracis] spp., Propionibacterium spp., estafilococos coagulasa negativos [incluido S. epidermidis], Streptococcus del grupo viridans, Aerococcus spp., Micrococcus spp.) cultivados de la sangre extraída en 2 0 más ocasiones distintas. a) b) c) SEPSIS CLÍNICA (SCLIN) CRITERIO 1 Paciente pediátrico o adulto: 1 de los signos o síntomas del literal a) del criterio 2, y Paciente año, incluidos neonatos, con al menos 1 de los siguientes signos o síntomas clínicos sin otra causa reconocida: • Fiebre (>382C) Hipotermia • Apnea • Bradicardia; y, Hemocultivo sin crecimiento o no realizado; y, Sin infección aparente en otro sitio; Y, d) Médico instituye tratamiento para sepsis. 27"
+    },
+    {
+      "marcador_cita": "[[PAGINA 30]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0030",
+      "pagina_pdf": 30,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "2. Infección del Torrente Sanguíneo Asociada a Catéter Central (ITS-AC): Es la infección primaria (no guarda relación con otro sitio de infección) que cumple con los criterios expuestos para Infección del torrente sanguíneo y que eI paciente tenga un catéter central en eI momento o el antecedente de haberlo retirado dentro de las 48 horas previas al inicio del evento. No se requiere un período mínimo en que la vía central deba estar instalada para que la infección se considere asociada a la vía central. Infección del Tracto Urinario ('TU) sintomática: Las ITU de pacientes con presencia de catéter urinario permanente o cuya infección tenga relación con eI uso de esos dispositivos médicos; o sea, el caso corresponde al paciente con catéter urinario instalado en el momento de la aparición de la infección o en los 7 días anteriores a ella. Debe cumplir uno de los siguientes criterios: CRITERIO 1 a) Al menos uno de los siguientes signos o síntomas sin otra causa reconocida: • Fiebre ( > 380C). • Urgencia al orinar. • Aumento de la frecuencia urinaria. • Disuria o sensibilidad supra púbica, b) Urocultivo positivo Q105 microorganismos/cm3 de orina con <- -2 especies de microorganismos). 28 CRITERIO 2 a) AI menos 2 de los siguientes signos o síntomas sin otra causa reconocida: • Fiebre (>380C) • Urgencia al orinar. • Aumento de la frecuencia. • Disuria o sensibilidad suprapúbica; y, b) Al menos uno de los siguientes: • Tira reactiva positiva para estearasa leucocitaria o nitratos. • Piuria (muestra de orina con recuento de leucocitos > 10/mm3 0 > 3 leucocitos/campo de alta potencia en la orina sin centrifugar) • Se ven microorganismos en la tinción de Gram de orina sin centrifugar. • 105 colonias/ml de un agente uropatógeno único (bacterias gramnegativas o Staphylococcus saprophyticus) en paciente en tratamiento antimicrobiano eficaz para infección de las vías urinarias. • Diagnóstico médico de infección de tracto urinario. • Tratamiento para infección de tracto urinario indicado por un médico."
+    },
+    {
+      "marcador_cita": "[[PAGINA 31]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0031",
+      "pagina_pdf": 31,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "CRITERIO 3 Pacientes < 1 año de edad a) Al menos 1 de los siguientes signos y síntomas sin otra causa reconocida: • Fiebre > de 380C Hipotermia • Apnea Bradicardia. • Letargia Vómitos Dolor suprapúbico; y, • b) Un urocultivo positivo con no más de 2 especies de microroganismos y al menos uno de ellos con más de >105 UFC. *Criterio tomado del CDC/NHSN (2015) Notas: CRITERIO 4 Pacientes 1 año de edad a) Al menos 1 de los siguientes signos o síntomas sin otra causa reconocida: • Fiebre 380C Hipotermia. • • Apnea. Bradicardia. • Letargia, • Vómitos, Dolor suprapúbico; y, • b) Al menos 1 de los siguientes: • Tira reactiva positiva para estearasa leucocitaria o nitratos. • Piuria (muestra de orina con recuento de leucocitos > 10/mm3 0 > 3 leucocitos/campo de alta potencia en la orina sin centrifugar), • Se ven microorganismos en la tinción de Gram de orina sin centrifugar. • 105 colonias/ml de un agente uropatógeno único (bacterias gramnegativas o Staphylococcus saprophyticus) en paciente en tratamiento antimicrobiano eficaz para infección de las vías urinarias. • Diagnóstico médico de infección de tracto urinario. • Tratamiento para infección de tracto urinario indicado por un médico o o o 3. EI cultivo positivo de punta de catéter urinario no es una prueba de laboratorio aceptable para diagnosticar ITU sintomático. Los urocultivos deben ser obtenidos usando técnicas apropiadas, tales como una muestra limpia de chorro medio o cateterización. En menores de 1 año, un urocultivo debe ser obtenido por cateterización vesical o aspiración suprapúbica. Un urocultivo positivo de muestra de bolsa no es confiable y debe ser confirmado por una muestra obtenida asépticamente por cateterización o aspiración suprapúbica Neumonía: Para las neumonías asociadas a ventilación mecánica, se considera que eI paciente ha de estar intubado y ventilado en eI momento de la aparición de los síntomas o estuvo ventilado en un plazo de hasta 48 horas antes de la aparición de la infección. Debe cumplir uno de los siguientes criterios: 29"
+    },
+    {
+      "marcador_cita": "[[PAGINA 32]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0032",
+      "pagina_pdf": 32,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "CRITERIO 1 a) Datos radiológicos: 2 0 más radiografías de tórax seriadas con al menos 1 de los siguientes signos: • Infiltrado nuevo o progresivo y persistente. • Consolidación. • Cavitación; y, b) Al menos 1 de los signos o síntomas siguientes: • Fiebre ( > 38 0C) sin otra causa conocida • Leucopenia (recuento de leucocitos < 4000/mm3) o leucocitosis (recuento de leucocitos > 12 000 / mm3). • Para adultos mayores de 70 años de edad, estado mental alterado sin otra causa conocida; y, c) Al menos 2 de los siguientes: • Nueva aparición de esputo purulento o cambio de las características del esputo o aumento de secreciones respiratorias o mayor requerimiento de aspiración. • Nueva aparición o empeoramiento de tos, disnea o taquipnea • Estertores o respiración bronquial ruidosa • Empeoramiento del intercambio de gases (por ejemplo, desaturación de 02 [CADA Pa02//Fi02 < 240] mayor necesidad de oxígeno o mayor exigencia del ventilador mecánico). 30 CRITERIO 2 Datos radiológicos: 2 0 más radiografías a) de tórax seriadas con al menos uno de los siguientes signos: • Infiltrado nuevo o progresivo y persistente. • Consolidación • Cavitación; y, b) Al menos 1 de los signos o síntomas siguientes: • Fiebre (> 38 0C) sin otra causa conocida • Leucopenia (recuento de leucocitos < 4000/mm3) o leucocitosis (recuento de leucocitos > 12.000/mm3) • Para adultos mayores de 70 años de edad, estado mental alterado sin otra causa conocida; y, Al menos 1 de los siguientes: c) • • Nueva aparición de esputo purulento o cambio de las características del esputo o aumento de secreciones respiratorias o mayor requerimiento de aspiración Nueva aparición o empeoramiento de la tos, disnea o taquipnea. Estertores o respiración bronquial ruidosa Empeoramiento del intercambio de gases (por ejemplo, desaturación de 02 [caída Pa02//Fi02 < 240] mayor necesidad de oxígeno o mayor exigencia del ventilador mecánico); Y, d) Al menos 1 de los siguientes datos de laboratorio: • • • Crecimiento positivo en hemocultivo no relacionados con otra fuente de infección. Crecimiento positivo en cultivo de líquido pleural. Cultivo cuantitativo positivo de muestra mínimamente contaminada de tracto respiratorio inferior (por ejemplo, lavado broncoalveolar, muestra protegida de cepillado y mini-lavado broncoalveolar) 5% de las células obtenidas por lavado broncoalveolar contienen bacterias intracelulares en el examen microscópico directo (por ejemplo, tinción de Gram)."
+    },
+    {
+      "marcador_cita": "[[PAGINA 33]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0033",
+      "pagina_pdf": 33,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "• Examen histopatológico tiene al menos 1 de los siguientes datos probatorios de neumonía: • Formación de abscesos o focos de consolidación con acumulación intensa de polimorfonucleares en bronquiolos y alvéolos. • Cultivo cuantitativo positivo del parénquima del pulmón. • Datos probatorios de invasión de parénquima del pulmón por hifas fúngicas o pseudohifas. CRITERIO 4 Paciente < 1 año de edad CRITERIO 3 Paciente 1 año de edad a) Datos radiológicos: 2 0 más radiografías de tórax seriadas con al menos 1 de los siguientes signos: • Infiltrado nuevo o progresivo y persistente. • Consolidación. • Cavitación. • Neumatoceles para los menores de 1 año de edad; y, b) Al menos 1 de los signos o síntomas siguientes: • Fiebre ( > 38 0C) sin otra causa conocida. • Leucopenia (recuento de leucocitos < 4000/mm3) o leucocitosis (recuento de leucocitos > 12.000 / mm3); Y. c) Al menos 2 de los siguientes: • Aumento de secreciones. respiratorias o mayor requerimiento de aspiración. • Nueva aparición o empeoramiento de tos, disnea o taquipnea (ver nota). • Estertores o respiración bronquial ruidosa • Empeoramiento del intercambio de gases (por ejemplo, desaturación de 02 [razón Pa02/Fi02 < 240], mayor necesidad de oxígeno o mayor exigencia del ventilador mecánico). a) c) Datos radiológicos: 2 0 más radiografías de tórax seriadas con al menos uno de los siguientes signos: Infiltrado nuevo o progresivo y persistente. Consolidación. Cavitación. Neumatoceles para los menores de 1 año de edad; y, b) Empeoramiento del intercambio de gases (por ejemplo, desaturación de 02 [razón Pa02/Fi02 < 240] mayor necesidad de oxígeno o mayor exigencia del ventilador mecánico); Y, Por Io menos 3 de los siguientes: Instabilidad en la temperatura sin otra causa reconocida Leucopenia (recuento de leucocitos < 5000/mm3) o leucocitosis (recuento de leucocitos > 25.000 /mm3 al nacimiento 0 30.000 entre 12 y 24 horas o >21.OOO después de 48 horas) y desvío a la izquierda (>10% fórmulas de banda). Nueva aparición de esputo purulento o cambio de las características del esputo o aumento de secrecioes respiratorias o mayor requerimiento de aspiración. Apnea, taquipnea, aleteo nasal con retracción de la pared torácica y gruñidos. • Sibilancias, estertores o roncus. • Tos. Bradicardia (<IOO Ipm) o taquicardia (>170 Ipm). 31"
+    },
+    {
+      "marcador_cita": "[[PAGINA 34]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0034",
+      "pagina_pdf": 34,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "CRITERIO 5 Paciente 1 año de edad a) Por 10 menos 2 de los siguientes signos: Apnea, taquipnea, sibilantes, roncantes, tos, bradicardia; y, b) Uno de los siguientes criterios: • Esputo purulento o cambio en el carácter del esputo. • Hemocultivo positivo. • Cultivo obtenido por ATT (aspiración transtraqueal), broncoscopía con cepillo protegido o biopsia. CRITERIO 6 Paciente > 1 año o < 12 años a) Paciente con enfermedad de fondo, con 2 0 más imágenes o paciente sin enfermedad de fondo con 1 más imágenes, con al menos uno de los siguientes: Infiltrados nuevos o progresivo y persistente. Consolidación. Cavitación; Y, menos 3 de los siguientes: Fiebre (> 380C) o hipotermia (< 360C). Leucopenia (<4000 leucocitos/ mm3), o leucocitosis (>15000) Nuevo inicio de esputo purulento o cambios en carácter de esputo o aumento de secreciones respiratoria o requerimiento de succión. Nuevo inicio de empeoramiento de tos, disnea, apnea o taquipnea Ruidos o sonidos respiratorios bronquiales. Tos; Y, c) Empeoramiento de intercambio de gases (por ejemplo, desaturación de oxígeno - oximetría <94%), aumento en los requerimientos de oxígeno o aumento de la demanda del ventilador. *Criterio tomado del CDC/NHSN (2015) Notas4: Criterio 1: En los pacientes sin enfermedades pulmonares o cardíacas subyacentes (por ejemplo, síndrome de dificultad respiratoria, displasia broncopulmonar, edema pulmonar o enfermedad pulmonar obstructiva crónica) basta con una radiografía de tórax definitiva. Criterio 3: En los recién nacidos sin enfermedades pulmonares o cardíacas subyacentes (por ejemplo, síndrome de distrés respiratorio, edema pulmonar, displasia bronco pulmonar, aspiración de meconio), una radiografía de tórax definitiva es aceptable. EI diagnóstico de neumonía nosocomial de pacientes no ventilados, ocasionalmente, puede ser muy claro sobre la base de los síntomas, signos y una única radiografía de tórax con imagen invasiva concluyente. Sin embargo, en eI caso de pacientes con enfermedades pulmonares o cardíacas (por ejemplo, enfermedad intersticial del pulmón o insuficiencia cardíaca congestiva), el diagnóstico de neumonía puede ser particularmente difícil. Otras afecciones no infecciosas (por ejemplo, edema pulmonar de una insuficiencia cardíaca congestiva descompensada) pueden simular la presentación de la neumonía. En estos casos más difíciles, hay que examinar las radiografías de tórax seriadas para ayudar a distinguir los procesos pulmonares infecciosos de los no infecciosos. Para apoyar su confirmación, puede ser útil examinar las radiografías eI día del diagnóstico, 3 32"
+    },
+    {
+      "marcador_cita": "[[PAGINA 35]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0035",
+      "pagina_pdf": 35,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "días antes del diagnóstico y en los días 2 y 7 después del diagnóstico. La neumonía puede iniciarse y progresar rápidamente, pero no se resuelve rápidamente. Los cambios radiográficos de la neumonía persisten durante varias semanas. Como resultado, la resolución radiográfica rápida indica que eI paciente no tiene neumonía, sino un proceso no infeccioso, como atelectasia o insuficiencia cardíaca congestiva. Cultivo de esputo expectorado no es útil en eI diagnóstico de neumonía, pero podría ayudar a identificar eI agente etiológico y proveer información útil sobre la susceptibilidad antimicrobiana. La neumonía debida a aspiración de contenido gástrico se considera nosocomial si satisface los criterios mencionados y no estaba presente o incubándose en el momento del hospital. En casos de pacientes con estancias hospitalarias largas pueden presentarse episodios múltiples de neumonía nosocomial. Para determinar si se trata de un nuevo episodio debe confirmarse la resolución de la infección inicial. La detección de un nuevo agente patógeno NO debe ser considerada como único criterio para un nuevo episodio de neumonía. Una única anotación de esputo purulento o cambio de las características del esputo no es significativa. Las anotaciones repetidas en un período de 24 horas serían un mejor indicador del inicio de un proceso infeccioso. EI cambio de las características del esputo se refiere al color, la uniformidad, eI olor y la cantidad. La taquipnea se define como > 25 respiraciones por minuto en los adultos. En los niños, la taquipnea se define como > 75 respiraciones por minuto en los lactantes prematuros nacidos con < 37 semanas de gestación y hasta la 402 semana; > 60 respiraciones por minuto en pacientes < 2 meses de edad; > 50 respiraciones por minuto en los pacientes de 2 a 12 meses de edad; y > 30 respiraciones por minuto 4. en los niños > 1 año de edad. Infección de sitio quirúrgico (ISQ) 4.1 Infección de sitio quirúrgico superficial (ISQS): siguiente criterio: CRITERIO 1 Debe cumplir con el a) Compromete piel o tejido subcutáneo y ocurre dentro de los 30 días después del procedimiento quirúrgico y que comprometa sólo la piel o tejido subcutáneo de la incisión; y, b) Al menos uno de los siguientes: • Drenaje purulento de la incisión superficial. • Microorganismos aislados en un cultivo obtenido asépticamente de un fluido o tejido de la incisión superficial; y, c) Al menos 1 de los siguientes signos o síntomas de infección: Dolor Hinchazón localizada Enrojecimiento o calor; y, La incisión es deliberadamente abierta por el cirujano y el cultivo es positivo o no hay cultivo. Diagnóstico de infección superficial del sitio quirúrgico realizada por un cirujano o médico tratante. 33"
+    },
+    {
+      "marcador_cita": "[[PAGINA 36]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0036",
+      "pagina_pdf": 36,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "Notas: No registrar eI absceso de punto de sutura como una infección (inflamación mínima y descarga confinada a los puntos de penetración de la sutura). Si la infección del sitio de la incisión involucra o se extiende dentro de la fascia y capas musculares informarlo como una ISQ profunda. Clasificar la infección que involucra los sitios de incisión superficial y profunda como profunda ISQ profunda. 4.2 Infección de sitio quirúrgico profunda (ISQP): Debe tener cumplir con eI siguiente criterio: CRITERIO 1 a) Que la infección se presente dentro de los 30 días posteriores al procedimiento quirúrgico si no se deja un implante en eI lugar; o, dentro de 1 año si hay implante y la infección parece estar relacionada con la cirugía y comprometa tejidos blandos profundos (por ejemplo, fascia o capas musculares); y, b) Al menos 1 de los siguientes: • Drenaje purulento de la incisión profunda pero no del órgano/componente espacial del sitio quirúrgico. • Dehiscencia de la incisión profunda o que sea abierta por el cirujano y el cultivo sea positivo o no cultivado, cuando eI paciente tenga al menos 1 de los siguientes signos y síntomas: Fiebre (>380C), dolor o sensibilidad localizada; c) Al menos 1 de los siguientes signos o síntomas: • Fiebre (>380C), dolor localizado o sensibilidad. • Abceso u otro tipo de evidencia de infección que comprometa la incisión profunda, que se detecta en el examen directo, durante la reintervención, o en eI examen histopatológico o radiológico un absceso. • Diagnóstico de infección profunda de una incisión por un cirujano o médico tratante. Notas: Las ISQ post cirugía de prótesis de cadera se refieren a las infecciones propiamente como tal, tanto de planos superficiales como profundos, independiente si además hay infección de la prótesis. Las ISQ se cuentan en el mes en que tuvo lugar la intervención quirúrgica. Por ejemplo, si la operación cesárea se realizó eI 28 de marzo y la infección se manifestó el 5 de abril, la infección se incluye entre las del mes de marzo, es decir, la tasa sería: EI número de ISQ (profunda o superficial) de operaciones cesáreas realizadas en marzo, dividido por eI número total de partos por cesárea que tuvieron lugar en el mes de marzo, multiplicado por 100 34"
+    },
+    {
+      "marcador_cita": "[[PAGINA 37]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0037",
+      "pagina_pdf": 37,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "5. Endometritis puerperal (END): Debe cumplir 1 de los siguientes criterios: CRITERIO 1 EI paciente tiene cultivo positivo del líquido o del tejido endometrial, obtenidos durante un procedimiento quirúrgico, con aspiración por aguja o con biopsia por cepillado. Notas: Registrar la END post parto como una CRITERIO 2 Al menos 2 de los siguientes signos o síntomas sin otra causa reconocida: • Fiebre (>382C) • Dolor abdominal. • Sensibilidad uterina. • Drenaje purulento del útero. infección asociada a la atención de salud 6. a menos que eI líquido amniótico esté infectado al momento de la admisión o el paciente fue admitido 48 horas después de la ruptura de membranas. La END se cuenta en el mes que tuvo lugar eI parto vaginal o la operación cesárea. Por ejemplo, si la cesárea se realizó eI 28 de marzo y la infección se manifestó el 5 de abril, la infección se incluye en el mes de marzo, es decir, la tasa sería: EI número de casos de END asociados a operación cesárea durante eI mes de marzo, dividido por eI número total de operaciones cesáreas en eI mes de marzo. Exposición laboral a agentes patógenos de la sangre en personal de la salud: 6.1 6.2 Accidente punzocortante: Se define como eI accidente que ocurre con instrumental punzo cortante (agujas, bisturí, entre otros) durante cualquier procedimiento médico quirúrgico después que se ha traspasado la piel del paciente hasta que se elimine eI material en eI recipiente final asignado en eI área o durante los procesos de manejo, traslado y eliminación. Esto es independiente de la condición de portador o no del paciente de alguno de los agentes que se pueden transmitir por la sangre. Salpicaduras: Salpicaduras de líquidos (LCR, liquido sinovial, líquido pleural, liquido peritoneal, liquido pericárdico o líquido amniótico) o sangre que entre en contacto con las mucosas o piel no intacta del personal de la salud. 35"
+    },
+    {
+      "marcador_cita": "[[PAGINA 38]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0038",
+      "pagina_pdf": 38,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "O o LU -o o o O w o o w o LL C u-, oxas o c oo 36"
+    },
+    {
+      "marcador_cita": "[[PAGINA 39]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0039",
+      "pagina_pdf": 39,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "ANEXO NO 4 INSTRUCTIVO PARA EL LLENADO DEL FORMATO DE SEGUIMIENTO A PACIENTES CON FACTOR DE RIESGO (DISPOSITIVOS MÉDICOS) Este instructivo proporciona información para eI correcto llenado del formato de seguimiento a pacientes con factor de riesgo (dispositivos médicos): Para eI correcto llenado del formato se toma en consideración letra clara y legible para registrar 10 siguiente: 2. 3. 4 5. 6. 7. 8. 9 10. 11. 12. 13 14. 15 16 17. 18. Institución Prestadora de Servicios de Salud (IPRESS): Nombre de la institución prestadora de servicios de salud donde se realice la vigilancia de la IAAS. Mes/año: Mes y el año al cual se realice eI seguimiento a los pacientes con factor de riesgo extrínseco. Servicio: Nombre del servicio vigilado. Sala: Denominación de las salas en caso exista más de uno por servicio (por ejemplo, \"Sala San Pedro\", \"mujeres\", entre otros). Historia clínica/autogenerado/DNl: Código disponible en la IPRESS a través del cual se realice la ubicación de la historia clínica del paciente, como puede ser la historia clínica/autogenerado/documento nacional de identidad, entre otros. NO de cama: Número de cama o código que identifique la cama que ocupa el paciente vigilado. Apellidos y nombres: Apellidos y nombres del paciente con factor de riesgo vigilado. Sexo: Registrar masculino (M) o femenino (F). Peso: En caso corresponda a recien nacidos (<=28 días de vida), registrar eI peso en gramos. Fecha de ingreso: Fecha en que ingresó al servicio vigilado. Diagnóstico médico: Diagnóstico médico que presenta eI paciente durante el mes vigilado. Factor de riesgo: Factor de riesgo al cual está siendo sometido el paciente y es motivo de vigilancia, por ejemplo: Ventilador mecánico (VM), Catéter venoso central (CVC), catéter urinario permanente (CUP). Días del mes: Número de día que corresponde al mes vigilado. Condición de egreso: Condición de alta del paciente vigilado: Vivo (V), fallecido (F) o transferido Observaciones: Cualquier otra información que tenga relevancia en eI seguimiento del paciente vigilado (por ejemplo, solicitud y resultados de cultivos realizados, entre otros). Código de fechas: Números que se registran en eI casillero de los días que corresponda: Inicio de instalación del factor de riesgo (1), retiro del factor de riesgo (2), inicio de síntomas de IAAS (3). Total de días: Sumatoria de los días de exposición que excluye los días de exposición al dispositivo médico durante la infección. Es decir, sólo eI tiempo antes o después Símbolos de seguimiento: Símbolos que se registran en eI casillero de los días que corresponda: a. b. c. d Si eI paciente está expuesto al factor de riesgo durante eI día (O. Si eI paciente está expuesto al factor de riesgo, pero tiene IAAS en tratamiento (x) Si eI paciente no está expuesto al factor de riesgo, pero continúa hospitalizado Si eI paciente continúa del mes anterior (*) 37"
+    },
+    {
+      "marcador_cita": "[[PAGINA 40]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0040",
+      "pagina_pdf": 40,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "ANEXO NO 5 FICHA DE INVESTIGACIÓN EPIDEMIOLÓGICA DE INFECCIONES ASOCIADAS A LA ATENCIÓN EN SALUD (IAAS) 1.- DATOS DEL PACIENTE 1.1 1.2 1.4 1.7 1.9 1.11 1.13 Historia Clínica/DNl/autogenerado: Apellidos y nombres; Fecha de Nacimiento: Servicio: Fecha de ingreso a la IPRESS: Fecha de egreso al servicio; Diagnóstico Médico de Ingreso 1.5 1.10 1.12 1.3 Sexo Edad:_ 1.6 Peso (Neonato)• 1.8 sala. Fecha de ingreso al servicio: Condición de egreso: CIE.IO 11,- DATOS DE LA INFECCIÓN ASOCIADA A LA ATENCIÓN EN SALUD 2.1 Tipo de IAAS: 2.3 Criterio de definición de caso: 111.- FACTOR DE RIESGO ASOCIADO 3,1 3.4 3.6 3.8 3.10 3.12 Dispositivo médico: Procedimiento médico: Nombre de la Cirugía: Fecha de la cirugía: Clase de herida: Implante: Fecha de IAAS: 22 ITS secundaria a IAAS: 2.4 32 Fecha de instalación: 3.5 Fecha de Procedimiento: Tipo de cirugía: 3.7 3.9 3.13 3.3 Fecha de retiro• AGENTE AISLADO PARA LA IAAS 4.1 Tipo de cultivo• 4-3 Microorganismo 1' Antimicrobianos Ceftazidime Cefepime Ceftriaxona Ciprofloxacina Meropenem Ampicilina/SuIbactam Cefotaxi ma Aztreonam Cefuroxima TicarciIina/Acido Clavulánico Imipenem Piperac ilina/Tazobact am Cefepime Gentamicina Amikacina Sulfaperazona/Sulfametoxazol Acido Nalixidico Norfloxacino Oxacilina Vancomicina Eritromicina Linezolid Producción de BLEE Otro mecanismo de resistencia, especificar: 38 Sensible Duración de la cirugía (min): 3.11 Clase de ASA: Indice de Riesgo - ISG: 4.2 Fecha de extracción de la muestra: Perfil de sensibilidad Intermedio Resistente"
+    },
+    {
+      "marcador_cita": "[[PAGINA 41]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0041",
+      "pagina_pdf": 41,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "INSTRUCTIVO PARA EL LLENADO DE LA FICHA DE INVESTIGACIÓN EPIDEMIOLÓGICA DE IAAS Para eI correcto llenado de la ficha se toma en consideración letra clara y legible para registrar 10 siguiente: Historia clínica/autogenerado/DNl: Código disponible en la IPRESS a través del 1. cual se realice la ubicación de la historia clínica del paciente, como puede ser la historia clínica/autogenerado/ documento nacional de identidad, entre otros. Apellidos y nombres: Apellidos y nombres del paciente con factor de riesgo 2 vigilado. Sexo: Registrar masculino (M) o femenino (F). 3. Fecha de nacimiento: Fecha de nacimiento del caso. 4 Edad: Edad cronológica del caso, años (a), meses (m), dias (d). 5. Peso: En caso corresponda a recién nacidos (<=28 días de vida), registrar eI peso 6. en gramos. Servicio: Nombre del servicio vigilado. 7. Sala: La denominación de las salas en caso exista más de una por servicio (por 8. ejemplo, \"Servicio Medicina - Sala San Pedro\"). 9. Tipo de documento: DNI, pasaporte u autogenerado. Número de documento: Dígitos del tipo documento. 10. Apellidos y nombres: Nombres y apellidos de paciente. 11 Fecha de ingreso a la IPRESS: Fecha en que es hospitalizado en la IPRESS. 12. 13. Fecha de ingreso al servicio: Fecha en que ingresa al servicio vigilado. Fecha de egreso: Fecha en que sale de alta del servicio vigilado. 14 Condición de egreso: Condición de alta del paciente vigilado: Vivo (V), fallecido 15. (F) o transferido (T) Diagnóstico médico de ingreso: Diagnóstico médico motivo de la hospitalización 16. según el código CIE 10 correspondiente, incluye las comorbilidades. Tipo de IAAS: Código de la infección asociada a la atención de la salud que presenta 17. eI paciente según la definición de caso específica para su diagnóstico. Fecha de IAAS: Fecha en que se clasifica como IAAS. 18. Criterio de definición de caso: Criterio utilizado para la clasificación del caso como 19 IAAS, según 10 establecido en el Anexo 3. 20. ITS secundaria a IAAS: Infección del torrente sanguíneo que se desarrolla en eI paciente como consecuencia de otro tipo de IAAS (Si/No). Dispositivo médico: Dispositivo invasivo instalado que está asociado a la IAAS 21. Fecha de instalación: Fecha en la que se instaló el dispositivo invasivo o se realizó 22. eI procedimiento quirúrgico. Fecha de retiro: Fecha en la que se retira el dispositivo invasivo y eI paciente deja 23. de estar expuesto; no aplica para los procedimientos quirúrgicos. 24. Procedimiento médico: Procedimiento asociado a la IAAS, incluye parto o cirugía vigilada. Fecha de procedimiento: Fecha en que se realizó eI procedimiento o la intervención 25. quirúrgica (dd/mm/aa). 26. Nombre de la cirugía: Tipo de cirugía seleccionada para la vigilancia. Fecha de cirugía: Fecha en que se realizó la intervención quirúrgica (dd/mm/aa) 27. 28. Duración de la cirugía: Tiempo que dura la cirugía en minutos. Para eI cálculo del ISQ, se considera las horas t (corresponde al percentil 75 de la duración de la cirugía vigilada) si eI tiempo de duración de la cirugía es mayor será 1, caso contrario O. 29. Clase de herida: Escribir según corresponda el tipo de herida: Limpia (L) No infectada, no inflamada y no se abren los tractos respiratorio, 39"
+    },
+    {
+      "marcador_cita": "[[PAGINA 42]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0042",
+      "pagina_pdf": 42,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "digestivo, genital o urinario no infectado. Limpia Contaminada (LC): Herida quirúrgica en la cual se abren los tractos respiratorio, digestivo, genital o urinario bajo condiciones controladas y sin contaminación inusual. Incluye operaciones de tracto biliar, apéndice, vagina y orofaringe siempre y cuando no haya evidencia de infección o un quiebre mayor de la técnica Contaminada (C): Incluye heridas abiertas, frescas, accidentales, también quiebres en la técnica estéril (por ejemplo, masaje cardíaco abierto) o drenaje grosero de tracto gastrointestinal e incisiones en las cuales se encuentre inflamación aguda no purulenta. Infectada o sucia (l): Incluye heridas traumáticas no recientes con tejido desvitalizado o retenido y aquellas que involucran infección clínica existente o víscera perforada, sugiere que los microorganismos estaban presentes en eI campo operatorio antes de la operación. 30. Clase de ASA: Estima el riesgo que plantea la anestesia para los distintos estados del paciente. EI sistema de clasificación que se utiliza es de la American Society of Anesthesiologists (ASA), que es registrado por el anestesiólogo en la historia clínica del paciente. Se consideran sólo las primeras 5 categorías: ASA 1: Paciente sano normal. ASA 2: Paciente con una enfermedad sistémica leve (por ejemplo, paciente sin limitaciones funcionales y una enfermedad bien controlada. ASA 3: Paciente con una enfermedad sistémica grave que no es potencialmente mortal. Ejemplo: paciente con alguna limitación funcional como resultado de una enfermedad. ASA 4: Paciente con una enfermedad sistémica grave que es una amenaza constante para la vida. ASA 5: Paciente moribundo que no se espera que sobreviva sin la operación. No se espera que eI paciente sobreviva más allá de las próximas 24 horas sin cirugía. 31. Implante: Sólo aplica para las cirugías de cadera u otra cirugía seleccionada localmente 32. índice de riesgo: Se calcula en función a la clase de herida, ASA y la duración de la operación según puntaje adjunto en la tabla siguiente: FACTOR DE RIESGO CLASE DE HERIDA Limpia o limpia-contaminada Contaminada o sucia-infectada CLASE ASA 102 3,405 DURACIÓN DE LA OPERACIÓN < horas t >horas t PUNTOS (PARA INDICE DE RIESGO DE ISQ) 1 1 33. Tipo de cultivo: Hemocultivo (1), urocultivo (2), secreción bronquial (3), cultivo de secreción de herida (4), otros especificar. 34. Microorganismo 1 y 2: Código asignado según microorganismo, ver lista (Anexo N 011). Para considerarse hasta dos cultivos para cada IAAS. 35. Perfil de resistencia y sensibilidad: Registrar según el antibiograma para cada antimicrobiano: Resistencia (R), sensibilidad (S) e Indeterminado (l) 40"
+    },
+    {
+      "marcador_cita": "[[PAGINA 43]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0043",
+      "pagina_pdf": 43,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "ANEXO NO 6 FORMATO DE LA VIGILANCIA DE IAAS GINECO-OBSTETRICIA MES VIGILADO: NO DE PARTOS DÍA VAGINALES SALA: NO DE ENDOMETRITIS POS PARTO VAGINAL TOTAL DE PARTOS POR CESÁREA NO DE ENDOMETRITIS pos CESÁREA NO DE INFECCIONES DE SITIO QUIRÚRGICO pos CESÁREA 4 5 6 7 8 9 10 12 13 14 15 16 17 19 20 21 22 23 24 25 26 27 28 29 30 31 TOTAL FIRMA Y SELLO DEL RESPONSABLE 41"
+    },
+    {
+      "marcador_cita": "[[PAGINA 44]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0044",
+      "pagina_pdf": 44,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "ANEXO NO 7 FORMATO DE LA VIGILANCIA DE IAAS CIRUGÍA DÍA 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 TOTAL 42 NO DE COLECISTECTOMÍAS SIN LAPAROSCOPIA NO DE INFECCIONES DE SITIO QUIRÚRGICO pos COLECISTECTOMÍA SIN LAPAROSCOPIA NO DE INFECCIONES NO DE COLECISTECTOMÍAS CON LAPAROSCOPIA NO DE INFECCIONES DE SITIO QUIRÚRGICO pos COLECISTECTOMÍA CON LAPAROSCOPIA NO DE NO DE INFECCIONES NO DE DE SITIO CIRUGÍAS DE DE SITIO HERNIOPLASTíAS QUIRÚRGICO pos INGUINALES HERNIOPLASTíA INGUINAL CADERA QUIRÚRGICO pos CIRUGÍA DE CADERA FIRMA Y SELLO DEL RESPONSABLE"
+    },
+    {
+      "marcador_cita": "[[PAGINA 45]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0045",
+      "pagina_pdf": 45,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "INSTRUCTIVO PARA EL LLENADO DE LOS FORMATOS DE LA VIGILANCIA DE IAAS EN GINECO-OBSTERICIA Y CIRUGíA Este instructivo proporciona información para el correcto llenado de la ficha de denominadores de la vigilancia de IAAS en Gineco -Obstetricia y Cirugía (Anexo 6 Y 7, respectivamente) Para eI correcto llenado de la ficha se toma en consideración letra clara y legible para registrar 10 siguiente: 1 2. 3 4. 5 6. 7. 8. 9. 10. 11 12. 13 14. 15 Mes vigilado: Mes en que se realizó la vigilancia. Sala: La denominación de las salas en caso exista más de una por servicio. Ejemplo: \"Servicio Medicina - Sala San Pedro\" NO de partos vaginales: Sumatoria de todos los partos vaginales realizados en eI día vigilado. NO de endometritis pos parto vaginal: Sumatoria de todos los casos de endometritis en la fecha del parto realizado NO de partos por cesárea: Sumatoria de todos los partos cesáreas realizadas en eI día vigilado. NO de endometritis pos parto cesárea: Sumatoria de todos los casos de endometritis pos parto cesárea registrados en la fecha del parto realizado. NO de ISQ pos parto cesárea: Sumatoria de todos los casos de ISQ pos parto cesárea registrados en la fecha del parto realizado. NO de colecistectomías sin laparoscopía: Sumatoria de todas las colecistectomías sin laparoscopía en el día vigilado. NO de ISQ pos colecistectomía sin laparoscopía: Sumatoria de los casos de ISQ colecistectomías sin laparoscopía en la fecha de la cirugía realizada. NO de colecistectomías con laparoscopía: Sumatoria de todas las colecistectomías con laparoscopía en eI día vigilado. NO de ISQ pos colecistectomía con laparoscopía: Sumatoria de los casos de ISQ pos colecistectomía con laparoscopía en la fecha de la cirugía realizada. NO de Hernioplastias inguinales: Sumatoria de todas las cirugías realizadas en eI día vigilado. NO de ISQ pos Hernioplastía inguinal: Sumatoria de todos los casos de ISQ pos hernioplastia inguinal en la fecha de la cirugía realizada. NO de cirugías de cadera: Sumatoria de todas las cirugías realizadas durante en eI día vigilado. NO de ISQ pos cirugía de cadera: Sumatoria de todos los casos de ISQ pos cirugía de cadera en la fecha de la cirugía realizada. 43"
+    },
+    {
+      "marcador_cita": "[[PAGINA 46]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0046",
+      "pagina_pdf": 46,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 47]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0047",
+      "pagina_pdf": 47,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "INSTRUCTIVO PARA EL LLENADO DEL FORMATO DE EXPOSICIÓN LABORAL A AGENTES PATÓGENOS DE LA SANGRE EN EL PERSONAL DE LA SALUD Para el correcto llenado del formato se toma en consideración letra clara y legible para registrar Io siguiente: 1. 2. 3 4. 5 6. 7. 8. 9. 10. 11 12. 13 14. 15 16 17. 18. Historia clínica/autogenerado/DNl: Código disponible en la IPRESS a través del cual se realice la ubicación de la historia clínica del paciente como puede ser: la historia clínica/autogenerado/ documento nacional de identidad, entre otros. Edad: Edad cronológica del caso, años (a), meses (m), días (d). Sexo: Registrar masculino (M) o femenino (F). Profesión/ocupación: Medicina, Enfermería, Técnico de Enfermería, Técnico de laboratorio, Limpieza, otros. Condición: Estudiante, interno, residente, nombrado, contratado, otro. Servicio o lugar: Servicio o lugar donde ocurrió la exposición: Emergencia, Obs- tetricia, Centro Quirúrgico, Unidad de Cuidados Intensivos, Consultorios externos, Banco de Sangre, Laboratorio, otros. Factor de riesgo: Accidentes punzocortantes y salpicaduras. Fecha: Fecha en que ocurrió la exposición. Hora: Hora en que ocurrió la exposición. Objeto o instrumento punzocortante: Objeto o instrumento que ocasionó eI acci- dente punzocortante. Profundidad de la punción: Superficial (sin sangrado), moderada (perforación su- perficial, exceso de sangrado), grave (perforación profunda, sangrado profuso). Fluido o secreción de la exposición: Sangre, orina, vómito, esputo, otros. Uso de Equipo de Protección Personal (EPP) al momento de la exposición: Guan tes, lentes o protector ocular, mandil, mascarilla, respirador. Localización: Mano y otra parte del cuerpo. Identificación del paciente fuente: Si/No. Procedimiento en que ocurrió la exposición: Desconocido/No aplicable, Inyec- ción intramuscular/subcutánea, u otra inyección, colocar, conectar vía intravenosa (infusión intermitente /otra conexión), sutura, toma de muestra de fluido corporal o tejido y otros. Profilaxis post-exposición: Medicamento prescrito según corresponda Si/No. Observaciones: Otra variable no considerada 45"
+    },
+    {
+      "marcador_cita": "[[PAGINA 48]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0048",
+      "pagina_pdf": 48,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "ANEXO NO 9 FORMATO CONSOLIDADO DE INFORMACIÓN RELACIONADA AL PERSONAL DE LA SALUD AÑO Estudiante Interno N 0 de Personal de la salud Residente Nombrado Contratado ANEXO NO 10 Otro Total INDICADORES DE LA VIGILANCIA EPIDEMIOLÓGICA PARA EL CÁLCULO DE TASAS DE IAAS 2 3 4 5 6 7 8 9 46 Evento vigilado Infección del torrente sanguíneo (ITS) asociada a catéter venoso central (CVC) Infección del torrente sanguíneo (ITS) asociada a catéter venoso periférico (CVP) Infección del torrente sanguíneo (ITS) asociada a Nutrición Parenteral Total Infección del torrente sanguíneo (ITS) asociada a Catéter para hemodiálisis Infección del tracto urinario (l TU) asociada a catéter urinario permanente (CUP) Neumonía (NEU) asociada a ventilación mecánica (VM) Infección de Sitio Quirúrgico (ISQ) Endometritis puerperal (END) Exposiciones laborales a agentes patógenos de la Tipo de indicador Densidad de incidencia Incidencia acumulada Cálculo Número de ITS asociada a C VC / Número de días de CVC x 1000 Número de ITS asociada a CVP / Número de días de CVP x 1000 Número de ITS asociada a NPT / Número de días de NPT x 1000 Número de ITS asociada a catéter para hemodiálisis / Número de días de catéter para hemodiálisis x 1000 Número de ITU asociada a CUP / Número de días de CUP x 1000 Número de NEU asociada a VM /Número de días de VM x 1000 Número de casos de ISQ pos cirugía según tipo/Número de cirugías del mismo tipo x 100 Número de pacientes post parto vaginal con END/ Número de pacientes con parto vaginal x 100 Número de pacientes post parto cesárea con END/ Número de pacientes con parto cesárea X 100 N 0 de casos accidentes punzocortantes en el personal sanitario/ Total de personal de la salud de la IPRESS X 100 N 0 casos de exposición ocupacional (membrana mucosa o piel no intacta) a agentes patógenos de la sangre en el personal de la salud según tipo/ Total de personal sanitario de la IPRESS X 100"
+    },
+    {
+      "marcador_cita": "[[PAGINA 49]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0049",
+      "pagina_pdf": 49,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "ANEXO N 0 11 LISTA DE CÓDIGOS DE MICRORGANISMOS POR FAMILIAS 1 3 4 5 6 7. AGRUPACIÓN COCOS GRAM POSITIVOS 2. BACILOS GRAM POSITIVOS ENTEROBACTERIAS BACILOS GRAN NEGATIVOS NO FERMENTADORES LEVADURAS Y OTROS HONGOS UNICELULARES HONGOS FILAMENTOSOS MICROORGANISMO Staphylococcus aureus Staphylococcus epidermidis Staphylococcus saprophyticus Staphylococcus coagulasa-negativo Staphylococcus spp Enterococcus faecalis Enterococcus faecium Enterococcus spp Otros cocos gram positivos Listeria monocytogenes Escherichia coli Enterobacter cloacae Enterobacter aerogenes Enterobacter spp klebsiella pneumoniae klebsiella spp. klebsiel/a oxytoca Morganella morganii Proteus mirabilis Proteus spp. Otras enterobacterias Pseudomonas aeroginosa Pseudomonas spp Acinetobacter baumannii Acinetobacter calcoaceticus Acinetobacter spp Stenotrophomonas maltophilia Otras pseudomonas no fermentadores Candida albicans Candida no albicans Cryptococcus neoformans Otras levaduras Aspergillus fumigatus Aspergillus flavus Aspergillus niger Aspergillus niger spp Otros hongos filamentosos Otros Microorganismos no incluidos en el listado Abreviatura SAU SEP SAP SCN STA EFA EFM ENT Otros cocos gram positivos LMO ECO ECL EAE KPN KOX MMO PMI Otras enterobacterias PAE ABA ACA AC- PMA Otros no fermentadores CXA CNE otras levaduras AFU AFL ANI ASP Otros hongos filamentosos 47"
+    },
+    {
+      "marcador_cita": "[[PAGINA 50]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0050",
+      "pagina_pdf": 50,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "BIBLIOGRAFÍA 1) World Health Organization. Directrices sobre componentes básicos para los pro- gramas de prevención y control de infecciones a nivel nacional y de establecimien- tos de atención de salud para pacientes agudos. 2016 2) CDC/NHSN Surveillance Definition of Healthcare-Associated Infection and Criteria for Specific Types of Infections in the Acute Care Setting.2013 3) Lineamientos para la vigilancia, prevención y control de las Infecciones Asociadas a la Atención de Salud. Ministerio de Salud, 2015. 4) Organización Panamericana de la Salud; \"Vigilancia Epidemiológica de las Infec- ciones Asociadas a la Atención de Salud Modulo I\" Washington, D.C.: OPS, @ 2010 5) Organización Panamericana de la Salud; \"Guía de evaluación rápida de programas hospitalarios en prevención y control de infecciones asociadas a la atención de salud Modulo II\" Washington, D.C.: OPS, @ 2011. 6) Organización Panamericana de la Salud; \"Vigilancia Epidemiológica de las Infec ciones Asociadas a la Atención de Salud Modulo III\" Washington, D.C: ops, @ 2012. 7) Organización Panamericana de la Salud; \"Vigilancia Epidemiológica de las Infec ciones Asociadas a la Atención de Salud en Neonatología Modulo IV\" Washington, D.C.: OPS, 0 2013. 8) Organización Panamericana de la Salud; \"Vigilancia Epidemiológica de las Infec- ciones Asociadas a la Atención de Salud en eI puerperio Modulo V\" Washington, D.C.: ops, @ 2014. 9) Sociedad española de Medicina Preventiva Salud Publica e Higiene, estudio EPINE 2013 y encuesta puntual de prevalencia en los hospitales de agudos de Europa (EPPS). 10) Secretaría Distrital de Salud de Bogotá, Criterios Diagnósticos de Infecciones Aso- ciadas al Cuidado de la Salud a ser utilizados para la notificación al subsistema de vigilancia epidemiológica de IACS en Bogotá D.C 2010. 11) Instituto Nacional de Epidemiología; Manual de vigilancia de infecciones hospita larias. Programa Nacional de epidemiología y control de infecciones intrahospita- larias (VIHDA). Programa Nacional de Vigilancia de Infecciones hospitalarias de Argentina. Ministerio de Salud de la Nación. Mar de Plata - Argentina, 2014. 12) Instrucciones para la vigilancia nacional de IAAS. Subsecretaría de Redes asisten- ciales. Departamento de Calidad Seguridad del paciente. 48"
+    },
+    {
+      "marcador_cita": "[[PAGINA 51]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0051",
+      "pagina_pdf": 51,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": ""
+    },
+    {
+      "marcador_cita": "[[PAGINA 52]]",
+      "id": "MINSA-RM-523-2020-MINSSA-P0052",
+      "pagina_pdf": 52,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "PERÚ Ministerio de Salud Viceministerio de Salud Pública Centro Nacional de Epidemiología, Prevención y Control de Enfermedades Calle Daniel Olaechea 199, Jesús María, Lima, Perú www.dge.gob.pe ISBN: 978-61248200-2-1 9 786124 820021"
+    }
+  ]
+}

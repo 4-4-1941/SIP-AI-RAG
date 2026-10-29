@@ -1,0 +1,87 @@
+{
+  "id": "MINSA-RESOLUCIN-MINISTERIAL-N-327-2022-MINSA",
+  "id_fuente_oficial": null,
+  "titulo": "Resolucin Ministerial N 327-2022-MINSA",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Documento técnico del Ministerio de Salud",
+  "numero_norma": null,
+  "fecha_aprobacion": null,
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "fuentes_oficiales": [
+    {
+      "tipo": "archivo_local",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "Resolucin Ministerial N 327-2022-MINSA",
+      "url": null,
+      "rol_evidencia": "Texto y anexos extraídos del archivo PDF fuente.",
+      "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL"
+    }
+  ],
+  "archivo_fuente": "Resolucin Ministerial  N 327-2022-MINSA .pdf",
+  "huella_sha256_pdf_fuente": "21017f411da3196c280d07e210cb3efea6e26aca2baa3a304f1251f581cb43a5",
+  "paginas_pdf": 4,
+  "paginas_con_texto": 4,
+  "idioma": "es",
+  "jurisdiccion": "Perú",
+  "metodo_extraccion": "ocr_local_windows_es_ES",
+  "ocr_aplicado": true,
+  "estado_vigencia": "NO_VERIFICADO_EXTERNAMENTE",
+  "estado_validacion": "CONTENIDO_EXTRAIDO_Y_ESTRUCTURA_RAG_VERIFICABLE; VIGENCIA_NORMATIVA_NO_VERIFICADA",
+  "estado_validacion_fuente": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "ultima_revision": "2026-10-28",
+  "reglas_rag": {
+    "responder_solo_con_evidencia_documental_recuperada": true,
+    "exigir_cita_con_numero_norma_y_pagina": true,
+    "marcador_pagina": "[[PAGINA n]]",
+    "no_inferir_vigencia_normativa": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "conteo_contenido": {
+    "paginas_representadas": 4,
+    "paginas_con_texto": 4,
+    "caracteres_texto_extraido": 12047
+  },
+  "contenido_documental": [
+    {
+      "marcador_cita": "[[PAGINA 1]]",
+      "id": "MINSA-RESOLUCIN-MINISTERIAL-N-327-2022-MINSA-P0001",
+      "pagina_pdf": 1,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "MINISTERIO DE SALUD DEL neuo/uct'dn O////ouutocia/ Et;ma, . S... de/e.ap.?2 OGAIN Visto, ei Expediente NO 21-047737-002 que contiene ei Informe NO 239-2021- DIPOS-DGAIN/MINSA y ei Informe NO 061-2022-DIPOS-DGAIN/MINSA de la Dirección General de Aseguramiento e Intercambio Prestacional; así como, el Informe NO 380-2022- OGAJ/MINSA de la Oficina General de Asesoría Jurídica; CONSIDERANDO: Que, los numerales l, II y Vi del Título Preliminar de la Ley NO 26842, Ley General de Salud, establecen que la salud es condición indispensable del desarrollo humano y medio fundamental para alcanzar el bienestar individual y colectivo; que la protección de la salud es de interés público, por tanto es responsabilidad del Estado regularla, vigilarla y promoverla; siendo de interés público la provisión de servicios de salud, cualquiera sea la persona o institución que los provea, y responsabilidad del Estado promover las condiciones que garanticen una adecuada cobertura de prestaciones de salud a la población, en términos socialmente aceptables de seguridad, oportunidad y calidad; Que, el numeral 1) del artículo 3 del Decreto Legislativo NO 1161, Ley de Organización y Funciones Ministerio de Salud, dispone como ámbito de competencia del Ministerio de Salud, la salud de las personas; Que, el artículo 4-A, del Decreto Legislativo NO 1161, modificado por la Única Disposición Complementaria Modificatoria del Decreto Legislativo NO 1504, Decreto Legislativo que fortalece al Instituto Nacional de Salud para la prevención y control de las enfermedades, establece que la potestad rectora del Ministerio de Salud comprende la facultad que tiene para normar, supervisar, fiscalizar y, cuando corresponda, sancionar, en los ámbitos que comprenden la materia de salud. La rectoría en materia de salud dentro del sector la ejerce el Ministerio de Salud por cuenta propia o, por delegación expresa, a través de sus organismos públicos adscritos y, dentro del marco y los límites establecidos en la citada Ley, la Ley Orgánica del Poder Ejecutivo, las normas sustantivas que regulan la actividad sectorial y las normas que rigen el proceso de descentralización. Asimismo, el Ministerio de Salud, ente rector del Sistema Nacional de Salud, y dentro del ámbito de sus competencias, determina la política, regula y supervisa la prestación de los servicios de salud, a nivel nacional, en las siguientes instituciones: EsSalud, Sanidad de la Policía Nacional del Perú, Sanidad de la Fuerzas Armadas, instituciones de salud del Gobierno Nacional y de los gobiernos regionales y locales, y demás instituciones públicas, privadas y público-privadas;"
+    },
+    {
+      "marcador_cita": "[[PAGINA 2]]",
+      "id": "MINSA-RESOLUCIN-MINISTERIAL-N-327-2022-MINSA-P0002",
+      "pagina_pdf": 2,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "Que, los literales a), e) y h) del artículo 5 del Decreto Legislativo NO 1161, modificado por el Decreto Legislativo NO 1504, dispone que son funciones rectoras del Ministerio de Salud conducir, regular y supervisar el Sistema Nacional de Salud; regular y dicta normas de organización para la oferta de salud, de los diferentes prestadores que brindan atenciones, para que en conjunto sean integrales, complementarias, de calidad, y que preste cobertura de manera equitativa y eficiente a las necesidades de atención de toda la población; así como, dictar normas y lineamientos técnicos para la adecuada ejecución y supervisión de la política nacional y políticas sectoriales de salud, la gestión de los recursos del sector; así como para el otorgamiento y reconocimiento de derechos, fiscalización, sanción y ejecución coactiva en las materias de su competencia; Que, el literal a) del artículo 7 del Decreto Legislativo NO 1161, modificado por la Ley NO 30895, Ley que fortalece la función rectora del Ministerio de Salud establece que eI Ministerio de Salud cumple, entre otras, con la función de regular la organización y prestación de servicios de salud; Que, la Ley NO 30885, Ley que establece la conformación y el funcionamiento de las Redes Integradas de Salud (RIS), tiene por objeto establecer el marco normativo para la conformación y el funcionamiento de las Redes Integradas de Salud (RIS) a nivel nacional; Que, el artículo 4 del Reglamento de la Ley NO 30885, Ley establece la conformación y el funcionamiento de las Redes Integradas de Salud — RIS, aprobado mediante el Decreto Supremo NO 019-2020-SA, establece los criterios para la delimitación territorial y poblacional para la conformación de las Redes Integradas de Salud-RlS; Que, en la Política General de Gobierno al 2021, aprobada con Decreto Supremo NO 056-2018-PCM, se establece en el cuarto eje: \"Desarrollo social y bienestar de la población\", el lineamiento prioritario 4.2 \"Brindar servicios de salud de calidad, oportunos, con capacidad resolutiva y con enfoque territorial\", el cual claramente ya demarca una organización para brindar servicios de salud con un enfoque territorial, como se hace en una organización en redes de salud, en un territorio específico; Que, la Política Nacional Multisectorial de Salud al 2030 \"Perú, País Saludable\", aprobada con Decreto Supremo NO 026-2020-SA, cuyo objetivo prioritario número dos, es \"Asegurar el acceso a servicios integrales de salud de calidad y oportunos a la población' señala que \"la organización territorial del cuidado integral de la salud será abordada a través del desarrollo de Redes Integradas de Salud (RIS) en todo el país\", incorporándose a las RIS en su Lineamiento 2.4, que a la letra dice: \"Implementar Redes Integradas de Salud para la atención de la población\"; Que, el Plan Estratégico Multisectorial al 2030 de la Política Nacional Multisectorial de Salud al 2030 \"Perú, País Saludable\", aprobado mediante Decreto Supremo NO 016- 2021 -SA dispone la Acción Estratégica Multisectorial - AEM 5.1 \"Organizar el sistema de salud en Redes Integradas de Salud (RIS) que facilitan el acceso a servicios de salud acreditados, integrales y de calidad\", la cual responde al Lineamiento 2.4 \"Implementar Redes Integradas de Salud para la atención de la población\", del Objetivo Prioritario 2. \"Asegurar el acceso a servicios integrales de salud de calidad y oportunos a la población' Dicho Plan Estratégico, establece cuatro productos en el numeral 5.1 del anexo NO 3 Ficha de indicadores de productos\": a) RIS conformada, b) RIS con Desarrollo Inicial, c) RIS con convenios de integración, y d) RIS con población total nominalizada asignada a un Equipo Multidisciplinario de Salud — EMS; Que, mediante Resolución Ministerial NO 030-2020/MlNSA, se aprueba el Modelo de Cuidado Integral por Curso de Vida para la Persona, Familia y Comunidad (MCI), planteando una evolución del modelo de atención integral de salud hacia un modelo de cuidado de salud holístico, con el objetivo de preservar la salud de la persona, la familia y"
+    },
+    {
+      "marcador_cita": "[[PAGINA 3]]",
+      "id": "MINSA-RESOLUCIN-MINISTERIAL-N-327-2022-MINSA-P0003",
+      "pagina_pdf": 3,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "MINISTERIO DE SALUD 202,2 DEZ aedo/ucu7n O//bnutegia/ Zr;ma, . S.. la comunidad, que incluye la organización de las prestaciones de salud bajo una cartera de servicios de salud, con un enfoque territorial y el abordaje de los Determinantes Sociales de la Salud, en respuesta a la transición demográfica y epidemiológica. Este documento técnico, en su numeral 6.3.2, literal b., señala que la RIS define los objetivos de salud para la persona, familia y comunidad en base a sus necesidades con un enfoque territorial y delimita su foco de acción en base a los siguientes criterios: tamaño de la población, cobertura prestacional, accesibilidad geográfica, densidad poblacional y relación con la circunscripción política administrativa; Que, mediante Resolución Ministerial NO 969-2021/MlNSA, se aprueba el Documento Técnico: 'Plan Nacional de Implementación de Redes Integradas de Salud\", el cual señala que el modelo de organización en Redes Integradas de Salud está caracterizado por la delimitación de la población y del territorio, en unidades territoriales sanitarias, y su relación con las carteras de servicios de salud que responden a las necesidades de la población a la que sirven. En esta organización los establecimientos de salud se encuentran integrados clínica y funcionalmente, brindando una cartera de servicios de salud integral; Que, el artículo 98 del Reglamento de Organización y Funciones del Ministerio de Salud, aprobado por Decreto Supremo NO 008-2017-SA, establece que la Dirección General de Aseguramiento e Intercambio Prestacional es el órgano de línea del Ministerio de Salud, dependiente del Viceministerio de Prestaciones y Aseguramiento en Salud, responsable de proponer normatividad en materia de organización y gestión de servicios en salud. Asimismo, propone normatividad para implementar eI intercambio prestacional con la finalidad de generar mayor cobertura de los servicios y utilizar la oferta pública de forma eficiente. Supervisa la política en materia de aseguramiento en salud a nivel nacional; Que, eI literal b) del artículo 102 del Reglamento de Organización y Funciones del Ministerio de Salud, establece que la Dirección de Intercambio Prestacional, Organización y Servicios de Salud, a cargo de la Dirección General de Aseguramiento e Intercambio Prestacional, tiene entre sus funciones proponer normas, lineamientos, estándares, mecanismos, planes y proyectos para gestionar la articulación y organización de las Redes Integradas del Servicio de Salud que aseguren la continuidad de la atención y conecten la demanda de ofertas de servicios de salud en todos los niveles de atención, considerando el territorio, poblaciones definidas y determinantes sociales de la salud;"
+    },
+    {
+      "marcador_cita": "[[PAGINA 4]]",
+      "id": "MINSA-RESOLUCIN-MINISTERIAL-N-327-2022-MINSA-P0004",
+      "pagina_pdf": 4,
+      "pagina_impresa": null,
+      "seccion": null,
+      "metodo_extraccion": "ocr_local_windows_es_ES",
+      "calidad_extraccion": "OCR local en español; revisar visualmente tablas, diagramas, sellos, firmas y texto manuscrito.",
+      "texto": "OGA IN Que, mediante los documentos del visto, la Dirección General de Aseguramiento e Intercambio Prestacional en el marco de sus funciones, ha elaborado la propuesta de \"Directiva Administrativa de Conformación de Redes Integradas de Salud-RlS\", con la finalidad de contribuir a mejorar el acceso a los servicios de salud de la población en el ámbito de la circunscripción territorial de los Gobiernos Regionales y Lima Metropolitana; Que, mediante el Informe NO 380-2022-OGAJ/MINSA, la Oficina General de Asesoría Jurídica emite la opinión legal, manifestando que se ha cumplido con los requisitos legales establecidos en las normas correspondientes para emitir la Resolución Ministerial que aprueba la \"Directiva Administrativa de Conformación de Redes Integradas de Salud-RlS\"; señalando que, resulta legalmente procedente la firma por el señor Ministro de la presente Resolución Ministerial; Estando a 10 propuesto por la Dirección General de Aseguramiento e Intercambio Prestacional; Con el visado de la Directora General de la Dirección General de Aseguramiento e intercambio Prestacional, de la Directora General de la Oficina General de Asesoría Jurídica, y del Viceministro de Prestaciones y Aseguramiento en Salud, y; De conformidad con 10 dispuesto en eI Decreto Legislativo NO 1161, Ley de Organización y Funciones del Ministerio de Salud, modificado por la Ley NO 30895, Ley que fortalece la función rectora del Ministerio de Salud y el Decreto Legislativo NO 1504, Decreto Legislativo que fortalece al Instituto Nacional de Salud para la prevención y control de las enfermedades; y el Reglamento de Organización y Funciones del Ministerio de Salud aprobado por Decreto Supremo NO 008-2017-SA, modificado por el Decreto Supremo NO 011-2017-SA y ei Decreto Supremo NO 032- 2017-SA; SE RESUELVE: Artículo 1.- Aprobar la Directiva Administrativa NO 329 -MINSA/DGAlN-2022 'Directiva Administrativa de Conformación de Redes Integradas de Salud-RlS\", que en documento adjunto forma parte integrante de la presente Resolución Ministerial. Artículo 2.- Encargar a la Dirección General de Aseguramiento e Intercambio E Prestacional la difusión hasta el nivel regional de la Directiva Administrativa aprobada en el artículo 1 de la presente Resolución Ministerial, así como, la asistencia técnica de su implementación. Artículo 3.- Encargar a la Oficina de Transparencia y Anticorrupción de la Secretaría General la publicación de la presente Resolución Ministerial y el documento adjunto, en el Portal Institucional del Ministerio de Salud. Regístrese, comuníquese publíquese. «Rio 0 JORGE AN ONI LÓPEZPEÑ M' i ro esa d"
+    }
+  ]
+}
