@@ -3,7 +3,7 @@
   "institucion": "Ministerio de Salud del Perú",
   "fecha_preparacion": "2026-10-05",
   "ruta_destino": "knowledge/minsa/manuales-his",
-  "numero_documentos": 14,
+  "numero_documentos": 16,
   "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
   "documentos": [
     {
@@ -117,6 +117,22 @@
       "anio_publicacion": 2022,
       "paginas_total": 22,
       "sha256": "762e026891723a2964b11c83605dc4117fe91349a5c2f9ff0162a5a3e054f975"
+    },
+    {
+      "id": "MINSA-HIS-INMUNIZACIONES-2019-9266382c52",
+      "archivo": "Manual HIS_Inmunizaciones 2019.pdf",
+      "titulo": "Manual de Registro y Codificación de la Atención en la Consulta Externa de Inmunizaciones",
+      "anio_publicacion": 2019,
+      "paginas_total": 26,
+      "sha256": "9266382c522c4d41a89ac7582e32f40f9ee2a80ab6076f60dd4944693e5519a6"
+    },
+    {
+      "id": "MINSA-HIS-NINO-2021-dc3ce1cd5f",
+      "archivo": "Manual de Registro y Codificación de la Atención. Etapa de Vida Niño” .pdf",
+      "titulo": "Manual de Registro y Codificación de la Atención en la Consulta Externa. Etapa de Vida Niño",
+      "anio_publicacion": 2021,
+      "paginas_total": 68,
+      "sha256": "dc3ce1cd5fb5eb32a23add41e7f1e52613a609f5fc8857149d16da5c24390622"
     }
   ]
 }

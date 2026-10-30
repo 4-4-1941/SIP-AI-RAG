@@ -1,0 +1,36 @@
+{
+  "id": "MINSA-HIS-NINO-2021-dc3ce1cd5f",
+  "titulo": "Manual de Registro y Codificación de la Atención en la Consulta Externa. Etapa de Vida Niño",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro y Codificación de la Atención en la Consulta Externa. Etapa de Vida Niño. Sistema de Información HIS. 2021.",
+  "anio_publicacion": 2021,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Etapa de vida niño",
+  "grupo_etario": "Niño (0 a 11 años)",
+  "temas": [
+    "niño",
+    "CRED",
+    "IRA",
+    "EDA",
+    "registro HIS",
+    "codificación HIS"
+  ],
+  "palabras_clave": [
+    "niño",
+    "CRED",
+    "IRA",
+    "EDA",
+    "registro HIS",
+    "codificación HIS"
+  ],
+  "idioma": "es",
+  "archivo_origen": "Manual de Registro y Codificación de la Atención. Etapa de Vida Niño” .pdf",
+  "paginas_total": 68,
+  "sha256": "dc3ce1cd5fb5eb32a23add41e7f1e52613a609f5fc8857149d16da5c24390622",
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique."
+}
