@@ -1,0 +1,35 @@
+{
+  "id": "MINSA-HIS-INMUNIZACIONES-2019-9266382c52",
+  "titulo": "Manual de Registro y Codificación de la Atención en la Consulta Externa de Inmunizaciones",
+  "institucion": "Ministerio de Salud del Perú",
+  "bibliografia": "Ministerio de Salud del Perú. Manual de Registro HIS de Inmunizaciones. Sistema de Información HIS. 2019.",
+  "anio_publicacion": 2019,
+  "tipo_documento": "Manual de registro y codificación de actividades de salud",
+  "sistema": "Sistema de Información HIS",
+  "area_responsable": "Inmunizaciones",
+  "grupo_etario": "Etapa de vida niño y otros grupos (inmunizaciones)",
+  "temas": [
+    "inmunizaciones",
+    "vacunas",
+    "registro HIS",
+    "codificación HIS",
+    "esquema de vacunación"
+  ],
+  "palabras_clave": [
+    "inmunizaciones",
+    "vacunas",
+    "registro HIS",
+    "codificación HIS",
+    "esquema de vacunación"
+  ],
+  "idioma": "es",
+  "archivo_origen": "Manual HIS_Inmunizaciones 2019.pdf",
+  "paginas_total": 26,
+  "sha256": "9266382c522c4d41a89ac7582e32f40f9ee2a80ab6076f60dd4944693e5519a6",
+  "url_oficial": null,
+  "pdf_oficial": null,
+  "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
+  "tipo_fuente": "pdf",
+  "regla_evidencia": "Al responder, conservar la página exacta del PDF como evidencia; no inferir códigos que el documento no indique.",
+  "base_normativa": "NTS N° 141-MINSA/2018/DGIESP (R.M. 719-2018-MINSA)"
+}
