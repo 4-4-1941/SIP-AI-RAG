@@ -3,7 +3,7 @@
   "institucion": "Ministerio de Salud del Perú",
   "fecha_preparacion": "2026-10-05",
   "ruta_destino": "knowledge/minsa/manuales-his",
-  "numero_documentos": 16,
+  "numero_documentos": 17,
   "estado_validacion": "METADATOS_EXTRAIDOS_DEL_PDF_SIN_VERIFICACION_EN_FUENTE_OFICIAL",
   "documentos": [
     {
@@ -60,7 +60,7 @@
       "titulo": "Manual de Registro y Codificación de Actividades en la Atención en Salud Mental",
       "anio_publicacion": 2025,
       "paginas_total": 119,
-      "sha256": "e71b21332683a88d325977ce1ef3a69f7437f557e76ddfe74a079851d67c22e9"
+      "sha256": "e71b21332683a88d325977ce1ef3a69f7437f557e76ddfe74a079851d67c22e"
     },
     {
       "id": "MINSA-HIS-SALUD-OCULAR-2025-72bec4d61b",
@@ -133,6 +133,14 @@
       "anio_publicacion": 2021,
       "paginas_total": 68,
       "sha256": "dc3ce1cd5fb5eb32a23add41e7f1e52613a609f5fc8857149d16da5c24390622"
+    },
+    {
+      "id": "MINSA-HIS-METAXENICAS-2016-8ef63a49cc",
+      "archivo": "Metaxenicas.pdf",
+      "titulo": "Manual de Registro y Codificación de la Atención en la Consulta Externa – Estrategia Sanitaria Nacional de Prevención y Control de Enfermedades Metaxénicas y Otras Transmitidas por Vectores",
+      "anio_publicacion": 2016,
+      "paginas_total": 47,
+      "sha256": "8ef63a49cc626f1f664820c1cca05bc64e111c12ad77ebf08fdf0be52149578e"
     }
   ]
 }
