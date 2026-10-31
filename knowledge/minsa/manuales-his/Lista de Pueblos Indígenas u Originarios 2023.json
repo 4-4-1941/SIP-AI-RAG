@@ -1,0 +1,1348 @@
+{
+  "source_title": "Lista de Pueblos Indígenas u Originarios",
+  "source_year": 2023,
+  "language": "es",
+  "description": "Transcripción estructurada de los 55 registros de la lista. Cada elemento es un documento independiente para indexación RAG.",
+  "schema": {
+    "id": "Identificador estable",
+    "text": "Texto legible para embedding/recuperación",
+    "metadata": "Campos estructurados del registro"
+  },
+  "documents": [
+    {
+      "id": "pueblo-01",
+      "text": "Pueblo indígena u originario: Achuar. Otras denominaciones: Achual; Achuale; Achuare. Lengua: Achuar. Familia lingüística: Jíbaro. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 1,
+        "pueblo": "Achuar",
+        "otras_denominaciones": [
+          "Achual",
+          "Achuale",
+          "Achuare"
+        ],
+        "lengua": "Achuar",
+        "familia_linguistica": "Jíbaro",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-02",
+      "text": "Pueblo indígena u originario: Aimara. Otras denominaciones: Aru; Aymara. Lengua: Aimara. Familia lingüística: Aru. Ámbito: Andino. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Moquegua, Puno, Tacna.",
+      "metadata": {
+        "numero": 2,
+        "pueblo": "Aimara",
+        "otras_denominaciones": [
+          "Aru",
+          "Aymara"
+        ],
+        "lengua": "Aimara",
+        "familia_linguistica": "Aru",
+        "ambito": "Andino",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Moquegua",
+          "Puno",
+          "Tacna"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-03",
+      "text": "Pueblo indígena u originario: Amahuaca. Otras denominaciones: Amunvaka; Yora. Lengua: Amahuaca. Familia lingüística: Pano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: Sí. Presencia en departamentos: Madre de Dios, Ucayali.",
+      "metadata": {
+        "numero": 3,
+        "pueblo": "Amahuaca",
+        "otras_denominaciones": [
+          "Amunvaka",
+          "Yora"
+        ],
+        "lengua": "Amahuaca",
+        "familia_linguistica": "Pano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": true,
+        "departamentos": [
+          "Madre de Dios",
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-04",
+      "text": "Pueblo indígena u originario: Arabela. Otras denominaciones: Chiripuno; Tapueyocuaca. Lengua: Arabela. Familia lingüística: Záparo. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 4,
+        "pueblo": "Arabela",
+        "otras_denominaciones": [
+          "Chiripuno",
+          "Tapueyocuaca"
+        ],
+        "lengua": "Arabela",
+        "familia_linguistica": "Záparo",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-05",
+      "text": "Pueblo indígena u originario: Ashaninka. Otras denominaciones: Asháninka. Lengua: Ashaninka. Familia lingüística: Arawak. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Ayacucho, Cusco, Huánuco, Junín, Loreto, Madre de Dios, Pasco, Ucayali.",
+      "metadata": {
+        "numero": 5,
+        "pueblo": "Ashaninka",
+        "otras_denominaciones": [
+          "Asháninka"
+        ],
+        "lengua": "Ashaninka",
+        "familia_linguistica": "Arawak",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Ayacucho",
+          "Cusco",
+          "Huánuco",
+          "Junín",
+          "Loreto",
+          "Madre de Dios",
+          "Pasco",
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-06",
+      "text": "Pueblo indígena u originario: Asheninka. Otras denominaciones: Ashaninka del Gran Pajonal. Lengua: Asheninka. Familia lingüística: Arawak. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto, Pasco, Ucayali.",
+      "metadata": {
+        "numero": 6,
+        "pueblo": "Asheninka",
+        "otras_denominaciones": [
+          "Ashaninka del Gran Pajonal"
+        ],
+        "lengua": "Asheninka",
+        "familia_linguistica": "Arawak",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto",
+          "Pasco",
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-07",
+      "text": "Pueblo indígena u originario: Awajún. Otras denominaciones: Aents; Aguaruna; Ahuajun. Lengua: Awajún. Familia lingüística: Jíbaro. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Amazonas, Cajamarca, Loreto, San Martín, Ucayali.",
+      "metadata": {
+        "numero": 7,
+        "pueblo": "Awajún",
+        "otras_denominaciones": [
+          "Aents",
+          "Aguaruna",
+          "Ahuajun"
+        ],
+        "lengua": "Awajún",
+        "familia_linguistica": "Jíbaro",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Amazonas",
+          "Cajamarca",
+          "Loreto",
+          "San Martín",
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-08",
+      "text": "Pueblo indígena u originario: Bora. Otras denominaciones: Booraa; Boro; Miamuna; Miranha; Miranya; Miraña-Carapaña-Tapuyo. Lengua: Bora. Familia lingüística: Bora. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 8,
+        "pueblo": "Bora",
+        "otras_denominaciones": [
+          "Booraa",
+          "Boro",
+          "Miamuna",
+          "Miranha",
+          "Miranya",
+          "Miraña-Carapaña-Tapuyo"
+        ],
+        "lengua": "Bora",
+        "familia_linguistica": "Bora",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-09",
+      "text": "Pueblo indígena u originario: Cashinahua. Otras denominaciones: Caxinahua; Huni Kuin; Kachinahua. Lengua: Cashinahua. Familia lingüística: Pano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Ucayali.",
+      "metadata": {
+        "numero": 9,
+        "pueblo": "Cashinahua",
+        "otras_denominaciones": [
+          "Caxinahua",
+          "Huni Kuin",
+          "Kachinahua"
+        ],
+        "lengua": "Cashinahua",
+        "familia_linguistica": "Pano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-10",
+      "text": "Pueblo indígena u originario: Chamicuro. Otras denominaciones: Camikódlo; Chamicolos; Chamicura. Lengua: Chamikuro. Familia lingüística: Arawak. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 10,
+        "pueblo": "Chamicuro",
+        "otras_denominaciones": [
+          "Camikódlo",
+          "Chamicolos",
+          "Chamicura"
+        ],
+        "lengua": "Chamikuro",
+        "familia_linguistica": "Arawak",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-11",
+      "text": "Pueblo indígena u originario: Chapra. Otras denominaciones: Shapra. Lengua: Kandozi-Chapra. Familia lingüística: Kandozi. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 11,
+        "pueblo": "Chapra",
+        "otras_denominaciones": [
+          "Shapra"
+        ],
+        "lengua": "Kandozi-Chapra",
+        "familia_linguistica": "Kandozi",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-12",
+      "text": "Pueblo indígena u originario: Chitonahua. Otras denominaciones: Murunahua; Yora. Lengua: Yaminahua. Familia lingüística: Pano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: Sí. Pueblo indígena en situación de contacto inicial: Sí. Presencia en departamentos: Ucayali.",
+      "metadata": {
+        "numero": 12,
+        "pueblo": "Chitonahua",
+        "otras_denominaciones": [
+          "Murunahua",
+          "Yora"
+        ],
+        "lengua": "Yaminahua",
+        "familia_linguistica": "Pano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": true,
+        "situacion_contacto_inicial": true,
+        "departamentos": [
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-13",
+      "text": "Pueblo indígena u originario: Ese Eja. Otras denominaciones: Ese’ejja; Huarayo; Tiatinagua. Lengua: Ese Eja. Familia lingüística: Tacana. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Madre de Dios.",
+      "metadata": {
+        "numero": 13,
+        "pueblo": "Ese Eja",
+        "otras_denominaciones": [
+          "Ese’ejja",
+          "Huarayo",
+          "Tiatinagua"
+        ],
+        "lengua": "Ese Eja",
+        "familia_linguistica": "Tacana",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Madre de Dios"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-14",
+      "text": "Pueblo indígena u originario: Harakbut. Otras denominaciones: Amarakaeri; Arasaeri; Arasairi; Arazaeri; Huachipaeri; Huachipayri; Kisamberi; Pukirieri; Puncuri; Qachipaeri; Sapiteri; Toioeri; Toyeri; Toyoeri; Tuyuneri; Wachipaeri; Wacipairi. Lengua: Harakbut. Familia lingüística: Harakbut. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Cusco, Madre de Dios.",
+      "metadata": {
+        "numero": 14,
+        "pueblo": "Harakbut",
+        "otras_denominaciones": [
+          "Amarakaeri",
+          "Arasaeri",
+          "Arasairi",
+          "Arazaeri",
+          "Huachipaeri",
+          "Huachipayri",
+          "Kisamberi",
+          "Pukirieri",
+          "Puncuri",
+          "Qachipaeri",
+          "Sapiteri",
+          "Toioeri",
+          "Toyeri",
+          "Toyoeri",
+          "Tuyuneri",
+          "Wachipaeri",
+          "Wacipairi"
+        ],
+        "lengua": "Harakbut",
+        "familia_linguistica": "Harakbut",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Cusco",
+          "Madre de Dios"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-15",
+      "text": "Pueblo indígena u originario: Ikitu. Otras denominaciones: Amacacore; Ikito; Iquito; Quiturran. Lengua: Ikitu. Familia lingüística: Záparo. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 15,
+        "pueblo": "Ikitu",
+        "otras_denominaciones": [
+          "Amacacore",
+          "Ikito",
+          "Iquito",
+          "Quiturran"
+        ],
+        "lengua": "Ikitu",
+        "familia_linguistica": "Záparo",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-16",
+      "text": "Pueblo indígena u originario: Iñapari. Otras denominaciones: Inapari; Inamari; Kushitireni. Lengua: Iñapari. Familia lingüística: Arawak. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Madre de Dios.",
+      "metadata": {
+        "numero": 16,
+        "pueblo": "Iñapari",
+        "otras_denominaciones": [
+          "Inapari",
+          "Inamari",
+          "Kushitireni"
+        ],
+        "lengua": "Iñapari",
+        "familia_linguistica": "Arawak",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Madre de Dios"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 1
+      }
+    },
+    {
+      "id": "pueblo-17",
+      "text": "Pueblo indígena u originario: Iskonawa. Otras denominaciones: Isconahua; Iskobakebo. Lengua: Iskonawa. Familia lingüística: Pano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: Sí. Pueblo indígena en situación de contacto inicial: Sí. Presencia en departamentos: Ucayali.",
+      "metadata": {
+        "numero": 17,
+        "pueblo": "Iskonawa",
+        "otras_denominaciones": [
+          "Isconahua",
+          "Iskobakebo"
+        ],
+        "lengua": "Iskonawa",
+        "familia_linguistica": "Pano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": true,
+        "situacion_contacto_inicial": true,
+        "departamentos": [
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-18",
+      "text": "Pueblo indígena u originario: Jaqaru. Otras denominaciones: Aimara Central; Aimara Tupino; Aru. Lengua: Jaqaru. Familia lingüística: Aru. Ámbito: Andino. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Lima.",
+      "metadata": {
+        "numero": 18,
+        "pueblo": "Jaqaru",
+        "otras_denominaciones": [
+          "Aimara Central",
+          "Aimara Tupino",
+          "Aru"
+        ],
+        "lengua": "Jaqaru",
+        "familia_linguistica": "Aru",
+        "ambito": "Andino",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Lima"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-19",
+      "text": "Pueblo indígena u originario: Jíbaro. Otras denominaciones: Chivari; Chiwaro; Jibaro del Río Corrientes; Siwaro; Shiwiar. Lengua: Achuar. Familia lingüística: Jíbaro. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 19,
+        "pueblo": "Jíbaro",
+        "otras_denominaciones": [
+          "Chivari",
+          "Chiwaro",
+          "Jibaro del Río Corrientes",
+          "Siwaro",
+          "Shiwiar"
+        ],
+        "lengua": "Achuar",
+        "familia_linguistica": "Jíbaro",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-20",
+      "text": "Pueblo indígena u originario: Kakataibo. Otras denominaciones: Cashibo-Cacataibo; Uni; Unibo. Lengua: Kakataibo. Familia lingüística: Pano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: Sí. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Huánuco, Ucayali.",
+      "metadata": {
+        "numero": 20,
+        "pueblo": "Kakataibo",
+        "otras_denominaciones": [
+          "Cashibo-Cacataibo",
+          "Uni",
+          "Unibo"
+        ],
+        "lengua": "Kakataibo",
+        "familia_linguistica": "Pano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": true,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Huánuco",
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-21",
+      "text": "Pueblo indígena u originario: Kakinte. Otras denominaciones: Caquinte; Poyenisati. Lengua: Kakinte. Familia lingüística: Arawak. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Cusco, Junín.",
+      "metadata": {
+        "numero": 21,
+        "pueblo": "Kakinte",
+        "otras_denominaciones": [
+          "Caquinte",
+          "Poyenisati"
+        ],
+        "lengua": "Kakinte",
+        "familia_linguistica": "Arawak",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Cusco",
+          "Junín"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-22",
+      "text": "Pueblo indígena u originario: Kandozi. Otras denominaciones: Candoshi; Chapara; Chapra; Murato; Shapra. Lengua: Kandozi-Chapra. Familia lingüística: Kandozi. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 22,
+        "pueblo": "Kandozi",
+        "otras_denominaciones": [
+          "Candoshi",
+          "Chapara",
+          "Chapra",
+          "Murato",
+          "Shapra"
+        ],
+        "lengua": "Kandozi-Chapra",
+        "familia_linguistica": "Kandozi",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-23",
+      "text": "Pueblo indígena u originario: Kapanawa. Otras denominaciones: Buskipani; Capanahua; Nuquencaibo. Lengua: Kapanawa. Familia lingüística: Pano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: Sí. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 23,
+        "pueblo": "Kapanawa",
+        "otras_denominaciones": [
+          "Buskipani",
+          "Capanahua",
+          "Nuquencaibo"
+        ],
+        "lengua": "Kapanawa",
+        "familia_linguistica": "Pano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": true,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-24",
+      "text": "Pueblo indígena u originario: Kichwa. Otras denominaciones: Inga; Kichwa del Napo; Kichwaruna; Lamas; Llacuash; Quechuas del Pastaza; Quichua; Santarrosinos. Lengua: Quechua. Familia lingüística: Quechua. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Cusco, Huánuco, Loreto, Madre de Dios, San Martín, Ucayali.",
+      "metadata": {
+        "numero": 24,
+        "pueblo": "Kichwa",
+        "otras_denominaciones": [
+          "Inga",
+          "Kichwa del Napo",
+          "Kichwaruna",
+          "Lamas",
+          "Llacuash",
+          "Quechuas del Pastaza",
+          "Quichua",
+          "Santarrosinos"
+        ],
+        "lengua": "Quechua",
+        "familia_linguistica": "Quechua",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Cusco",
+          "Huánuco",
+          "Loreto",
+          "Madre de Dios",
+          "San Martín",
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-25",
+      "text": "Pueblo indígena u originario: Kukama Kukamiria. Otras denominaciones: Cocama Cocamilla; Ucayali; Xibitaona. Lengua: Kukama Kukamiria. Familia lingüística: Tupí-guaraní. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto, Ucayali.",
+      "metadata": {
+        "numero": 25,
+        "pueblo": "Kukama Kukamiria",
+        "otras_denominaciones": [
+          "Cocama Cocamilla",
+          "Ucayali",
+          "Xibitaona"
+        ],
+        "lengua": "Kukama Kukamiria",
+        "familia_linguistica": "Tupí-guaraní",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto",
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-26",
+      "text": "Pueblo indígena u originario: Madija. Otras denominaciones: Culina; Karina; Kolina; Kollina; Kulino; Madiha. Lengua: Madija. Familia lingüística: Arawa. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Ucayali.",
+      "metadata": {
+        "numero": 26,
+        "pueblo": "Madija",
+        "otras_denominaciones": [
+          "Culina",
+          "Karina",
+          "Kolina",
+          "Kollina",
+          "Kulino",
+          "Madiha"
+        ],
+        "lengua": "Madija",
+        "familia_linguistica": "Arawa",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-27",
+      "text": "Pueblo indígena u originario: Maijuna. Otras denominaciones: Maijɨki; Orejón. Lengua: Maijɨki. Familia lingüística: Tucano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 27,
+        "pueblo": "Maijuna",
+        "otras_denominaciones": [
+          "Maijɨki",
+          "Orejón"
+        ],
+        "lengua": "Maijɨki",
+        "familia_linguistica": "Tucano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-28",
+      "text": "Pueblo indígena u originario: Marinahua. Otras denominaciones: Onocoin; Yora. Lengua: Sharanahua. Familia lingüística: Pano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Ucayali.",
+      "metadata": {
+        "numero": 28,
+        "pueblo": "Marinahua",
+        "otras_denominaciones": [
+          "Onocoin",
+          "Yora"
+        ],
+        "lengua": "Sharanahua",
+        "familia_linguistica": "Pano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-29",
+      "text": "Pueblo indígena u originario: Mashco Piro. Otras denominaciones: Mashco; Piro. Lengua: Mashco. Familia lingüística: Yine Arawak. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: Sí. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Madre de Dios, Ucayali.",
+      "metadata": {
+        "numero": 29,
+        "pueblo": "Mashco Piro",
+        "otras_denominaciones": [
+          "Mashco",
+          "Piro"
+        ],
+        "lengua": "Mashco",
+        "familia_linguistica": "Yine Arawak",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": true,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Madre de Dios",
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-30",
+      "text": "Pueblo indígena u originario: Mastanahua. Otras denominaciones: Matsanahua; Yora. Lengua: Sharanahua. Familia lingüística: Pano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: Sí. Pueblo indígena en situación de contacto inicial: Sí. Presencia en departamentos: Ucayali.",
+      "metadata": {
+        "numero": 30,
+        "pueblo": "Mastanahua",
+        "otras_denominaciones": [
+          "Matsanahua",
+          "Yora"
+        ],
+        "lengua": "Sharanahua",
+        "familia_linguistica": "Pano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": true,
+        "situacion_contacto_inicial": true,
+        "departamentos": [
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-31",
+      "text": "Pueblo indígena u originario: Matsés. Otras denominaciones: Mayoruna. Lengua: Matsés. Familia lingüística: Pano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: Sí. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 31,
+        "pueblo": "Matsés",
+        "otras_denominaciones": [
+          "Mayoruna"
+        ],
+        "lengua": "Matsés",
+        "familia_linguistica": "Pano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": true,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-32",
+      "text": "Pueblo indígena u originario: Matsigenka. Otras denominaciones: Machiganga; Machigenga; Machiguenga; Matsiganga; Matsiguenga. Lengua: Matsigenka. Familia lingüística: Arawak. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: Sí. Pueblo indígena en situación de contacto inicial: Sí. Presencia en departamentos: Cusco, Madre de Dios, Ucayali.",
+      "metadata": {
+        "numero": 32,
+        "pueblo": "Matsigenka",
+        "otras_denominaciones": [
+          "Machiganga",
+          "Machigenga",
+          "Machiguenga",
+          "Matsiganga",
+          "Matsiguenga"
+        ],
+        "lengua": "Matsigenka",
+        "familia_linguistica": "Arawak",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": true,
+        "situacion_contacto_inicial": true,
+        "departamentos": [
+          "Cusco",
+          "Madre de Dios",
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-33",
+      "text": "Pueblo indígena u originario: Muniche. Otras denominaciones: Munichi. Lengua: Munichi. Familia lingüística: Muniche. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 33,
+        "pueblo": "Muniche",
+        "otras_denominaciones": [
+          "Munichi"
+        ],
+        "lengua": "Munichi",
+        "familia_linguistica": "Muniche",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-34",
+      "text": "Pueblo indígena u originario: Murui-Muinanɨ. Otras denominaciones: Huitoto; Uitoto. Lengua: Murui-Muinanɨ. Familia lingüística: Huitoto. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 34,
+        "pueblo": "Murui-Muinanɨ",
+        "otras_denominaciones": [
+          "Huitoto",
+          "Uitoto"
+        ],
+        "lengua": "Murui-Muinanɨ",
+        "familia_linguistica": "Huitoto",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-35",
+      "text": "Pueblo indígena u originario: Nahua. Otras denominaciones: Yora. Lengua: Nahua. Familia lingüística: Pano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: Sí. Presencia en departamentos: Ucayali.",
+      "metadata": {
+        "numero": 35,
+        "pueblo": "Nahua",
+        "otras_denominaciones": [
+          "Yora"
+        ],
+        "lengua": "Nahua",
+        "familia_linguistica": "Pano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": true,
+        "departamentos": [
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-36",
+      "text": "Pueblo indígena u originario: Nanti. Otras denominaciones: Matsigenka. Lengua: Matsigenka Montetokunirira. Familia lingüística: Arawak. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: Sí. Pueblo indígena en situación de contacto inicial: Sí. Presencia en departamentos: Cusco.",
+      "metadata": {
+        "numero": 36,
+        "pueblo": "Nanti",
+        "otras_denominaciones": [
+          "Matsigenka"
+        ],
+        "lengua": "Matsigenka Montetokunirira",
+        "familia_linguistica": "Arawak",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": true,
+        "situacion_contacto_inicial": true,
+        "departamentos": [
+          "Cusco"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-37",
+      "text": "Pueblo indígena u originario: Nomatsigenga. Otras denominaciones: Atiri; Nomachiguenga. Lengua: Nomatsigenga. Familia lingüística: Arawak. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Junín.",
+      "metadata": {
+        "numero": 37,
+        "pueblo": "Nomatsigenga",
+        "otras_denominaciones": [
+          "Atiri",
+          "Nomachiguenga"
+        ],
+        "lengua": "Nomatsigenga",
+        "familia_linguistica": "Arawak",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Junín"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 2
+      }
+    },
+    {
+      "id": "pueblo-38",
+      "text": "Pueblo indígena u originario: Ocaina. Otras denominaciones: Dukaiya; Dyo’xaiya. Lengua: Ocaina. Familia lingüística: Huitoto. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 38,
+        "pueblo": "Ocaina",
+        "otras_denominaciones": [
+          "Dukaiya",
+          "Dyo’xaiya"
+        ],
+        "lengua": "Ocaina",
+        "familia_linguistica": "Huitoto",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-39",
+      "text": "Pueblo indígena u originario: Omagua. Otras denominaciones: Ariana; Omagua Yeté; Pariana; Unawa. Lengua: Omagua. Familia lingüística: Tupí-guaraní. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 39,
+        "pueblo": "Omagua",
+        "otras_denominaciones": [
+          "Ariana",
+          "Omagua Yeté",
+          "Pariana",
+          "Unawa"
+        ],
+        "lengua": "Omagua",
+        "familia_linguistica": "Tupí-guaraní",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-40",
+      "text": "Pueblo indígena u originario: Quechuas. Otras denominaciones: Los pueblos Quechuas no tienen otras denominaciones; incluyen identidades como Chopccas; Huancas; Chankas; Huaylas; Q’eros; Cañaris; Kana. Lengua: Quechua. Familia lingüística: Quechua. Ámbito: Andino. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Amazonas, Áncash, Apurímac, Arequipa, Ayacucho, Cajamarca, Cusco, Huancavelica, Huánuco, Ica, Junín, La Libertad, Lambayeque, Lima, Moquegua, Pasco, Piura, Puno.",
+      "metadata": {
+        "numero": 40,
+        "pueblo": "Quechuas",
+        "otras_denominaciones": [
+          "Los pueblos Quechuas no tienen otras denominaciones",
+          "incluyen identidades como Chopccas",
+          "Huancas",
+          "Chankas",
+          "Huaylas",
+          "Q’eros",
+          "Cañaris",
+          "Kana"
+        ],
+        "lengua": "Quechua",
+        "familia_linguistica": "Quechua",
+        "ambito": "Andino",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Amazonas",
+          "Áncash",
+          "Apurímac",
+          "Arequipa",
+          "Ayacucho",
+          "Cajamarca",
+          "Cusco",
+          "Huancavelica",
+          "Huánuco",
+          "Ica",
+          "Junín",
+          "La Libertad",
+          "Lambayeque",
+          "Lima",
+          "Moquegua",
+          "Pasco",
+          "Piura",
+          "Puno"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-41",
+      "text": "Pueblo indígena u originario: Resígaro. Otras denominaciones: Resigero. Lengua: Resígaro. Familia lingüística: Arawak. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 41,
+        "pueblo": "Resígaro",
+        "otras_denominaciones": [
+          "Resigero"
+        ],
+        "lengua": "Resígaro",
+        "familia_linguistica": "Arawak",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-42",
+      "text": "Pueblo indígena u originario: Secoya. Otras denominaciones: Aido Pai. Lengua: Secoya. Familia lingüística: Tucano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 42,
+        "pueblo": "Secoya",
+        "otras_denominaciones": [
+          "Aido Pai"
+        ],
+        "lengua": "Secoya",
+        "familia_linguistica": "Tucano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-43",
+      "text": "Pueblo indígena u originario: Sharanahua. Otras denominaciones: Onicoin; Yora. Lengua: Sharanahua. Familia lingüística: Pano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Ucayali.",
+      "metadata": {
+        "numero": 43,
+        "pueblo": "Sharanahua",
+        "otras_denominaciones": [
+          "Onicoin",
+          "Yora"
+        ],
+        "lengua": "Sharanahua",
+        "familia_linguistica": "Pano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-44",
+      "text": "Pueblo indígena u originario: Shawi. Otras denominaciones: Campo-Piyapi; Chayahuita; Chayawita; Shayabit; Tshahui. Lengua: Shawi. Familia lingüística: Cahuapana. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto, San Martín.",
+      "metadata": {
+        "numero": 44,
+        "pueblo": "Shawi",
+        "otras_denominaciones": [
+          "Campo-Piyapi",
+          "Chayahuita",
+          "Chayawita",
+          "Shayabit",
+          "Tshahui"
+        ],
+        "lengua": "Shawi",
+        "familia_linguistica": "Cahuapana",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto",
+          "San Martín"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-45",
+      "text": "Pueblo indígena u originario: Shipibo-Konibo. Otras denominaciones: Chioeo-Conivo; Joni; Shipibo. Lengua: Shipibo-Konibo. Familia lingüística: Pano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Huánuco, Junín, Loreto, Madre de Dios, Ucayali.",
+      "metadata": {
+        "numero": 45,
+        "pueblo": "Shipibo-Konibo",
+        "otras_denominaciones": [
+          "Chioeo-Conivo",
+          "Joni",
+          "Shipibo"
+        ],
+        "lengua": "Shipibo-Konibo",
+        "familia_linguistica": "Pano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Huánuco",
+          "Junín",
+          "Loreto",
+          "Madre de Dios",
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-46",
+      "text": "Pueblo indígena u originario: Shiwilu. Otras denominaciones: Chebero; Jebero; Shiwila; Xebero. Lengua: Shiwilu. Familia lingüística: Cahuapana. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 46,
+        "pueblo": "Shiwilu",
+        "otras_denominaciones": [
+          "Chebero",
+          "Jebero",
+          "Shiwila",
+          "Xebero"
+        ],
+        "lengua": "Shiwilu",
+        "familia_linguistica": "Cahuapana",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-47",
+      "text": "Pueblo indígena u originario: Ticuna. Otras denominaciones: Duuxugu; Tikuna. Lengua: Ticuna. Familia lingüística: Ticuna. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 47,
+        "pueblo": "Ticuna",
+        "otras_denominaciones": [
+          "Duuxugu",
+          "Tikuna"
+        ],
+        "lengua": "Ticuna",
+        "familia_linguistica": "Ticuna",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-48",
+      "text": "Pueblo indígena u originario: Urarina. Otras denominaciones: Itucali; Itukale; Kacha Edze. Lengua: Urarina. Familia lingüística: Shimaco. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 48,
+        "pueblo": "Urarina",
+        "otras_denominaciones": [
+          "Itucali",
+          "Itukale",
+          "Kacha Edze"
+        ],
+        "lengua": "Urarina",
+        "familia_linguistica": "Shimaco",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-49",
+      "text": "Pueblo indígena u originario: Uro. Otras denominaciones: Uru. Lengua: Uro (lengua extinta). Familia lingüística: Aru. Ámbito: Andino. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Puno.",
+      "metadata": {
+        "numero": 49,
+        "pueblo": "Uro",
+        "otras_denominaciones": [
+          "Uru"
+        ],
+        "lengua": "Uro (lengua extinta)",
+        "familia_linguistica": "Aru",
+        "ambito": "Andino",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Puno"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-50",
+      "text": "Pueblo indígena u originario: Vacacocha. Otras denominaciones: A’éwa; Abijira; Abishira; Aushiri; Awshira. Lengua: Awshira (lengua extinta). Familia lingüística: Záparo. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 50,
+        "pueblo": "Vacacocha",
+        "otras_denominaciones": [
+          "A’éwa",
+          "Abijira",
+          "Abishira",
+          "Aushiri",
+          "Awshira"
+        ],
+        "lengua": "Awshira (lengua extinta)",
+        "familia_linguistica": "Záparo",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-51",
+      "text": "Pueblo indígena u originario: Wampis. Otras denominaciones: Huambiza; Maina; Shuar-Huampis. Lengua: Wampis. Familia lingüística: Jíbaro. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Amazonas, Loreto.",
+      "metadata": {
+        "numero": 51,
+        "pueblo": "Wampis",
+        "otras_denominaciones": [
+          "Huambiza",
+          "Maina",
+          "Shuar-Huampis"
+        ],
+        "lengua": "Wampis",
+        "familia_linguistica": "Jíbaro",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Amazonas",
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-52",
+      "text": "Pueblo indígena u originario: Yagua. Otras denominaciones: Nihamwo; Ñihamwo; Yihamwo. Lengua: Yagua. Familia lingüística: Peba-yagua. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Loreto.",
+      "metadata": {
+        "numero": 52,
+        "pueblo": "Yagua",
+        "otras_denominaciones": [
+          "Nihamwo",
+          "Ñihamwo",
+          "Yihamwo"
+        ],
+        "lengua": "Yagua",
+        "familia_linguistica": "Peba-yagua",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Loreto"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-53",
+      "text": "Pueblo indígena u originario: Yaminahua. Otras denominaciones: Jjamimawa; Yaminagua; Yora; Yuminahua. Lengua: Yaminahua. Familia lingüística: Pano. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: San Martín, Ucayali.",
+      "metadata": {
+        "numero": 53,
+        "pueblo": "Yaminahua",
+        "otras_denominaciones": [
+          "Jjamimawa",
+          "Yaminagua",
+          "Yora",
+          "Yuminahua"
+        ],
+        "lengua": "Yaminahua",
+        "familia_linguistica": "Pano",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "San Martín",
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-54",
+      "text": "Pueblo indígena u originario: Yanesha. Otras denominaciones: Amage; Amajo; Amuesha; Amuexia; Omage. Lengua: Yanesha. Familia lingüística: Arawak. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Huánuco, Junín, Pasco.",
+      "metadata": {
+        "numero": 54,
+        "pueblo": "Yanesha",
+        "otras_denominaciones": [
+          "Amage",
+          "Amajo",
+          "Amuesha",
+          "Amuexia",
+          "Omage"
+        ],
+        "lengua": "Yanesha",
+        "familia_linguistica": "Arawak",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Huánuco",
+          "Junín",
+          "Pasco"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    },
+    {
+      "id": "pueblo-55",
+      "text": "Pueblo indígena u originario: Yine. Otras denominaciones: Chotaquiro; Pira; Piro; Pirro; Simirinche. Lengua: Yine. Familia lingüística: Arawak. Ámbito: Amazónico. Pueblo indígena en situación de aislamiento: No. Pueblo indígena en situación de contacto inicial: No. Presencia en departamentos: Cusco, Loreto, Madre de Dios, Ucayali.",
+      "metadata": {
+        "numero": 55,
+        "pueblo": "Yine",
+        "otras_denominaciones": [
+          "Chotaquiro",
+          "Pira",
+          "Piro",
+          "Pirro",
+          "Simirinche"
+        ],
+        "lengua": "Yine",
+        "familia_linguistica": "Arawak",
+        "ambito": "Amazónico",
+        "situacion_aislamiento": false,
+        "situacion_contacto_inicial": false,
+        "departamentos": [
+          "Cusco",
+          "Loreto",
+          "Madre de Dios",
+          "Ucayali"
+        ],
+        "source": "Lista de Pueblos Indígenas u Originarios 2023.pdf",
+        "source_page": 3
+      }
+    }
+  ]
+}
