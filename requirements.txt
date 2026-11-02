@@ -1,0 +1,12 @@
+# Dependencias Python del SIP-AI RAG
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
+httpx>=0.27
+requests>=2.31
+pypdf>=4.0
+
+# Para OCR/parseo de PDF escaneados (requieren programas del sistema:
+# poppler-utils y tesseract-ocr instalados aparte)
+pdf2image>=1.17
+pytesseract>=0.3.10
