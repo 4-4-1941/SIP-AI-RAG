@@ -27,6 +27,7 @@ CANDIDATES_PATH = ROOT / "data/metadata/flashcard_candidates.json"
 EXPORT_PATH = ROOT / "data/metadata/flashcards_approved.json"
 VISOR_PATH = ROOT / "data/metadata/flashcards_visor.json"
 PROMPTS_PATH = ROOT / "data/metadata/flashcards_prompts_escena.json"
+CITAS_PATH = ROOT / "data/metadata/citas_oficiales.json"  # opcional: {"<document_id o id_fuente_oficial>": "Cita oficial"}
 SCENES_DIR = ROOT / "data/flashcards/escenas"
 RENDER_DIR = ROOT / "data/flashcards/render"
 LOGO_PATH = Path(os.getenv("FLASHCARD_LOGO", str(ROOT / "data/flashcards/logo.png")))
@@ -259,6 +260,7 @@ def generation_prompt(chunk: Any, document: Any, limit: int) -> list[dict[str, s
         "axis debe ser exactamente uno de: Cuidado integral de salud; Salud pública; Ética e interculturalidad; "
         "Gestión de servicios de salud; Investigación. Si no puede determinarse con evidencia, usa null. "
         "La cita evidence_quote debe ser una cita literal y continua del texto proporcionado. "
+        "No cites nombres ni números de archivo como fuente; la cita oficial de la norma la asigna el motor. "
         "No conviertas preguntas de un banco ni respuestas existentes en tarjetas que revelen respuestas sin contexto. "
         "Incluye distractores solo si están en la fuente. confidence: alta, media o baja."
     )
@@ -274,20 +276,72 @@ def _opt_text(raw: dict[str, Any], key: str) -> str | None:
     return text if text and text.lower() != "null" else None
 
 
-def build_normative_source(document: Any, page: int | None) -> dict[str, Any]:
-    """Cita normativa para la ficha, tomada solo de la metadata del documento (nunca inventada)."""
+_TITULOS_GENERICOS = {"ministerio de salud", "congreso de la república", "presidencia del consejo de ministros", ""}
+_RUIDO_TITULO = re.compile(r"\s*[-–]\s*Normas y documentos legales.*$|\s+Dirigid[oa]s?\b.*$|\s+Archivo\s*\d+.*$", re.IGNORECASE)
+_TIPO_NORMA = (r"RESOLUCI[ÓO]N MINISTERIAL|RESOLUCI[ÓO]N VICEMINISTERIAL|DECRETO SUPREMO|DECRETO LEGISLATIVO|"
+               r"DIRECTIVA ADMINISTRATIVA|NORMA T[ÉE]CNICA DE SALUD|NTS|LEY|R\.?M\.?|D\.?S\.?")
+_NUM_NORMA = re.compile(r"\b(" + _TIPO_NORMA + r")\s*(?:N[°ºo.]{0,2}\s*)?(\d{1,5}(?:[-/]\d{2,4})?(?:[-/][A-ZÑ0-9]{2,12}){0,3})", re.IGNORECASE)
+_NOMBRES = {"resolución ministerial": "Resolución Ministerial", "resolucion ministerial": "Resolución Ministerial",
+            "resolución viceministerial": "Resolución Viceministerial", "resolucion viceministerial": "Resolución Viceministerial",
+            "decreto supremo": "Decreto Supremo", "decreto legislativo": "Decreto Legislativo", "ley": "Ley",
+            "directiva administrativa": "Directiva Administrativa", "norma técnica de salud": "NTS",
+            "norma tecnica de salud": "NTS", "nts": "NTS", "rm": "Resolución Ministerial", "r.m.": "Resolución Ministerial",
+            "ds": "Decreto Supremo", "d.s.": "Decreto Supremo"}
+
+
+def limpiar_titulo(title: str) -> str:
+    """Quita ruido de portal/archivo; nunca devuelve nombres de archivo ni números de repositorio."""
+    t = _RUIDO_TITULO.sub("", " ".join(str(title or "").split())).strip(" .-–")
+    return "" if t.lower() in _TITULOS_GENERICOS or re.fullmatch(r"[\d\-_. ]+", t) else t
+
+
+def _cita_override(document: Any, meta: dict[str, Any]) -> str | None:
+    data = read_json(CITAS_PATH, {})
+    for key in (document.document_id, str(meta.get("id_fuente_oficial") or ""), str(meta.get("id") or "")):
+        if key and str(data.get(key) or "").strip():
+            return str(data[key]).strip()
+    return None
+
+
+def official_citation(document: Any) -> tuple[str, str, bool]:
+    """(texto, método, oficial). Cita con el nombre oficial de la norma/documento, nunca el nombre del archivo."""
     meta = document.metadata or {}
-    parts: list[str] = []
+    manual = _cita_override(document, meta)
+    if manual:
+        return manual, "manual", True
+    nums = []
     for key in ("resolucion_aprobatoria", "numero_norma"):
-        value = str(meta.get(key) or "").strip()
-        if value and value not in parts:
-            parts.append(value)
+        v = str(meta.get(key) or "").strip()
+        if v and v.lower() != "none" and v not in nums:
+            nums.append(v)
+    if nums:
+        return " — ".join(nums), "metadata", True
+    titulo = limpiar_titulo(document.title) or limpiar_titulo(meta.get("titulo"))
+    mt = _NUM_NORMA.match(titulo) if titulo else None
+    if mt:  # el título oficial ya es la norma: "Resolución Ministerial N.° 534-2025-MINSA ..."
+        return f"{_NOMBRES.get(mt.group(1).lower(), mt.group(1).title())} N.° {mt.group(2).upper()}", "titulo_norma", True
+    head = " ".join(str(document.text or "")[:1800].split())
+    mx = _NUM_NORMA.search(head[:300])
+    if mx:  # derivado del encabezado del texto: requiere revisión humana
+        return f"{_NOMBRES.get(mx.group(1).lower(), mx.group(1).title())} N.° {mx.group(2).upper()}", "texto_inicial", False
+    anio = re.search(r"\b(19[89]\d|20[0-3]\d)\b", head)
+    if titulo:
+        return f"MINSA. {titulo.capitalize() if titulo.isupper() else titulo}" + (f" ({anio.group(1)})" if anio else ""), "titulo", False
+    return "Documento oficial MINSA", "sin_dato", False
+
+
+def build_normative_source(document: Any, page: int | None) -> dict[str, Any]:
+    """Cita normativa oficial para la ficha (nunca el nombre del archivo ni su número de repositorio)."""
+    meta = document.metadata or {}
+    texto, metodo, oficial = official_citation(document)
     vigencia = str(meta.get("vigencia") or "VIGENCIA_NO_DETERMINADA").strip()
     partial = str(meta.get("verificacion_modificatorias") or "").strip().lower().startswith("parcial")
     return {
-        "texto": " — ".join(parts) if parts else str(document.title).strip(),
-        "documento": str(document.title).strip(),
+        "texto": texto,
+        "documento": limpiar_titulo(document.title) or str(document.title).strip(),
         "pagina": page,
+        "cita_metodo": metodo,
+        "cita_oficial": oficial,
         "vigencia": vigencia,
         "por_confirmar": (not vigencia.upper().startswith("VIGENTE")) or partial,
     }
@@ -701,11 +755,11 @@ def render_card(card: dict[str, Any], scene_path: Path, out_path: Path, logo_pat
         for line in lines:
             t.text((bx0 + 18, ty), line, font=font, fill=ink)
             ty += int(font.size * 1.2)
-    source = "Fuente: " + str(fuente.get("texto") or "sin fuente")
+    source = "Fuente: " + str(fuente.get("texto") or "Documento oficial MINSA")
     if fuente.get("pagina"):
         source += f" (p. {fuente['pagina']})"
-    if fuente.get("por_confirmar", True):
-        source += " · Vigencia por confirmar"
+    if fuente.get("cita_oficial") is False:
+        warnings.append("cita_no_oficial")
     font, lines, cut = _fit(t, source, bold, W - 48, 56, 28, 18)
     if cut:
         warnings.append("fuente")
