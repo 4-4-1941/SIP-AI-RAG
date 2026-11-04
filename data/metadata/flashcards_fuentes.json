@@ -1,0 +1,4 @@
+{
+  "descripcion": "Documentos de knowledge/ (ademas de las normas del catalogo) autorizados para generar fichas. Rutas relativas a knowledge/, admite comodines.",
+  "incluir": ["normas/serums/*.json"]
+}
