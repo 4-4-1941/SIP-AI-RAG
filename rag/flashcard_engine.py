@@ -27,6 +27,10 @@ CANDIDATES_PATH = ROOT / "data/metadata/flashcard_candidates.json"
 EXPORT_PATH = ROOT / "data/metadata/flashcards_approved.json"
 VISOR_PATH = ROOT / "data/metadata/flashcards_visor.json"
 PROMPTS_PATH = ROOT / "data/metadata/flashcards_prompts_escena.json"
+CATALOG_PATH = ROOT / "data/metadata/catalog.json"
+FUENTES_PATH = ROOT / "data/metadata/flashcards_fuentes.json"  # {"incluir": ["normas/serums/*.json", ...]} (rutas relativas a knowledge/)
+MAX_CARDS_PER_DOC = int(os.getenv("FLASHCARD_MAX_PER_DOC", "10"))  # tope de fichas candidatas por norma/documento
+OTROS = "Otros"  # fichas válidas que no encajan en los 5 ejes
 CITAS_PATH = ROOT / "data/metadata/citas_oficiales.json"  # opcional: {"<document_id o id_fuente_oficial>": "Cita oficial"}
 SCENES_DIR = ROOT / "data/flashcards/escenas"
 RENDER_DIR = ROOT / "data/flashcards/render"
@@ -67,6 +71,7 @@ AXIS_COLORS = {
     "Ética e interculturalidad": (123, 79, 163),
     "Gestión de servicios de salud": (184, 101, 26),
     "Investigación": (192, 57, 43),
+    OTROS: (95, 99, 104),
 }
 CARD_TYPES = (
     "conceptual", "comparativa", "procedimental",
@@ -258,7 +263,7 @@ def generation_prompt(chunk: Any, document: Any, limit: int) -> list[dict[str, s
         "si el fragmento no los respalda, usa null (nunca los inventes). "
         "type debe ser uno de: conceptual, comparativa, procedimental, secuencial, aplicada, evaluacion. "
         "axis debe ser exactamente uno de: Cuidado integral de salud; Salud pública; Ética e interculturalidad; "
-        "Gestión de servicios de salud; Investigación. Si no puede determinarse con evidencia, usa null. "
+        "Gestión de servicios de salud; Investigación. Si el tema es válido pero no encaja en ninguno, usa \"Otros\". "
         "La cita evidence_quote debe ser una cita literal y continua del texto proporcionado. "
         "No cites nombres ni números de archivo como fuente; la cita oficial de la norma la asigna el motor. "
         "No conviertas preguntas de un banco ni respuestas existentes en tarjetas que revelen respuestas sin contexto. "
@@ -352,13 +357,11 @@ def validate_card(raw: dict[str, Any], document: Any, chunk: Any, provider: str,
     answer = str(raw.get("answer", "")).strip()
     evidence = str(raw.get("evidence_quote", "")).strip()
     kind = str(raw.get("type", "")).strip().lower()
-    axis = canon_axis(raw.get("axis"))
+    axis = canon_axis(raw.get("axis")) or OTROS
+    axis_propuesto = None if canon_axis(raw.get("axis")) else (str(raw.get("axis")).strip()[:80] if raw.get("axis") else None)
     if not question or not answer or len(question) < 12 or len(answer) < 4:
         return None
     if kind not in CARD_TYPES:
-        return None
-    # axis null se conserva (pasa a revisión humana); un eje fuera del catálogo se rechaza.
-    if raw.get("axis") is not None and axis is None:
         return None
     # La evidencia debe aparecer literalmente en el chunk, normalizando solo espacios.
     source_compact = " ".join(chunk.text.split())
@@ -392,7 +395,7 @@ def validate_card(raw: dict[str, Any], document: Any, chunk: Any, provider: str,
         "ficha_completa": bool(dato_clave and error_frecuente and aplicacion),
         "fuente_normativa": build_normative_source(document, page),
         "explanation": str(raw.get("explanation", "")).strip(),
-        "type": kind, "axis": axis,
+        "type": kind, "axis": axis, "axis_propuesto_modelo": axis_propuesto,
         "subaxis": subaxis,
         "confidence": str(raw.get("confidence", "media")).lower(),
         "evidence": {"quote": evidence, "provenance": provenance},
@@ -418,7 +421,25 @@ def discover_documents(corpus: Path) -> list[Path]:
     return sorted(files)
 
 
-def process_corpus(corpus: Path = DEFAULT_CORPUS, force: bool = False, limit_per_chunk: int = 6,
+def allowed_documents(corpus: Path) -> set[Path]:
+    """Solo se generan fichas desde documentos del catálogo (normas validadas) o de flashcards_fuentes.json."""
+    allowed: set[Path] = set()
+    for entry in read_json(CATALOG_PATH, {}).get("documentos", []):
+        ruta = str(entry.get("ruta") or "")
+        if ruta.startswith("knowledge/") and ruta.endswith(".metadata.json"):
+            base = ROOT / ruta[: -len(".metadata.json")]
+            for ext in SUPPORTED_EXTENSIONS:
+                if base.with_suffix(ext).is_file():
+                    allowed.add(base.with_suffix(ext).resolve())
+                    break
+    for pattern in read_json(FUENTES_PATH, {}).get("incluir", []):
+        for found in corpus.glob(str(pattern)):
+            if found.is_file() and found.suffix.lower() in SUPPORTED_EXTENSIONS and not found.name.endswith(".metadata.json"):
+                allowed.add(found.resolve())
+    return allowed
+
+
+def process_corpus(corpus: Path = DEFAULT_CORPUS, force: bool = False, limit_per_chunk: int = 6, max_per_doc: int = MAX_CARDS_PER_DOC,
                    state_path: Path = STATE_PATH, candidates_path: Path = CANDIDATES_PATH) -> dict[str, Any]:
     corpus = corpus.resolve()
     state = read_json(state_path, {"version": 1, "documents": {}, "updated_at": None})
@@ -434,7 +455,12 @@ def process_corpus(corpus: Path = DEFAULT_CORPUS, force: bool = False, limit_per
     processed = skipped = generated = duplicates = failed = 0
     document_state = state.setdefault("documents", {})
 
+    allowed = allowed_documents(corpus)
+    if not allowed:
+        raise RuntimeError("No hay documentos permitidos: revise data/metadata/catalog.json y data/metadata/flashcards_fuentes.json.")
     for path in discover_documents(corpus):
+        if path.resolve() not in allowed:
+            continue
         rel = path.relative_to(corpus).as_posix()
         digest = sha256_file(path)
         previous = document_state.get(rel, {})
@@ -445,8 +471,12 @@ def process_corpus(corpus: Path = DEFAULT_CORPUS, force: bool = False, limit_per
             document = load_document(path)
             chunks = chunk_document(document)
             new_cards: list[dict[str, Any]] = []
-            for chunk in chunks:
-                content, provider, model = call_chat(generation_prompt(chunk, document, limit_per_chunk))
+            # Muestreo repartido por todo el documento (orden determinista) y tope de fichas por norma.
+            for chunk in sorted(chunks, key=lambda c: hashlib.sha256(c.chunk_id.encode("utf-8")).hexdigest()):
+                remaining = max_per_doc - len(new_cards)
+                if remaining <= 0:
+                    break
+                content, provider, model = call_chat(generation_prompt(chunk, document, min(limit_per_chunk, remaining)))
                 parsed = parse_json_response(content)
                 for raw in parsed["cards"]:
                     if not isinstance(raw, dict):
@@ -460,7 +490,8 @@ def process_corpus(corpus: Path = DEFAULT_CORPUS, force: bool = False, limit_per
                         card["duplicate_of"] = duplicate
                         card["status"] = "duplicate_review"
                         duplicates += 1
-                    new_cards.append(card)
+                    if len(new_cards) < max_per_doc:
+                        new_cards.append(card)
             # Mantener decisiones humanas previas como historial, marcando versión obsoleta.
             for old in by_source.get(str(path), []):
                 if old.get("status") in {"approved", "rejected"}:
@@ -800,6 +831,7 @@ def build_parser() -> argparse.ArgumentParser:
     process = sub.add_parser("process", help="Procesa documentos nuevos o modificados")
     process.add_argument("--force", action="store_true", help="Reprocesa todos los documentos")
     process.add_argument("--limit-per-chunk", type=int, default=6)
+    process.add_argument("--max-per-doc", type=int, default=MAX_CARDS_PER_DOC, help="Tope de fichas por norma (default 10)")
     sub.add_parser("stats", help="Estadísticas de candidatos")
     review = sub.add_parser("review", help="Registrar decisión humana")
     review.add_argument("card_id")
@@ -824,7 +856,7 @@ def main(argv: list[str] | None = None) -> int:
         if args.command == "process":
             if args.limit_per_chunk < 1:
                 raise ValueError("--limit-per-chunk debe ser mayor que cero.")
-            result = process_corpus(args.corpus, args.force, args.limit_per_chunk, args.state, args.candidates)
+            result = process_corpus(args.corpus, args.force, args.limit_per_chunk, args.max_per_doc, args.state, args.candidates)
         elif args.command == "stats":
             result = stats(args.candidates, args.state)
         elif args.command == "review":
