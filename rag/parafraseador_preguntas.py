@@ -21,6 +21,7 @@ import json
 import random
 import re
 import sys
+import threading
 import time
 import unicodedata
 from concurrent.futures import ThreadPoolExecutor
@@ -36,7 +37,11 @@ FAMILIAS_PATH = CONFIG_DIR / "fijas_familias.json"
 PROMPT_PATH = CONFIG_DIR / "prompt_preguntas_examen.txt"
 OUT_PATH = ROOT / "data/preguntas/parafraseadas.json"
 SIM_MAX_FAMILIA = 0.80  # dos preguntas de una misma familia no pueden quedar casi iguales
-REINTENTOS = 2
+REINTENTOS = 2          # reintentos por JSON mal formado
+MAX_ESPERAS_429 = 6      # reintentos por límite de velocidad (429) con espera creciente
+RPM = 30                 # llamadas por minuto permitidas (NVIDIA devuelve 429 si se excede)
+_lock_turno = threading.Lock()
+_proximo_turno = [0.0]
 MAX_FALLOS_SEGUIDOS = 3
 EJES = ("Cuidado integral de salud", "Salud pública", "Ética e interculturalidad",
         "Gestión de servicios de salud", "Investigación", "Otros")
@@ -145,15 +150,38 @@ def armar(v: dict[str, Any], q: dict[str, Any], familia: str | None, n: int, pro
             "proveedor": provider, "modelo": model, "generada": fe.utc_now()}
 
 
+def fijar_rpm(valor: int) -> None:
+    global RPM
+    RPM = max(1, int(valor))
+
+
+def esperar_turno() -> None:
+    """Reparte las llamadas en el tiempo (RPM por minuto) aunque haya varios workers."""
+    with _lock_turno:
+        ahora = time.time()
+        espera = max(0.0, _proximo_turno[0] - ahora)
+        _proximo_turno[0] = max(ahora, _proximo_turno[0]) + 60.0 / RPM
+    if espera:
+        time.sleep(espera)
+
+
 def generar(q: dict[str, Any], familia: str | None, existentes: list[str], prompt: str):
-    """Llama a la IA con reintento. Devuelve (crudas, proveedor, modelo, error)."""
-    ultimo = ""
-    for _ in range(REINTENTOS):
+    """Llama a la IA. Reintenta si el JSON viene mal y espera si hay límite de velocidad (429).
+    Devuelve (crudas, proveedor, modelo, error)."""
+    ultimo, fallas_formato = "", 0
+    for intento in range(MAX_ESPERAS_429 + REINTENTOS):
+        esperar_turno()
         try:
             contenido, proveedor, modelo = fe.call_chat(mensajes(q, familia, existentes, prompt), temperature=0.4, max_tokens=2500)
             return parsear(contenido), proveedor, modelo, ""
         except (RuntimeError, ValueError, json.JSONDecodeError) as exc:
             ultimo = str(exc)
+            if "429" in ultimo or "Too Many" in ultimo:
+                time.sleep(min(90, 20 * (intento + 1)))  # 20 s, 40 s, 60 s... y reintenta
+                continue
+            fallas_formato += 1
+            if fallas_formato >= REINTENTOS:
+                break
     return [], "", "", ultimo
 
 
@@ -222,11 +250,13 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--limit", type=int, default=None, help="Máximo de preguntas oficiales a procesar en esta corrida")
     ap.add_argument("--carrera", default=None, help="Filtrar por carrera (ej. enfermeria)")
     ap.add_argument("--workers", type=int, default=1, help="Llamadas en paralelo (empiece con 1-3)")
+    ap.add_argument("--rpm", type=int, default=RPM, help="Llamadas por minuto (default 30; baje si ve error 429)")
     ap.add_argument("--stats", action="store_true")
     ap.add_argument("--familias", type=Path, default=FAMILIAS_PATH)
     ap.add_argument("--prompt", type=Path, default=PROMPT_PATH)
     ap.add_argument("--out", type=Path, default=OUT_PATH)
     a = ap.parse_args(argv)
+    fijar_rpm(a.rpm)
     if a.stats:
         print(json.dumps(resumen(fe.read_json(a.out, {"preguntas": [], "procesadas": {}, "rechazos": {}})), ensure_ascii=False, indent=2))
         return 0
@@ -236,4 +266,3 @@ def main(argv: list[str] | None = None) -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-               
