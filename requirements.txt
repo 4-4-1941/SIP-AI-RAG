@@ -10,3 +10,4 @@ pypdf>=4.0
 # poppler-utils y tesseract-ocr instalados aparte)
 pdf2image>=1.17
 pytesseract>=0.3.10
+fonttools
