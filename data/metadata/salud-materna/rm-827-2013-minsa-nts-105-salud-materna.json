@@ -1,1 +1,25 @@
-
+{
+  "id": "RM-827-2013-MINSA-NTS-105",
+  "titulo": "Norma Técnica de Salud para la Atención Integral de Salud Materna",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 105-MINSA/DGSP-V.01",
+  "resolucion_aprobatoria": "RM N.° 827-2013/MINSA",
+  "fecha_aprobacion": "2013-12-24",
+  "tema": "Atención integral de salud materna",
+  "bloque_SERUMS": "Cuidado integral de salud / Salud materna",
+  "subtemas": [
+    "Atención integral de salud materna",
+    "Atención prenatal reenfocada",
+    "Salud sexual y reproductiva"
+  ],
+  "fuentes_oficiales": [
+    {
+      "tipo": "pagina_oficial",
+      "entidad": "Ministerio de Salud del Perú",
+      "documento": "RM N.° 827-2013-MINSA",
+      "url": "https://www.gob.pe/institucion/minsa/normas-legales/198935-2013-minsa",
+      "rol_evidencia": "aprobacion_norma"
+    }
+  ]
+}
