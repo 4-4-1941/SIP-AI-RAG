@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Justificador normativo: busca en las normas (knowledge/**/*.md) el respaldo
+"""Justificador normativo: busca en las normas y guías (knowledge/**/*.md y *.json con texto extraído) el respaldo
 de la clave de cada pregunta parafraseada y la audita con la IA.
 Veredictos: RESPALDADA / PARCIAL / SIN_RESPALDO / CONTRADICE.
 La cita textual se verifica por código: si no existe literal en la norma,
@@ -8,6 +8,7 @@ NO modifica parafraseadas.json ni toca Supabase.
 Uso (desde ~/SIP-AI-RAG):
   python3 rag/justificador_normativo.py            -> prueba con 100 preguntas
   python3 rag/justificador_normativo.py --todo     -> todas
+  python3 rag/justificador_normativo.py --todo --reevaluar -> repite las SIN_RESPALDO con las guías y normas JSON
 Opciones: --n 100  --rpm 30  --reintentar (repite las que fallaron)"""
 import argparse, json, math, os, random, re, sys, time, unicodedata, urllib.error, urllib.request
 from collections import Counter, defaultdict
@@ -50,20 +51,43 @@ def trocear(texto, palabras=120, paso=90):
             yield trozo
 
 
+def textos_json(obj, minimo=150):
+    """Devuelve todos los textos largos de un JSON (páginas, contenido documental, etc.)."""
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            if k.startswith(("huella", "url", "pdf_", "archivo")):
+                continue
+            yield from textos_json(v, minimo)
+    elif isinstance(obj, list):
+        for v in obj:
+            yield from textos_json(v, minimo)
+    elif isinstance(obj, str) and len(obj) >= minimo:
+        yield obj
+
+
 def construir_indice():
     chunks, origen = [], []
     for base, dirs, files in os.walk(os.path.join(RAIZ, "knowledge")):
-        dirs[:] = [d for d in dirs if d not in (".git", "archive")]
+        dirs[:] = [d for d in dirs if d not in (".git", "archive", "banco_preguntas")]
         for f in files:
-            if not f.endswith(".md") or re.search(r"\(\d+\)", f):
+            if re.search(r"\(\d+\)|_\d\.json$", f) or f.endswith(("metadata.json", "manifest.json")):
                 continue
+            ruta = os.path.join(base, f)
             try:
-                txt = open(os.path.join(base, f), encoding="utf-8", errors="ignore").read()
+                if f.endswith(".md"):
+                    txt, nombre = open(ruta, encoding="utf-8", errors="ignore").read(), f[:-3]
+                elif f.endswith(".json"):
+                    d = json.load(open(ruta, encoding="utf-8"))
+                    txt = "\n".join(textos_json(d))
+                    nombre = (d.get("titulo") or d.get("title") or f[:-5]) if isinstance(d, dict) else f[:-5]
+                    nombre = str(nombre)[:110]
+                else:
+                    continue
             except Exception:
                 continue
             for c in trocear(txt):
                 chunks.append(c)
-                origen.append(f[:-3])
+                origen.append(nombre)
     inv, largos = defaultdict(list), []
     for i, c in enumerate(chunks):
         t = toks(c)
@@ -156,6 +180,7 @@ def main():
     ap.add_argument("--n", type=int, default=100)
     ap.add_argument("--rpm", type=int, default=30)
     ap.add_argument("--reintentar", action="store_true")
+    ap.add_argument("--reevaluar", action="store_true", help="repite las SIN_RESPALDO y con error usando el índice ampliado")
     a = ap.parse_args()
     if not os.path.exists(PARAF):
         sys.exit("No existe data/preguntas/parafraseadas.json. ¿Estás en ~/SIP-AI-RAG?")
@@ -164,7 +189,10 @@ def main():
     if not a.todo:
         L = random.Random(7).sample(L, min(a.n, len(L)))
     res = json.load(open(SALIDA, encoding="utf-8")) if os.path.exists(SALIDA) else {}
-    pend = [p for p in L if p["id"] not in res or (a.reintentar and "error" in res[p["id"]])]
+    def repetir(r):
+        return "error" in r or r.get("veredicto") == "SIN_RESPALDO"
+    pend = [p for p in L if p["id"] not in res or ((a.reintentar or a.reevaluar) and "error" in res[p["id"]])
+            or (a.reevaluar and repetir(res[p["id"]]))]
     print(f"Preguntas: {len(L)} | pendientes: {len(pend)}")
     if not pend:
         resumen(L, res)
@@ -178,7 +206,10 @@ def main():
     for n, p in enumerate(pend, 1):
         t0 = time.time()
         try:
+            antes = res.get(p["id"], {}).get("veredicto")
             res[p["id"]] = auditar(clave, sistema, p, ix)
+            if antes:
+                res[p["id"]]["antes"] = antes
         except Exception as e:
             res[p["id"]] = {"error": str(e)[:150]}
         if n % 10 == 0 or n == len(pend):
@@ -199,3 +230,4 @@ def resumen(L, res):
 
 if __name__ == "__main__":
     main()
+      
