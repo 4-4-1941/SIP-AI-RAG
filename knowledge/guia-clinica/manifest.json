@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source_folder": "GUIAS SALUD",
-  "document_count": 34,
+  "document_count": 35,
   "documents": [
     {
       "source": "5707273-fe-de-erratas.pdf",
@@ -11,168 +11,38 @@
       "low_text_pages": [
         1,
         2
-      ]
+      ],
+      "markdown": "5707273-fe-de-erratas.md"
     },
     {
       "source": "5718684-guia-de-practica-clinica-para-el-tamizaje-del-cancer-colorrectal-en-el-primer-nivel-de-atencion.pdf",
       "json": "5718684-guia-de-practica-clinica-para-el-tamizaje-del-cancer-colorrectal-en-el-primer-nivel-de-atencion.json",
       "pages": 186,
       "text_characters": 498127,
-      "low_text_pages": []
+      "low_text_pages": [],
+      "markdown": "5718684-guia-de-practica-clinica-para-el-tamizaje-del-cancer-colorrectal-en-el-primer-nivel-de-atencion.md"
     },
     {
       "source": "8183363-guia-tecnica-n-006-inscets-2026-guia-de-practica-clinica-para-la-prevencion-diagnostico-y-tratamiento-de-la-hipertension-arterial-en-adultos-version-extensa(2).pdf",
       "json": "8183363-guia-tecnica-n-006-inscets-2026-guia-de-practica-clinica-para-la-prevencion-diagnostico-y-tratamiento-de-la-hipertension-arterial-en-adultos-version-extensa_2.json",
       "pages": 549,
       "text_characters": 1299069,
-      "low_text_pages": []
-    },
-    {
-      "source": "analgesia_INMP.pdf.pdf.pdf",
-      "json": "analgesia_INMP.pdf.pdf.json",
-      "pages": 238,
-      "text_characters": 436027,
-      "low_text_pages": []
-    },
-    {
-      "source": "gpc-n-01-2024_version-resumida.pdf",
-      "json": "gpc-n-01-2024_version-resumida.json",
-      "pages": 28,
-      "text_characters": 62338,
-      "low_text_pages": []
-    },
-    {
-      "source": "gpc-n-01-2025_para-el-estadiaje-y-tratamiento-del-cancer-de-cuello-uterino-en-estadios-tempranos(2).pdf",
-      "json": "gpc-n-01-2025_para-el-estadiaje-y-tratamiento-del-cancer-de-cuello-uterino-en-estadios-tempranos_2.json",
-      "pages": 176,
-      "text_characters": 396889,
-      "low_text_pages": []
-    },
-    {
-      "source": "gpc-n-01-2025_version-resumida(2).pdf",
-      "json": "gpc-n-01-2025_version-resumida_2.json",
-      "pages": 38,
-      "text_characters": 84542,
-      "low_text_pages": []
-    },
-    {
-      "source": "gpc-n-02-2024_version-resumida.pdf",
-      "json": "gpc-n-02-2024_version-resumida.json",
-      "pages": 24,
-      "text_characters": 60541,
-      "low_text_pages": []
-    },
-    {
-      "source": "gpc-n-02-2025_para-el-tamizaje-y-manejo-de-la-infeccion-del-tracto-urinario-en-el-embarazo-en-el-primer-nivel-de-atencion.pdf",
-      "json": "gpc-n-02-2025_para-el-tamizaje-y-manejo-de-la-infeccion-del-tracto-urinario-en-el-embarazo-en-el-primer-nivel-de-atencion.json",
-      "pages": 158,
-      "text_characters": 337324,
-      "low_text_pages": []
-    },
-    {
-      "source": "gpc-n-02-2025_version-resumida_.pdf",
-      "json": "gpc-n-02-2025_version-resumida.json",
-      "pages": 26,
-      "text_characters": 67430,
-      "low_text_pages": []
-    },
-    {
-      "source": "gpc-n-03-2024_version-resumida.pdf",
-      "json": "gpc-n-03-2024_version-resumida.json",
-      "pages": 34,
-      "text_characters": 88273,
-      "low_text_pages": []
-    },
-    {
-      "source": "gpc-n-03-2025_para-la-prevencion-y-manejo-del-trastorno-hipertensivo-del-embarazo-en-el-primer-nivel-de-atencion.pdf",
-      "json": "gpc-n-03-2025_para-la-prevencion-y-manejo-del-trastorno-hipertensivo-del-embarazo-en-el-primer-nivel-de-atencion.json",
-      "pages": 249,
-      "text_characters": 455259,
-      "low_text_pages": []
-    },
-    {
-      "source": "gpc-n-03-2025_version-resumida_.pdf",
-      "json": "gpc-n-03-2025_version-resumida.json",
-      "pages": 28,
-      "text_characters": 73789,
-      "low_text_pages": []
-    },
-    {
-      "source": "gpc-n-04-2024_para-el-tratamiento-de-la-leucemia-linfoblastica-aguda-en-pacientes-pediatricos.pdf",
-      "json": "gpc-n-04-2024_para-el-tratamiento-de-la-leucemia-linfoblastica-aguda-en-pacientes-pediatricos.json",
-      "pages": 163,
-      "text_characters": 391720,
-      "low_text_pages": []
-    },
-    {
-      "source": "gpc-n-04-2025_para-el-tamizaje-evaluacion-de-riesgo-y-manejo-de-la-dislipidemia-en-pacientes-sin-enfermedad-cardiovascular-establecida-en-el-primer-nivel-de-atencion.pdf",
-      "json": "gpc-n-04-2025_para-el-tamizaje-evaluacion-de-riesgo-y-manejo-de-la-dislipidemia-en-pacientes-sin-enfermedad-cardiovascular-establecida-en-el-primer-nivel-de-atencion.json",
-      "pages": 122,
-      "text_characters": 279616,
-      "low_text_pages": []
-    },
-    {
-      "source": "gpc-n-04-2025_version-resumida(2).pdf",
-      "json": "gpc-n-04-2025_version-resumida_2.json",
-      "pages": 29,
-      "text_characters": 68711,
-      "low_text_pages": []
-    },
-    {
-      "source": "gpcn-04-2024_version-resumida.pdf",
-      "json": "gpcn-04-2024_version-resumida.json",
-      "pages": 35,
-      "text_characters": 90849,
-      "low_text_pages": []
+      "low_text_pages": [],
+      "markdown": "8183363-guia-tecnica-n-006-inscets-2026-guia-de-practica-clinica-para-la-prevencion-diagnostico-y-tratamiento-de-la-hipertension-arterial-en-adultos-version-extensa(2).md"
     },
     {
       "source": "GPS SEPSIS NEONATAL version extensa enero 2020.pdf",
       "json": "GPS_SEPSIS_NEONATAL_version_extensa_enero_2020.json",
       "pages": 112,
       "text_characters": 210162,
-      "low_text_pages": []
+      "low_text_pages": [],
+      "markdown": "GPS SEPSIS NEONATAL version extensa enero 2020.md"
     },
     {
-      "source": "guia-de-practica-clinica-n-03-2024-para-el-diagnostico-y-estadiaje-del-cancer-de-mama.pdf",
-      "json": "guia-de-practica-clinica-n-03-2024-para-el-diagnostico-y-estadiaje-del-cancer-de-mama.json",
-      "pages": 205,
-      "text_characters": 502882,
-      "low_text_pages": []
-    },
-    {
-      "source": "guia-de-practica-clinica-para-el-tamizaje-de-cancer-de-mama-en-el-primer-nivel-de-atencion.pdf",
-      "json": "guia-de-practica-clinica-para-el-tamizaje-de-cancer-de-mama-en-el-primer-nivel-de-atencion.json",
-      "pages": 159,
-      "text_characters": 368231,
-      "low_text_pages": []
-    },
-    {
-      "source": "guia-tecnica-n-005-inscets-2025-vs-01-2.pdf",
-      "json": "guia-tecnica-n-005-inscets-2025-vs-01-2.json",
-      "pages": 31,
-      "text_characters": 84128,
-      "low_text_pages": []
-    },
-    {
-      "source": "guia-tecnica-n-005-inscets-2025-vs-01.pdf",
-      "json": "guia-tecnica-n-005-inscets-2025-vs-01.json",
-      "pages": 31,
-      "text_characters": 84128,
-      "low_text_pages": []
-    },
-    {
-      "source": "guia-tecnica-n-006-inscets-2026-guia-de-practica-clinica-para-la-prevencion-diagnostico-y-tratamiento-de-la-hipertension-arterial-en-adultos-version-extensa(2).pdf",
-      "json": "guia-tecnica-n-006-inscets-2026-guia-de-practica-clinica-para-la-prevencion-diagnostico-y-tratamiento-de-la-hipertension-arterial-en-adultos-version-extensa_2.json",
-      "pages": 549,
-      "text_characters": 1437360,
-      "low_text_pages": []
-    },
-    {
-      "source": "guia-tecnica-n-007-inscets-2026-vs-01_guia-de-practica-clinica-para-el-tratamiento-del-cancer-de-mama-en-estadios-tempranos.pdf",
-      "json": "guia-tecnica-n-007-inscets-2026-vs-01_guia-de-practica-clinica-para-el-tratamiento-del-cancer-de-mama-en-estadios-tempranos.json",
-      "pages": 272,
-      "text_characters": 570459,
-      "low_text_pages": []
+      "source": "Guía Técnica para el Cuidado de la Salud Mental de Mujeres en Situación de Violencia Ocasionada por la Pareja o Expareja.pdf",
+      "json": "Guía Técnica para el Cuidado de la Salud Mental de Mujeres en Situación de Violencia Ocasionada por la Pareja o Expareja.json",
+      "markdown": "Guía Técnica para el Cuidado de la Salud Mental de Mujeres en Situación de Violencia Ocasionada por la Pareja o Expareja.md",
+      "title": "Guía Técnica para el Cuidado de la Salud Mental de Mujeres en Situación de Violencia Ocasionada por la Pareja o Expareja"
     },
     {
       "source": "Guía de Práctica Clínica de Diagnóstico y Tratamiento de la Ansiedad en pacientes adultos con cáncer_c.pdf",
@@ -258,7 +128,8 @@
         76,
         77,
         78
-      ]
+      ],
+      "markdown": "Guía de Práctica Clínica de Diagnóstico y Tratamiento de la Ansiedad en pacientes adultos con cáncer_c.md"
     },
     {
       "source": "Guía de Práctica Clínica para el Abordaje Temprano y Manejo de Esquizofrenia_HVLH.pdf",
@@ -358,35 +229,40 @@
         90,
         91,
         92
-      ]
-    },
-    {
-      "source": "Guía de Práctica Clínica para el Diagnóstico y manejo de la tuberculosis en pediatría.pdf",
-      "json": "Guía_de_Práctica_Clínica_para_el_Diagnóstico_y_manejo_de_la_tuberculosis_en_pediatría.json",
-      "pages": 7,
-      "text_characters": 9032,
-      "low_text_pages": []
+      ],
+      "markdown": "Guía de Práctica Clínica para el Abordaje Temprano y Manejo de Esquizofrenia_HVLH.md"
     },
     {
       "source": "Guía de Práctica Clínica para el Diagnóstico y Tratamiento de la Enfermedad de Membrana Hialina.pdf",
       "json": "Guía_de_Práctica_Clínica_para_el_Diagnóstico_y_Tratamiento_de_la_Enfermedad_de_Membrana_Hialina.json",
       "pages": 4,
       "text_characters": 4678,
-      "low_text_pages": []
+      "low_text_pages": [],
+      "markdown": "Guía de Práctica Clínica para el Diagnóstico y Tratamiento de la Enfermedad de Membrana Hialina.md"
+    },
+    {
+      "source": "Guía de Práctica Clínica para el Diagnóstico y manejo de la tuberculosis en pediatría.pdf",
+      "json": "Guía_de_Práctica_Clínica_para_el_Diagnóstico_y_manejo_de_la_tuberculosis_en_pediatría.json",
+      "pages": 7,
+      "text_characters": 9032,
+      "low_text_pages": [],
+      "markdown": "Guía de Práctica Clínica para el Diagnóstico y manejo de la tuberculosis en pediatría.md"
     },
     {
       "source": "Guía de Práctica Clínica para el Diagnóstico, Tratamiento y Pronóstico del Recién Nacido con Asfixia Perinatal.pdf",
       "json": "Guía_de_Práctica_Clínica_para_el_Diagnóstico_Tratamiento_y_Pronóstico_del_Recién_Nacido_con_Asfixia_Perinatal.json",
       "pages": 4,
       "text_characters": 5479,
-      "low_text_pages": []
+      "low_text_pages": [],
+      "markdown": "Guía de Práctica Clínica para el Diagnóstico, Tratamiento y Pronóstico del Recién Nacido con Asfixia Perinatal.md"
     },
     {
       "source": "Guía de Práctica Clínica para el Tamizaje, Diagnóstico, Tratamiento y Seguimiento de la Fibrosis Quística.pdf",
       "json": "Guía_de_Práctica_Clínica_para_el_Tamizaje_Diagnóstico_Tratamiento_y_Seguimiento_de_la_Fibrosis_Quística.json",
       "pages": 5,
       "text_characters": 7159,
-      "low_text_pages": []
+      "low_text_pages": [],
+      "markdown": "Guía de Práctica Clínica para el Tamizaje, Diagnóstico, Tratamiento y Seguimiento de la Fibrosis Quística.md"
     },
     {
       "source": "Guía de Práctica Clínica para el Tratamiento de Depresión en Adultos_HVLH.pdf",
@@ -476,29 +352,192 @@
         80,
         81,
         82
-      ]
+      ],
+      "markdown": "Guía de Práctica Clínica para el Tratamiento de Depresión en Adultos_HVLH.md"
     },
     {
       "source": "Guía de Práctica Clínica para la prevención y manejo de Pre eclampsia y eclampsia_INMP.pdf",
       "json": "Guía_de_Práctica_Clínica_para_la_prevención_y_manejo_de_Pre_eclampsia_y_eclampsia_INMP.json",
       "pages": 30,
       "text_characters": 68271,
-      "low_text_pages": []
+      "low_text_pages": [],
+      "markdown": "Guía de Práctica Clínica para la prevención y manejo de Pre eclampsia y eclampsia_INMP.md"
     },
     {
       "source": "Guía de Práctica Clínica para la prevención, diagnóstico y tratamiento de la sepsis obstétrica.pdf",
       "json": "Guía_de_Práctica_Clínica_para_la_prevención_diagnóstico_y_tratamiento_de_la_sepsis_obstétrica.json",
       "pages": 4,
       "text_characters": 4443,
-      "low_text_pages": []
+      "low_text_pages": [],
+      "markdown": "Guía de Práctica Clínica para la prevención, diagnóstico y tratamiento de la sepsis obstétrica.md"
+    },
+    {
+      "source": "Guía_de_práctica_clínica_para_la_prevención_y_manejo_del_cáncer_de_cuello_uterino._Guía_técnica20190716-19467-dnxtb7.pdf",
+      "json": "Guía_de_práctica_clínica_para_la_prevención_y_manejo_del_cáncer_de_cuello_uterino._Guía_técnica20190716-19467-dnxtb7.json",
+      "markdown": "Guía_de_práctica_clínica_para_la_prevención_y_manejo_del_cáncer_de_cuello_uterino._Guía_técnica20190716-19467-dnxtb7.md",
+      "title": "Guía de práctica clínica para la prevención y manejo del cáncer de cuello uterino. Guía técnica20190716 19467 dnxtb7"
+    },
+    {
+      "source": "analgesia_INMP.pdf.pdf.pdf",
+      "json": "analgesia_INMP.pdf.pdf.json",
+      "pages": 238,
+      "text_characters": 436027,
+      "low_text_pages": [],
+      "markdown": "analgesia_INMP.pdf.pdf.md"
+    },
+    {
+      "source": "gpc-n-01-2024_version-resumida.pdf",
+      "json": "gpc-n-01-2024_version-resumida.json",
+      "pages": 28,
+      "text_characters": 62338,
+      "low_text_pages": [],
+      "markdown": "gpc-n-01-2024_version-resumida.md"
+    },
+    {
+      "source": "gpc-n-01-2025_para-el-estadiaje-y-tratamiento-del-cancer-de-cuello-uterino-en-estadios-tempranos(2).pdf",
+      "json": "gpc-n-01-2025_para-el-estadiaje-y-tratamiento-del-cancer-de-cuello-uterino-en-estadios-tempranos_2.json",
+      "pages": 176,
+      "text_characters": 396889,
+      "low_text_pages": [],
+      "markdown": "gpc-n-01-2025_para-el-estadiaje-y-tratamiento-del-cancer-de-cuello-uterino-en-estadios-tempranos(2).md"
+    },
+    {
+      "source": "gpc-n-01-2025_version-resumida(2).pdf",
+      "json": "gpc-n-01-2025_version-resumida_2.json",
+      "pages": 38,
+      "text_characters": 84542,
+      "low_text_pages": [],
+      "markdown": "gpc-n-01-2025_version-resumida(2).md"
+    },
+    {
+      "source": "gpc-n-02-2024_version-resumida.pdf",
+      "json": "gpc-n-02-2024_version-resumida.json",
+      "pages": 24,
+      "text_characters": 60541,
+      "low_text_pages": [],
+      "markdown": "gpc-n-02-2024_version-resumida.md"
+    },
+    {
+      "source": "gpc-n-02-2025_para-el-tamizaje-y-manejo-de-la-infeccion-del-tracto-urinario-en-el-embarazo-en-el-primer-nivel-de-atencion.pdf",
+      "json": "gpc-n-02-2025_para-el-tamizaje-y-manejo-de-la-infeccion-del-tracto-urinario-en-el-embarazo-en-el-primer-nivel-de-atencion.json",
+      "pages": 158,
+      "text_characters": 337324,
+      "low_text_pages": [],
+      "markdown": "gpc-n-02-2025_para-el-tamizaje-y-manejo-de-la-infeccion-del-tracto-urinario-en-el-embarazo-en-el-primer-nivel-de-atencion.md"
+    },
+    {
+      "source": "gpc-n-02-2025_version-resumida_.pdf",
+      "json": "gpc-n-02-2025_version-resumida.json",
+      "pages": 26,
+      "text_characters": 67430,
+      "low_text_pages": [],
+      "markdown": "gpc-n-02-2025_version-resumida_.md"
+    },
+    {
+      "source": "gpc-n-03-2024_version-resumida.pdf",
+      "json": "gpc-n-03-2024_version-resumida.json",
+      "pages": 34,
+      "text_characters": 88273,
+      "low_text_pages": [],
+      "markdown": "gpc-n-03-2024_version-resumida.md"
+    },
+    {
+      "source": "gpc-n-03-2025_para-la-prevencion-y-manejo-del-trastorno-hipertensivo-del-embarazo-en-el-primer-nivel-de-atencion.pdf",
+      "json": "gpc-n-03-2025_para-la-prevencion-y-manejo-del-trastorno-hipertensivo-del-embarazo-en-el-primer-nivel-de-atencion.json",
+      "pages": 249,
+      "text_characters": 455259,
+      "low_text_pages": [],
+      "markdown": "gpc-n-03-2025_para-la-prevencion-y-manejo-del-trastorno-hipertensivo-del-embarazo-en-el-primer-nivel-de-atencion.md"
+    },
+    {
+      "source": "gpc-n-03-2025_version-resumida_.pdf",
+      "json": "gpc-n-03-2025_version-resumida.json",
+      "pages": 28,
+      "text_characters": 73789,
+      "low_text_pages": [],
+      "markdown": "gpc-n-03-2025_version-resumida_.md"
+    },
+    {
+      "source": "gpc-n-04-2024_para-el-tratamiento-de-la-leucemia-linfoblastica-aguda-en-pacientes-pediatricos.pdf",
+      "json": "gpc-n-04-2024_para-el-tratamiento-de-la-leucemia-linfoblastica-aguda-en-pacientes-pediatricos.json",
+      "pages": 163,
+      "text_characters": 391720,
+      "low_text_pages": [],
+      "markdown": "gpc-n-04-2024_para-el-tratamiento-de-la-leucemia-linfoblastica-aguda-en-pacientes-pediatricos.md"
+    },
+    {
+      "source": "gpc-n-04-2025_para-el-tamizaje-evaluacion-de-riesgo-y-manejo-de-la-dislipidemia-en-pacientes-sin-enfermedad-cardiovascular-establecida-en-el-primer-nivel-de-atencion.pdf",
+      "json": "gpc-n-04-2025_para-el-tamizaje-evaluacion-de-riesgo-y-manejo-de-la-dislipidemia-en-pacientes-sin-enfermedad-cardiovascular-establecida-en-el-primer-nivel-de-atencion.json",
+      "pages": 122,
+      "text_characters": 279616,
+      "low_text_pages": [],
+      "markdown": "gpc-n-04-2025_para-el-tamizaje-evaluacion-de-riesgo-y-manejo-de-la-dislipidemia-en-pacientes-sin-enfermedad-cardiovascular-establecida-en-el-primer-nivel-de-atencion.md"
+    },
+    {
+      "source": "gpc-n-04-2025_version-resumida(2).pdf",
+      "json": "gpc-n-04-2025_version-resumida_2.json",
+      "pages": 29,
+      "text_characters": 68711,
+      "low_text_pages": [],
+      "markdown": "gpc-n-04-2025_version-resumida(2).md"
+    },
+    {
+      "source": "gpcn-04-2024_version-resumida.pdf",
+      "json": "gpcn-04-2024_version-resumida.json",
+      "pages": 35,
+      "text_characters": 90849,
+      "low_text_pages": [],
+      "markdown": "gpcn-04-2024_version-resumida.md"
+    },
+    {
+      "source": "guia-de-practica-clinica-n-03-2024-para-el-diagnostico-y-estadiaje-del-cancer-de-mama.pdf",
+      "json": "guia-de-practica-clinica-n-03-2024-para-el-diagnostico-y-estadiaje-del-cancer-de-mama.json",
+      "pages": 205,
+      "text_characters": 502882,
+      "low_text_pages": [],
+      "markdown": "guia-de-practica-clinica-n-03-2024-para-el-diagnostico-y-estadiaje-del-cancer-de-mama.md"
+    },
+    {
+      "source": "guia-de-practica-clinica-para-el-tamizaje-de-cancer-de-mama-en-el-primer-nivel-de-atencion.pdf",
+      "json": "guia-de-practica-clinica-para-el-tamizaje-de-cancer-de-mama-en-el-primer-nivel-de-atencion.json",
+      "pages": 159,
+      "text_characters": 368231,
+      "low_text_pages": [],
+      "markdown": "guia-de-practica-clinica-para-el-tamizaje-de-cancer-de-mama-en-el-primer-nivel-de-atencion.md"
+    },
+    {
+      "source": "guia-tecnica-n-005-inscets-2025-vs-01.pdf",
+      "json": "guia-tecnica-n-005-inscets-2025-vs-01-2.json",
+      "pages": 31,
+      "text_characters": 84128,
+      "low_text_pages": [],
+      "markdown": "guia-tecnica-n-005-inscets-2025-vs-01.md"
+    },
+    {
+      "source": "guia-tecnica-n-006-inscets-2026-guia-de-practica-clinica-para-la-prevencion-diagnostico-y-tratamiento-de-la-hipertension-arterial-en-adultos-version-extensa(2).pdf",
+      "json": "guia-tecnica-n-006-inscets-2026-guia-de-practica-clinica-para-la-prevencion-diagnostico-y-tratamiento-de-la-hipertension-arterial-en-adultos-version-extensa_2.json",
+      "pages": 549,
+      "text_characters": 1437360,
+      "low_text_pages": [],
+      "markdown": "guia-tecnica-n-006-inscets-2026-guia-de-practica-clinica-para-la-prevencion-diagnostico-y-tratamiento-de-la-hipertension-arterial-en-adultos-version-extensa(2).md"
+    },
+    {
+      "source": "guia-tecnica-n-007-inscets-2026-vs-01_guia-de-practica-clinica-para-el-tratamiento-del-cancer-de-mama-en-estadios-tempranos.pdf",
+      "json": "guia-tecnica-n-007-inscets-2026-vs-01_guia-de-practica-clinica-para-el-tratamiento-del-cancer-de-mama-en-estadios-tempranos.json",
+      "pages": 272,
+      "text_characters": 570459,
+      "low_text_pages": [],
+      "markdown": "guia-tecnica-n-007-inscets-2026-vs-01_guia-de-practica-clinica-para-el-tratamiento-del-cancer-de-mama-en-estadios-tempranos.md"
     },
     {
       "source": "version-resumida-hta.pdf",
       "json": "version-resumida-hta_350b17.json",
       "pages": 57,
       "text_characters": 160701,
-      "low_text_pages": []
+      "low_text_pages": [],
+      "markdown": "version-resumida-hta.md"
     }
   ],
-  "errors": []
+  "errors": [],
+  "markdown_count": 35
 }
