@@ -1,5 +1,5 @@
 {
- "total": 67,
+ "total": 65,
  "preguntas": [
   {
    "id": "P-Q0751-v1",
@@ -72,6 +72,20 @@
    "clave": "D"
   },
   {
+   "id": "P-Q0253-v1",
+   "motivos": [
+    "revisar_veredicto_error"
+   ],
+   "enunciado": "Macho adulto con antecedente de consumo de alcohol consulta por mordedura leve en antebrazo por su perro no vacunado. Acude al servicio de zoonosis. Para la prevención de la rabia, ¿cuál es la indicación respecto al animal?",
+   "opciones": {
+    "A": "Llevarlo a la perrera municipal y vacunarlo",
+    "B": "Vacuna y observación clínica",
+    "C": "Observación en domicilio",
+    "D": "Llevarlo al EESS o consultorio veterinario"
+   },
+   "clave": "C"
+  },
+  {
    "id": "P-Q0360-v1",
    "motivos": [
     "enunciado_muy_largo"
@@ -124,6 +138,20 @@
     "B": "Consumir alimentos preelaborados",
     "C": "Reducir la exposición a factores de riesgo",
     "D": "Cuidar la salud mental"
+   },
+   "clave": "C"
+  },
+  {
+   "id": "P-Q0628-v1",
+   "motivos": [
+    "revisar_veredicto_error"
+   ],
+   "enunciado": "Un servidor público debe proteger y conservar los bienes del Estado, utilizándolos de manera racional para sus funciones sin abusos ni fines particulares. ¿Qué acción corresponde al servidor público respecto al cuidado de los bienes estatales?",
+   "opciones": {
+    "A": "ejecutar / depositar",
+    "B": "usar / cuidar",
+    "C": "proteger / conservar",
+    "D": "atesorar / utilizar"
    },
    "clave": "C"
   },
@@ -394,20 +422,6 @@
    "clave": "C"
   },
   {
-   "id": "P-Q1653-v1",
-   "motivos": [
-    "revisar_veredicto_error"
-   ],
-   "enunciado": "Un adulto mayor con artrosis de rodilla solicita al fisioterapeuta un tratamiento de punción seca para aliviar el dolor crónico. El profesional le explica los beneficios y riesgos antes de iniciar. ¿A qué aspecto de la bioética corresponde esta acción?",
-   "opciones": {
-    "A": "Consentimiento informado",
-    "B": "Gestión de riesgos",
-    "C": "Confidencialidad",
-    "D": "Historia clínica"
-   },
-   "clave": "A"
-  },
-  {
    "id": "P-Q1663-v1",
    "motivos": [
     "enunciado_muy_largo"
@@ -462,6 +476,20 @@
     "D": "Cultural"
    },
    "clave": "D"
+  },
+  {
+   "id": "P-Q1894-v1",
+   "motivos": [
+    "revisar_veredicto_error"
+   ],
+   "enunciado": "Un establecimiento de salud coordina acciones con entidades públicas y privadas ajenas a su ámbito directo para mejorar la cobertura de indicadores de gestión. ¿Qué principio del sistema de salud se fundamenta en esta estrategia?",
+   "opciones": {
+    "A": "Intersectorialidad",
+    "B": "Participación",
+    "C": "Orientación a la calidad",
+    "D": "Sostenibilidad"
+   },
+   "clave": "A"
   },
   {
    "id": "P-Q1930-v1",
@@ -674,20 +702,6 @@
    "clave": "D"
   },
   {
-   "id": "P-Q3078-v1",
-   "motivos": [
-    "revisar_veredicto_error"
-   ],
-   "enunciado": "Paciente varón adulto de etnia quechua, con barreras comunicativas y dificultades de inserción laboral, es asignado a tareas de bajo nivel y bajo salario. ¿Qué tipo de análisis se aplica para determinar su inequidad?",
-   "opciones": {
-    "A": "Regional",
-    "B": "Demográfico",
-    "C": "Situacional",
-    "D": "Económico"
-   },
-   "clave": "C"
-  },
-  {
    "id": "P-Q3131-v1",
    "motivos": [
     "respuesta_dentro_del_enunciado"
@@ -700,20 +714,6 @@
     "D": "gestión de residuos sólidos."
    },
    "clave": "A"
-  },
-  {
-   "id": "P-Q3149-v1",
-   "motivos": [
-    "revisar_veredicto_error"
-   ],
-   "enunciado": "Paciente infantil de 12 meses acude a consulta por control odontológico preventivo. Al examen se observa el incisivo central inferior derecho ya erupcionado. El profesional indica a la madre la concentración de fluoruro en la pasta dental para su uso diario. ¿Cuál es la concentración mínima recomendada en ppm de fluoruro?",
-   "opciones": {
-    "A": "500",
-    "B": "1000",
-    "C": "600",
-    "D": "100"
-   },
-   "clave": "B"
   },
   {
    "id": "P-Q3198-v1",
@@ -742,20 +742,6 @@
     "D": "comunitario"
    },
    "clave": "C"
-  },
-  {
-   "id": "P-Q3237-v1",
-   "motivos": [
-    "revisar_veredicto_error"
-   ],
-   "enunciado": "Un niño de 6 años acude al centro de salud para su control rutinario y es atendido por pediatra, nutricionista, odontólogo y óptico. ¿A qué tipo de cuidados corresponde esta atención?",
-   "opciones": {
-    "A": "Individuales",
-    "B": "Comunitarios",
-    "C": "Familiares",
-    "D": "Hospitalarios"
-   },
-   "clave": "A"
   },
   {
    "id": "P-Q3329-v1",
@@ -868,20 +854,6 @@
     "D": "Evaluación"
    },
    "clave": "C"
-  },
-  {
-   "id": "P-Q2404-v1",
-   "motivos": [
-    "revisar_veredicto_error"
-   ],
-   "enunciado": "Un equipo de salud visita a una pareja joven en el sector 2 de la jurisdicción. Al aplicar la ficha familiar, identifican que la mujer presenta un embarazo de 20 semanas y acude a sus controles. ¿Qué tipo de familia se configura?",
-   "opciones": {
-    "A": "Formación",
-    "B": "Dispersión",
-    "C": "Contracción",
-    "D": "Expansión"
-   },
-   "clave": "D"
   },
   {
    "id": "P-Q2950-v1",
