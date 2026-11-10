@@ -8,8 +8,8 @@
 
 ---
 
-[[PAGINA 1]]
 
+[[PAGINA 1]]
 unicef ee para cada infancia
 
 MANUAL PARA LA APLICACIÓN DE LA
@@ -23,16 +23,16 @@ Versión Peruana — Primera Edición
 a
 í
 
-[[PAGINA 2]]
 
+[[PAGINA 2]]
 Manual para la Aplicación
 de la Prueba de Evaluación
 del Desarrollo Infantil (EDI)
 
 Versión Peruana - Primera Edición
 
-[[PAGINA 3]]
 
+[[PAGINA 3]]
 Manual para la Aplicación de la Prueba de Evaluación del Desarrollo Infantil (EDI)
 
 Catalogación hecha por la Biblioteca del Ministerio de Salud
@@ -102,8 +102,8 @@ webmasterEminsa.q0b.pe
 
 Versión Digital: httos: minsa.gob.pe/local/MIN: .
 
-[[PAGINA 4]]
 
+[[PAGINA 4]]
 Manual para la Aplicación de la Prueba de Evaluación del Desarrollo infantil (EDI)
 
 LA = . . -
@@ -130,8 +130,8 @@ LOURDES LUCIA ORTEGA VERA
 Directora Ejecutiva de la Dirección de Intervenciones por Curso de
 Vida y Cuidado Integral
 
-[[PAGINA 5]]
 
+[[PAGINA 5]]
 Manual para la Aplicación de la Pri luación del Desarrollo Infantil (EDI)
 
 Colaboradores:
@@ -155,8 +155,8 @@ Participaron de la adaptación de la versión peruana profesionales de salud de
 medicina general, pediatría y subespecialidades pediátricas, así como
 profesionales de enfermería de las tres regiones del país.
 
-[[PAGINA 6]]
 
+[[PAGINA 6]]
 Manual para la Aplicación de la Prueba de Evaluación del Desarrollo Infantil (EDI)
 
 Tabla de Contenidos
@@ -165,7 +165,7 @@ Introducción a la prueba EDI ...........e.—.ererervenerrer en r DTT 8
 Cátculo de edad..
 
 ltems correspondientes a factores de riesgo biológico .............-.........=íveezes 13
-ftems correspondientes a la exploración neurológica ,.........iereíiererie s 14
+ítems correspondientes a la exploración neurológica ,.........iereíiererie s 14
 Formatos de aplicación para la prueba EDI,,.................—e—.-ierseireericereceeees 17
 ltems correspondientes al grupo 1 (de1 mesa 1 mes 29 días) ...............v.e.... 18
 
@@ -190,8 +190,8 @@ Items correspondientes al grupo 13 (de 37 meses a 48 meses 29 días) ...........
 
 Sección de consulta de la prueba EDI ......11-1e..emirierinner e e 46
 
-[[PAGINA 7]]
 
+[[PAGINA 7]]
 INTRODUCCIÓN
 
 La prueba de Evaluación del Desarrollo Infantil (EDI) es una herramienta de
@@ -255,8 +255,8 @@ Lo hace siempre o la mayor parte de las veces
 
 No lo hace o lo hace muy rara vez
 
-[[PAGINA 8]]
 
+[[PAGINA 8]]
 Manual para la aplicación de la prueba
 Evaluación del Desarrollo Infantil CEDI)
 
@@ -308,8 +308,6 @@ necesidad de un traductor para la aplicación de la prueba EDI,
 
 + Fecha de aplicación.
 
-ae
-ee
 Te É T z T T T
 i o i " ld " li a i A E o
 — — —| —| — — $ S
@@ -318,8 +316,8 @@ Tr a | eoe| Trs m | C — C
 
 INTRODUCCIÓN
 
-[[PAGINA 9]]
 
+[[PAGINA 9]]
 INTRODUCCIÓN
 
 Introducción
@@ -381,8 +379,8 @@ de riesgo blológico aplicando los criterios de la tabla de calificación del gr
 correspondiente. Con esta información es posible determinar el color resultante de la
 evaluación.
 
-[[PAGINA 10]]
 
+[[PAGINA 10]]
 Manual para la aplicación de la prueba
 
 Evaluación del Desarrollo Infantil CEDI)
@@ -430,8 +428,8 @@ ONCE (de 25 meses a 30 meses 29 días),
 
 CÁLCULO DE EDAD
 
-[[PAGINA 11]]
 
+[[PAGINA 11]]
 CÁLCULO DE EDAD
 
 Cálculo de edad cronológica
@@ -481,8 +479,8 @@ El aplicarle la prueba del grupo siguiente habría calificado automáticamente a
 aunque tuviera un desarrollo normal lo que es inadecuado, Por esto es fundamental corregir la edad, y
 así poder evaluar realmente el desarrollo que corresponda.
 
-[[PAGINA 12]]
 
+[[PAGINA 12]]
 Manual para la aplicación de la prueba
 
 Evaluación del Desarrollo Infantil CEDI)
@@ -522,19 +520,16 @@ hospitalización,
 
 Pregunte la edad de la madre al momento del nacimiento de su niño.
 
-9
 DD
-u
 x O
-20
 [8)
 D
 -u
 
 [7
 
-[[PAGINA 13]]
 
+[[PAGINA 13]]
 EXPLORACION
 
 NEUROLÓGICA
@@ -591,91 +586,70 @@ compara en las tablas con edad corregida en caso de antecedente de | | u l
 prematurez, Lo normal esencontrar el perímetro cefálico entre +/- dos | (
 desviaciones estándar acorde a sexo y edad.
 
+
 [[PAGINA 14]]
+# PERÍMETRO CEFÁLICO PARA LA EDAD - NIÑAS
+## Desde el nacimiento hasta los 5 años (Patrones de Crecimiento Infantil de la OMS)
 
-(,? Organización
-Mundial de la Salud
+### Criterios de Evaluación Neurológica del Perímetro Cefálico:
+- **Normal (Verde):** Perímetro cefálico entre -2 DE y +2 DE para la edad y sexo.
+- **Alerta / Rezago (Amarillo):** Entre -2 DE y -3 DE o entre +2 DE y +3 DE.
+- **Riesgo / Retraso (Rojo):** Menor a -3 DE (Microcefalia severa) o Mayor a +3 DE (Macrocefalia).
 
-Manual para la aplicación de la prueba
+#### Valores de Referencia OMS (Niñas - cm):
+| Edad | -3 DE | -2 DE | Mediana (0 DE) | +2 DE | +3 DE |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Nacimiento** | 31.5 | 32.7 | 33.9 | 35.1 | 36.3 |
+| **1 mes** | 34.3 | 35.4 | 36.5 | 37.7 | 38.8 |
+| **2 meses** | 36.0 | 37.0 | 38.3 | 39.5 | 40.7 |
+| **3 meses** | 37.2 | 38.3 | 39.5 | 40.8 | 42.0 |
+| **4 meses** | 38.2 | 39.3 | 40.6 | 41.9 | 43.1 |
+| **6 meses** | 39.7 | 40.9 | 42.2 | 43.5 | 44.8 |
+| **9 meses** | 41.2 | 42.5 | 43.8 | 45.2 | 46.5 |
+| **12 meses (1 año)** | 42.2 | 43.5 | 44.9 | 46.3 | 47.7 |
+| **18 meses** | 43.5 | 44.8 | 46.2 | 47.7 | 49.2 |
+| **24 meses (2 años)** | 44.4 | 45.8 | 47.2 | 48.8 | 50.3 |
+| **36 meses (3 años)** | 45.6 | 47.1 | 48.6 | 50.2 | 51.8 |
+| **48 meses (4 años)** | 46.4 | 47.9 | 49.5 | 51.2 | 52.8 |
+| **60 meses (5 años)** | 47.0 | 48.6 | 50.2 | 51.9 | 53.6 |
 
-Evaluación del Desarrollo Infantil CEDI)
-
-PERÍMETRO CEFÁLICO PARA LA EDAD NIÑAS
-DESDE EL NACIMIENTO HASTA LOS 5 AÑOS
-
-Patrones de crecimiento infantil de la OMS
-
-Edad (en meses y años cumplidos)
-
-4
-
-(U19) oSI1ejao oNSUINSd
-
-EXPLORACIÓN
-NEUROLÓGICA
 
 [[PAGINA 15]]
+# PERÍMETRO CEFÁLICO PARA LA EDAD - NIÑOS
+## Desde el nacimiento hasta los 5 años (Patrones de Crecimiento Infantil de la OMS)
 
-s
-»
-E
--
-o
-É
-2
-v
-c
-c
-=
-u
-ld
-=
-]
-a
-»X
-[11]
+### Criterios de Evaluación Neurológica del Perímetro Cefálico:
+- **Normal (Verde):** Perímetro cefálico entre -2 DE y +2 DE para la edad y sexo.
+- **Alerta / Rezago (Amarillo):** Entre -2 DE y -3 DE o entre +2 DE y +3 DE.
+- **Riesgo / Retraso (Rojo):** Menor a -3 DE (Microcefalia severa) o Mayor a +3 DE (Macrocefalia).
 
-NOS
+#### Valores de Referencia OMS (Niños - cm):
+| Edad | -3 DE | -2 DE | Mediana (0 DE) | +2 DE | +3 DE |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Nacimiento** | 32.1 | 33.3 | 34.5 | 35.7 | 36.9 |
+| **1 mes** | 35.1 | 36.1 | 37.3 | 38.6 | 39.8 |
+| **2 meses** | 36.9 | 37.9 | 39.1 | 40.5 | 41.7 |
+| **3 meses** | 38.1 | 39.2 | 40.5 | 41.8 | 43.1 |
+| **4 meses** | 39.1 | 40.3 | 41.6 | 42.9 | 44.3 |
+| **6 meses** | 40.6 | 41.9 | 43.3 | 44.7 | 46.1 |
+| **9 meses** | 42.2 | 43.5 | 45.0 | 46.5 | 47.9 |
+| **12 meses (1 año)** | 43.1 | 44.5 | 46.1 | 47.6 | 49.1 |
+| **18 meses** | 44.4 | 45.8 | 47.4 | 49.0 | 50.6 |
+| **24 meses (2 años)** | 45.3 | 46.8 | 48.4 | 50.1 | 51.7 |
+| **36 meses (3 años)** | 46.5 | 48.0 | 49.8 | 51.5 | 53.3 |
+| **48 meses (4 años)** | 47.3 | 48.9 | 50.7 | 52.5 | 54.4 |
+| **60 meses (5 años)** | 47.9 | 49.6 | 51.5 | 53.4 | 55.2 |
 
-DESDE EL NACIMIENTO HASTA LOS 5 ANOS
-
-PERÍMETRO CEFÁLICO PARA LA EDAD NI
-
-n Mundial de la Salud
-
-=
--
-o
-A
-=
-Pl
-o
-L)
-o
-o
-5
-0
-=
-E
-]
-a
-
-Edad (en meses y años cumplidos)
-Patrones de crecimiento infantil de la OMS
-
-VI2I9OO10UNEN
-NOIOYUOI1dX3
 
 [[PAGINA 16]]
-
 PARA LA PRUEBA EDI
 
-[[PAGINA 17]]
 
-EVA el[*) E DEL DESARROLLO INFANTIL
+[[PAGINA 17]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 Califique por área del desarrollo el grupo de edad, de acuerdo alos siguientes criterios
-. 2 respuestas obtenidas en Verde, la calificación será ME VERDE.
+. 2 respuestas obtenidas en Verde, la calificación será VERDE.
 
 Una (01) o ninguna obtenida en Verde, la calificación será IJO
 A Nota: El resultado deberá reflejarse en color, no en cifras
@@ -694,7 +668,6 @@ mantie! 9s Manos cerradas la mayor parte del tiempo? N si
 jando le da en la mano una sonaja a sU bebé, ¿la retiene durante
 [(2]- 5
 
-u
 
 01 Area de Desarrollo: Lenguaje
 
@@ -733,8 +706,6 @@ _g » Dos o más señales de alerta en amarillo,
 E Rezagoen — Dosomás factores de riesgo biológico en amarillo
 g el desarrollo * Una o más señales de alerta en amanillo más uno o más factores
 5 de riesgo biológico en amarillo
-u
-= |
 Todos los factores de riesgo biológico, señales de alerta, áreas del
 5 desarrollo y exploración neurológica en verde
 Désariollo Un factor de riesgo blológico en amarillo y todas las señales de
@@ -743,9 +714,9 @@ Normal alerta, áreas del desarrollo y exploración neurológica en verde
 Una señal de alerta en amarillo y todas las áreas del desarrollo,
 exploración neurológica y factores de riesgo blológico en verde
 
-[[PAGINA 18]]
 
-ECe DEL DESARROLLO INFANTIL — MN
+[[PAGINA 18]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 DADO QUE ES EL PRIMER GRUPO EVALUADO, NO HAY
 ÍTEMS PARA APLICAR EN CASO DE NO HACER LO QUE
@@ -786,51 +757,29 @@ morado o presenta probiemas para succionar?
 
 4, ¿Considera que el desarrollo de su niño es inadecuado?
 
-u
 <
 [a]
-w
 >
-u
 >
-z
 E
-z
-wu
 >
-z
-o
 O
-7
-w
 =
-z
 ]
 <
 É
-u
 <
 <l
 o)
 a
 e
 <
-z
-u
 [a]
-7
-w
 =
-z
 -
-w
 a)
-7
-w
 [a]
 
-n
-u
 
 E
 N
@@ -838,22 +787,16 @@ N
 -
 <
 a
-o
-u
 a
 a
-o
 (a)
 (a)
-p
 a)
-w
-w
 a)
+
 
 [[PAGINA 19]]
-
-(el[s] E DEL DESARROLLO INFANTIL
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 Es Califique por área del dl
 
@@ -863,7 +806,7 @@ Es Califique por área del dl
 M Nota- El resultado deberá reflejarse en color, no en cifras
 
 arrollo el grupo de edad, de acuerdo a los *
-calificación será ME VERDE.
+calificación será VERDE.
 
 guientes criteríos
 
@@ -886,7 +829,6 @@ a 2. ¿Re f ; NO si
 No aplica para el grupo de edad.
 "1. Al evaluar el tono muscular de su niño, ¿lo siente totalmente NO
 ó < flácido o presenta rigidez en sus extremidades? (Observe) a
-z
 ; '-'51 **2, ¿El refiejo de Moro está ausente o es asimétrico? (Observe) NO
 . Fe
 D 7 3. ¿SU hijo tiene problemas para comer; se atraganta, se pone NO
@@ -901,8 +843,6 @@ Z | desviaciones estándar para su edad? (Observe)
 Riesgo de -
 retraso en
 z el desarrollo
-o
-1e
 * Un áres del desarrollo en amarillo.
 5 Rezago en Dos o más señales de alerta en amarillo
 l el desarrollo Dos o más factores de riesgo biciógico en amarilla.
@@ -914,9 +854,9 @@ Una nañal de alerta en amarillo y tedas las árgas del desarrollo, señales de 
 
 exploración neurológica y factores g0 brológico on verda
 
-[[PAGINA 20]]
 
-VATUSENN DEL DESARROLLO INFANTIL En
+[[PAGINA 20]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 RUPO DE EDAD como Amarillo, sin haber logrado realizar alguno de
 5 del GRUPO DE EDAD ANTERIOR (01 mes)
@@ -925,7 +865,7 @@ n Amarillo el resultado será
 
 niño obtiene 2 p
 
-5i obtiene 16 ninc ado será NE ROJO.
+Si obtiene 16 ninc ado será NE ROJO.
 
 El resultado deberá reflejarse en color, no en cifras,
 **011. Cuando su bebé está acostado boca abajo, ¿puede voltear su NO si
@@ -973,7 +913,6 @@ si NO
 pesar de haber satisfecho sus necesidades y de forma más notoria que si N
 otros niños de su edad?
 
-o
 
 3. ¿Frecuentemente se encuentra aletargado y no muestra interés por lo
 
@@ -981,82 +920,51 @@ que sucede a su alrededor?, ¿cuesta trabajo mantenerlo despierto? si NO
 4 ¿Considera va del todo bien en el comportamiento,
 desarrollo o su bebé? si NO
 
-p
 <
 [a]
-w
 >
-u
 2
 =
 =
 -
-z
 o]
 1S)
-1a
-w
 a
-w
-p
 a
 )
 (a)
-:
-pl
 <
 lI
-9
 -
-o
 <
-z
-w
 Q
-1e
-u
 e
-w
-p
 a
 e
 a
 a
-o
 ]
-w
 a
-,
-w
 [a]
 a
 
-v
-u
 D
 “
 =
 <
-o
 o]
-w
-ea
 a
 o]
-1e
 a
-q
 a)
-w
-w
 a)
+
 
 [[PAGINA 21]]
-
-3 11/:Xel[0] 8 DEL DESARROLLO INFANTIL
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 E- Califique por área del desarrollo el grupo de edad, de acuerdo a los sigulentes criterios
-O 2 respuestas obtenidas en Verde, la calificación será ME VERDE.
+O 2 respuestas obtenidas en Verde, la calificación será VERDE.
 
 Una (01) o ninguna obtenida en Verde, la calificación será
 M Nota: El resultado deberá reflejarse en color, no en cifras.
@@ -1085,7 +993,6 @@ No aplica pará el grupo de edad
 r E flácido o presenta rigidez en sus extremidades? (Observe) >=
 ]
 á á **2. ¿El reflejo de Moro está ausente 0 es asimétrico? (Observe) le
-l
 Z á | “1. ¿Presenta alteración en la movilidad de alguna parte del cuerpo? NO
 85 (Observe)
 g'9 *2 ¿Presenta alteración o asimetría en la movilidad de ojos o NO
@@ -1113,9 +1020,9 @@ Normal ñ na y exploración
 
 sllo, señales de alarma
 
-[[PAGINA 22]]
 
-Ea DEL DESARROLLO INFANTIL — NEN
+[[PAGINA 22]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 Si el niño es calificado en su GRUPO DE EDAD como Amarillo, sin haber logrado realizar ninguno de los 2 ítems,
 se le aplican las preguntas del GRUPO DE EDAD ANTERIOR (02 meses)
@@ -1180,28 +1087,14 @@ primario le sonrie?
 
 desarrollo o características de su bebé?
 
-u
 <
 [a]
-w
 >
-w
 >
-z
 —
-z
-u
 >
-z
-o
 1S)
-el
-w
 a
-w
-p
-17
-w
 [
 -
 <
@@ -1213,53 +1106,33 @@ Q
 (S)
 <
 a
-w
 [a]
-w
-w
 (7
-w
-z
-u
 ]
-ea
 [
 a
-o
 —
-w
 [a]
-u
-w
 [a]
 De
 
-o
-o
-o
-p
 =
-q
 Q
 s)
-w
 a
 a
-o
 1)
 a
 <
 a
-w
-w
 a)
 
-[[PAGINA 23]]
 
-3 11/:Xel[0] 5 DEL DESARROLLO INFANTIL
+[[PAGINA 23]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 E- Califique por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios
-O 2 respuestas obtenidas en Verde, la calificación será ME VERDE.
+O 2 respuestas obtenidas en Verde, la calificación será VERDE.
 
 Una (01) o ninguna obtenida en Verde, la calificación será
 A Nota: El resultado deberá reflejarse en color, no en cifras,
@@ -1301,7 +1174,6 @@ g 2 expresión facial? (Observe)
 Riesgo de
 retraso en
 = el desarrollo
-o
 Le
 * Unáres del desarrollo en amarilio.
 6 Rezagoen — » Dosomásseñales de alerta en amarillo
@@ -1315,9 +1187,9 @@ rollo, señales de afarma.
 
 ploración naurológica y factores de riesgo biotóg: verdo.
 
-[[PAGINA 24]]
 
-III DEL DESARROLLO INFANTIL — M
+[[PAGINA 24]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 ado en su GRUPO DE EDAD como Amarillo, sin haber logrado realizar ninguno de los 2 items,
 preguntas del GRUPO DE EDAD ANTERIOR (03 meses)
@@ -1384,63 +1256,43 @@ SEÑALES DE ALERTA
 
 desarrollo o características de su bebé? (Observe)
 
-r
-n
 “
-z
 <
-o
-o
-w
 a
-ea
-o
 (a)
 a)
-q
 a]
-w
-w
 a)
 
 <
 1A
 <
 I
-o
 ]
 a)
 <
-z
-w
-7
-u
 A
 U
-z
 Le)
 a
 E
 <
 2
 (S)
-7
 [e]
 s |
-w
 a)
 a
-u
 a
 +
 
-[[PAGINA 25]]
 
-3 1/:Xel[0] 8 DEL DESARROLLO INFANTIL
+[[PAGINA 25]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 £
 
-E Callfique por área desarrollo el grupo de edad, de acuerdo a los siguientes criterios
-O 2 respuestas obtenidas en Verde, la calificación será ME VERDE.
+E Califique por área desarrollo el grupo de edad, de acuerdo a los siguientes criterios
+O 2 respuestas obtenidas en Verde, la calificación será VERDE.
 
 Una (01) o ninguna obtenida en Verde, la calificación será
 M Nota: El resultado debera reflejarse en color, no en cifras
@@ -1483,23 +1335,21 @@ $2 | "3 ¿Presenta perímetro cefálico por arriba o por debajo de 2 NO
 Riesgo de
 retraso en
 z el desarrollo
-o
 < Ri
 5 ezag0 £n. * Una 0 más áreas del desarrollo en amarillo.
 E el desarrollo
-g
 
 Desarrollo » Todas las áreas del desarrollo, exploración neurológica y señales
 Normal de alarma en verde
 
-[[PAGINA 26]]
 
-EA DEL DESARROLLO INFANTIL
+[[PAGINA 26]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 Si el niño es calificado en su GRUPO DE EDAD como Amarillo, sin haber logrado realizar ninguno de los 2 items,
 $e le aplican las preguntas del GRUPO DE EDAD ANTERIOR (04 meses)
 
-5i el niño obtiene 2 preguntas en Amarillo el resultado sera BE AMARILLO.
+Si el niño obtiene 2 preguntas en Amarillo el resultado sera AMARILLO.
 
 Si obtlene 1 0 nínguna el resultado será RE ROJO.
 
@@ -1562,89 +1412,52 @@ lados? (Observe)
 6. ¿Considera que algo no va del todo hien en el comportamiento,
 desarrollo o características de su bebé?
 
-7
 <
 a
-w
 >
 a
 >
-z
 E
-z
-u
 >
-z
-o
 (a)
-7
 e
-7
-u
-z
-u
-u
 (7
-h
-h
 <
 d
-o
 e
 1S)
 <
-z
-w
 a
-7
-w
 (7
-w
-z
-o
-v
-z
 (S)
-7
 o]
 -
-w
 a
 [7
-u
 a
-u
 
-s
-r
-0
 -
 <
 <
 a
-o
-w
 C
 [4
-o
 1O
 [a]
 <
 [a]
-w
-w
 [a]
 
-[[PAGINA 27]]
 
+[[PAGINA 27]]
 *(Página sin texto detectado)*
 
-[[PAGINA 28]]
 
-371 00/-Xei[e] B DEL DESARROLLO INFANTIL
+[[PAGINA 28]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 E- Califique por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios
-O ? respuestas obtenidas en Verde, la calificación será ME VERDE.
+O ? respuestas obtenidas en Verde, la calificación será VERDE.
 
 Una (01) o ninguna obtenida en Verde, la calificación será
 M Nota: El resultado deberá reflejarse en color, no en cifras
@@ -1667,17 +1480,13 @@ No
 07-09 Área de Desarrollo: Social z
 1. Cuando está con otras persornas conocidas, ¿reacciona ante sus NO u
 expresiones y parece contento? >
-z
 2.Cuane :da aber lal el v olataza NO 8
-u
-7
 07-09 Área de Desarrollo: Conocimiento w
 No aplica para el grupo de edad. E
 y 2
 u $ | **1. ¿Persiste el reflejo de Moro? (Observe) =
 - g ha
 % z | *2 ¿Se encuentra ausente el refiejo de paracaldas? (Observe) &
-u
 I
 p T
 z "|, ¿Presenta alteración en la movilidad de alguna parte del cuerpo?
@@ -1692,7 +1501,6 @@ e
 Riesgo de n w
 retraso en 1 = á
 z el desarrollo --
-o
 e m
 ] B na
 g efág?;f¿:… * Unia o más áreas del desarrollo en amarillo. u g
@@ -1702,14 +1510,13 @@ a
 Desarrollo + Todas las áreas del desarrollo, exploración neurológica y señales a
 Normal de alarma en verde g [
 , w
-wa
+
 
 [[PAGINA 29]]
-
-EA DEL DESARROLLO INFANTIL — GM
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 Si el niño es calificado en su GRUPO DE EDAD como Amarillo, sin haber logrado realizar ninguno de los 2 items,
-5e le aplican las preguntas del GRUPO DE EDAD ANTERIOR (05-06 meses)
+Se le aplican las preguntas del GRUPO DE EDAD ANTERIOR (05-06 meses)
 
 Si el niño obtiene 2 preguntas en Amarillo el resultado será RE AMARILLO.
 
@@ -1768,7 +1575,6 @@ SEÑALES DE ALERTA
 4 ¿Considera que algo no va del todo bien en el comportamiento,
 desarrollo o características de su bebé?
 
-v
 <
 a
 ú
@@ -1776,74 +1582,44 @@ a
 <
 E
 —
-w
 >
-z
 o]
 ,5)
 e
-w
-u
-w
-z
-w
 >
-u
 >
-z
-5
 <
 T
-o
 c
-v
 <
 d
-u
 a
-u
-u
-z
-u
-z
-7
-7
-1s
 o]
 -
-w
 Q
-u
-w
 a
 )
 
 a
-n
-h
 “
 —
 <
 a
 o]
-u
 e
 a
-o
 (a)
 [a]
 <
 (a)
-u
-u
 a
 
-[[PAGINA 30]]
 
-/ 0/.Tel[9] B DEL DESARROLLO INFANTIL
+[[PAGINA 30]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 £ Califique por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios
-[£ respuestas obtenidas en Verde, la calificación será ME VERDE.
+[£ respuestas obtenidas en Verde, la calificación será VERDE.
 
 Una (01) o ninguna obtenida en Verde, la calif rá
 A Nota: El resultado deberá reflejarse en color, no en cifras
@@ -1897,15 +1673,13 @@ Rezago en r e d y - [:4
 g el dezarrollo Una a más áreas del desarrollo en amarillo o
 J 15)
 5 Q
-- - <
 Desarrollo » Todas las áreas del desarrollo, exploración neurológica y señales [a]
 Normal de alarma en verde w
-w
 a
 
-[[PAGINA 31]]
 
-EVN DEL DESARROLLO INFANTIL — EA
+[[PAGINA 31]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 Si el niño es calificado en su GRUPO DE EDAD como Amarillo, sin haber logrado realizar ninguno de los 2 ítems.
 se le aplican las preguntas del GRUPO DE EDAD ANTERIOR (07-09 mnsc*'l
@@ -1965,15 +1739,12 @@ SEÑALES DE ALERTA
 3 ¿Raravez lo ha visto jugar? si
 4. ¿Considera que algo no va del todo bien en el comportamiento, si
 
-o
 [
 [
 »
 =
 <
 C
-o
-u
 a
 a
 o]
@@ -1981,71 +1752,43 @@ o]
 a
 <
 a
-u
-u
 a]
 
 desarrollo o características de su bebé?
 
-7
 !
 [a]
-w
 >
-u
 ]
-z
 E
-z
-w
 >
-z
-o
 ()
 Dal
-w
-n
-w
-p
-w
 (S)
 Lo)
 a
 £
-1l
 <
 E
-o
 e
-o
 <
-z
-w
 a
 Dal
-w
-n
-w
-p
 N
 “
 a
-7
-o
 -
-w
 a)
 Del
-w
 (a)
 [
 
-[[PAGINA 32]]
 
-/ 110/.Xel[]) 8 DEL DESARROLLO INFANTIL
+[[PAGINA 32]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 E- Califique por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios
-O2 res pw uestas obtenidas en Verde, la calificación será ME VERDE.
+O2 res pw uestas obtenidas en Verde, la calificación será VERDE.
 
 Una (01) o nínguna obtenida en Verde, la calificación será
 
@@ -2085,23 +1828,17 @@ G
 
 2
 
-z
 
 E
 
-z
 
-u
 
 >
 
-z
 
-o
 
 (S)
 
-u
 
 1
 
@@ -2124,7 +1861,6 @@ o g expresión facial? (Observe) .u_) ]
 B 3 | 3 ¿Presenta perímetro cefálico por arriba o por debajo de 2 NO % _D
 “Z | desviaciones estándar para su edad? (Observe) Ñ a
 
-w
 n<
 Riesgo de Wa
 z retraso en z 5)
@@ -2140,9 +1876,9 @@ Desarrollo » Todas las áreas del desarrollo, exploración neurológica y wO
 Normal señales de alarma en verde a $
 o]
 
-[[PAGINA 33]]
 
-EVN DEL DESARROLLO INFANTIL — EN
+[[PAGINA 33]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 Si el niño es calificado en su GRUPO DE EDAD como Amarillo, sin haber logrado reallzar ninguno de las 3 items,
 se le aplican las preguntas del GRUPO DE EDAD ANTERIOR (10-12 meses
@@ -2192,46 +1928,23 @@ una duración mayor a 4 dias.
 SEÑALES DE ALERTA
 
 a
-u
 >
-u
 -
-z
 [
-z
-u
 >
-z
 o]
 1)
-7
-u
-ra
-w
-p
 ]
-v
-z
 >
-o
-s
 1)
 <
 T
 1al
-w
-1a
-w
-z
-u
-19
-w
 a
 [
 1al
 [o]
 =l
-u
 [a]
 .)
 
@@ -2253,9 +1966,9 @@ g 3 ¿Aún balburea y no se expr si NO
 $ 4. ¿Considera que si
 la) desarrollo o característica
 
-[[PAGINA 34]]
 
-=1. 100)-Xel[e]) E DEL DESARROLLO INFANTIL
+[[PAGINA 34]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 erdo a los siguiente:
 
@@ -2335,14 +2048,14 @@ CALIFICACIÓN
 dO lE + Todas las áreas del desarrollo, exploración neurológica y
 Norma señales de alarma en verde.
 
-[[PAGINA 35]]
 
-SIS DEL DESARROLLO INFANTIL — MEM
+[[PAGINA 35]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 Si el niño es calificado en su GRUPO DE EDAD como Amarillo, sin haber logrado realizar ninguno de los 3 items,
-5e le aplican las preguntas del GRUPO DE EDAD ANTERIOR 1315 meses)
+Se le aplican las preguntas del GRUPO DE EDAD ANTERIOR 1315 meses)
 
-5i el niño obtiene 3 o 2 preguntas en Amarillo el resultado será BE AMARILLO.
+Si el niño obtiene 3 o 2 preguntas en Amarillo el resultado será AMARILLO.
 
 Si obtiene 1 a nínguna en Amarillo el resultado —..…- ROJO.
 
@@ -2357,7 +2070,6 @@ volver a ponerse de pie sin apoyarse en algo? (Observe)
 
 13-151. ¿Le gusta tirar o aventar juguetes u otros objetos al suelo?
 
-,
 
 **13-152 ¿Le gusta sacar y meter cosas de las bolsas, cajas o recipientes
 (Bbsewe)
@@ -2404,48 +2116,31 @@ otros niños de su edad?
 D
 <
 [a]
-w
 >
-w
 >
 A
 E
 =
-u
 >
 A
-o
 Ú
 hZ
-w
 a
-w
-z
-o
 =2
-v
 o]
-o
 -
 a
 :?.
 <
 T
-ha
-wu
 1a)
-u
 =
 a
-w
 C
-o
 —
 [a]
-u
 [e]
 -
-u
 [a]
 a
 
@@ -2456,25 +2151,21 @@ N
 -
 <
 a
-o
-w
 a
 a
 o]
 )
 a
-q
 a)
-w
 Ku
 a)
 
-[[PAGINA 36]]
 
-/ MU/:Te[e] 5 DEL DESARROLLO INFANTIL
+[[PAGINA 36]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 E Califique por área del desarrollo el grupo de edad, de acuerdo = los siguientes criterios
-O 2 respuestas obtenidas en Verde, la calificación será ME VERDE.
+O 2 respuestas obtenidas en Verde, la calificación será VERDE.
 
 Una (01) o ninguna obtenida en Verde, la calificación será
 A Nota: El resultado deberá reflejarse en color, no en cifras
@@ -2498,11 +2189,9 @@ U
 z S -
 19-24 Area de Desarrollo: Social u
 1. ¿Trata de hacer las cosas solo y se molesta cuando no lo dejan? NO Si >
-z
 2. ¿Avisa cuando ha ensuciado el pañal? NO Si o
 L9)
 3 ¿Le pide ayuda cuando quiere algo que no aicanza? NO si $
-1a
 19-24 Area de Desarrollo: Conocimiento g
 No aplica para el grupo de edad, o
 a
@@ -2528,43 +2217,26 @@ a el decarrollo | * Unao más áreas del desarrollo en smarilla Lº) =
 í T
 Desarrollo * Todas las áreas del desarrollo, exploración neurológica y 3 u
 Normal señales de alarma en verde. u
-2a
 -
 
-[[PAGINA 37]]
 
+[[PAGINA 37]]
 1
 <
 a]
-u
 >
-w
 =
-z
 [
-z
-w
 >
-z
-o
 Lo)
 D
-w
-v
-w
 =
-o
 =
 <
 =
-9
 E
-z
-p
 >
-h
 E
-o
 I_ú
 Ne
 S
@@ -2582,7 +2254,7 @@ D…
 s Ww
 Sa
 
-ENN DEL DESARROLLO INFANTIL
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 Si el niño
 seleap
@@ -2648,9 +2320,9 @@ familiares?
 
 nada de lo que sucede a su alrededor?
 
-[[PAGINA 38]]
 
-AN DEL DESARROLLO INFANTIL
+[[PAGINA 38]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 e por área del desarrollo el grupo de
 
@@ -2676,22 +2348,17 @@ Norrnal
 NO
 N
 NO L-3)
-0
 NO -
 25-30 Área de Desarrollo: Lenguaj 2
 **]. ¿Sabe decir su nombre? (Observe) NO a]
-w
 2 ¿Utiliza palabras como “yo", “mio”, "él", "ella”, "tú"? NO B
 3, ¿Usa otaciones de 3 palabras, por ejempla: "quiero mi pelota”, 'dame mi leche"? NO %
 E
 25-30 Área de Desarrollo: Social z
-w
 1. ¿Le ayuda a guardar las cosas de la casa en su lugar? NO >
 T z
 2. ¿Juega a simular cosas que vió? NO o]
-o
 3, ¿Se lava solo las manos y la cara? NO u
-p
 . - 1a
 25-30 Área de arrollo: Conocimiento u
 No aplica para el grupo de edad z
@@ -2699,11 +2366,9 @@ No aplica para el grupo de edad z
 =
 B < | 1. ¿Muestra indiferencia excesiva al entorno? Si NO Z
 as u
-u
 á g 2. ¿La madre, padre o cuidador primario reporta que el niño ha E
 Z z | experimentado una pérdida importante y constante de las Si NO
 r habilidades que en algún momento tuvo? S_
-u
 > 5 ”*], ¿Presenta alteración en la movilidad de alguna parte del cuerpo? si <Ií
 oy e
 v 1a
@@ -2712,24 +2377,20 @@ v 1a
 -
 A>?< B 3, ¿Presenta perimetro cefálico por arriba o por debajo de 2 si p
 »Z | desviaciones estándar para su edad? (Observe) oO
-z
 Una o más áreas del desarrollo en rojo. 6
 Una o más señales de alarma en rojo. —
 g Uno o más ítems de la exploración neurológica en rojo. E
 U m
-< >
 g * Una o más áreas del desarrollo en amarillo, v
-u
 j g
 5 w
 Desarrollo odas 4 S d d
 r [a]
-27
 [
 
-[[PAGINA 39]]
 
-IIIO DEL DESARROLLO INFANTIL
+[[PAGINA 39]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 2UPO DE EDAD como Amarillo,
 GRUPO DE EDAD ANTERIOR (1
@@ -2777,30 +2438,25 @@ nnaras O ¿'LVJ'—…—'>!)_:—H'Í =
 
 — cas durante el embarazo 7
 - Si
-5
 < U NIÑo al nacer de 1500 g 0 menos si
-s
 $ circular de cordón umbilical en el cue si
 [77] durante
-u
 > 6. Hospita su niño en la Unidad de Cuidados Intensivos
 o] Ner 25 (UCIN) al nacimiento o antes del primer mes de vida con si
 g una du Cias
 9 7 Madre menor 3 16 años al momento del parto si
 E
-z
 u ,
 > SEÑALES DE ALERTA
-7
 o] heulta mucho relacionarse con personas que no le son si
 ]
 u - -
 a 2 ¿Sefrustra mucho cuando sele difículta hacer algo y de si
 — hacerlo.o se pone alllorar?
 
-[[PAGINA 40]]
 
-EN DEL DESARROLLO INFANTIL
+[[PAGINA 40]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 aA
 2 respuesta:
@@ -2816,13 +2472,12 @@ la calificac
 *| ¿Puede su niño agacharse fácilmente hacía adelante sin caerse? NO
 (Observe)
 
-*2 ¿Puede su niño caminar sobre la punta de sus ples? (Observe) NO e
+*2 ¿Puede su niño caminar sobre la punta de sus pies? (Observe) NO e
 )
 3 ¿Puede caminar hacia atrás? (Observe) NO d
 “
 31-36 Ár arrollo: Motríz Fina =
 T = E T NO ]
-= - =
 
 . ó - NO
 
@@ -2856,56 +2511,34 @@ perimentado una perdida importante y constante de las
 bilidades que en algún momento tuvo?
 
 a
-w
 >
-w
 >
-z
 [ =
 -
-u
 >
-z
-o
 1)
 1al
-w
-77
-u
-p
 a
-w
-1s
 >
 E
 Z
-u
 a
 -
 a
 o]
 -
 E
-u
 <
 T
-u
-u
-u
-w
-p
 e
 2
 >
 £
 =
-u
 a
 F
 a
-o
 -
-w
 a
 a
 
@@ -2922,7 +2555,6 @@ z Una o más señales de alarma en rojo.
 
 0 Uno o más ítems de la exploración neurológica en rojo.
 
-1e
 
 g | de , * Una o más áreas del desarrollo en amarillo.
 
@@ -2936,9 +2568,9 @@ h Desarrollo
 
 Normal
 
-[[PAGINA 41]]
 
-EA DEL DESARROLLO INFANTIL
+[[PAGINA 41]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 0s 3 items,
 
@@ -3007,33 +2639,19 @@ mamá"? (Observe)
 que lo cuida y cuando se aleja de él se pone a llorar?
 5. ¿Usa sus Juguetes de forma Inusual, es decir, en vez de rodar sus a
 
-1e
 <
 a
-u
 >
-w
 =
-z
 E
 -
-w
 >
-z
-o
 Le )
-al
-u
-17
-u
-z
 a
-w
 1)
 >
 E
 =
-w
 a
 E
 1al
@@ -3043,31 +2661,23 @@ E
 1
 <
 lI
-1a
-u
-1a
-u
-z
-z
 =)
 >
 E
 £
-u
 a
 E
 a
 o)
 -
-u
 a
 S
 
 carritos o Jugar con sus peluches, sólo los ordena por tamaño, color o forma?
 
-[[PAGINA 42]]
 
-XN DEL DESARROLLO INFANTIL — MEM
+[[PAGINA 42]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 llo el grupe de edad, de acuerdo a los siguientes criterios
 
@@ -3085,9 +2695,7 @@ sin sujetarse? (Observe) a
 **3, ¿Sube y baja las escaleras sin apoyarse de la pared o de la baranda NO [7
 ve) <
 37-48 Área de a
-w
 , s NO 7
-u
 37-48 Área de Desarrollo: Lengu >
 1 ¿Le dice lo que quiere con palabras? NO g
 *2 ¿Puede contarle algo de lo que hizo ayer? (Observe) NO 3
@@ -3116,22 +2724,18 @@ z . ¿Presenta alteración en la movilidad de alguna parte del cuerpo?
 gé expresión facial? (Observe) u'_J
 ;.('¿ **3. ¿Presenta períme efálico por arriba o por debajo de 2 - 7
 Wz | desviaciones estándar para j? (Observe) >
-= <
 Una 0 más áreas del desarrollo en rojo. E:
 z Una o más señales de alarma en rojo. z
 o Uno o más items de la exploración neurológica en rojo. I&J
 E "
 o] 2290 EN _ + Una.0 más áreas del desarrollo en amarillo. o]
 L el desarrollo ha |
-.
-w
 <
 Ó o
-m
+
 
 [[PAGINA 43]]
-
-EVN DEL DESARROLLO INFANTIL — MEM
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 alific: GRUPO DE EDAD como Amaril
 
@@ -3214,64 +2818,38 @@ notorio que en los otros niños de su edad?
 1
 <
 a
-u
 >
-w
 2
 <
 E
-z
-w
 =
-z
-o
 S)
 1a)
-w
-14
-u
-z
-o
 d
 S,
 o)
 >
 £
-z
-w
 a
 <
 -
 (S)
-72
-q
 <
-5
 <
 I
-17
-u
 1A
-u
-p
-"
-7
 >
 <
 =
-u
 a
 —
 a)
-o
-vl
-w
 a
 2
 
-[[PAGINA 44]]
 
-3 10)-Xel[e]) E DEL DESARROLLO INFANTIL 14
+[[PAGINA 44]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 de a los siguient:
 
@@ -3320,7 +2898,6 @@ SEÑALES DE
 ALARMA
 
 gá ón en la movilidad de alguna parte del cuerpo?
-25
 g€ teración o asimetría en la movilidad de ojos o
 [ (Observe)
 % B nta perimetro cefálico por arriba o por deba
@@ -3346,36 +2923,18 @@ Normal
 1
 <
 a
-w
 >
-w
 >
-z
 [
 =
-u
 >
-z
-o
-o
 1
-u
-u
-w
-p
-w
 >
-w
 >
-z
 >
 E
-z
-u
 >
 e
-z
-o
 a
 o]
 -
@@ -3384,35 +2943,22 @@ b
 <
 TI
 1A
-u
-u
-u
-p
-w
 >
-w
 =
-z
 >
 £
-z
-w
-24
 <
 >
-1e
-al
 o]
 -
-w
 a
 =
 
+
 [[PAGINA 45]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
-/ 110/.Tel[e] 8 DEL DESARROLLO INFANTIL
-
-5u GRUPO DE EDAD como Amarillo, s
+su GRUPO DE EDAD como Amarillo, s
 
 | GRUPO DE EDAD ANTERIO!
 
@@ -3422,15 +2968,15 @@ ado realizar ninguno de
 
 Amarillo, el r
 
-7-481. ¿ —a>t:¡ su r-. ño en un solo pie en el mismo lugar por lo menos 3
+7-481. ¿Salta su niño en un solo pie en el mismo lugar por lo menos 3
 
 NO Si
 NO si
 NO si
 (Observe)
-“—v1__.v— cordón porlos agujeros de una NO si
+¿Puede pasar un cordón porlos agujeros de una NO si
 -4872. ¿Puede dibujar una persona con 2 0 más partes del cuerpo: NO si
-ujº.v nariz, boca pelo, tronco, brazos, piernas, etc7 (Observe)
+ojos, nariz, boca pelo, tronco, brazos, piernas, etc7 (Observe)
 **37-483. ¿Puede dibujar un círculo o una cruz? (Observe) NO si
 37-48 1. ¿Le dice lo que quiere con palabras? Si
 **37-48 2 ¿Puede cont algo de lo que hizo ayer? (Observe) si
@@ -3473,71 +3019,39 @@ T
 (A
 <
 a
-w
 >
-w
 >
-z
 E
 =
-u
 >
-z
-o
 Lo
-u
-u
-1,
-wu
-p
-w
 >
-w
 >
-z
 >
 -
-z
-u
 -
-o
 =
 Lo
-7
 o]
 -
 c
-,
 <
 T
-1s
-u
-u
-u
 =
-w
 >
-w
 =,
-z
-p
 =
-z
-u
 a
 <
 >
 Lo
-1a
 o]
 -
-w
 a
-u
+
 
 [[PAGINA 46]]
-
-EVN DEL DESARROLLO INFANTIL
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 SEÑALES DE ALERTA
 
@@ -3565,76 +3079,43 @@ pasa a su alrededor?
 
 E
 -
-50
 ]
 =
 e
 <
 a
-u
 >
-u
 >
-z
 E
-m
-u
 >
-z
-o
 Lo)
 1A
-u
-u
-w
-p
-u
 >
-u
 >
-z
 >
 E
-z
-u
 >
 e
 <
-1e
 a
-o
 -
 E
-,
 <
 T
-v
-u
-u
-u
-p
-w
 >
-w
 >
-z
 >
 E
-z
-u
 a
 <
 >
 1O
-1a
 e
 -
-w
 a
-ua
+
 
 [[PAGINA 47]]
-
 (pág. 108)
 
 1
@@ -3642,59 +3123,32 @@ ua
 [a]
 a
 >
-z
 E
-z
-u
 >
-z
-o
 1S)
 [77)
-u
-1a
-w
-p
-z
 -
 >
 £
-z
-r
 U
-1a
-o
 =1
 <
-7
 <
 TI
 [7,)
-u
-1a
-w
 =
 E
 -
-m
-1a
-u
-17
 [7)
-o
 =
-w
 [a]
-17
-u
 Q
 
-15
 
-EA DEL DESARROLLO INFANTIL — MEM
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 Califique por área del desarrollo el grupo de edad, de acuerdo a los siguientes criterios
-O 2 respuestas obtenidas en Verde, la calificación será ME VERDE
+O 2 respuestas obtenidas en Verde, la calificación será VERDE
 
 Una (01) o ninguna obtenida en Verde, la calificaciór
 M Nota: El resultado deberá reflejarse en color, no en cifras
@@ -3703,7 +3157,7 @@ M Nota: El resultado deberá reflejarse en color, no en cifras
 
 * ¿Puedes altar con un soto pie hacía adelante siete vece:
 17 (Observe) N
-ás conlos ples juntos? (Observe) NO
+ás conlos pies juntos? (Observe) NO
 "3. ¿Camina siguiendo una línea recta, juntando el talón de un piecon NO
 la punta del otro pie, por lo menos 5 pasos? (Observe)
 60-71 Área de Desarrollo: Motriz Fina
@@ -3733,13 +3187,10 @@ EO las manos o desvestirse sin ayuda
 z -
 a <| 3 ¿ Durante más de tres días a la semaria el niño presenta miedo, agresión, si NO
 timidez o tristeza en mayor intensidad que les niños de su edad? -
-33
-o
 00 | *1. ¿Presenta alteración en la movilidad de alguna parte del cuerpo? Si
 Es g (Observe)
 %a | * ¿Presenta alteración o asimetría en la movilidad de ojos o si
 2 2 | expresión facial? (Observe)
-uz
 Una o más áreas del desarrollo en rojo.
 = Una o más señales de alarma en rojo.
 o Uno o más ítems de la exploración neurológica en rojo.
@@ -3751,16 +3202,16 @@ u :fái?;í?_¡ * Uniá o más áreas del desarrollo en amarillo.
 Desarrollo oda: as d y rrollo ploració .
 Normal señales de r r
 
-[[PAGINA 48]]
 
-EA DEL DESARROLLO INFANTIL — MEM
+[[PAGINA 48]]
+## EVALUACIÓN DEL DESARROLLO INFANTIL
 
 Si el niño es calificado en su GRUPO DE EDAD como Amarillo; sin haber logrado realizar ninguno de los 3 items,
-5e le aplican las preguntas del GRUPO DE EDAD ANTERIOR (49-59 meses)
+Se le aplican las preguntas del GRUPO DE EDAD ANTERIOR (49-59 meses)
 
 Si el niño obtiene 302 preguntas en Amarillo, el resultado será
 
-5i obtiene 1 0 ninguna en Amarillo, el resultado será EE ROJO.
+Si obtiene 1 0 ninguna en Amarillo, el resultado será EE ROJO.
 
 El resultado debers reflejarse en color, no en cifras
 
@@ -3769,13 +3220,11 @@ El resultado debers reflejarse en color, no en cifras
 ¿Puede sy niño saltar hacia adelante cayendo con los pies
 Liuntos? €
 
-s
 
 Itar con un solo pie hacia adelante tres ]
 
 nel mismo pie?d ) :
 
-19
 
 Cl
 
@@ -3837,56 +3286,38 @@ alguna actividad por más de cínco minutos?
 
 si
 
-u
-u
-p
-z
 =)
 >
 E
 d
-u
 =
-u
-w
 a
-o
 -
 <
 Ú
 <
 lT
 1al
-u
-u
-w
-z
 E
-z
-u
-u
-w
 )
 a
 o]
 -
-w
 a
 1
-w
 a)
 Ea
 
-[[PAGINA 49]]
 
+[[PAGINA 49]]
 *(Página sin texto detectado)*
+
 
 [[PAGINA 50]]
-
 *(Página sin texto detectado)*
 
-[[PAGINA 51]]
 
+[[PAGINA 51]]
 Grupo 1
 
 (de 1 mes a1 mes 29 días)
@@ -3925,8 +3356,8 @@ comparación con otros niños de su misma edad.
 
 comparación con etros niños(as) de su misma edad
 
-[[PAGINA 52]]
 
+[[PAGINA 52]]
 Manual para la aplicación de la prueba
 
 Evaluación del Desarrollo Infantil (ED!)
@@ -3976,8 +3407,8 @@ comunicar lo que necesita?, ¿cómo conoce usted que el bebé tiene hambre o tie
 ¿Nora de una manera diferente o hace algún sonido especial? Defina la frecuencia e intensidad
 delaconducta en comparación con otros niñosde su misma edad.
 
-[[PAGINA 53]]
 
+[[PAGINA 53]]
 Grupo1
 
 (de 1 mes a1 mes 29 días)
@@ -4005,12 +3436,12 @@ SENÑALES DE ALARMA
 
 Este grupo de edad no tiene señales de alarma
 
-[[PAGINA 54]]
 
+[[PAGINA 54]]
 *(Página sin texto detectado)*
 
-[[PAGINA 55]]
 
+[[PAGINA 55]]
 MESES
 
 Grupo 2
@@ -4046,8 +3477,8 @@ todo bien?, ¿tiene usted alguna preocupación por la manera en que el bebé se 
 comporta o se relaciona con los demás? Defina la frecuencia e intensidad de la conducta en
 comparación con otros niños de su misma edad.
 
-[[PAGINA 56]]
 
+[[PAGINA 56]]
 Manual para la aplicación de la prueba
 Evaluación del Desarrollo Infantil (EDI)
 
@@ -4097,8 +3528,8 @@ manoalaboca. y XN A
 QX FR
 )
 
-[[PAGINA 57]]
 
+[[PAGINA 57]]
 MESES
 
 Grupo2
@@ -4125,7 +3556,6 @@ frecuencia e intensidad de la conducta en comparación conotros niños de su mis
 
 SO 21. ¿Hace sonidos con la boca cuando le hablan?
 
-o
 
 Pregunte a la madre, padre o culdador principal : ¿Cómo se comporta si alguien le habla
 
@@ -4168,10 +3598,8 @@ s que el sobrepa
 
 ingulos de manera importante $ ere hipotonía (Aacidez)
 
-"
 
 [[PAGINA 58]]
-
 Manual para la aplicación de la prueba
 Evaluación del Desarrollo Infantil (ED!I)
 
@@ -4185,8 +3613,8 @@ cara de molestia durante la comida?, ¿durante la alimentación frecuentemente p
 náuseas, vómito, se pone morado o pálido, o se atraganta?. Defina la frecuencia e intensidad de
 laconducta en comparación con otros niños de sumisma edad.
 
-[[PAGINA 59]]
 
+[[PAGINA 59]]
 Grupo 3
 
 (de 3 meses a 3 meses 29 días)
@@ -4222,14 +3650,14 @@ comparación conotros niños de su misma edad
 *+ lo ninguna obtenida en verde, la calificación será AMARILLO
 
 + Si el niño es calificado en su grupo de edad como AMARILLO, sin haber logrado realizar
-ninguno de los dos ftems, se le aplican las preguntas del grupo de edad anterior (2 meses)
+ninguno de los dos ítems, se le aplican las preguntas del grupo de edad anterior (2 meses)
 
 + Si el niño obtiene 2 preguntas en amarillo, el resultado será AMARILLO
 
 + Si obtiene 1 o ninguna en amarillo, el resultado será ROJO
 
-[[PAGINA 60]]
 
+[[PAGINA 60]]
 Manual para la aplicación de la prueba
 
 Evaluación del Desarrollo Infantil (EDI)
@@ -4286,8 +3714,8 @@ la frecuencia e intensidad de la conducta en comparación con otros niños de su
 
 MESES
 
-[[PAGINA 61]]
 
+[[PAGINA 61]]
 Grupo 3
 
 (de 3 meses a 3 meses 29 días)
@@ -4324,12 +3752,12 @@ importante sugiere hipotonía (Hacidez).
 Realice la maniobra correspondiente en el niño para valorar este reflejo
 y durante surealización valore la simetría.
 
-[[PAGINA 62]]
 
+[[PAGINA 62]]
 *(Página sin texto detectado)*
 
-[[PAGINA 63]]
 
+[[PAGINA 63]]
 MESES
 
 Grupo 4
@@ -4370,8 +3798,8 @@ del todo bien?, ¿tiene usted alguna preocupación por la manera en que el bebé
 comporta o se relaciona con los demas? Defina la frecuencia e intensidad de la conducta en
 comparación conotros niños de su misma edad
 
-[[PAGINA 64]]
 
+[[PAGINA 64]]
 Manual para la aplicación de la prueba
 Evaluación del Desarrollo Infantil (ED!)
 
@@ -4425,8 +3853,8 @@ comparación con otros niños de su misma edad.
 
 MESES
 
-[[PAGINA 65]]
 
+[[PAGINA 65]]
 Grupo 4
 
 (de 4 meses a 4 meses 29 días)
@@ -4474,12 +3902,12 @@ Sostenga al bebé por el tronco y siéntelo, permitiendo que logre mantener su c
 
 dejarla caer hacia adelante, atrás o a los lados, aunque sea muy brevemente.
 
-[[PAGINA 66]]
 
+[[PAGINA 66]]
 *(Página sin texto detectado)*
 
-[[PAGINA 67]]
 
+[[PAGINA 67]]
 5S5Aa6
 MESES
 
@@ -4526,8 +3954,8 @@ comporta o se relaciona con los demás? Defina la frecuencia e intensidad de la 
 
 comparación con otrosniños desu misma edad.
 
-[[PAGINA 68]]
 
+[[PAGINA 68]]
 Manual para la aplicación de la prueba
 Evaluación del Desarrollo Infantil (ED!)
 
@@ -4568,8 +3996,8 @@ para llamar su atención. Motivelo para que trate de coger el abjeto,
 5s6
 MESE
 
-[[PAGINA 69]]
 
+[[PAGINA 69]]
 Grupo 5
 
 (de 5 meses a 6 meses 29 días)
@@ -4608,10 +4036,8 @@ reírse con el juego. Si el niño no responde, apóyese del cuidador Re-
 
 petición del ítem: hasta 2 veces más -
 
-70
 
 [[PAGINA 70]]
-
 Manual para la aplicación de la prueba
 Evaluación del Desarrollo Infantil (EDI)
 
@@ -4639,8 +4065,8 @@ simnétrico.
 5.6
 MESE
 
-[[PAGINA 71]]
 
+[[PAGINA 71]]
 749
 MESES
 
@@ -4683,8 +4109,8 @@ Pregunte a la madre, padre o cuidador principal: ¿ha observado algo que le pare
 del todo bien?, ¿tiene usted alguna preocupación por la manera en que su bebé se mueve, se
 comporta o se relaciona con los demás? Defina la frecuencia e intensidad de la conducta en
 
-[[PAGINA 72]]
 
+[[PAGINA 72]]
 Manual para la aplicación de la prueba
 
 Evaluación del Desarrollo Infantil (ED!)
@@ -4740,8 +4166,8 @@ M
 
 ESES
 
-[[PAGINA 73]]
 
+[[PAGINA 73]]
 749
 MESES
 
@@ -4777,8 +4203,8 @@ TALA 6, ¿Persiste el reflejo de Moro?
 Realice en el bebé la maniobra correspondiente para valorar este reflejo y
 durantesurealización valore lasimetría.
 
-[[PAGINA 74]]
 
+[[PAGINA 74]]
 Manual para la aplicación de la prueba
 Evaluación del Desarrollo Infantil (EDI)
 
@@ -4793,8 +4219,8 @@ observará que el bebé realiza un movirmiento brusco de extensión de
 los miembros superiores. con apertura de las manes, como si quisiera
 protegerse de una caída
 
-[[PAGINA 75]]
 
+[[PAGINA 75]]
 10412
 MESES
 
@@ -4835,8 +4261,8 @@ todo bien?, ¿tiene usted alguna preocupación por la manera en que su bebé se 
 comporta o se relaciona con los demás? Defina la frecuencia e intensidad de la conducta en
 comparación con otros de su misma edad
 
-[[PAGINA 76]]
 
+[[PAGINA 76]]
 Manual para la aplicación de la prueba
 
 Evaluación del Desarrollo Infantil (EDI)
@@ -4894,8 +4320,8 @@ A
 10 112
 MESES
 
-[[PAGINA 77]]
 
+[[PAGINA 77]]
 Grupo 7
 
 10412
@@ -4938,12 +4364,12 @@ intención de comunicarse con otros, no importa el nivel de lenguaje que
 
 haya alcanzado.
 
-[[PAGINA 78]]
 
+[[PAGINA 78]]
 *(Página sin texto detectado)*
 
-[[PAGINA 79]]
 
+[[PAGINA 79]]
 Grupo 8
 
 (de 13 meses a 15 meses 29 días)
@@ -4985,8 +4411,8 @@ todo blen?, ¿tiene usted alguna preocupación por la manera en que el bebé se 
 comporta o se relaciona con los demás? Defina la frecuencia e intensidad de la conducta en
 comparación con otrosniños de su misma edad
 
-[[PAGINA 80]]
 
+[[PAGINA 80]]
 Manual para la aplicación de la prueba
 
 Evaluación del Desarrollo Infantil (EDI)
@@ -5029,8 +4455,8 @@ vez, esperando que el cuidador lo levante del suelo y se lo devuelva.
 13415
 MESES
 
-[[PAGINA 81]]
 
+[[PAGINA 81]]
 13415
 MESES
 
@@ -5080,8 +4506,8 @@ sencillas, Puede ser con los dedos o con alguna cuchara, si ya la maneja, Lo Imp
 valorar si se alimenta a sí mismo. Debe ser capaz de hacerlo varias veces al día, sobre todo
 cuandosetrata de comidas simples como verduras, fideos, galletas, trocitos de came, etc
 
-[[PAGINA 82]]
 
+[[PAGINA 82]]
 Manual para la aplicación de la prueba
 Evaluación del Desarrollo Infantil (ED!)
 
@@ -5091,7 +4517,6 @@ adultos o cuidadores cercanos?, ¿demuestra cariño hacia alguna
 persona en particular?
 
 cto visual conel niño y dele una orden sencilla como "ven"
-de
 
 nombre
 al adulte
@@ -5121,8 +4546,8 @@ abdomen
 13415
 MESES
 
-[[PAGINA 83]]
 
+[[PAGINA 83]]
 16418
 MESES
 
@@ -5163,8 +4588,8 @@ carácter dificil? Comparado con otros niños de su edad: ¿se enoja más?, ¿se
 fácilmente por cosas pequeñas?, ¿se calma rápido o demora en tranquilizarse? Defina la
 frecuencia de la conducta,
 
-[[PAGINA 84]]
 
+[[PAGINA 84]]
 Manual para la aplicación de la prueba
 
 Evaluación del Desarrollo Infantil (EDI)
@@ -5220,8 +4645,8 @@ MG 1. ¿Puede su niño sentarse solo en una silla pequeña? —
 16 418
 MESES
 
-[[PAGINA 85]]
 
+[[PAGINA 85]]
 16418
 MESES
 
@@ -5275,8 +4700,8 @@ Pregunte a la madre, padre o cuidador principal : ¿suele interesarse
 el niño por lo que usted hace en la casa?, ¿lo ha visto imitando
 alguna tarea que usted hace habitualmente, como barrer o limplar?
 
-[[PAGINA 86]]
 
+[[PAGINA 86]]
 Manual para la aplicación de la prueba
 Evaluación del Desarrollo Infantil (EDI)
 
@@ -5309,8 +4734,8 @@ tirse en otr
 
 ÍnNstante y no transitoria
 
-[[PAGINA 87]]
 
+[[PAGINA 87]]
 Grupo 10
 
 (de 19 meses a 24 meses 29 días)
@@ -5360,8 +4785,8 @@ ninguno de los tres ítems, se le aplican las preguntas del grupo de edad anterl
 
 * Si obtiene 1 o ninguna en amarillo, el resultado será ROJO
 
-[[PAGINA 88]]
 
+[[PAGINA 88]]
 Manual para la aplicación de la prueba
 
 Evaluación del Desarrollo Infantil (ED!)
@@ -5422,8 +4847,8 @@ que le dé ejemplos. Defina la frecuencia de la conducta.
 19 124
 MESES
 
-[[PAGINA 89]]
 
+[[PAGINA 89]]
 Grupo 10
 
 (de 19 meses a 24 meses 29 días)
@@ -5473,8 +4898,8 @@ atendiendo y nuevamente mira y señala el objeto deseado? (atención í
 conjunta), ¿hace contacto visual para pedir el objeto y luego utiliza - W Ie >|
 palabras o gestos para expresar lo que quiere? I
 
-[[PAGINA 90]]
 
+[[PAGINA 90]]
 Manual para la aplicación de la prueba
 Evaluación del Desarrollo Infantil (ED!)
 
@@ -5504,8 +4929,8 @@ a perdida debe ser
 19 124
 MESES
 
-[[PAGINA 91]]
 
+[[PAGINA 91]]
 25430
 MESES
 
@@ -5566,8 +4991,8 @@ Pregunte a fa madre, padre o cuidador principal: ¿puede subir o bajar al menos 
 
 ¿cuánta ayuda necesita para subir?, ¿cuánta ayuda necesita para bajar?
 
-[[PAGINA 92]]
 
+[[PAGINA 92]]
 Manual para la aplicación de la prueba
 
 Evaluación del Desarrollo Infantil (EDI)
@@ -5611,7 +5036,6 @@ gn que utilice una
 
 ropiada
 
-or
 
 LE 11.3. ¿Usa oraciones de 3 palabras, por ejemplo: "quiero mi pelota",
 “dame mi leche"?
@@ -5628,8 +5052,8 @@ lebe incluir verbo
 
 MESES
 
-[[PAGINA 93]]
 
+[[PAGINA 93]]
 25430
 MESES
 
@@ -5672,13 +5096,13 @@ onvertir
 
 Importante, con
 
-[[PAGINA 94]]
 
+[[PAGINA 94]]
 sasaw
 [ TA
 
-[[PAGINA 95]]
 
+[[PAGINA 95]]
 Grupo 12
 
 (de 31 meses a 36 meses 29 días)
@@ -5721,8 +5145,8 @@ Esta señal de alerta busca investigar si utiliza los juguetes con un juego func
 no para un uso repetitivo o esterentipado, como ordenar o poner en fila. La señal está presente sí
 utiliza losjuguetes exclusivamente para ordenarlos o ponerlos en fila,
 
-[[PAGINA 96]]
 
+[[PAGINA 96]]
 Manual para la aplicación de la prueba
 Evaluación del Desarrollo Infantil (ED!)
 
@@ -5739,7 +5163,6 @@ ninguno de los tres items, se le aplican las preguntas del grupo de edad anterio
 
 "MG121. ¿Puede su niño agacharse fácilmente hacia delante sin caerse?
 
-y
 
 En unlugar con espacio suficiente, diga: “¡ahora vamos a hacer ejercicio!,
 ¡mira cómo puedo agacharme y tocar el piso!, ¡ahora túl, ¡toca el suelocon
@@ -5747,7 +5170,6 @@ lasdos manos!". Observesilo hace.
 
 Repetición del ítem: hasta2 veces más.
 
-* -
 **MG 122 ¿Puede su niño caminar sobre la punta de sus pies?
 
 Retirele los zapatos y en un lugar con espacio suficiente diga: “¡ahora
@@ -5788,8 +5210,8 @@ Repetición del ítem: hasta2 veces más.
 
 MESES
 
-[[PAGINA 97]]
 
+[[PAGINA 97]]
 31136
 
 MESES
@@ -5847,8 +5269,8 @@ EXPLORACIÓN NEUROLÓGICA
 Explore los ítems que conforman esta sección de la prueba, los cuales se específican en la
 paágina 12 de este manual
 
-[[PAGINA 98]]
 
+[[PAGINA 98]]
 Manual para la aplicación de la prueba
 Evaluación del Desarrollo Infantil (EDI)
 
@@ -5863,7 +5285,7 @@ comparación con otros niños de su misma edad,
 ALA 122 ¿Se comunica con palabras aisiadas es decir, nú forma
 traciones como:"mama giero lecha”, y =cl dica"leche"?
 
-cipal 5i el niño forma €
+cipal Si el niño forma €
 
 ibras aisladas. E
 
@@ -5882,8 +5304,8 @@ que en algún momento tuvo?
 
 MESES
 
-[[PAGINA 99]]
 
+[[PAGINA 99]]
 37148
 MESES
 
@@ -5929,8 +5351,8 @@ Si el niño obtiene 3 0 2 preguntas en amarillo, el resultado será AMARILLO
 
 Si obtiene 1 o ninguna en amarillo, el resultado será ROJO
 
-[[PAGINA 100]]
 
+[[PAGINA 100]]
 Manual para la aplicación de la prueba
 
 Evaluación del Desarrollo Infantil (ED!)
@@ -5970,12 +5392,10 @@ Repetición del ítem: hasta 2 veces más.
 **MF132. ¿Puede dibujar una persona con 2 0 más partes del cuerpo;
 "ojos”, “nariz”, "boca”, “pelo”, “tronco", "brazos”, “piernas”, etcétera?
 
-5i
 Si
 —
 <
 
-7
 
 Colóquese frente al niño y diga: “¡Ahora vamos a dibujar! ¿Puedes hacer xr XX1 7
 un dibujo para mí? Dibuja un niño o Una niña". Observesilo hace, » B N
@@ -6001,8 +5421,8 @@ quiere algo, lo dice con palabras o sólo con gestos o haciendo algún sonido re
 37148
 MESES
 
-[[PAGINA 101]]
 
+[[PAGINA 101]]
 Grupo 13
 
 37148
@@ -6058,8 +5478,8 @@ Preguntea la madre, padre o cuidador principal si su niño es capaz de relatar u
 ítem interesa conocer sí es capaz de recordar una historia en su mayor parte y si puede narrarla
 concoherencia, organizando su estructura en principio; desarrollo y final.
 
-[[PAGINA 102]]
 
+[[PAGINA 102]]
 Manual para la aplicación de la prueba
 
 Evaluación del Desarrollo Infantil (ED!)
@@ -6096,7 +5516,6 @@ palabras sueltas o solamente puede decir frases de dos palabras, por ejemplo: "m
 "dame más”,etc,
 
 E
-:
 
 Pregunte a la madre, padre o cuidador principal si el niño ha perdido alguna habilidad o aprendizaje
 que ya había logrado. Distinga pérdida de un hito que ha desaparecido para evolucionar y
@@ -6107,8 +5526,8 @@ Importante, constante y no transitoria.
 
 MESES
 
-[[PAGINA 103]]
 
+[[PAGINA 103]]
 Grupo 14
 
 (de 49 meses a 59 meses 29 días)
@@ -6158,8 +5577,8 @@ Pregunte a la madre, padre o cuidador principal :“¿diría que su niño tiene 
 separarse de usted?" Defina la frecuencia e intensidad de la conducta en comparación con
 otros niños de su misma edad
 
-[[PAGINA 104]]
 
+[[PAGINA 104]]
 Manual para la aplicación de la prueba
 Evaluación del Desarrollo Infantil (EDI)
 
@@ -6203,14 +5622,13 @@ Enun lugar con espacio suf te, diga: "¡ahora vaemos a jugar a sal
 pie ! ¡Mira como lo hago!Ahora tú salta en un pie camo hice!" Debe
 saitar Con el mismo ple hacia a nenos 3 ver
 3 lado
-.
 —
 
 49 459
 MESES
 
-[[PAGINA 105]]
 
+[[PAGINA 105]]
 49 459
 MESES
 
@@ -6272,8 +5690,8 @@ Iño"
 
 de la condut
 
-[[PAGINA 106]]
 
+[[PAGINA 106]]
 Manual para la aplicación de la prueba
 
 Evaluación del Desarrollo Infantil (EDI)
@@ -6336,8 +5754,8 @@ esarrollo. La pérdida del
 
 MESES
 
-[[PAGINA 107]]
 
+[[PAGINA 107]]
 Grupo 15
 
 (de 60 meses a 71 meses 29 días)
@@ -6388,8 +5806,8 @@ ninguno de los tres ítems, se le aplican las preguntas del grupo de edad anteri
 
 * Si obtiene1 o ninguna en amarillo, el resultado será ROJO
 
-[[PAGINA 108]]
 
+[[PAGINA 108]]
 Manual para la aplicación de la prueba
 
 Evaluación del Desarrollo Infantil (ED!)
@@ -6400,7 +5818,7 @@ cavendo con el mismo pie?
 En un lugar con suficiente espacio diga: “¡vamos a jugar a saltar con un pie!, ¡mira cómo lo hago,
 ahoratetoca atí!" Repetición del ltem: hasta dosveces con cada pie
 
-*MG152 ¿Puede bríncar hacia atrás con los ples juntos? -
+*MG152 ¿Puede bríncar hacia atrás con los pies juntos? -
 
 En un lugar con espacio suficiente, muéstrale cómo se hace, después colóquese detrás del niño
 auna distancia razonable para prevenir accidentes y digale: "vamos a jugara saltar".
@@ -6438,8 +5856,8 @@ teniendo un margen de lem desde la línea.
 60471
 MESES
 
-[[PAGINA 109]]
 
+[[PAGINA 109]]
 60471
 MESES
 
@@ -6489,19 +5907,14 @@ Incluyendo menedas o billetes?.
 Colóquese frente al niño y muestre monedas o billetes de diferente denominación. Debe
 identificar por lo menos dos denominaciones.
 
-- -|
-'
 
 [[PAGINA 110]]
-
 -
-.
 <
-o
 -
+
 
 [[PAGINA 111]]
-
 60471
 MESES
 
@@ -6535,8 +5948,8 @@ tristeza durante cuatro días a la semana, en mayor intensidad que otros niños 
 
 edad
 
-[[PAGINA 112]]
 
+[[PAGINA 112]]
 Formato FUA
 
 1
@@ -6546,50 +5959,46 @@ e 1A ia ACO VA
 
 f _
 
-m
 
 p p
 
 DIO TA ON N PO NAINLAUNN Y AM AUNO MA 1D AA BNN A IIARLADA D AA A
 
-p
 
-p
 
 CP
 
 e otume. m
 
-. _
 
 — — —
 
 —
 
-[[PAGINA 113]]
 
+[[PAGINA 113]]
 *(Página sin texto detectado)*
+
 
 [[PAGINA 114]]
-
 *(Página sin texto detectado)*
+
 
 [[PAGINA 115]]
-
 Lámina B
 
-[[PAGINA 116]]
 
+[[PAGINA 116]]
 *(Página sin texto detectado)*
+
 
 [[PAGINA 117]]
-
 Lámina D
 
-[[PAGINA 118]]
 
+[[PAGINA 118]]
 *(Página sin texto detectado)*
 
-[[PAGINA 119]]
 
+[[PAGINA 119]]
 para cada infancía
