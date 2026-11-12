@@ -1,0 +1,16 @@
+{
+  "id": "GT-LACTANCIA-RM-462-2015",
+  "titulo": "Guía Técnica para la Consejería en Lactancia Materna",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Guía Técnica",
+  "numero_norma": "RM N.° 462-2015-MINSA",
+  "resolucion_aprobatoria": "RM N.° 462-2015-MINSA",
+  "tema": "Lactancia materna",
+  "archivo_fuente_md": "knowledge/normas/serums/rm-462-2015-minsa.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

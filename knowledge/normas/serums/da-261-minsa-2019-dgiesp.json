@@ -1,0 +1,16 @@
+{
+  "id": "DA-261-MINSA-2019-DGIESP",
+  "titulo": "Directiva Administrativa para la adecuación de los servicios de salud con pertinencia cultural en el primer nivel de atención",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Directiva Administrativa",
+  "numero_norma": "Directiva Administrativa N.° 261-MINSA/2019/DGIESP",
+  "resolucion_aprobatoria": "RM N.° 228-2019-MINSA",
+  "tema": "Pertinencia cultural en el primer nivel",
+  "archivo_fuente_md": "knowledge/normas/serums/Directiva-Administrativa-N-261-MINSA-2019-DGIESP.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

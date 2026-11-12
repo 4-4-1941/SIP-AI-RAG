@@ -1,0 +1,15 @@
+{
+  "id": "DS-100-MINSA-2020-DGIESP",
+  "titulo": "Directiva Sanitaria: Manejo de la atención estomatológica en el contexto de la pandemia por COVID-19",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Directiva Sanitaria",
+  "numero_norma": "Directiva Sanitaria N.° 100-MINSA/2020/DGIESP",
+  "tema": "Atención estomatológica en COVID-19",
+  "archivo_fuente_md": "knowledge/normas/serums/Directiva-Sanitaria-N-100-MINSA-2020-DGIESP.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

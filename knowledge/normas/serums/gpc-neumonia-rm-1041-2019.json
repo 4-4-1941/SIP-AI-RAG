@@ -1,0 +1,16 @@
+{
+  "id": "GPC-NEUMONIA-RM-1041-2019",
+  "titulo": "Guía de Práctica Clínica para el diagnóstico y tratamiento de la neumonía en la niña y el niño",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Guía de Práctica Clínica",
+  "numero_norma": "RM N.° 1041-2019-MINSA",
+  "resolucion_aprobatoria": "RM N.° 1041-2019-MINSA",
+  "tema": "Neumonía infantil",
+  "archivo_fuente_md": "knowledge/normas/serums/rm-1041-2019-minsa.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

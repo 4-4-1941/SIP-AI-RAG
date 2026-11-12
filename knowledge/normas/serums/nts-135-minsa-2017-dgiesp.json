@@ -1,0 +1,16 @@
+{
+  "id": "NTS-135-MINSA-2017-DGIESP",
+  "titulo": "Norma Técnica de Salud de la Estrategia de Rehabilitación Basada en la Comunidad (RBC)",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 135-MINSA/2017/DGIESP",
+  "resolucion_aprobatoria": "RM N.° 457-2017-MINSA",
+  "tema": "Rehabilitación basada en la comunidad",
+  "archivo_fuente_md": "knowledge/normas/serums/rm-457-2017-minsa-nts-135.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

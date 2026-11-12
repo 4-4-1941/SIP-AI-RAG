@@ -1,0 +1,15 @@
+{
+  "id": "DS-126-MINSA-2020-DGIESP",
+  "titulo": "Directiva Sanitaria que establece el procedimiento para el abordaje integral de la población expuesta a metales pesados, metaloides y otras sustancias químicas",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Directiva Sanitaria",
+  "numero_norma": "Directiva Sanitaria N.° 126-MINSA/2020/DGIESP",
+  "tema": "Exposición a metales pesados y sustancias químicas",
+  "archivo_fuente_md": "knowledge/normas/serums/directiva-sanitaria-126-minsa-dgiesp-2020.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

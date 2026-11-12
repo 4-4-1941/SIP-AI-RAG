@@ -1,0 +1,16 @@
+{
+  "id": "NTS-216-MINSA-DGIESP-2024",
+  "titulo": "Norma Técnica de Salud para el Uso de la Amalgama Dental",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 216-MINSA/DGIESP-2024",
+  "resolucion_aprobatoria": "RM N.° 859-2024-MINSA",
+  "tema": "Uso de la amalgama dental",
+  "archivo_fuente_md": "knowledge/normas/serums/rm-859-2024-minsa.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

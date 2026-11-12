@@ -1,0 +1,16 @@
+{
+  "id": "NTS-130-MINSA-2017-DGIESP",
+  "titulo": "Norma Técnica de Salud para la atención integral y diferenciada de la gestante adolescente",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 130-MINSA/2017/DGIESP",
+  "resolucion_aprobatoria": "RM N.° 007-2019-MINSA",
+  "tema": "Gestante adolescente",
+  "archivo_fuente_md": "knowledge/normas/serums/rm-007-2019-minsa-nts-130.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

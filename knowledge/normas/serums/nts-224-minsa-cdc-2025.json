@@ -1,0 +1,25 @@
+{
+  "id": "NTS-224-MINSA-CDC-2025",
+  "titulo": "Norma Técnica de Salud para la Vigilancia Epidemiológica de la Enfermedad por Coronavirus (COVID-19), Fase Endémica en el Perú",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 224-MINSA/CDC-2025 (aprobada como 2024; corregida por fe de erratas)",
+  "resolucion_aprobatoria": "RM N.° 078-2025-MINSA",
+  "tema": "Vigilancia epidemiológica de COVID-19, fase endémica",
+  "archivo_fuente_md": "knowledge/normas/serums/rm-078-2025-minsa-nts-224-covid-fase-endemica.md",
+  "estado_validacion": "VALIDADO_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12",
+  "fuentes_oficiales": [
+    {
+      "tipo": "diario_oficial",
+      "entidad": "El Peruano",
+      "documento": "RM N.° 078-2025-MINSA",
+      "estado_validacion": "VALIDADO_OFICIAL",
+      "nota": "La RM deroga las RM 183-2020 y 881-2021."
+    }
+  ]
+}

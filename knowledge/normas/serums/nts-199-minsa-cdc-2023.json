@@ -1,0 +1,15 @@
+{
+  "id": "NTS-199-MINSA-CDC-2023",
+  "titulo": "Norma Técnica de Salud: Vigilancia Epidemiológica de Cáncer en general y Cáncer en niños y adolescentes — Registro Hospitalario",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 199-MINSA/CDC-2023",
+  "tema": "Vigilancia epidemiológica del cáncer",
+  "archivo_fuente_md": "knowledge/normas/serums/nts-199-minsa-cdc-2023-vigilancia-cancer.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

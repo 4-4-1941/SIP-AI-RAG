@@ -1,0 +1,16 @@
+{
+  "id": "DS-131-MINSA-2021-DGIESP",
+  "titulo": "Directiva Sanitaria para la atención en los Servicios de Salud Sexual y Reproductiva durante la pandemia por la COVID-19",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Directiva Sanitaria",
+  "numero_norma": "Directiva Sanitaria N.° 131-MINSA/2021/DGIESP",
+  "resolucion_aprobatoria": "RM N.° 450-2021-MINSA",
+  "tema": "Salud sexual y reproductiva en pandemia",
+  "archivo_fuente_md": "knowledge/normas/serums/Directiva-Sanitaria-N-131-MINSA-2021-DGIESP.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

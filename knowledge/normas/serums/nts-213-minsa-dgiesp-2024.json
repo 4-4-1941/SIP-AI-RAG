@@ -1,0 +1,16 @@
+{
+  "id": "NTS-213-MINSA-DGIESP-2024",
+  "titulo": "Norma Técnica de Salud para la Prevención y Control de la Anemia por Deficiencia de Hierro en niños, adolescentes, mujeres en edad fértil, gestantes y puérperas",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 213-MINSA/DGIESP-2024",
+  "resolucion_aprobatoria": "RM N.° 251-2024-MINSA y RM N.° 429-2024-MINSA",
+  "tema": "Anemia por deficiencia de hierro",
+  "archivo_fuente_md": "knowledge/normas/serums/NTS_213_2024_MINSA.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

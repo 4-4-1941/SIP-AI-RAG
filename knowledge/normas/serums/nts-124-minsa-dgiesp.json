@@ -1,0 +1,15 @@
+{
+  "id": "NTS-124-MINSA-DGIESP",
+  "titulo": "Norma Técnica de Salud de Planificación Familiar",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 124 (número tomado de la lista del usuario; no figura en el texto extraído)",
+  "tema": "Planificación familiar",
+  "archivo_fuente_md": "knowledge/normas/serums/nts-124-planificacion-familiar.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

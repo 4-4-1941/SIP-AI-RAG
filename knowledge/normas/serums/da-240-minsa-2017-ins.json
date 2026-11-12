@@ -1,0 +1,16 @@
+{
+  "id": "DA-240-MINSA-2017-INS",
+  "titulo": "Directiva Administrativa para el registro de la pertenencia étnica en el sistema de información de salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Directiva Administrativa",
+  "numero_norma": "Directiva Administrativa N.° 240-MINSA/2017/INS (según texto OCR)",
+  "resolucion_aprobatoria": "RM N.° 975-2017-MINSA",
+  "tema": "Pertenencia étnica",
+  "archivo_fuente_md": "knowledge/normas/serums/rm-975-2017-minsa.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

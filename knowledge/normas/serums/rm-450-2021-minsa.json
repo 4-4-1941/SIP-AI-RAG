@@ -1,0 +1,16 @@
+{
+  "id": "RM-450-2021-MINSA",
+  "titulo": "Resolución Ministerial que aprueba la Directiva Sanitaria N.° 131-MINSA/2021/DGIESP y deroga la RM N.° 217-2020-MINSA",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Resolución Ministerial",
+  "numero_norma": "RM N.° 450-2021-MINSA",
+  "resolucion_aprobatoria": "RM N.° 450-2021-MINSA",
+  "tema": "Salud sexual y reproductiva en pandemia",
+  "archivo_fuente_md": "knowledge/normas/serums/Resolución_Ministerial_N°_450-2021-MINSA.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

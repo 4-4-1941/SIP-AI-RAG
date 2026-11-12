@@ -1,0 +1,16 @@
+{
+  "id": "NTS-146-MINSA-2018-DGIESP",
+  "titulo": "Norma Técnica de Salud para la prevención, diagnóstico y tratamiento de la hepatitis viral B",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 146-MINSA/2018/DGIESP",
+  "resolucion_aprobatoria": "RM N.° 1330-2018-MINSA",
+  "tema": "Hepatitis viral B",
+  "archivo_fuente_md": "knowledge/normas/serums/rm-1330-2018-minsa-nts-146-hepatitis-b.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

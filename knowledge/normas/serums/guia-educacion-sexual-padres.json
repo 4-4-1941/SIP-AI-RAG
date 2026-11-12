@@ -1,0 +1,15 @@
+{
+  "id": "GUIA-EDUCACION-SEXUAL-PADRES",
+  "titulo": "Guía metodológica para el desarrollo de talleres educativos de salud sexual con padres y madres de adolescentes, dirigida al personal de salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Guía Metodológica",
+  "numero_norma": "Guía metodológica (MINSA-DGIESP)",
+  "tema": "Educación sexual con padres de adolescentes",
+  "archivo_fuente_md": "knowledge/guia-clinica/Guia-Educacion-Sexual-Padres-Madres-de-Adolescentes.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

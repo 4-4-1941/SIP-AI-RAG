@@ -1,0 +1,16 @@
+{
+  "id": "DS-084-MINSA-RM-251-2019",
+  "titulo": "Directiva Sanitaria para la organización y funcionamiento de los Comités de Prevención de la Mortalidad Materna, Fetal y Neonatal (aprobada por RM)",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Directiva Sanitaria",
+  "numero_norma": "Directiva Sanitaria N.° 084 (número tomado de la lista del usuario)",
+  "resolucion_aprobatoria": "RM N.° 251-2019-MINSA",
+  "tema": "Comités de prevención de mortalidad materna, fetal y neonatal",
+  "archivo_fuente_md": "knowledge/normas/serums/RM-251-2019-Minsa.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

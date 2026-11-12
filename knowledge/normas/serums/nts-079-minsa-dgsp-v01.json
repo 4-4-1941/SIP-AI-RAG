@@ -1,0 +1,16 @@
+{
+  "id": "NTS-079-MINSA-DGSP-V01",
+  "titulo": "Norma Técnica de Salud de la Unidad Productora de Servicios de Medicina de Rehabilitación",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 079-MINSA/DGSP-V.01",
+  "resolucion_aprobatoria": "RM N.° 308-2009-MINSA",
+  "tema": "Medicina de rehabilitación",
+  "archivo_fuente_md": "knowledge/normas/serums/rm-308-2009-minsa.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

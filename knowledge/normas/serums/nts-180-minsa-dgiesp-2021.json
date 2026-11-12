@@ -1,0 +1,15 @@
+{
+  "id": "NTS-180-MINSA-DGIESP-2021",
+  "titulo": "Norma Técnica de Salud para la prevención y eliminación de la violencia de género en establecimientos de salud",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 180-MINSA/DGIESP-2021",
+  "tema": "Violencia de género",
+  "archivo_fuente_md": "knowledge/normas/serums/nts-180-minsa-dgiesp-2021-violencia-genero.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

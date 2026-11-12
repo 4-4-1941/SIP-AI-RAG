@@ -1,0 +1,16 @@
+{
+  "id": "DS-048-MINSA-DGSP-V01",
+  "titulo": "Directiva Sanitaria para promocionar el lavado de manos social como práctica saludable en el Perú",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Directiva Sanitaria",
+  "numero_norma": "Directiva Sanitaria N.° 048-MINSA/DGSP-V.01",
+  "resolucion_aprobatoria": "RM N.° 773-2012-MINSA",
+  "tema": "Lavado de manos social",
+  "archivo_fuente_md": "knowledge/normas/serums/Directiva_sanitaria_para_promocionar_el_lavado_de_mano_social_como_práctica_saludable_en_el_Perú_Directiva_Sanitaria_Nº_048-MINSADGSP-V.01._R.M._Nº_0773-2012MINSA_20191015-26158-1c76z5f.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

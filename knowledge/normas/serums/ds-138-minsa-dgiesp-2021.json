@@ -1,0 +1,15 @@
+{
+  "id": "DS-138-MINSA-DGIESP-2021",
+  "titulo": "Directiva Sanitaria para la atención estomatológica en pacientes con enfermedades no transmisibles que comparten factores de riesgo asociados a la cavidad bucal",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Directiva Sanitaria",
+  "numero_norma": "Directiva Sanitaria N.° 138-MINSA/DGIESP-2021",
+  "tema": "Atención estomatológica en enfermedades no transmisibles",
+  "archivo_fuente_md": "knowledge/normas/serums/Directiva-Sanitaria-N-138-MINSA-DGIESP-2021.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

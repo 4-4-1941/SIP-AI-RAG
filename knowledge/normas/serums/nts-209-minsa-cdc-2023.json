@@ -1,0 +1,16 @@
+{
+  "id": "NTS-209-MINSA-CDC-2023",
+  "titulo": "Norma Técnica de Salud para la Vigilancia Epidemiológica de la Enfermedad Renal Crónica Terminal",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Norma Técnica de Salud",
+  "numero_norma": "NTS N.° 209-MINSA/CDC-2023",
+  "resolucion_aprobatoria": "RM N.° 1064-2023-MINSA",
+  "tema": "Vigilancia de enfermedad renal crónica terminal",
+  "archivo_fuente_md": "knowledge/normas/serums/rm-1064-2023-minsa.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

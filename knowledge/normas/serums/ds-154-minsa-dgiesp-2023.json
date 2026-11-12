@@ -1,0 +1,15 @@
+{
+  "id": "DS-154-MINSA-DGIESP-2023",
+  "titulo": "Directiva Sanitaria para el manejo de la atención estomatológica a la persona con discapacidad",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Directiva Sanitaria",
+  "numero_norma": "Directiva Sanitaria N.° 154-MINSA/DGIESP-2023",
+  "tema": "Atención estomatológica a la persona con discapacidad",
+  "archivo_fuente_md": "knowledge/normas/serums/Directiva-Sanitaria-N-154-MINSA-DGIESP-2023.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}

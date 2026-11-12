@@ -1,0 +1,16 @@
+{
+  "id": "DT-GUIAS-ALIMENTARIAS-RM-967-2020",
+  "titulo": "Documento Técnico: Guías Alimentarias para niñas y niños menores de 2 años",
+  "institucion": "Ministerio de Salud del Perú",
+  "tipo_documento": "Documento Técnico",
+  "numero_norma": "RM N.° 967-2020-MINSA",
+  "resolucion_aprobatoria": "RM N.° 967-2020-MINSA",
+  "tema": "Alimentación infantil",
+  "archivo_fuente_md": "knowledge/normas/serums/rm-967-2020-minsa.md",
+  "estado_validacion": "PENDIENTE_VERIFICACION_DE_FUENTE_OFICIAL",
+  "reglas_rag": {
+    "no_inferir_definiciones_operativas_sin_pagina_oficial": true,
+    "respuesta_si_evidencia_insuficiente": "EVIDENCIA_INSUFICIENTE"
+  },
+  "ultima_revision": "2026-11-12"
+}
