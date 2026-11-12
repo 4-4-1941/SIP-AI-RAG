@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-03",
+  "version": "2026-11-12",
   "titulo": "Catálogo documental SIP-AI-RAG",
   "documentos": [
     {
@@ -510,6 +510,119 @@
     {
       "id": "MINSA-SERUMS-2026-II-7992179",
       "ruta": "knowledge/minsa/serums-2026-ii/7992179-decreto-supremo-n-036-2020-sa-normas-y-documentos-legales-ministerio-de-salud-plataforma-del-estado.metadata.json"
+    },
+    {
+      "id": "NTS-213-MINSA-DGIESP-2024",
+      "ruta": "data/metadata/normas-nuevas/nts-213-minsa-dgiesp-2024.json"
+    },
+    {
+      "id": "NTS-224-MINSA-CDC-2025",
+      "ruta": "data/metadata/normas-nuevas/nts-224-minsa-cdc-2025.json",
+      "estado": "VALIDADO_OFICIAL"
+    },
+    {
+      "id": "NTS-209-MINSA-CDC-2023",
+      "ruta": "data/metadata/normas-nuevas/nts-209-minsa-cdc-2023.json"
+    },
+    {
+      "id": "NTS-216-MINSA-DGIESP-2024",
+      "ruta": "data/metadata/normas-nuevas/nts-216-minsa-dgiesp-2024.json"
+    },
+    {
+      "id": "NTS-199-MINSA-CDC-2023",
+      "ruta": "data/metadata/normas-nuevas/nts-199-minsa-cdc-2023.json"
+    },
+    {
+      "id": "NTS-190-MINSA-CDC-2022",
+      "ruta": "data/metadata/normas-nuevas/nts-190-minsa-cdc-2022.json"
+    },
+    {
+      "id": "NTS-180-MINSA-DGIESP-2021",
+      "ruta": "data/metadata/normas-nuevas/nts-180-minsa-dgiesp-2021.json"
+    },
+    {
+      "id": "NTS-135-MINSA-2017-DGIESP",
+      "ruta": "data/metadata/normas-nuevas/nts-135-minsa-2017-dgiesp.json"
+    },
+    {
+      "id": "NTS-130-MINSA-2017-DGIESP",
+      "ruta": "data/metadata/normas-nuevas/nts-130-minsa-2017-dgiesp.json"
+    },
+    {
+      "id": "NTS-146-MINSA-2018-DGIESP",
+      "ruta": "data/metadata/normas-nuevas/nts-146-minsa-2018-dgiesp.json"
+    },
+    {
+      "id": "NTS-145-MINSA-2018-DGIESP",
+      "ruta": "data/metadata/normas-nuevas/nts-145-minsa-2018-dgiesp.json"
+    },
+    {
+      "id": "NTS-124-MINSA-DGIESP",
+      "ruta": "data/metadata/normas-nuevas/nts-124-minsa-dgiesp.json"
+    },
+    {
+      "id": "DS-126-MINSA-2020-DGIESP",
+      "ruta": "data/metadata/normas-nuevas/ds-126-minsa-2020-dgiesp.json"
+    },
+    {
+      "id": "DS-131-MINSA-2021-DGIESP",
+      "ruta": "data/metadata/normas-nuevas/ds-131-minsa-2021-dgiesp.json"
+    },
+    {
+      "id": "RM-450-2021-MINSA",
+      "ruta": "data/metadata/normas-nuevas/rm-450-2021-minsa.json"
+    },
+    {
+      "id": "DS-100-MINSA-2020-DGIESP",
+      "ruta": "data/metadata/normas-nuevas/ds-100-minsa-2020-dgiesp.json"
+    },
+    {
+      "id": "DS-138-MINSA-DGIESP-2021",
+      "ruta": "data/metadata/normas-nuevas/ds-138-minsa-dgiesp-2021.json"
+    },
+    {
+      "id": "DS-154-MINSA-DGIESP-2023",
+      "ruta": "data/metadata/normas-nuevas/ds-154-minsa-dgiesp-2023.json"
+    },
+    {
+      "id": "DA-261-MINSA-2019-DGIESP",
+      "ruta": "data/metadata/normas-nuevas/da-261-minsa-2019-dgiesp.json"
+    },
+    {
+      "id": "DS-084-MINSA-RM-251-2019",
+      "ruta": "data/metadata/normas-nuevas/ds-084-minsa-rm-251-2019.json"
+    },
+    {
+      "id": "DS-048-MINSA-DGSP-V01",
+      "ruta": "data/metadata/normas-nuevas/ds-048-minsa-dgsp-v01.json"
+    },
+    {
+      "id": "DA-240-MINSA-2017-INS",
+      "ruta": "data/metadata/normas-nuevas/da-240-minsa-2017-ins.json"
+    },
+    {
+      "id": "NTS-079-MINSA-DGSP-V01",
+      "ruta": "data/metadata/normas-nuevas/nts-079-minsa-dgsp-v01.json"
+    },
+    {
+      "id": "GT-LACTANCIA-RM-462-2015",
+      "ruta": "data/metadata/normas-nuevas/gt-lactancia-rm-462-2015.json"
+    },
+    {
+      "id": "DT-GUIAS-ALIMENTARIAS-RM-967-2020",
+      "ruta": "data/metadata/normas-nuevas/dt-guias-alimentarias-rm-967-2020.json"
+    },
+    {
+      "id": "GPC-NEUMONIA-RM-1041-2019",
+      "ruta": "data/metadata/normas-nuevas/gpc-neumonia-rm-1041-2019.json"
+    },
+    {
+      "id": "DT-MCI-RM-030-2020",
+      "ruta": "data/metadata/normas-nuevas/dt-mci-rm-030-2020.json"
+    },
+    {
+      "id": "GUIA-EDUCACION-SEXUAL-PADRES",
+      "ruta": "data/metadata/normas-nuevas/guia-educacion-sexual-padres.json"
     }
   ]
 }
