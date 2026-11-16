@@ -154,20 +154,17 @@ y comunicación (TIC);
 
 ## Página 3
 
-MINISTERIO DE SALUD o no64:2025/hinisa
+MINISTERIO DE SALUD o no664:2025/minsa
 ACA DEL
 8 Py
 2 Sy
 SS A
-Loma, Y. de OGIDBRE.... del. 2225
+Lima, 7 de OCTUBRE del 2025
 Que, asimismo, los literales a), b), c), d) y e) del artículo 104 del antes citado
 Reglamento de Organización y Funciones del Ministerio de Salud, establecen que son
 funciones de la Dirección General de Telesalud, Referencia y Urgencias, proponer, coordinar,
 supervisar, evaluar y dirigirla política sectorial de telesalud, bajo cuyo marco elabora el Plan
-Nacional de Telesalud, para proponer normas, lineamientos, planes, estrategias para
-¿—_ Implementarlos ejes de desarrollo de la telesalud y para gestionar la Telegestión de la telesalud
-BEN. en el Sector Salud; asimismo, articular y evaluar la Red Nacional de Telesalud, en sus ejes de
-E ANS) desarrollo: La prestación de los servicios de salud, la gestión de los servicios de salud, la
+Nacional de Telesalud, para proponer normas, lineamientos, planes, estrategias para Implementar los ejes de desarrollo de la telesalud y para gestionar la Telegestión de la telesalud en el Sector Salud; asimismo, articular y evaluar la Red Nacional de Telesalud, en sus ejes de desarrollo: La prestación de los servicios de salud, la gestión de los servicios de salud, la
 l o) ) información, la educación y comunicación a la población sobre los servicios de salud, y el
 SES toralecimiento de capacidades del personal de salud; implementar la infraestructura
 uz tecnológica interoperable para articular los servicios de telesalu, INFOSALUD y el SAMU; y,
