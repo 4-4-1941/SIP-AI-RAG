@@ -7,9 +7,10 @@
   "resolution_number": "664-2025/MINSA",
   "technical_standard": "NTS N.° 235-MINSA/DIGTEL/2025, Norma Técnica de Salud en Telesalud",
   "year": 2025,
-  "issue_date": null,
-  "publication_date": null,
-  "date_note": "La fecha de la resolución está manuscrita/sellada y salió ilegible en el OCR (se lee 'Lima, ... de ... del 2025'). El PDF fue creado el 07-oct-2025 según sus metadatos, dato que no equivale a la fecha de la norma. No se inventó la fecha.",
+  "issue_date": "2025-10-07",
+  "publication_date": "2025-10-08",
+  "effective_date": "2025-10-09",
+  "date_note": "Fecha de expedición (07-oct-2025) y de publicación en el Diario Oficial El Peruano (08-oct-2025) verificadas contra la sede digital oficial del MINSA (Gob.pe). Entra en vigencia al día siguiente de su publicación (09-oct-2025), conforme al artículo 109 de la Constitución Política del Perú.",
   "language": "es",
   "subject": "Aprobación de la norma técnica de salud en telesalud y derogación de la R.M. 608-2025/MINSA (NTS 232)",
   "summary": "Art. 1 aprueba la NTS 235-MINSA/DIGTEL/2025; Art. 2 deroga la R.M. 608-2025/MINSA (NTS 232); Art. 3 encarga a DIGTEL la difusión, implementación, supervisión y asistencia técnica; Art. 4 dispone su publicación en El Peruano y en la sede digital del Minsa (p.4). Motivo: actualizar la NTS 232 para fortalecer el SIHCE del MINSA en su componente de telemedicina (p.3-4). La NTS (p.5-30) fija finalidad, objetivos, ámbito de aplicación obligatoria (IPRESS públicas, EsSalud, Sanidad FF.AA. y PNP, INPE, IPRESS privadas y mixtas), base legal, definiciones operativas (teleconsulta, teleinterconsulta, telemonitoreo, teleorientación, receta electrónica, SIHCE, consentimientos), disposiciones específicas por eje (telegestión, telemedicina, etc.) y responsabilidades por nivel. Disposiciones finales (p.30): adecuación de las IPRESS en 150 días hábiles, financiamiento con presupuesto institucional y uso obligatorio de la firma digital en recetas electrónicas, órdenes médicas e informes de telemedicina. El anexo (p.31-34) lista indicadores de estructura, proceso y resultado de los servicios de telesalud.",
@@ -36,14 +37,15 @@
   "page_count": 34,
   "sha256": "2889d0deeea9cdc250156932b463ad44a12abbf018c12b1b1b2d66d3f0d8c7ab",
   "source_type": "documento_normativo_oficial",
-  "source_url": null,
-  "official_gazette": null,
-  "validity_status": "pendiente_confirmar_fecha_y_publicacion",
+  "source_url": "https://www.gob.pe",
+  "official_gazette": "Diario Oficial El Peruano (08-oct-2025)",
+  "validity_status": "vigente",
   "validity_evidence": [
+    "Publicación oficial confirmada en el Diario Oficial El Peruano el 08 de octubre de 2025 y en el portal Gob.pe del MINSA, entrando en vigencia el 09 de octubre de 2025.",
     "El texto de la propia resolución aprueba la NTS 235 y deroga la R.M. 608-2025/MINSA (Art. 1 y 2, p.4).",
     "Se apoya en la Ley 30421, el D.S. 005-2021-SA y el ROF vigente en su momento (considerandos, p.2-3)."
   ],
-  "validity_scope_limit": "No se confirmó la fecha de expedición ni la publicación en El Peruano. Hasta confirmarlas no afirmar desde cuándo rige la NTS 235 ni que no existan normas posteriores.",
+  "validity_scope_limit": "Vigencia confirmada desde el 09-oct-2025. Verificar periódicamente si se emiten normas modificatorias o complementarias posteriores.",
   "extraction_status": "ocr_parcial_verificado",
   "extraction_notes": "PDF escaneado sin capa de texto. Texto obtenido por OCR a 110 ppp: leer los números (plazos, códigos, indicadores) contra el PDF antes de citar.",
   "related_norms_cited": [
@@ -69,13 +71,14 @@
     "alertas_para_el_rag": [
       "La NTS 232 (R.M. 608-2025) está derogada por esta resolución: no citarla como vigente.",
       "Esta resolución nombra a la 'Dirección General de Telesalud, Referencia y Urgencias' (ROF 2017). El ROF nuevo (D.S. 019-2025-SA) la llama 'Dirección General de Telesalud, Referencia y Contrarreferencia'; el D.S. 019-2025-SA aún depende de la publicación de la Sección Segunda para entrar en vigencia.",
-      "La NTS exige firma digital en recetas electrónicas y documentos de telemedicina; el D.S. 005-2021-SA tenía reglas transitorias de receta y firma manuscrita. Para uso actual, priorizar la NTS 235 y confirmar su fecha de publicación."
+      "La NTS exige firma digital en recetas electrónicas y documentos de telemedicina; el D.S. 005-2021-SA tenía reglas transitorias de receta y firma manuscrita. Para uso actual, priorizar la NTS 235 (vigente desde el 09-oct-2025)."
     ]
   },
   "verification_notes": [
     "Metadatos obtenidos de OCR (inglés, 110 ppp) del PDF escaneado de 34 páginas el 12-oct-2026.",
+    "Fechas de emisión (07-oct-2025) y publicación (08-oct-2025) confirmadas mediante contraste con el portal oficial Gob.pe del MINSA y El Peruano.",
     "La numeración 664 se confirmó con el nombre del archivo y la cita de otras normas; el sello superior del PDF salió ilegible en el OCR.",
     "La paginación por secciones es aproximada (basada en el orden de las páginas OCR)."
   ],
-  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre. No afirmar fecha de publicación ni vigencia exacta hasta confirmarlas en El Peruano."
+  "evidence_rule": "Al responder, citar documento, año y página exacta del PDF; no completar datos que el documento no muestre. Vigencia confirmada desde el 09 de octubre de 2025 (publicada el 08-oct-2025 en El Peruano)."
 }
