@@ -101,9 +101,9 @@ detalle:
 
 ## Página 3
 
-MINISTERIO DE SALUD No265. —20¡81'1_[!UA
+MINISTERIO DE SALUD No265. 2018 MINSA
 
-Lima, 28.. de.. HARZO..... del .2018
+Lima, 28.. de.. MARZO..... del .2018
 
 7.4 La presente Norma Técnica de Salud no establece, ni regula competencias de los
 profesionales de la salud, personal técnico y auxiliar asistencial de la salud; ni modifica
