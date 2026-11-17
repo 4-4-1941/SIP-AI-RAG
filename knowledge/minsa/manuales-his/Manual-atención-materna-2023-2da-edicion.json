@@ -1,0 +1,170 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "metadata_version": "1.0.0",
+  "created_at": "2026-11-17T03:10:00Z",
+  "document": {
+    "title": "Manual de Registro y Codificación de la Atención en la Consulta Externa. Sistema de Información HIS. Dirección de Salud Sexual y Reproductiva: Atención Materno Perinatal",
+    "short_title": "Manual de Atención Materna (HIS-MINSA 2023)",
+    "edition": "2da Edición",
+    "publication_year": 2023,
+    "language": "es-PE",
+    "country": "Perú",
+    "city": "Lima",
+    "publisher": {
+      "name": "Ministerio de Salud del Perú (MINSA)",
+      "acronym": "MINSA",
+      "general_directorate": "Dirección General de Intervenciones Estratégicas en Salud Pública (DGIESP)",
+      "executive_direction": "Dirección de Salud Sexual y Reproductiva (DSARE)",
+      "information_technology_office": "Oficina General de Tecnologías de la Información (OGTI) - Oficina de Gestión de la Información",
+      "library_cataloging": "Biblioteca Central del Ministerio de Salud del Perú"
+    },
+    "authorities": [
+      {
+        "name": "Dra. Rosa Gutiérrez Palomino",
+        "role": "Ministra de Salud"
+      },
+      {
+        "name": "Dra. María Elena Aguilar del Águila",
+        "role": "Viceministra de Salud Pública"
+      },
+      {
+        "name": "Dr. Henry Serafín Gamboa Serpa",
+        "role": "Director General de Intervenciones Estratégicas en Salud Pública"
+      },
+      {
+        "name": "Ing. Melvin Ángel Gago Rodrigo",
+        "role": "Director General de la Oficina General de Tecnologías de la Información"
+      },
+      {
+        "name": "Dr. Guillermo Atencio La Rosa",
+        "role": "Director Ejecutivo de la Dirección de Salud Sexual y Reproductiva"
+      }
+    ],
+    "technical_team": [
+      {
+        "name": "Obst. Elva Quiñones Colchado",
+        "role": "Elaboración y Revisión Técnica"
+      },
+      {
+        "name": "Obst. Roció Rivera Chávez",
+        "role": "Elaboración y Revisión Técnica"
+      },
+      {
+        "name": "Lic. Walter Melchor Valverde",
+        "role": "Elaboración y Revisión Técnica"
+      },
+      {
+        "name": "Ing. Carlos Buleje",
+        "role": "Elaboración y Revisión Técnica"
+      },
+      {
+        "name": "Ing. Carlos Salcedo",
+        "role": "Elaboración y Revisión Técnica"
+      },
+      {
+        "name": "Lic. Noemí Cruzat",
+        "role": "Elaboración y Revisión Técnica"
+      }
+    ],
+    "scope_and_target_audience": {
+      "scope": "Nacional (Establecimientos de salud públicos de las DIRIS, GERESA y DIRESA en el ámbito del MINSA)",
+      "target_users": [
+        "Profesionales de la salud obstetras",
+        "Médicos y personal asistencial de consulta externa materno perinatal",
+        "Personal estadístico y digitadores del sistema HIS-MINSA",
+        "Coordinadores de la estrategia de salud sexual y reproductiva"
+      ]
+    },
+    "standards_and_terminologies": [
+      {
+        "standard": "CIE-10",
+        "description": "Clasificación Estadística Internacional de Enfermedades y Problemas Relacionados con la Salud (10.ª revisión)"
+      },
+      {
+        "standard": "CPMS",
+        "description": "Catálogo de Procedimientos Médicos y Sanitarios del Sector Salud"
+      },
+      {
+        "standard": "HIS-MINSA",
+        "description": "Sistema de Información de Consulta Externa del Ministerio de Salud del Perú"
+      }
+    ],
+    "keywords": [
+      "MINSA",
+      "HIS-MINSA",
+      "CIE-10",
+      "CPMS",
+      "Salud Sexual y Reproductiva",
+      "Atención Materno Perinatal",
+      "Control Prenatal",
+      "Papanicolaou (PAP)",
+      "Examen Clínico de Mama",
+      "Nutrición en Gestantes",
+      "Puerperio",
+      "Pertenencia Étnica",
+      "Consulta Externa",
+      "Perú",
+      "2023"
+    ],
+    "content_structure": [
+      {
+        "section_number": 1,
+        "title": "Introducción y Estructura del Manual",
+        "page_reference": "01-05",
+        "summary": "Presentación institucional, objetivos de estandarización del registro de atención materna y tabla de contenidos."
+      },
+      {
+        "section_number": 2,
+        "title": "Diagnósticos y Actividades Más Frecuentes en la Atención Materno Perinatal",
+        "page_reference": "06-09",
+        "summary": "Listado de códigos estándar CIE-10 y CPMS organizados por patología, condición obstétrica y procedimiento."
+      },
+      {
+        "section_number": 3,
+        "title": "Instrucciones para el Registro y Codificación de las Actividades",
+        "page_reference": "10",
+        "summary": "Reglas metodológicas sobre tipos de diagnóstico (Presuntivo, Definitivo, Repetido), uso de campos Lab y registros secuenciales."
+      },
+      {
+        "section_number": 4,
+        "title": "Formato HIS 2023: Variables y Codificación de Campos",
+        "page_reference": "11-12",
+        "summary": "Estructura del formato HIS papel y aplicativo HISMINSA v2023, descripción de campos obligatorios, financiamiento y etnia."
+      },
+      {
+        "section_number": 5,
+        "title": "Procedimientos Clínicos y Modelos de Registro en el Formato HIS",
+        "page_reference": "13-50",
+        "summary": "Modelos prácticos de llenado para 20 actividades prioritarias: gestante atendida, controlada, tamizaje de cáncer de cuello uterino y mama, suplementación con hierro/ácido fólico, psicoprofilaxis, parto institucional y puerperio."
+      },
+      {
+        "section_number": 6,
+        "title": "Anexo 1: Catálogo de Códigos de Pertenencia Étnica",
+        "page_reference": "51-56",
+        "summary": "Codificación normalizada para el registro de autoidentificación étnica en pueblos indígenas u originarios y afroperuanos."
+      }
+    ]
+  },
+  "file_pair": {
+    "markdown_file": {
+      "filename": "Manual-atención-materna-2023-2da-edicion.md",
+      "format": "Markdown (GFM)",
+      "encoding": "UTF-8",
+      "size_bytes": 57966,
+      "lines_count": 884,
+      "sha256": "ae4763ca5c3a47adb50511ffd688595130861812be0ed534319ef7f0d78cb9f8"
+    },
+    "source_pdf": {
+      "filename": "Manual-atención-materna-2023-2da-edicion.pdf",
+      "format": "PDF 1.4",
+      "pages_count": 56,
+      "size_bytes": 2591335,
+      "sha256": "e3397b4671ff2962fd9494ece2919f514e95cf659cce0b52a893f9fe47bf141c"
+    },
+    "metadata_file": {
+      "filename": "Manual-atención-materna-2023-2da-edicion.json",
+      "format": "JSON",
+      "encoding": "UTF-8"
+    }
+  }
+}
