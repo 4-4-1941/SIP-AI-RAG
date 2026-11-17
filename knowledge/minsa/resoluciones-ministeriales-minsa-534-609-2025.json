@@ -1,0 +1,87 @@
+{
+  "resolucion-ministerial-n-534-2025-minsa.pdf": {
+    "metadata_documento": {
+      "tipo_documento": "Resolución Ministerial",
+      "numero_resolucion": "534-2025/MINSA",
+      "entidad_emisora": "Ministerio de Salud (MINSA)",
+      "fecha_emision": "2025",
+      "lugar_emision": "Lima, Perú",
+      "firmante": {
+        "nombre": "CESAR HENRY VASQUEZ SANCHEZ",
+        "cargo": "Ministro de Salud"
+      }
+    },
+    "contenido_resolutivo": {
+      "asunto": "Aprobar la Norma Técnica de Salud para la Vigilancia Epidemiológica de la Enfermedad de Carrión",
+      "norma_tecnica_aprobada": "NTS N° 231-MINSA/CDC-2025",
+      "organo_proponente": "Centro Nacional de Epidemiología, Prevención y Control de Enfermedades (CDC)",
+      "expediente": "CDC00020240000476"
+    },
+    "visados": [
+      "Centro Nacional de Epidemiología, Prevención y Control de Enfermedades (CDC)",
+      "Dirección General de Intervenciones Estratégicas en Salud Pública (DGIESP)",
+      "Dirección General de Aseguramiento e Intercambio Prestacional",
+      "Dirección General de Operaciones en Salud",
+      "Instituto Nacional de Salud (INS)",
+      "Oficina General de Asesoría Jurídica (OGAJ)",
+      "Secretaría General",
+      "Despacho Viceministerial de Salud Pública",
+      "Despacho Viceministerial de Prestaciones y Aseguramiento en Salud"
+    ],
+    "base_legal_principal": [
+      "Ley N° 26842, Ley General de Salud",
+      "Decreto Legislativo N° 1161, Ley de Organización y Funciones del Ministerio de Salud",
+      "Ley N° 31961, Ley que fortalece la rectoría del Ministerio de Salud en vigilancia epidemiológica en salud pública e inteligencia sanitaria",
+      "Decreto Supremo N° 008-2017-SA, Reglamento de Organización y Funciones del Ministerio de Salud"
+    ],
+    "disposiciones": [
+      "Artículo 1: Aprobar la NTS N° 231-MINSA/CDC-2025, Norma Técnica de Salud para la Vigilancia Epidemiológica de la Enfermedad de Carrión, que como Anexo forma parte integrante de la presente Resolución Ministerial.",
+      "Artículo 2: Encargar a la Oficina de Transparencia y Anticorrupción de la Secretaría General la publicación de la presente Resolución Ministerial y su Anexo en la sede digital del Ministerio de Salud (www.gob.pe/minsa), en la misma fecha de publicación de la presente resolución en el Diario Oficial El Peruano."
+    ]
+  },
+  "resolucion-ministerial-n-609-2025-minsa.pdf": {
+    "metadata_documento": {
+      "tipo_documento": "Resolución Ministerial",
+      "numero_resolucion": "609-2025/MINSA",
+      "entidad_emisora": "Ministerio de Salud (MINSA)",
+      "fecha_emision": "2025",
+      "lugar_emision": "Lima, Perú",
+      "firmante": {
+        "nombre": "CESAR HENRY VASQUEZ SANCHEZ",
+        "cargo": "Ministro de Salud"
+      }
+    },
+    "contenido_resolutivo": {
+      "asunto": "Aprobar la Norma Técnica de Salud para la atención integral de malaria no complicada y malaria grave en el Perú",
+      "norma_tecnica_aprobada": "NTS N° 233-MINSA/DGIESP-2025",
+      "organo_proponente": "Dirección General de Intervenciones Estratégicas en Salud Pública (DGIESP)",
+      "expediente": "DGIESP-DPCEM20250000682"
+    },
+    "visados": [
+      "Dirección General de Intervenciones Estratégicas en Salud Pública (DGIESP)",
+      "Dirección General de Aseguramiento e Intercambio Prestacional",
+      "Dirección General de Operaciones en Salud",
+      "Dirección General de Medicamentos, Insumos y Drogas (DIGEMID)",
+      "Dirección General de Salud Ambiental e Inocuidad Alimentaria (DIGESA)",
+      "Centro Nacional de Epidemiología, Prevención y Control de Enfermedades (CDC)",
+      "Instituto Nacional de Salud (INS)",
+      "Oficina General de Comunicaciones",
+      "Oficina General de Asesoría Jurídica (OGAJ)",
+      "Secretaría General",
+      "Despacho Viceministerial de Salud Pública",
+      "Despacho Viceministerial de Prestaciones y Aseguramiento en Salud"
+    ],
+    "base_legal_principal": [
+      "Ley N° 26842, Ley General de Salud",
+      "Decreto Legislativo N° 1161, Ley de Organización y Funciones del Ministerio de Salud",
+      "Ley N° 30895, Ley que fortalece la función rectora del Ministerio de Salud",
+      "Decreto Legislativo N° 1504, Decreto Legislativo que fortalece al Instituto Nacional de Salud para la prevención y control de las enfermedades",
+      "Decreto Supremo N° 008-2017-SA, Reglamento de Organización y Funciones del Ministerio de Salud"
+    ],
+    "disposiciones": [
+      "Artículo 1: Aprobar la NTS N° 233-MINSA/DGIESP-2025, Norma Técnica de Salud para la atención integral de malaria no complicada y malaria grave en el Perú, que como Anexo forma parte integrante de la presente Resolución Ministerial.",
+      "Artículo 2: Derogar las Resoluciones Ministeriales N° 076-2007/MINSA y N° 116-2015/MINSA.",
+      "Artículo 3: Encargar a la Oficina de Transparencia y Anticorrupción de la Secretaría General la publicación de la presente Resolución Ministerial y su Anexo en la sede digital del Ministerio de Salud (www.gob.pe/minsa), en la misma fecha de publicación de la presente resolución en el Diario Oficial El Peruano."
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "NTS-198-MINSA-DIGESA.pdf": {
+    "metadata_documento": {
+      "tipo_documento": "Norma Técnica de Salud",
+      "numero_norma": "NTS N° 198-MINSA/DIGESA-2023",
+      "entidad_emisora": "Ministerio de Salud (MINSA) - Dirección General de Salud Ambiental e Inocuidad Alimentaria (DIGESA)",
+      "fecha_emision": "2023",
+      "lugar_emision": "Lima, Perú"
+    },
+    "contenido_normativo": {
+      "titulo": "Norma Técnica de Salud para la Vigilancia Entomológica y Control de Aedes aegypti, vector de Arbovirosis y la Vigilancia del Ingreso de Aedes albopictus en el territorio nacional",
+      "finalidad": "Contribuir a la disminución de la morbilidad y mortalidad de las arbovirosis en el territorio nacional.",
+      "objetivo_general": "Establecer los procedimientos para la ejecución continua de la vigilancia y control entomológico de Aedes aegypti a nivel nacional y la vigilancia entomológica en zonas fronterizas para la detección oportuna del ingreso de Aedes albopictus.",
+      "ambito_aplicacion": "Alcance nacional. Dirigido a las Redes Integradas de Salud y los establecimientos de salud públicos de las Direcciones Regionales de Salud (DIRESA), Gerencias Regionales de Salud (GERESA) o la que haga sus veces en el ámbito regional, y las Direcciones de Redes Integradas en Salud (DIRIS) de Lima Metropolitana."
+    },
+    "base_legal_principal": [
+      "Ley N° 26842, Ley General de Salud, y sus modificatorias.",
+      "Decreto Legislativo N° 1161, Ley de Organización y Funciones del Ministerio de Salud.",
+      "Decreto Legislativo N° 1278, Ley de Gestión Integral de Residuos Sólidos.",
+      "Decreto Legislativo N° 1504, Decreto Legislativo que fortalece al Instituto Nacional de Salud.",
+      "Decreto Supremo N° 008-2017-SA, Reglamento de Organización y Funciones del Ministerio de Salud."
+    ],
+    "anexos_incluidos": [
+      "Anexo 01: Procedimientos para la vigilancia entomológica",
+      "Anexo 02: Procedimientos para el control larvario de Aedes aegypti",
+      "Anexo 03: Procedimientos para el control de Aedes aegypti por nebulización espacial",
+      "Anexo 04: Indicadores entomológicos",
+      "Anexo 05: Coberturas del control larvario y nebulización espacial",
+      "Anexo 06: Formatos (18 formatos de registro, supervisión y consolidado)"
+    ]
+  },
+  "Resolución Ministerial N° 228-2023-MINSA.pdf": {
+    "metadata_documento": {
+      "tipo_documento": "Resolución Ministerial",
+      "numero_resolucion": "228-2023-MINSA",
+      "entidad_emisora": "Ministerio de Salud (MINSA)",
+      "fecha_emision": "27 de febrero de 2023",
+      "lugar_emision": "Lima, Perú",
+      "firmante": {
+        "nombre": "CESAR HENRY VASQUEZ SANCHEZ",
+        "cargo": "Ministro de Salud"
+      }
+    },
+    "contenido_resolutivo": {
+      "expediente": "DIGESA20220001505",
+      "asunto": "Aprobar la Norma Técnica de Salud para la Vigilancia Entomológica y Control de Aedes aegypti, vector de Arbovirosis y la Vigilancia del Ingreso de Aedes albopictus en el territorio nacional",
+      "norma_aprobada": "NTS N° 198-MINSA/DIGESA-2023",
+      "organo_proponente": "Dirección General de Salud Ambiental e Inocuidad Alimentaria (DIGESA)"
+    },
+    "visados": [
+      "Dirección General de Salud Ambiental e Inocuidad Alimentaria (DIGESA)",
+      "Oficina General de Asesoría Jurídica (OGAJ)",
+      "Despacho Viceministerial de Salud Pública"
+    ],
+    "base_legal_principal": [
+      "Ley N° 26842, Ley General de Salud",
+      "Decreto Legislativo N° 1161, Ley de Organización y Funciones del Ministerio de Salud",
+      "Ley N° 30895, Ley que fortalece la función rectora del Ministerio de Salud",
+      "Decreto Legislativo N° 1504, Decreto Legislativo que fortalece al Instituto Nacional de Salud para la prevención y control de las enfermedades",
+      "Decreto Supremo N° 008-2017-SA, Reglamento de Organización y Funciones del Ministerio de Salud"
+    ],
+    "disposiciones": [
+      "Artículo 1: Aprobar la NTS N° 198-MINSA/DIGESA-2023, que como Anexo forma parte integrante de la presente Resolución Ministerial, y que se publica en la sede digital del Ministerio de Salud.",
+      "Artículo 2: Derogar las Resoluciones Ministeriales N° 288-2015/MINSA y N° 836-2020/MINSA, así como la Resolución Viceministerial N° 0010-2015-SA-DVM-SP.",
+      "Artículo 3: Encargar a la Oficina de Transparencia y Anticorrupción de la Secretaría General la publicación de la presente Resolución Ministerial y su Anexo en la sede digital del Ministerio de Salud."
+    ]
+  }
+}
