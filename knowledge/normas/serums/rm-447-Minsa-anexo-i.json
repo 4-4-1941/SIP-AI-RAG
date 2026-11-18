@@ -1,0 +1,2664 @@
+{
+  "archivo_fuente": "rm-447-Minsa-anexo-i.pdf",
+  "tipo_documento": "Anexo Técnico Resolutivo",
+  "titulo": "ANEXO 1: LISTADO DE CÓDIGOS DE ENFERMEDADES Y PROBLEMAS RELACIONADOS CON LA SALUD EN ADICIÓN A LO PREVISTO EN LA CIE-10",
+  "norma_asociada": "Resolución Ministerial N° 447-2024/MINSA",
+  "emisor": "Ministerio de Salud del Perú (MINSA)",
+  "numero_paginas": 11,
+  "total_codigos_incorporados": 361,
+  "resumen_capitulos": [
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "total_codigos": 88,
+      "categorias": [
+        "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+        "(A15-A19) TUBERCULOSIS",
+        "(A30 - A49) OTRAS ENFERMEDADES BACTERIANAS",
+        "(A50 - A64) INFECCIONES CON MODO DE TRANSMISION PREDOMINANTEMENTE SEXUAL",
+        "(A65 - A69) OTRAS ENFERMEDADES DEBIDAS A ESPIROQUETAS",
+        "(A90 - A99) FIEBRES VIRALES TRANSMITIDAS POR ARTROPODOS Y FIEBRES VIRALES HEMORRAGICAS ^^         A925 - ENFERMEDAD POR VIRUS DEL ZIKA",
+        "(B00 - B09) INFECCIONES VIRALES POR LESIONES DE LA PIEL Y DE LAS MEMBRANAS MUCOSAS",
+        "(B35 - B49) MICOSIS",
+        "(B50 - B64) ENFERMEDADES DEBIDAS A PROTOZOARIOS                                •!:"
+      ]
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "total_codigos": 14,
+      "categorias": [
+        "(E10 - E14) DIABETES MELLITUS",
+        "(E20 - E35) TRASTORNOS DE OTRAS GLANDULAS ENDOCRINAS",
+        "(E40 - E46) DESNUTRICION",
+        "(E65 - ESS) OBESIDAD Y OTROS DE HIPERALIMENTACION"
+      ]
+    },
+    {
+      "capitulo": "CAPITULO V; TRASTORNOS MENTALES Y DEL COMPORTAMIENTO",
+      "total_codigos": 4,
+      "categorias": [
+        "(F10 - F19) TRASTORNOS MENTALES Y DEL COMPORTAMIENTO DEBIDOS AL USO DE SUSTANCIAS PSICOACTIVAS",
+        "(F60 - F69) TRASTORNOS DE LA PERSONALIDAD Y DEL COMPORTAMIENTO EN ADULTOS",
+        "(F90 - F98) TRASTORNOS EMOCIONALES Y DEL COMPORTAMIENTO QUE APARECEN HABITUALMENTE EN LA NIÑEZ Y EN LA ADOLESCENCIA"
+      ]
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "total_codigos": 20,
+      "categorias": [
+        "(G30 - G32) OTRAS ENFERMEDADES DEGENERATIVAS DEL SISTEMA NERVIOSO",
+        "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS"
+      ]
+    },
+    {
+      "capitulo": "CAPITULO X: ENFERMEDADES DEL SISTEMA RESPIRATORIO",
+      "total_codigos": 8,
+      "categorias": [
+        "(J00 - J06) INFECCIONES AGUDAS DE LAS VIAS RESPIRATORIAS SUPERIORES",
+        "(J09 - J18) INFLUENZA (GRIPE) Y NEUMONIA",
+        "(J40 -J47) ENFERMEDADES CRONICAS DE LAS VIAS RESPIRATORIAS INFERIORES"
+      ]
+    },
+    {
+      "capitulo": "CAPITULO Xl: ENFERMEDADES DEL APARATO DIGESTIVO",
+      "total_codigos": 8,
+      "categorias": [
+        "(K55 - K64) OTRAS ENFERMEDADES DE LOS INTESTINOS"
+      ]
+    },
+    {
+      "capitulo": "CAPITULO XIV: ENFERMEDADES DEL SISTEMA GENITOURINARIO",
+      "total_codigos": 1,
+      "categorias": [
+        "(N70 - N77) ENFERMEDADES INFLAMATORIAS DE LOS ORGANOS PELVICOS FEMENIÑOS"
+      ]
+    },
+    {
+      "capitulo": "CAPITULO XV: EMBARAZO, PARTO Y PUERPERIO",
+      "total_codigos": 7,
+      "categorias": [
+        "(020 - 029) OTROS TRASTORNOS MATERNOS RELACIONADOS PRINCIPALMENTE CON EL EMBARAZO",
+        "(080 - 084) PARTO"
+      ]
+    },
+    {
+      "capitulo": "CAPITULO XVI: CIERTAS AFECCIONES ORIGINADAS EN EL PERIODO PERINATAL",
+      "total_codigos": 2,
+      "categorias": [
+        "(P05 - P08) TRASTORNOS RELACIONADOS CON LA DURACION DE LA GESTACION Y EL CRECIMIENTO FETAL"
+      ]
+    },
+    {
+      "capitulo": "CAPITULO XVII: MALFORMACIONES CONGENITAS, DEFORMIDADES Y ANOMALIAS CROMOSOMICAS",
+      "total_codigos": 4,
+      "categorias": [
+        "(Q00 - Q07) MALFORMACIONES CONGENITAS DEL SISTEMA NERVIOSO"
+      ]
+    },
+    {
+      "capitulo": "CAPITULO XVIII: SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE",
+      "total_codigos": 6,
+      "categorias": [
+        "(R50 - R69) SINTOMAS Y SIGNOS GENERALES"
+      ]
+    },
+    {
+      "capitulo": "CAPITULO XIX: TRAUMATISMOS, ENVENAMIENTOS Y ALGUNAS OTRAS CONSECUENCIAS DE CAUSAS EXTERNAS",
+      "total_codigos": 9,
+      "categorias": [
+        "(T66 - T78) OTROS EFECTOS Y LOS NO ESPECIFICADOS DE CAUSAS EXTERNAS",
+        "(T80 - T88) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA, NO CLASIFICADAS EN OTRA PARTE"
+      ]
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "total_codigos": 34,
+      "categorias": [
+        "(W00 - X59) OTRAS CAUSAS EXTERNAS DE TRAUMATISMOS ACCIDENTALES",
+        "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+        "(Y85 - Y89) SECUELAS DE CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD"
+      ]
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "total_codigos": 156,
+      "categorias": [
+        "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+        "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+        "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+        "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+        "(Z55 - Z65) PERSONAS CON RIESGOS POTENCIALES A SU SALUD RELACIONADAS CON                       .& CIRCUNSTANCIAS SOCIOECONOMICAS Y PSICOSOCIALES",
+        "(Z70 - Z76) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD POR OTRAS CIRCUNSTANCIAS                                                                            ;",
+        "(Z77) CONDICIONES RELACIONADAS CON LA SALUD SEXUAL"
+      ]
+    }
+  ],
+  "listado_codigos": [
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A0090",
+      "descripcion": "SOSPECHOSO DE COLERA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A0091",
+      "descripcion": "SOSPECHOSO DE COLERA NO ESPECIFICADO SIN DESHIDRATACION",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A0092",
+      "descripcion": "SOSPECHOSOS DE COLERA NO ESPECIFICADO CON DESHIDRATACION",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A0093",
+      "descripcion": "SOSPECHOSOS DE COLERA NO ESPECIFICADO CON DESHIDRATACION CON SHOCK",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A0109",
+      "descripcion": "FIEBRE TIFOIDEA CON DIARREA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A0141",
+      "descripcion": "FIEBRE PARATIFOIDEA NO ESPECIFICADA CON DIARREA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A0793",
+      "descripcion": "COLITIS",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A09X0",
+      "descripcion": "DIARREA ACUOSA INCLUYE COLITIS, ENTERITIS, ENTEROCOLITIS, GASTROENTERITIS Y GASTROENTEROCOLITIS",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A09X1",
+      "descripcion": "ENFERMEDAD DIARREICA ACUOSA SIN DESHIDRATACION",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A09X2",
+      "descripcion": "ENFERMEDAD DIARREICAACUOSA CON DESHIDRATACION",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A09X3",
+      "descripcion": "ENFERMEDAD DIARREICAACUOSA CON DESHIDRATACION CON SHOCK",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A09X4",
+      "descripcion": "ENFERMEDAD DIARREICA DISENTERICA SIN DESHIDRATACION",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A09X5",
+      "descripcion": "ENFERMEDAD DIARREICA DISENTERICA CON DESHIDRATACION",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A09X6",
+      "descripcion": "ENFERMEDAD DIARREICA PERSISTENTE",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A09X7",
+      "descripcion": "DIARREA DISENTERICA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A00 - A09) ENFERMEDADES INFECCIOSAS INTESTINALES",
+      "codigo": "A09X8",
+      "descripcion": "ENFERMEDAD DIARREICA DISENTERICA CON DESHIDRATACION CON SHOCK",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1801",
+      "descripcion": "TUBERCULOSIS DE HUESOS YARTICULACIONES, SIN CONFIRMACION BACTERIOLOGICA E HISTOPATOLOGICA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1802",
+      "descripcion": "TUBERCULOSIS DE HUESOS Y ARTICULACIONES, CONFIRMADO CON HISTOPATOLOGIA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1803",
+      "descripcion": "TUBERCULOSIS DE HUESOS Y ARTICULACIONES, CONFIRMADO CON BACTERIOLOGIA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1811",
+      "descripcion": "TUBERCULOSIS DEL APARATO GENITOURINARIO, SIN CONFIRMACION BACTERIOLOGICA E HISTOPATOLOGICA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1812",
+      "descripcion": "TUBERCULOSIS DEL APARATO GENITOURINAIRO, CONFIRMADO CON HISTOPATOLOGIA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1813",
+      "descripcion": "TUBERCULOSIS DEL APARATO GENITOURINARIO, CONFIRMADO CON BACTERIOLOGIA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1821",
+      "descripcion": "LINFADENOPATIA PERIFERICATUBERCULOSA, SIN CONFIRMACION BACTERIOLOGICA E HISTOPATOLOGICA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1822",
+      "descripcion": "LINFADENOPATIA PERIFERICA TUBERCULOSA, CONFIRMADO CON HISTOPATOLOGIA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1823",
+      "descripcion": "LINFADENOPATIA PERIFERICA TUBERCULOSA, CONFIRMADO CON BACTERIOLOGIA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1831",
+      "descripcion": "TUBERCULOSIS DE LOS INTESTINOS, EL PERITONEO Y GANGLIOS MESENTERICOS, SIN COFIRMIMACION BACTERIOLOGICA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1832",
+      "descripcion": "TUBERCULOSIS DE LOS INTESTINOS, EL PERITONEO Y GANGLIOS MESENTERICOS CONFIRMADO CON HISTOPATOLOGIA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1833",
+      "descripcion": "TUBERCULOSIS DE LOS INTESTINOS, EL PERITONEO Y GANGLIOS MESENTERICOS, CONFIRMADO CON BACTERIOLOGIA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1841",
+      "descripcion": "TUBERCULOSIS DE LA PIEL Y EL TEJIDO SUBCUTANEO, SIN CONFIRMACION BACTERIOLOGICA E HISTOPATOLOGICA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1842",
+      "descripcion": ". TUBERCULOSIS DE LA PIEL Y EL TEJIDO SUBCUTANEO, CONFIRMADO CON HISTOPATOLOGIA",
+      "pagina": 1
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1843",
+      "descripcion": "TUBERCULOSIS DE LA PIEL Y EL TEJIDO SUBCUTANEO, CONFIRMADO CON BACTERIOLOGIA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1851",
+      "descripcion": "TUBERCULOSIS DEL OJO, SIN CONFIRMACION BACTERIOLOGICA E HISTOPATOLOGICA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1852",
+      "descripcion": "TUBERCULOSIS DEL OJO, CONFIRMADO CON HISTOPATOLOGIA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1853",
+      "descripcion": "TUBERCULOSIS DEL OJO, CONFIRMACO CON BACTERIOLOGIA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1861",
+      "descripcion": "TUBERCULOSIS DEL OIDO, SIN CONFIRMACION BACTERIOLOGICA E HISTOPATOLOGICA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1862",
+      "descripcion": "TUBERCULOSIS DEL OIDO, CONFIRMADO CON HISTOPATOLOGIA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1863",
+      "descripcion": "TUBERCULOSIS DEL OIDO, CONFIRMADO CON BACTERIOLOGIA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1871",
+      "descripcion": "TUBERCULOSIS DE GLANDULAS SUPRARRENALES, SIN CONFIRMACION BACTERIOLOGICA E HISTOPATOLOGICO",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1872",
+      "descripcion": "TUBERCULOSIS DE GLANDULAS SUPRARRENALES, CONFIRMADO CON BACTERIOLOGIA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1881",
+      "descripcion": "TUBERCULOSIS DE OTROS ORGANOS ESPECIFICADOS, SIN CONFIRMACION BACTERIOLOGICA E HISTOPATOLOGICA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1882",
+      "descripcion": "TUBERCULOSIS DE OTROS ORGANOS ESPECIFICADOS, CONFIRMADO CON HISTOPATOLOGIA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1883",
+      "descripcion": "TUBERCULOSIS DE OTROS ORGANOS ESPECIFICADOS, CONFIRMADO CON BACTERIOLOGIA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1891",
+      "descripcion": "TUBERCULOSIS EXTRAPULMONAR SIN CONFIRMACION",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1892",
+      "descripcion": "TUBERCULOSIS EXTRAPULMONAR CON CONFIRMACION HISTOPATOLOGICA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A15-A19) TUBERCULOSIS",
+      "codigo": "A1893",
+      "descripcion": "TUBERCULOSIS EXTRAPULMONAR CON CONFIRMACION BACTERIOLOGICA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A30 - A49) OTRAS ENFERMEDADES BACTERIANAS",
+      "codigo": "A4481",
+      "descripcion": "BARTON ELOSIS AGUDA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A30 - A49) OTRAS ENFERMEDADES BACTERIANAS",
+      "codigo": "A4482",
+      "descripcion": "BARTONELOSIS AGUDA COMPLICADA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A30 - A49) OTRAS ENFERMEDADES BACTERIANAS",
+      "codigo": "A4483",
+      "descripcion": "BARTON ELOSIS RESISTENTE",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A30 - A49) OTRAS ENFERMEDADES BACTERIANAS",
+      "codigo": "A4851",
+      "descripcion": "BOTULISMO INFANTIL",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A50 - A64) INFECCIONES CON MODO DE TRANSMISION PREDOMINANTEMENTE SEXUAL",
+      "codigo": "A64X1",
+      "descripcion": "SINDROME DE BUBON INGUINAL",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A50 - A64) INFECCIONES CON MODO DE TRANSMISION PREDOMINANTEMENTE SEXUAL",
+      "codigo": "A64X2",
+      "descripcion": "SINDROME DE CERVICITIS",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A50 - A64) INFECCIONES CON MODO DE TRANSMISION PREDOMINANTEMENTE SEXUAL",
+      "codigo": "A64X3",
+      "descripcion": "SINDROME DE VAGINITIS",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A50 - A64) INFECCIONES CON MODO DE TRANSMISION PREDOMINANTEMENTE SEXUAL",
+      "codigo": "A64X4",
+      "descripcion": "SINDROME DE ULCERA GENITAL",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A50 - A64) INFECCIONES CON MODO DE TRANSMISION PREDOMINANTEMENTE SEXUAL",
+      "codigo": "A64X5",
+      "descripcion": "SINDROME DE DOLOR ABDOMINAL BAJO",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A50 - A64) INFECCIONES CON MODO DE TRANSMISION PREDOMINANTEMENTE SEXUAL",
+      "codigo": "A64X6",
+      "descripcion": "SINDROME DE SECRECION URETRAL",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A50 - A64) INFECCIONES CON MODO DE TRANSMISION PREDOMINANTEMENTE SEXUAL",
+      "codigo": "A64X7",
+      "descripcion": "PROCTITIS",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A50 - A64) INFECCIONES CON MODO DE TRANSMISION PREDOMINANTEMENTE SEXUAL",
+      "codigo": "A64X9",
+      "descripcion": "SINDROME DE FLUJO VAGINAL",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A65 - A69) OTRAS ENFERMEDADES DEBIDAS A ESPIROQUETAS",
+      "codigo": "A6910",
+      "descripcion": "GINGIVITIS ULCERATIVA NECROTIZANTE AGUDA [GINGIVITIS FUSOESPIROQUETICA][GINGIVITIS DE VINCENT]",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A65 - A69) OTRAS ENFERMEDADES DEBIDAS A ESPIROQUETAS",
+      "codigo": "A6911",
+      "descripcion": "ANGINA DE VINCENT",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A90 - A99) FIEBRES VIRALES TRANSMITIDAS POR ARTROPODOS Y FIEBRES VIRALES HEMORRAGICAS ^^         A925 - ENFERMEDAD POR VIRUS DEL ZIKA",
+      "codigo": "A9501",
+      "descripcion": "FIEBRE AMARILLA SELVATICA FASE MODERADA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A90 - A99) FIEBRES VIRALES TRANSMITIDAS POR ARTROPODOS Y FIEBRES VIRALES HEMORRAGICAS ^^         A925 - ENFERMEDAD POR VIRUS DEL ZIKA",
+      "codigo": "A9502",
+      "descripcion": "FIEBRE AMARILLA SELVATICA FASE TOXICA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A90 - A99) FIEBRES VIRALES TRANSMITIDAS POR ARTROPODOS Y FIEBRES VIRALES HEMORRAGICAS ^^         A925 - ENFERMEDAD POR VIRUS DEL ZIKA",
+      "codigo": "A970",
+      "descripcion": "DENGUE SIN SENALES DE ALARMA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A90 - A99) FIEBRES VIRALES TRANSMITIDAS POR ARTROPODOS Y FIEBRES VIRALES HEMORRAGICAS ^^         A925 - ENFERMEDAD POR VIRUS DEL ZIKA",
+      "codigo": "A971",
+      "descripcion": "DENGUE CON SENALES DE ALARMA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(A90 - A99) FIEBRES VIRALES TRANSMITIDAS POR ARTROPODOS Y FIEBRES VIRALES HEMORRAGICAS ^^         A925 - ENFERMEDAD POR VIRUS DEL ZIKA",
+      "codigo": "A972",
+      "descripcion": "DENGUE GRAVE",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B00 - B09) INFECCIONES VIRALES POR LESIONES DE LA PIEL Y DE LAS MEMBRANAS MUCOSAS",
+      "codigo": "B000X",
+      "descripcion": "ERUPCION VARICELOFORME DE KAPOSI, MANIFESTACIONES BUCALES",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B00 - B09) INFECCIONES VIRALES POR LESIONES DE LA PIEL Y DE LAS MEMBRANAS MUCOSAS",
+      "codigo": "B0010",
+      "descripcion": "HERPES SIMPLE FACIAL",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B00 - B09) INFECCIONES VIRALES POR LESIONES DE LA PIEL Y DE LAS MEMBRANAS MUCOSAS",
+      "codigo": "B0011",
+      "descripcion": "HERPES SIMPLE LABIAL",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B00 - B09) INFECCIONES VIRALES POR LESIONES DE LA PIEL Y DE LAS MEMBRANAS MUCOSAS",
+      "codigo": "B002X",
+      "descripcion": "GINGIVOESTOMATITIS HERPETICA",
+      "pagina": 2
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B00 - B09) INFECCIONES VIRALES POR LESIONES DE LA PIEL Y DE LAS MEMBRANAS MUCOSAS",
+      "codigo": "B008X",
+      "descripcion": "PANADIZO HERPETICO",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B00 - B09) INFECCIONES VIRALES POR LESIONES DE LA PIEL Y DE LAS MEMBRANAS MUCOSAS",
+      "codigo": "B018X",
+      "descripcion": "MANIFESTACIONES BUCALES",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B00 - B09) INFECCIONES VIRALES POR LESIONES DE LA PIEL Y DE LAS MEMBRANAS MUCOSAS",
+      "codigo": "B0220",
+      "descripcion": "NEURALGIA POSTHERPETICA DEL TR16EMINO",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B00 - B09) INFECCIONES VIRALES POR LESIONES DE LA PIEL Y DE LAS MEMBRANAS MUCOSAS",
+      "codigo": "B028X",
+      "descripcion": "MANIFESTACIONES BUCALES",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B00 - B09) INFECCIONES VIRALES POR LESIONES DE LA PIEL Y DE LAS MEMBRANAS MUCOSAS",
+      "codigo": "B07XO",
+      "descripcion": "VERRUGA BUCAL VULGAR",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B00 - B09) INFECCIONES VIRALES POR LESIONES DE LA PIEL Y DE LAS MEMBRANAS MUCOSAS",
+      "codigo": "B07X9",
+      "descripcion": "MANIFESTACIONES BUCALES, NO ESPECIFICADAS",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B35 - B49) MICOSIS",
+      "codigo": "B3700",
+      "descripcion": "ESTOMATITIS CANDIDIASICA PSEUDOMEMBRANOSAAGUDA",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B35 - B49) MICOSIS",
+      "codigo": "B3701",
+      "descripcion": "ESTOMATITIS CANDIDIASICA ERITEMATOSA (ATROFICA) AGUDA",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B35 - B49) MICOSIS",
+      "codigo": "B3702",
+      "descripcion": "ESTOMATITIS CANDIDIASICA HIPERPLASICA CRONICA",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B35 - B49) MICOSIS",
+      "codigo": "B3703",
+      "descripcion": "ESTOMATITIS CANDIDIASICA ERITEMATOSA (ATROFICA) CRONICA",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B35 - B49) MICOSIS",
+      "codigo": "B3704",
+      "descripcion": "CANDIDIASIS MUCOCUTANEA",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B35 - B49) MICOSIS",
+      "codigo": "B3705",
+      "descripcion": "GRANULOMA CANDIDIASICO BUCAL",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B35 - B49) MICOSIS",
+      "codigo": "B3706",
+      "descripcion": "QUEILITIS ANGULAR",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B35 - B49) MICOSIS",
+      "codigo": "B3708",
+      "descripcion": "OTRAS MANIFESTACIONES BUCALES ESPECIFICADAS",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B35 - B49) MICOSIS",
+      "codigo": "B3709",
+      "descripcion": "MANIFESTACIONES BUCALES, NO ESPECIFICADAS",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B50 - B64) ENFERMEDADES DEBIDAS A PROTOZOARIOS                                •!:",
+      "codigo": "B54X1",
+      "descripcion": "PERSONA CON RIESGO DE TRANSMISION DE MALARIA",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B50 - B64) ENFERMEDADES DEBIDAS A PROTOZOARIOS                                •!:",
+      "codigo": "B5721",
+      "descripcion": "ENFERMEDAD DE CHAGAS (CRONICA) QUE AFECTA AL CORAZON INCIPIENTE",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B50 - B64) ENFERMEDADES DEBIDAS A PROTOZOARIOS                                •!:",
+      "codigo": "B5722",
+      "descripcion": "ENFERMEDAD DE CHAGAS (CRONICA) QUE AFECTA AL CORAZON SINTOMATICO",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B50 - B64) ENFERMEDADES DEBIDAS A PROTOZOARIOS                                •!:",
+      "codigo": "B5731",
+      "descripcion": "ENFERMEDAD DE CHAGAS (CRONICA) QUE AFECTA AL SISTEMA DIGESTIVO INCIPIENTE",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO I: CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS",
+      "categoria": "(B50 - B64) ENFERMEDADES DEBIDAS A PROTOZOARIOS                                •!:",
+      "codigo": "B5732",
+      "descripcion": "ENFERMEDAD DE CHAGAS (CRONICA) QUE AFECTA AL SISTEMA DIGESTIVO SINTOMATICO",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "categoria": "(E10 - E14) DIABETES MELLITUS",
+      "codigo": "E1191",
+      "descripcion": "DIABETES TIPOMODY",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "categoria": "(E20 - E35) TRASTORNOS DE OTRAS GLANDULAS ENDOCRINAS",
+      "codigo": "E3431",
+      "descripcion": "TALLABAJA",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "categoria": "(E40 - E46) DESNUTRICION",
+      "codigo": "E41XO",
+      "descripcion": "DESNUTRICION GLOBAL SEVERA P/E-111 GRADO",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "categoria": "(E40 - E46) DESNUTRICION",
+      "codigo": "E41X1",
+      "descripcion": "DESNUTRICION GLOBAL MODERADO P/E-11 GRADO",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "categoria": "(E40 - E46) DESNUTRICION",
+      "codigo": "E41X2",
+      "descripcion": "DESNUTRICION GLOBAL LEVE P/E (I GRADO)",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "categoria": "(E40 - E46) DESNUTRICION",
+      "codigo": "E41X3",
+      "descripcion": "RIESGO DE DESNUTRICION",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "categoria": "(E40 - E46) DESNUTRICION",
+      "codigo": "E45X0",
+      "descripcion": "DESNUTRICION CRONICAT/E s   E45X1 - DESNUTRICION CRONICA REAGUDIZADA P/T/E/MC",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "categoria": "(E40 - E46) DESNUTRICION",
+      "codigo": "E45X2",
+      "descripcion": "DESNUTRIDO CRONICO OBESO T/E/MC",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "categoria": "(E40 - E46) DESNUTRICION",
+      "codigo": "E46X1",
+      "descripcion": "DELGADEZGRADOI",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "categoria": "(E40 - E46) DESNUTRICION",
+      "codigo": "E46X2",
+      "descripcion": "DELGADEZ GRADO II",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "categoria": "(E40 - E46) DESNUTRICION",
+      "codigo": "E46X3",
+      "descripcion": "DELGADEZ GRADO III",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "categoria": "(E65 - ESS) OBESIDAD Y OTROS DE HIPERALIMENTACION",
+      "codigo": "E6691",
+      "descripcion": "OBESIDADGRADOI",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "categoria": "(E65 - ESS) OBESIDAD Y OTROS DE HIPERALIMENTACION",
+      "codigo": "E6692",
+      "descripcion": "OBESIDADGRADOII",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO IV: ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABOLICAS",
+      "categoria": "(E65 - ESS) OBESIDAD Y OTROS DE HIPERALIMENTACION",
+      "codigo": "E6693",
+      "descripcion": "OBESIDAD GRADO III",
+      "pagina": 3
+    },
+    {
+      "capitulo": "CAPITULO V; TRASTORNOS MENTALES Y DEL COMPORTAMIENTO",
+      "categoria": "(F10 - F19) TRASTORNOS MENTALES Y DEL COMPORTAMIENTO DEBIDOS AL USO DE SUSTANCIAS PSICOACTIVAS",
+      "codigo": "F1011",
+      "descripcion": "ALTO RIESGO POR CONSUMO EXCESIVO DE ALCOHOL",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO V; TRASTORNOS MENTALES Y DEL COMPORTAMIENTO",
+      "categoria": "(F60 - F69) TRASTORNOS DE LA PERSONALIDAD Y DEL COMPORTAMIENTO EN ADULTOS",
+      "codigo": "F657",
+      "descripcion": "TRASTORNO PARAFI'LICO QUE INVOLUCRA COMPORTAMIENTOS EN SOLITARIO 0 INDIVIDUOS QUE DIERON SUCONSENTIMIENTO",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO V; TRASTORNOS MENTALES Y DEL COMPORTAMIENTO",
+      "categoria": "(F90 - F98) TRASTORNOS EMOCIONALES Y DEL COMPORTAMIENTO QUE APARECEN HABITUALMENTE EN LA NIÑEZ Y EN LA ADOLESCENCIA",
+      "codigo": "F9121",
+      "descripcion": "PERTENENCIA A PANDILLA (PRESENCIA DE AGRESIVIDAD Y VIOLENCIA)",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO V; TRASTORNOS MENTALES Y DEL COMPORTAMIENTO",
+      "categoria": "(F90 - F98) TRASTORNOS EMOCIONALES Y DEL COMPORTAMIENTO QUE APARECEN HABITUALMENTE EN LA NIÑEZ Y EN LA ADOLESCENCIA",
+      "codigo": "F9122",
+      "descripcion": "PERTENECIENTE A GRUPOS ORGANIZADOS",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G30 - G32) OTRAS ENFERMEDADES DEGENERATIVAS DEL SISTEMA NERVIOSO",
+      "codigo": "G3109",
+      "descripcion": "DEMENCIA FRONTOTEMPORAL EN LA ENFERMEDAD DE PICK",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4030",
+      "descripcion": "ATAQUES EPILEPTICOS ATONICOS (REFRACTARIOS AL TRATAMIENTO)",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4031",
+      "descripcion": "ATAQUES EPILEPTICOS CLONICOS (REFRACTARIOS AL TRATAMIENTO)",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4032",
+      "descripcion": "ATAQUES EPILEPTICOS MIOCLONICOS (REFRACTARIOS AL TRATAMIENTO)",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4033",
+      "descripcion": "ATAQUE EPILEPTICOS TONICOS (REFRACTARIOS AL TRATAMIENTO)",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4034",
+      "descripcion": "ATAQUE EPILEPTICOS TONICO-CLONICOS (REFRACTARIOS AL TRATAMIENTO)",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4035",
+      "descripcion": "EPILEPSIA CON ATAQUES DE GRAN MAL AL DESPERTAR",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4036",
+      "descripcion": "EPILEPSIA MIOCLONICA PROGRESIVA CON DISTONIA",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4037",
+      "descripcion": "EPILEPSIA NEONATAL IDIOPATICA BENIGNA",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4038",
+      "descripcion": "ENFERMEDAD DE LAFORA",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4039",
+      "descripcion": "EPILEPSIA DE AUSENCIA INFANTIL",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4041",
+      "descripcion": "EPILEPSIA MIOCLONICA ASTATICA",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4042",
+      "descripcion": "SINDROME DE ESPASMOS INFANTILES",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4043",
+      "descripcion": "ENCEFALOPATI'A MIOCLONICA SINTOMATICA PRECOZ",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4044",
+      "descripcion": "ENCEFALOPATIA DISKINETICA EPILEPTICA INFANTIL",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4046",
+      "descripcion": "MIOCLONIA PERIORAL CON AUSENCIAS",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4047",
+      "descripcion": "SINDROMEDEEAST",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4081",
+      "descripcion": "SINDROME DE LENNOX -GASTAUT",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4082",
+      "descripcion": "SINDROME DE WEST",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO VI: ENFERMEDADES DEL SISTEMA NERVIOSO",
+      "categoria": "(G40 - G47) TRASTORNOS EPISODICOS Y PAROXISTICOS",
+      "codigo": "G4083",
+      "descripcion": "SINDROME DE DRAVET",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO X: ENFERMEDADES DEL SISTEMA RESPIRATORIO",
+      "categoria": "(J00 - J06) INFECCIONES AGUDAS DE LAS VIAS RESPIRATORIAS SUPERIORES",
+      "codigo": "J0501",
+      "descripcion": "CRUPLEVE",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO X: ENFERMEDADES DEL SISTEMA RESPIRATORIO",
+      "categoria": "(J00 - J06) INFECCIONES AGUDAS DE LAS VIAS RESPIRATORIAS SUPERIORES",
+      "codigo": "J0502",
+      "descripcion": "CRUPMODERADO",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO X: ENFERMEDADES DEL SISTEMA RESPIRATORIO",
+      "categoria": "(J00 - J06) INFECCIONES AGUDAS DE LAS VIAS RESPIRATORIAS SUPERIORES",
+      "codigo": "J0503",
+      "descripcion": "CRUPSEVERO",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO X: ENFERMEDADES DEL SISTEMA RESPIRATORIO",
+      "categoria": "(J00 - J06) INFECCIONES AGUDAS DE LAS VIAS RESPIRATORIAS SUPERIORES",
+      "codigo": "J0681",
+      "descripcion": "FARINGO AMIGDALITIS PURULENTA J.              J0682 - OTRAS FARINGOADMIGDALITIS",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO X: ENFERMEDADES DEL SISTEMA RESPIRATORIO",
+      "categoria": "(J00 - J06) INFECCIONES AGUDAS DE LAS VIAS RESPIRATORIAS SUPERIORES",
+      "codigo": "J0691",
+      "descripcion": "NONEUMONIA",
+      "pagina": 4
+    },
+    {
+      "capitulo": "CAPITULO X: ENFERMEDADES DEL SISTEMA RESPIRATORIO",
+      "categoria": "(J09 - J18) INFLUENZA (GRIPE) Y NEUMONIA",
+      "codigo": "J1891",
+      "descripcion": "NEUMONIA GRAVE",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO X: ENFERMEDADES DEL SISTEMA RESPIRATORIO",
+      "categoria": "(J09 - J18) INFLUENZA (GRIPE) Y NEUMONIA",
+      "codigo": "J1892",
+      "descripcion": "ENFERMEDAD MUY GRAVE",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO X: ENFERMEDADES DEL SISTEMA RESPIRATORIO",
+      "categoria": "(J40 -J47) ENFERMEDADES CRONICAS DE LAS VIAS RESPIRATORIAS INFERIORES",
+      "codigo": "J4591",
+      "descripcion": "SOB / SIBILANCIA HIPERACTIVIDAD BRONQUIAL",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO Xl: ENFERMEDADES DEL APARATO DIGESTIVO",
+      "categoria": "(K55 - K64) OTRAS ENFERMEDADES DE LOS INTESTINOS",
+      "codigo": "K640",
+      "descripcion": "HEMORROIDES DE PRIMER GRADO",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO Xl: ENFERMEDADES DEL APARATO DIGESTIVO",
+      "categoria": "(K55 - K64) OTRAS ENFERMEDADES DE LOS INTESTINOS",
+      "codigo": "K641",
+      "descripcion": "HEMORROIDES DE SEGUNDO GRADO",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO Xl: ENFERMEDADES DEL APARATO DIGESTIVO",
+      "categoria": "(K55 - K64) OTRAS ENFERMEDADES DE LOS INTESTINOS",
+      "codigo": "K642",
+      "descripcion": "HEMORROIDES DE TERCER 6RADO",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO Xl: ENFERMEDADES DEL APARATO DIGESTIVO",
+      "categoria": "(K55 - K64) OTRAS ENFERMEDADES DE LOS INTESTINOS",
+      "codigo": "K643",
+      "descripcion": "HEMORROIDES DE CUARTO GRADO",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO Xl: ENFERMEDADES DEL APARATO DIGESTIVO",
+      "categoria": "(K55 - K64) OTRAS ENFERMEDADES DE LOS INTESTINOS",
+      "codigo": "K644",
+      "descripcion": "MARCAS RESIDUALES EN LA PIEL, DE HEMORROIDES",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO Xl: ENFERMEDADES DEL APARATO DIGESTIVO",
+      "categoria": "(K55 - K64) OTRAS ENFERMEDADES DE LOS INTESTINOS",
+      "codigo": "K645",
+      "descripcion": "TROMBOSIS VENOSA PERIANAL",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO Xl: ENFERMEDADES DEL APARATO DIGESTIVO",
+      "categoria": "(K55 - K64) OTRAS ENFERMEDADES DE LOS INTESTINOS",
+      "codigo": "K648",
+      "descripcion": "OTRAS HEMORROIDES ESPECIFICADAS",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO Xl: ENFERMEDADES DEL APARATO DIGESTIVO",
+      "categoria": "(K55 - K64) OTRAS ENFERMEDADES DE LOS INTESTINOS",
+      "codigo": "K649",
+      "descripcion": "HEMORROIDES, SIN OTRA ESPECIFICACION",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XIV: ENFERMEDADES DEL SISTEMA GENITOURINARIO",
+      "categoria": "(N70 - N77) ENFERMEDADES INFLAMATORIAS DE LOS ORGANOS PELVICOS FEMENIÑOS",
+      "codigo": "N7681",
+      "descripcion": "VAGINOSIS BACTERIANA",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XV: EMBARAZO, PARTO Y PUERPERIO",
+      "categoria": "(020 - 029) OTROS TRASTORNOS MATERNOS RELACIONADOS PRINCIPALMENTE CON EL EMBARAZO",
+      "codigo": "O2680",
+      "descripcion": "GINGIVITIS DEL EMBARAZO",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XV: EMBARAZO, PARTO Y PUERPERIO",
+      "categoria": "(020 - 029) OTROS TRASTORNOS MATERNOS RELACIONADOS PRINCIPALMENTE CON EL EMBARAZO",
+      "codigo": "O2681",
+      "descripcion": "GRANULOMA DEL EMBARAZO [GRANULOMA GRAVIDO]",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XV: EMBARAZO, PARTO Y PUERPERIO",
+      "categoria": "(020 - 029) OTROS TRASTORNOS MATERNOS RELACIONADOS PRINCIPALMENTE CON EL EMBARAZO",
+      "codigo": "O2688",
+      "descripcion": "OTRAS MANIFESTACIONES BUCALES ESPECIFICADAS",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XV: EMBARAZO, PARTO Y PUERPERIO",
+      "categoria": "(020 - 029) OTROS TRASTORNOS MATERNOS RELACIONADOS PRINCIPALMENTE CON EL EMBARAZO",
+      "codigo": "O2689",
+      "descripcion": "MANIFESTACIONES BUCALES, NO ESPECIFICADAS",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XV: EMBARAZO, PARTO Y PUERPERIO",
+      "categoria": "(020 - 029) OTROS TRASTORNOS MATERNOS RELACIONADOS PRINCIPALMENTE CON EL EMBARAZO",
+      "codigo": "O2881",
+      "descripcion": "HEMOLISIS, ENZIMAS HEPATICAS ELEVADAS Y PLAQUETAS BAJAS (HELLP)",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XV: EMBARAZO, PARTO Y PUERPERIO",
+      "categoria": "(080 - 084) PARTO",
+      "codigo": "O8000",
+      "descripcion": "PARTO VERTICAL",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XV: EMBARAZO, PARTO Y PUERPERIO",
+      "categoria": "(080 - 084) PARTO",
+      "codigo": "O8001",
+      "descripcion": "PARTO HORIZONTAL",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XVI: CIERTAS AFECCIONES ORIGINADAS EN EL PERIODO PERINATAL",
+      "categoria": "(P05 - P08) TRASTORNOS RELACIONADOS CON LA DURACION DE LA GESTACION Y EL CRECIMIENTO FETAL",
+      "codigo": "P0711",
+      "descripcion": "RN DE MUY BAJO PESO AL NACER (< 1500 GRAMOS)",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XVI: CIERTAS AFECCIONES ORIGINADAS EN EL PERIODO PERINATAL",
+      "categoria": "(P05 - P08) TRASTORNOS RELACIONADOS CON LA DURACION DE LA GESTACION Y EL CRECIMIENTO FETAL",
+      "codigo": "P0712",
+      "descripcion": "RN DE BAJO PESO AL NACER (< 2500 GRAMOS) 's       P0713 - RN PREMATURO",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XVII: MALFORMACIONES CONGENITAS, DEFORMIDADES Y ANOMALIAS CROMOSOMICAS",
+      "categoria": "(Q00 - Q07) MALFORMACIONES CONGENITAS DEL SISTEMA NERVIOSO",
+      "codigo": "Q0301",
+      "descripcion": "ANOMALIA DEL ACUEDUCTO DE SILVIO",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XVII: MALFORMACIONES CONGENITAS, DEFORMIDADES Y ANOMALIAS CROMOSOMICAS",
+      "categoria": "(Q00 - Q07) MALFORMACIONES CONGENITAS DEL SISTEMA NERVIOSO",
+      "codigo": "Q0302",
+      "descripcion": "ESTENOSIS DEL ACUEDUCTO DE SILVIO",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XVII: MALFORMACIONES CONGENITAS, DEFORMIDADES Y ANOMALIAS CROMOSOMICAS",
+      "categoria": "(Q00 - Q07) MALFORMACIONES CONGENITAS DEL SISTEMA NERVIOSO",
+      "codigo": "Q0303",
+      "descripcion": "OBSTRUCCION CONGENITA DEL ACUEDUCTO DE SILVIO A",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XVII: MALFORMACIONES CONGENITAS, DEFORMIDADES Y ANOMALIAS CROMOSOMICAS",
+      "categoria": "(Q00 - Q07) MALFORMACIONES CONGENITAS DEL SISTEMA NERVIOSO",
+      "codigo": "Q0311",
+      "descripcion": "SI'NDROME DE DANDY-WALKER",
+      "pagina": 5
+    },
+    {
+      "capitulo": "CAPITULO XVIII: SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE",
+      "categoria": "(R50 - R69) SINTOMAS Y SIGNOS GENERALES",
+      "codigo": "R5091",
+      "descripcion": "FEBRILSOSPECHOSO DE MALARIA",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XVIII: SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE",
+      "categoria": "(R50 - R69) SINTOMAS Y SIGNOS GENERALES",
+      "codigo": "R6201",
+      "descripcion": "RIESGO EN EL AREA DEL LENGUAJE",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XVIII: SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE",
+      "categoria": "(R50 - R69) SINTOMAS Y SIGNOS GENERALES",
+      "codigo": "R6202",
+      "descripcion": "RIESGO EN EL AREA MOTORA",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XVIII: SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE",
+      "categoria": "(R50 - R69) SINTOMAS Y SIGNOS GENERALES",
+      "codigo": "R6281",
+      "descripcion": "RIESGO EN EL AREA SOCIAL",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XVIII: SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE",
+      "categoria": "(R50 - R69) SINTOMAS Y SIGNOS GENERALES",
+      "codigo": "R6282",
+      "descripcion": "RIESGO EN EL AREA DE COORDINACION",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XVIII: SÍNTOMAS, SIGNOS Y HALLAZGOS ANORMALES CLÍNICOS Y DE LABORATORIO, NO CLASIFICADOS EN OTRA PARTE",
+      "categoria": "(R50 - R69) SINTOMAS Y SIGNOS GENERALES",
+      "codigo": "R6291",
+      "descripcion": "RIESGO EN EL DESARROLLO PSICOMOTOR",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XIX: TRAUMATISMOS, ENVENAMIENTOS Y ALGUNAS OTRAS CONSECUENCIAS DE CAUSAS EXTERNAS",
+      "categoria": "(T66 - T78) OTROS EFECTOS Y LOS NO ESPECIFICADOS DE CAUSAS EXTERNAS",
+      "codigo": "T7411",
+      "descripcion": "ABUSO FISICO A ESPOSA (0)",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XIX: TRAUMATISMOS, ENVENAMIENTOS Y ALGUNAS OTRAS CONSECUENCIAS DE CAUSAS EXTERNAS",
+      "categoria": "(T66 - T78) OTROS EFECTOS Y LOS NO ESPECIFICADOS DE CAUSAS EXTERNAS",
+      "codigo": "T7412",
+      "descripcion": "ABUSO FISICO A NIÑO O BEBÉ",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XIX: TRAUMATISMOS, ENVENAMIENTOS Y ALGUNAS OTRAS CONSECUENCIAS DE CAUSAS EXTERNAS",
+      "categoria": "(T66 - T78) OTROS EFECTOS Y LOS NO ESPECIFICADOS DE CAUSAS EXTERNAS",
+      "codigo": "T7480",
+      "descripcion": "RIESGO DE ABUSO FISICO Y/0 EMOCIONAL Y/0 SEXUAL",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XIX: TRAUMATISMOS, ENVENAMIENTOS Y ALGUNAS OTRAS CONSECUENCIAS DE CAUSAS EXTERNAS",
+      "categoria": "(T80 - T88) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA, NO CLASIFICADAS EN OTRA PARTE",
+      "codigo": "T8331",
+      "descripcion": "EXPULSION DE DIU",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XIX: TRAUMATISMOS, ENVENAMIENTOS Y ALGUNAS OTRAS CONSECUENCIAS DE CAUSAS EXTERNAS",
+      "categoria": "(T80 - T88) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA, NO CLASIFICADAS EN OTRA PARTE",
+      "codigo": "T8332",
+      "descripcion": "SANGRADO ANORMAL ASOCIADO A DIU",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XIX: TRAUMATISMOS, ENVENAMIENTOS Y ALGUNAS OTRAS CONSECUENCIAS DE CAUSAS EXTERNAS",
+      "categoria": "(T80 - T88) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA, NO CLASIFICADAS EN OTRA PARTE",
+      "codigo": "T8333",
+      "descripcion": "DIU EN CAVIDAD ABDOMINAL",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XIX: TRAUMATISMOS, ENVENAMIENTOS Y ALGUNAS OTRAS CONSECUENCIAS DE CAUSAS EXTERNAS",
+      "categoria": "(T80 - T88) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA, NO CLASIFICADAS EN OTRA PARTE",
+      "codigo": "T8334",
+      "descripcion": "DIU ENCARCELADO",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XIX: TRAUMATISMOS, ENVENAMIENTOS Y ALGUNAS OTRAS CONSECUENCIAS DE CAUSAS EXTERNAS",
+      "categoria": "(T80 - T88) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA, NO CLASIFICADAS EN OTRA PARTE",
+      "codigo": "T8335",
+      "descripcion": "COMPLICACION DE DIU CON PERFORACION UTERINA",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XIX: TRAUMATISMOS, ENVENAMIENTOS Y ALGUNAS OTRAS CONSECUENCIAS DE CAUSAS EXTERNAS",
+      "categoria": "(T80 - T88) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA, NO CLASIFICADAS EN OTRA PARTE",
+      "codigo": "T8336",
+      "descripcion": "DOLOR PELVICO ASOCIADO CON DIU",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(W00 - X59) OTRAS CAUSAS EXTERNAS DE TRAUMATISMOS ACCIDENTALES",
+      "codigo": "X2095",
+      "descripcion": "CONTACTO TRAUMATICO POR MICRURUS",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(W00 - X59) OTRAS CAUSAS EXTERNAS DE TRAUMATISMOS ACCIDENTALES",
+      "codigo": "W5591",
+      "descripcion": "PERSONA MORDIDA POR MURCIELAGO EN LUGAR NO ESPECIFICADO",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(W00 - X59) OTRAS CAUSAS EXTERNAS DE TRAUMATISMOS ACCIDENTALES",
+      "codigo": "X2091",
+      "descripcion": "CONTACTO TRAUMATICO CON SERPIENTES Y LAGARTOS VENENOSOS EN PERSONA MORDIDA POR BOTHROOPS",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(W00 - X59) OTRAS CAUSAS EXTERNAS DE TRAUMATISMOS ACCIDENTALES",
+      "codigo": "X2092",
+      "descripcion": "CONTACTO TRAUMATICO CON SERPIENTES Y LAGARTOS VENENOSOS EN PERSONA MORDIDA POR LACHESIS",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(W00 - X59) OTRAS CAUSAS EXTERNAS DE TRAUMATISMOS ACCIDENTALES",
+      "codigo": "X2093",
+      "descripcion": "CONTACTO TRAUMATICO CON SERPIENTES Y LAGARTOS VENENOSOS EN PERSONA MORDIDA POR CROTALUS",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(W00 - X59) OTRAS CAUSAS EXTERNAS DE TRAUMATISMOS ACCIDENTALES",
+      "codigo": "X2094",
+      "descripcion": "CONTACTO TRAUMATICO CON SERPIENTES Y LAGARTOS VENENOSOS EN PERSONA MORDIDA POR OTRAS ESPECIES",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(W00 - X59) OTRAS CAUSAS EXTERNAS DE TRAUMATISMOS ACCIDENTALES",
+      "codigo": "X2191",
+      "descripcion": "CONTACTO TRAUMATICO CON ARAÑAS VENENOSAS EN PERSONA MORDIDA POR LOXOSCELES (ARAÑA CASERA)",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(W00 - X59) OTRAS CAUSAS EXTERNAS DE TRAUMATISMOS ACCIDENTALES",
+      "codigo": "X2193",
+      "descripcion": "CONTACTO TRAUMATICO CON ARAÑAS VENENOSAS EN PERSONA MORDIDA POR OTROS ARACNIDOS O NO DEFINIDOS",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4091",
+      "descripcion": "REACCION ADVERSA LEVE / NO SERIO",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4092",
+      "descripcion": "REACCION ADVERSA MODERADA / SERIO",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4093",
+      "descripcion": "REACCION ADVERSA GRAVE",
+      "pagina": 6
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4111",
+      "descripcion": "EFECTOS ADVERSOS LEVES A MEDICAMENTOS ANTITUBERCULOSOS",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4112",
+      "descripcion": "EFECTOS ADVERSOS MODERADOS A MEDICAMENTOS ANTITUBERCULOSOS",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4113",
+      "descripcion": "EFECTOS ADVERSOS GRAVES A MEDICAMENTOS ANTITUBERCULOSOS",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4181",
+      "descripcion": "REACCION ADVERSA A MEDICAMENTOS ANTICHAGASICOS",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4182",
+      "descripcion": "REACCION ADVERSA A MEDICAMENTOS ANT ILEISHMANIASIS",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4183",
+      "descripcion": "REACCION ADVERSA AL MEDICAMENTO ANTI BARTONELOSIS",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4184",
+      "descripcion": "REACCION ADVERSA A MEDICAMENTOS ANTI FIEBRE AMARILLA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4185",
+      "descripcion": "REACCION ADVERSA A MEDICAMENTOS ANTI DENGUE",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4241",
+      "descripcion": "EFECTOS SECUNDARIOS ANTICONCEPTIVOS ORALES COMBINADO",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4242",
+      "descripcion": "EFECTOS SECUNDARIOS ANTICONCEPTIVOS ORALES PROGESTAGENO",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4251",
+      "descripcion": "EFECTOS SECUNDARIOS DE INYECTABLES MENSUAL",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4252",
+      "descripcion": "EFECTOS SECUNDARIOS DE INYECTABLES TRIMESTRAL",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y4253",
+      "descripcion": "EFECTOS SECUNDARIOS DEL IMPLANTE",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y5901",
+      "descripcion": "EFECTOS ADVERSOS A LA VACUNA ANTIPOLIOMIELITICA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y5902",
+      "descripcion": "EFECTOS ADVERSOS A LA VACUNA ANTISARAMPIONOSA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y5903",
+      "descripcion": "EFECTOS ADVERSOS A LA VACUNA ANTIEPATITIS VIRAL B",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y5904",
+      "descripcion": "EFECTOS ADVERSOS DE VACUNA ANTIRRABICA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y5905",
+      "descripcion": "EFECTOS ADVERSOS A LA VACUNA ANTIAMARILICA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y5906",
+      "descripcion": "EFECTOS ADVERSOS A LA VACUNA DIFTERIA, TETANO",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y5907",
+      "descripcion": "EFECTOS ADVERSOS DE VACUNASARAMPION RUBEOLA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y40 - Y84) COMPLICACIONES DE LA ATENCION MEDICA Y QUIRURGICA",
+      "codigo": "Y5908",
+      "descripcion": "EFECTOS ADVERSOS DE VACUNA SARAMPION PAPERA RUBEOLA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y85 - Y89) SECUELAS DE CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "codigo": "Y8831",
+      "descripcion": "COMPLICACIONES DE LIGADURA DE TROMPAS",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XX: CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "categoria": "(Y85 - Y89) SECUELAS DE CAUSAS EXTERNAS DE MORBILIDAD Y DE MORTALIDAD",
+      "codigo": "Y8832",
+      "descripcion": "COMPLICACIONES DE VASECTOMIA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0010",
+      "descripcion": "CONTROL DEL RN ENFERMO",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0011",
+      "descripcion": "CONTROL DEL RN SANO",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0012",
+      "descripcion": "TEST PAUTA BREVE (PB) / CONTROL CRECIMIENTO Y DESARROLLO",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0013",
+      "descripcion": "TEST CON EEDP",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0014",
+      "descripcion": "TEST CON TEPSI",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0015",
+      "descripcion": "NIÑO CON LACTANCIA MATERNA EXCLUSIVA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0016",
+      "descripcion": "NIÑO CON LACTANCIA MATERNA CONTINUADA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0017",
+      "descripcion": "NIÑO CON ALIMENTACION COMPLEMENTARIA ADECUADA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0018",
+      "descripcion": "SESION DE ESTIMULACION TEMPRANA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0140",
+      "descripcion": "EXAMEN GINECOLOGICO DESCARTE DE ETS",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0141",
+      "descripcion": "TOMA DE MUESTRA DE PAP",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0142",
+      "descripcion": "EXAMEN PELVICO",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0143",
+      "descripcion": "EXAM EN DE MAMA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0160",
+      "descripcion": "MAMOGRAFIA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0161",
+      "descripcion": "RADIOGRAFIA PERIAPICAL",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0162",
+      "descripcion": "RADIOGRAFIA OCLUSAL J.        Z0163 - RADIOGRAFIA PANORAMICA",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0164",
+      "descripcion": "RADIOGRAFIA DE PERFIL ESTRICTO",
+      "pagina": 7
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0165",
+      "descripcion": "RADIOGRAFIA DE MORDIDA (BITE WING)",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0170",
+      "descripcion": "HEMOGRAMA",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0171",
+      "descripcion": "HEMOGLOBINA / HEMATOCRITO",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0172",
+      "descripcion": "GRUPO SANGUINED RH",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0173",
+      "descripcion": "EXAMENDEORINA",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0174",
+      "descripcion": "RPROVDRL",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0175",
+      "descripcion": "PRUEBA DE ELISA (VIH)",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0176",
+      "descripcion": "GLICEMIA",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0177",
+      "descripcion": "BATERIA DE LABORATORIO DE LA GESTANTE",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0178",
+      "descripcion": "EXAMEN DE GRUPO SANGRE",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0179",
+      "descripcion": "PRUEBA RAPIDA DE ELISA (VIH)",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0181",
+      "descripcion": "OTROS DIAGNOSTICOS POR IMAGENES A GESTANTE",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0182",
+      "descripcion": "INSPECCION VISUAL CON ACIDO ACETICO (IVAA)",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0183",
+      "descripcion": "INSPECCION VISUAL CON ACIDO ACETICO MAGNIFICADA (IVAAM)",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0271",
+      "descripcion": "EXPEDICION DE CERTIFICADO MEDICO",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0272",
+      "descripcion": "EXPEDICION DE CERTIFICADO DE DEFUNCION",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0273",
+      "descripcion": "EXPEDICION DE CERTIFICADO DE NACIMIENTO",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0274",
+      "descripcion": "EXPEDICION DE CERTIFICADO POR DISCAPACIDAD",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0275",
+      "descripcion": "EXPEDICION DE CERTIFICADO POR INCAPACIDAD",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z00 - Z13) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD PARA INVESTIGACION Y EXAM EN ES",
+      "codigo": "Z0281",
+      "descripcion": "VISACION DE CERTIFICADO",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+      "codigo": "Z2061",
+      "descripcion": "HIJO DE MADRE INFECTADA VIH",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+      "codigo": "Z21X1",
+      "descripcion": "INFECCION POR VIH SIN SIDA",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+      "codigo": "Z21X2",
+      "descripcion": "INFECCION PERINATAL POR VIH",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+      "codigo": "Z2421",
+      "descripcion": "VACUNACION ANTIRRABICA HUMANA POR MORDEDURA DE ANIMAL ESQUEMA REDUCIDO",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+      "codigo": "Z2422",
+      "descripcion": "VACUNACION ANTIRRABICA HUMANA POR MORDEDURA DE ANIMAL ESQUEMA CLASICO",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+      "codigo": "Z2423",
+      "descripcion": "VACUNACION ANTIRRABICA HUMANA POR MORDEDURA DE MURCIELAGO (RABIA SILVESTRE) ESQUEMA REDUCIDO",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+      "codigo": "Z2424",
+      "descripcion": "VACUNACION ANTIRRABICA HUMANA POR MORDEDURA DE MURCIELAGO (RABIA SILVESTRE) ESQUEMA CLASICO",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+      "codigo": "Z2511",
+      "descripcion": "VACUNACION CONTRA INFLUENZA",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+      "codigo": "Z2781",
+      "descripcion": "VACUNACION DT (DIFTERIA TETANOS)",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+      "codigo": "Z2981",
+      "descripcion": "ADMINISTRACION DE VITAMINA A",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+      "codigo": "Z2982",
+      "descripcion": "ADMINISTRACION DE SULFATO FERROSO",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+      "codigo": "Z2983",
+      "descripcion": "ADMINISTRACION ACIDO FOLICO",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+      "codigo": "Z2984",
+      "descripcion": "PROFILAXIS OCULAR",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z20 - Z29) PERSONAS CON RIESGOS POTENCIALES PARA SU SALUD, RELACIONADOS CON ENFERMEDADES TRANSMISIBLES",
+      "codigo": "Z2985",
+      "descripcion": "ADMINISTRACION DE VITAMINA K",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3001",
+      "descripcion": "CONSEJERIA Y ORIENTACION GENERAL PARA PLANIFICACION FAMILIAR",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3002",
+      "descripcion": "CONSEJERIA Y ORIENTACION AQV",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3003",
+      "descripcion": "PRESCRIPCION INICIAL DE METODO ORAL COMBINADO",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3004",
+      "descripcion": "PRESCRIPCION INICIAL DE METODO ORAL PROGESTAGENO",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z30051",
+      "descripcion": "PRESCRIPCION INICIAL DE METODO INYECTABLE MENSUAL",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z30052",
+      "descripcion": "PRESCRIPCION INICIAL DE METODO INYECTABLE TRIMESTRAL",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3006",
+      "descripcion": "PRESCRIPCION INICIAL DE METODO IMPLANTE",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3007",
+      "descripcion": "PRESCRIPCION INICIAL DE METODO TABLETA VAGINAL U OTRO ESPERMICIDA",
+      "pagina": 8
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3008",
+      "descripcion": "PRESCRIPCION INICIAL DE METODO PRESERVATIVO MASCULINO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3009",
+      "descripcion": "PRESCRIPCION INICIAL DE METODO PRESERVATIVO FEMENIÑO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z30091",
+      "descripcion": "PRESCRIPCION INICIALDE METODO DE LACTANCIA MATERNA YAMENORREA (MELA)",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z30092",
+      "descripcion": "PRESCRIPCION INICIAL DE METODO DE ABSTINENCIA PERIODICA RITMO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z30093",
+      "descripcion": "PRESCRIPCION INICIAL DE METODO DE ABSTINENCIA PERIODICA BILLINGS",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z30094",
+      "descripcion": "PRESCRIPCION INICIAL DE METODO DIAS FIJOS",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3031",
+      "descripcion": "ATENCION DE ABORTO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3043",
+      "descripcion": "REPETICION DE PRESCRIPCION DE METODO ORAL COMBINADO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3044",
+      "descripcion": "REPETICION DE PRESCRIPCION DE METODO ORAL PROGESTAGENO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z30451",
+      "descripcion": "REPETICION DE PRESCRIPCION DE METODO INYECTABLE MENSUAL",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z30452",
+      "descripcion": "REPETICION DE PRESCRIPCION DE METODO INYECTABLE TRIMESTRAL",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3046",
+      "descripcion": "REPETICION DE PRESCRIPCION DE METODO DE IMPLANTE",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3047",
+      "descripcion": "REPETICION DE PRESCRIPCION DE METODO TABLETA VAGINAL U OTRO ESPERMICIDA",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3048",
+      "descripcion": "REPETICION DE PRESCRIPCION DE METODO DE PRESERVATIVO MASCULINO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3049",
+      "descripcion": "REPETICION DE PRESCRIPCION DE METODO DE PRESERVATIVO FEMENIÑO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z30491",
+      "descripcion": "REPETICION DE PRESCRIPCION DE METODO DE LACTANCIA MATERNA Y AMENORREA (MELA)",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z30492",
+      "descripcion": "REPETICION DE PRESCRIPCION DE METODO DE ABSTINENCIA PERIODICA RITMO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z30493",
+      "descripcion": "REPETICION DE PRESCRIPCION DE METODO DE ABSTINENCIA PERIODICA BILLINGS",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z30494",
+      "descripcion": "REPETICION DE PRESCRIPCION DE METODO DIAS FIJOS",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3051",
+      "descripcion": "RETIRODEDIU",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3091",
+      "descripcion": "ANTICONCEPCION ORAL DE EMERGENCIA COMBINADO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3092",
+      "descripcion": "ANTICONCEPCION ORAL DE EMERGENCIA PROGESTAGENO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3181",
+      "descripcion": "SESION DE PSICOPROFILAXIS GENERAL (REGISTRO GRUPAL)",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3182",
+      "descripcion": "SESION DE PSICOPROFILAXIS ESPECIFICO (REGISTRO INDIVIDUAL)",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3183",
+      "descripcion": "PREPARACION PARA LACTANCIA MATERNA",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33XO",
+      "descripcion": "ESTADO DE EMBARAZO, INCIDENTAL",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X1",
+      "descripcion": "FALLA DE DIU",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X2",
+      "descripcion": "FALLA MAC COMBINADO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X21",
+      "descripcion": "FALLA ANTICONCEPTIVO ORAL COMBINADO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X22",
+      "descripcion": "FALLAANTICONCEPTIVO ORAL SOLO PROGESTAGENO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X23",
+      "descripcion": "FALLA ANTICONCEPTIVO ORAL DE EMERGENCIA COMBINADO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X24",
+      "descripcion": "FALLAANTICONCEPTIVO ORAL DE EMERGENCIA PROGESTAGENO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X3",
+      "descripcion": "ESTADO DE EMBARAZO, INCIDENTAL",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X31",
+      "descripcion": "FALLA INYECTABLE MENSUAL",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X32",
+      "descripcion": "FALLA INYECTABLE TRIMESTRAL",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X4",
+      "descripcion": "FALLADEIMPLANTE s            Z33X5 - FALLA PRESERVATIVOS MASCULINO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X51",
+      "descripcion": "FALLA PRESERVATIVOS FEMENIÑO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X6",
+      "descripcion": "FALLA DE TABLETA VAGINAL U OTRO ESPERMICIDA",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X7",
+      "descripcion": "FALLA DE LIGADURA DE TROMPAS",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X8",
+      "descripcion": "FALLA DE VASECTOMIA",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X9",
+      "descripcion": "FALLA DE METODO NATURAL",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X91",
+      "descripcion": "FALLA DE RITMO",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X92",
+      "descripcion": "FALLA DE BILLINGS",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X93",
+      "descripcion": "FALLA DE METODO DE LACTANCIA MATERNAYAMENORREA (MELA) j.",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z33X94",
+      "descripcion": "FALLA METODO DIAS FIJOS",
+      "pagina": 9
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3490",
+      "descripcion": "GESTANTE CAPTADA",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3491",
+      "descripcion": "GESTANTE NORMAL CONTROL 1ER. TRIMESTRE (12 SEMANAS)",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3492",
+      "descripcion": "GESTANTE NORMAL CONTROL 2DO. TRIMESTRE (24 SEMANAS)",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3493",
+      "descripcion": "GESTANTE NORMAL CONTROL 3ER. TRIMESTRE (36 SEMANAS)",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3591",
+      "descripcion": "GESTANTE CON FACTOR DE RIESGO CONTROL 1ER. TRIMESTRE (12 SEMANAS)",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3592",
+      "descripcion": "GESTANTE CON FACTOR DE RIESGO CONTROL 2DO. TRIMESTRE (24 SEMANAS)",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3593",
+      "descripcion": "GESTANTE CON FACTOR DE RIESGO CONTROL 3ER. TRIMESTRE (36 SEMANAS)",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z30 - Z39) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD EN CIRCUNSTANCIAS RELACIONADAS CON LA REPRODUCCION",
+      "codigo": "Z3921",
+      "descripcion": "PUERPERA",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z4631",
+      "descripcion": "PROTESISFUA",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z4632",
+      "descripcion": "PROTESIS REMOVIBLE",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z4633",
+      "descripcion": "PROTESIS TOTAL",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z4634",
+      "descripcion": "INCRUSTRACION",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z5101",
+      "descripcion": "RADIOTERAPIA",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z5102",
+      "descripcion": "LASER TERAPIA",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z5103",
+      "descripcion": "RADIUM INTRACAVITARIO",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z5181",
+      "descripcion": "QUIMIOPROFILAXIS COTRIMOXAZOL",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z5182",
+      "descripcion": "QUIMIOPROFILAXIS CON ISONIAZIDA",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z5183",
+      "descripcion": "TRATAMIENTO ANTIVIRAL PARA VIH",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z5184",
+      "descripcion": "LACTANCIA ARTIFICIAL RN MADRE VIH (+)",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z5185",
+      "descripcion": "TRATAMIENTO ANTIRRETROVIRAL PARA LA MADRE VIH (+)",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z5186",
+      "descripcion": "TRATAMIENTO ANTIRRETROVIRAL RN MADRE VIH (+)",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z5187",
+      "descripcion": "TRATAMIENTO PROFILACTICO ANTIRETROVIRAL CON ZIDOVUDINA",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z5188",
+      "descripcion": "TRATAMIENTO PROFILACTICO ANTIRETROVIRAL CON NEVIRAPINA",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z40 - Z54) PERSONAS EN CONTACTO CON SERVICIOS DE SALUD PARA PROCEDIMIENTOS ESPECIFICOS Y CUIDADOS DE SALUD",
+      "codigo": "Z5189",
+      "descripcion": "TRATAMIENTO PROFILACTICO PARA VIH POR EXPOSICION",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z55 - Z65) PERSONAS CON RIESGOS POTENCIALES A SU SALUD RELACIONADAS CON                       .& CIRCUNSTANCIAS SOCIOECONOMICAS Y PSICOSOCIALES",
+      "codigo": "Z5751",
+      "descripcion": "EXPOSICION OCUPACIONAL A METALES PESADOS (HIERRO, PLOMO, CADMIO, ARSENICO, MERCURIO)",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z55 - Z65) PERSONAS CON RIESGOS POTENCIALES A SU SALUD RELACIONADAS CON                       .& CIRCUNSTANCIAS SOCIOECONOMICAS Y PSICOSOCIALES",
+      "codigo": "Z5781",
+      "descripcion": "EXPOSICION OCUPACIONALAAGENTES BIOLOGICOS",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z55 - Z65) PERSONAS CON RIESGOS POTENCIALES A SU SALUD RELACIONADAS CON                       .& CIRCUNSTANCIAS SOCIOECONOMICAS Y PSICOSOCIALES",
+      "codigo": "Z5782",
+      "descripcion": "EXPOSICION OCUPACIONALA FACTORES PSICOSOCIALES",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z55 - Z65) PERSONAS CON RIESGOS POTENCIALES A SU SALUD RELACIONADAS CON                       .& CIRCUNSTANCIAS SOCIOECONOMICAS Y PSICOSOCIALES",
+      "codigo": "Z5783",
+      "descripcion": "EXPOSICION OCUPACIONALA FACTORES ERGONOMICOS",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z55 - Z65) PERSONAS CON RIESGOS POTENCIALES A SU SALUD RELACIONADAS CON                       .& CIRCUNSTANCIAS SOCIOECONOMICAS Y PSICOSOCIALES",
+      "codigo": "Z5961",
+      "descripcion": "POBREZA RECIENTE",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z55 - Z65) PERSONAS CON RIESGOS POTENCIALES A SU SALUD RELACIONADAS CON                       .& CIRCUNSTANCIAS SOCIOECONOMICAS Y PSICOSOCIALES",
+      "codigo": "Z5962",
+      "descripcion": "POBREZACRONICA",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z55 - Z65) PERSONAS CON RIESGOS POTENCIALES A SU SALUD RELACIONADAS CON                       .& CIRCUNSTANCIAS SOCIOECONOMICAS Y PSICOSOCIALES",
+      "codigo": "Z6041",
+      "descripcion": "PACIENTE ABANDONADO",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z55 - Z65) PERSONAS CON RIESGOS POTENCIALES A SU SALUD RELACIONADAS CON                       .& CIRCUNSTANCIAS SOCIOECONOMICAS Y PSICOSOCIALES",
+      "codigo": "Z6081",
+      "descripcion": "PERSONA EN ABANDONO SOCIAL",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z55 - Z65) PERSONAS CON RIESGOS POTENCIALES A SU SALUD RELACIONADAS CON                       .& CIRCUNSTANCIAS SOCIOECONOMICAS Y PSICOSOCIALES",
+      "codigo": "Z6111",
+      "descripcion": "NIÑO EN ABANDONO SOCIAL SIN SOPORTE FAMILIAR 0 SOCIAL INSTITUCIONAL.",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z55 - Z65) PERSONAS CON RIESGOS POTENCIALES A SU SALUD RELACIONADAS CON                       .& CIRCUNSTANCIAS SOCIOECONOMICAS Y PSICOSOCIALES",
+      "codigo": "Z6361",
+      "descripcion": "PERSONA ADULTA MAYOR INDEPENDIENTE",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z55 - Z65) PERSONAS CON RIESGOS POTENCIALES A SU SALUD RELACIONADAS CON                       .& CIRCUNSTANCIAS SOCIOECONOMICAS Y PSICOSOCIALES",
+      "codigo": "Z6362",
+      "descripcion": "PERSONA ADULTA MAYOR DEPENDIENTE PARCIAL",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z55 - Z65) PERSONAS CON RIESGOS POTENCIALES A SU SALUD RELACIONADAS CON                       .& CIRCUNSTANCIAS SOCIOECONOMICAS Y PSICOSOCIALES",
+      "codigo": "Z6363",
+      "descripcion": "PERSONA ADULTA MAYOR DEPENDIENTE TOTAL",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z55 - Z65) PERSONAS CON RIESGOS POTENCIALES A SU SALUD RELACIONADAS CON                       .& CIRCUNSTANCIAS SOCIOECONOMICAS Y PSICOSOCIALES",
+      "codigo": "Z6381",
+      "descripcion": "PROBLEMAS SOCIALES RELACIONADOS CON LA VIOLENCIA FAMILIAR",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z70 - Z76) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD POR OTRAS CIRCUNSTANCIAS                                                                            ;",
+      "codigo": "Z7171",
+      "descripcion": "CONSEJERIA PRE-TEST PARA VIH",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z70 - Z76) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD POR OTRAS CIRCUNSTANCIAS                                                                            ;",
+      "codigo": "Z7172",
+      "descripcion": "CONSEJERIA POST-TEST POSITIVO PARA VIH",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z70 - Z76) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD POR OTRAS CIRCUNSTANCIAS                                                                            ;",
+      "codigo": "Z7173",
+      "descripcion": "CONSEJERIA POST-TEST NEGATIVO PARA VIH",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z70 - Z76) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD POR OTRAS CIRCUNSTANCIAS                                                                            ;",
+      "codigo": "Z7174",
+      "descripcion": "CONSEJERIA A PERSONAS QUE VIVEN CON VIH/SIDA",
+      "pagina": 10
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z70 - Z76) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD POR OTRAS CIRCUNSTANCIAS                                                                            ;",
+      "codigo": "Z7191",
+      "descripcion": "CONSULTA ODONTOESTOMATOLOGICA",
+      "pagina": 11
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z70 - Z76) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD POR OTRAS CIRCUNSTANCIAS                                                                            ;",
+      "codigo": "Z7241",
+      "descripcion": "RIESGO DE DESNUTRICION",
+      "pagina": 11
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z70 - Z76) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD POR OTRAS CIRCUNSTANCIAS                                                                            ;",
+      "codigo": "Z7251",
+      "descripcion": "RIESGO DE EMBARAZO POR LA CONDUCTA SEXUAL DE ALTO RIESGO",
+      "pagina": 11
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z70 - Z76) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD POR OTRAS CIRCUNSTANCIAS                                                                            ;",
+      "codigo": "Z7252",
+      "descripcion": "RIESGO DE ETS POR LA CONDUCTA SEXUAL DE ALTO RIESGO",
+      "pagina": 11
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z70 - Z76) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD POR OTRAS CIRCUNSTANCIAS                                                                            ;",
+      "codigo": "Z7253",
+      "descripcion": "RIESGO DE SIDA POR LA CONDUCTA SEXUAL DE ALTO RIESGO",
+      "pagina": 11
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z70 - Z76) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD POR OTRAS CIRCUNSTANCIAS                                                                            ;",
+      "codigo": "Z7254",
+      "descripcion": "RIESGO DE SIDA FOR LA CONDUCTA NO SEXUAL",
+      "pagina": 11
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z70 - Z76) PERSONAS EN CONTACTO CON LOS SERVICIOS DE SALUD POR OTRAS CIRCUNSTANCIAS                                                                            ;",
+      "codigo": "Z7281",
+      "descripcion": "RIESGO DE LESIONES Y ACCIDENTES",
+      "pagina": 11
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z77) CONDICIONES RELACIONADAS CON LA SALUD SEXUAL",
+      "codigo": "Z770",
+      "descripcion": "DISCORDANCIA DE GENERO EN LA ADOLESCENCIA O ADULTEZ",
+      "pagina": 11
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z77) CONDICIONES RELACIONADAS CON LA SALUD SEXUAL",
+      "codigo": "Z771",
+      "descripcion": "DISCORDANCIA DE GENERO EN LA INFANCIA",
+      "pagina": 11
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z77) CONDICIONES RELACIONADAS CON LA SALUD SEXUAL",
+      "codigo": "Z772",
+      "descripcion": "DISCORDANCIA DE GENERO SIN ESPECIFICACION",
+      "pagina": 11
+    },
+    {
+      "capitulo": "CAPITULO XXI: FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS DE SALUD",
+      "categoria": "(Z77) CONDICIONES RELACIONADAS CON LA SALUD SEXUAL",
+      "codigo": "Z773",
+      "descripcion": "ASESORAMIENTO RELACIONADO CON EL COMPORTAMIENTO Y LA ORIENTACION SEXUAL O LAS RELACIONES SEXUALES DE LA PERSONA",
+      "pagina": 11
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "archivo_fuente": "rm-447-Minsa-anexo-ii.pdf",
+  "tipo_documento": "Anexo Técnico Resolutivo",
+  "titulo": "ANEXO 2: LISTADO DE CÓDIGOS DE ENFERMEDADES Y PROBLEMAS RELACIONADOS CON LA SALUD - CIE-10 QUE SE DISPONE EL CESE DEL USO",
+  "norma_asociada": "Resolución Ministerial N° 447-2024/MINSA",
+  "emisor": "Ministerio de Salud del Perú (MINSA)",
+  "numero_paginas": 1,
+  "total_codigos_cesados": 20,
+  "grupos": [
+    {
+      "nombre": "Hemorroides (I840 - I849)",
+      "cantidad": 10
+    },
+    {
+      "nombre": "Trastornos de la identidad de género (F640 - F649)",
+      "cantidad": 5
+    },
+    {
+      "nombre": "Trastornos de la inclinación sexual (F651)",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Trastornos del desarrollo psicosexual (F661)",
+      "cantidad": 1
+    },
+    {
+      "nombre": "Dengue (A90X, A91X)",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Enfermedad por virus Zika (U069)",
+      "cantidad": 1
+    }
+  ],
+  "listado_codigos": [
+    {
+      "codigo": "I840",
+      "descripcion": "HEMORROIDES INTERNAS TROMBOSADAS",
+      "grupo": "Enfermedades del aparato circulatorio (Hemorroides)"
+    },
+    {
+      "codigo": "I841",
+      "descripcion": "HEMORROIDES INTERNAS CON OTRAS COMPLICACIONES",
+      "grupo": "Enfermedades del aparato circulatorio (Hemorroides)"
+    },
+    {
+      "codigo": "I842",
+      "descripcion": "HEMORROIDES INTERNAS SIN COMPLICACION",
+      "grupo": "Enfermedades del aparato circulatorio (Hemorroides)"
+    },
+    {
+      "codigo": "I843",
+      "descripcion": "HEMORROIDES EXTERNAS TROMBOSADAS",
+      "grupo": "Enfermedades del aparato circulatorio (Hemorroides)"
+    },
+    {
+      "codigo": "I844",
+      "descripcion": "HEMORROIDES EXTERNAS CON OTRAS COMPLICACIONES",
+      "grupo": "Enfermedades del aparato circulatorio (Hemorroides)"
+    },
+    {
+      "codigo": "I845",
+      "descripcion": "HEMORROIDES EXTERNAS SIN COMPLICACION",
+      "grupo": "Enfermedades del aparato circulatorio (Hemorroides)"
+    },
+    {
+      "codigo": "I846",
+      "descripcion": "PROMINENCIAS CUTANEAS, RESIDUO DE HEMORROIDES",
+      "grupo": "Enfermedades del aparato circulatorio (Hemorroides)"
+    },
+    {
+      "codigo": "I847",
+      "descripcion": "HEMORROIDES TROMBOSADAS NO ESPECIFICADAS",
+      "grupo": "Enfermedades del aparato circulatorio (Hemorroides)"
+    },
+    {
+      "codigo": "I848",
+      "descripcion": "HEMORROIDES NO ESPECIFICADAS, CON OTRAS COMPLICACIONES",
+      "grupo": "Enfermedades del aparato circulatorio (Hemorroides)"
+    },
+    {
+      "codigo": "I849",
+      "descripcion": "HEMORROIDES NO ESPECIFICADAS, SIN COMPLICACION",
+      "grupo": "Enfermedades del aparato circulatorio (Hemorroides)"
+    },
+    {
+      "codigo": "F640",
+      "descripcion": "TRANSEXUALISMO",
+      "grupo": "Trastornos de la personalidad y del comportamiento en adultos"
+    },
+    {
+      "codigo": "F641",
+      "descripcion": "TRANSVESTISMO DE ROL DUAL",
+      "grupo": "Trastornos de la personalidad y del comportamiento en adultos"
+    },
+    {
+      "codigo": "F642",
+      "descripcion": "TRASTORNO DE LA IDENTIDAD DE GENERO EN LA NIÑEZ",
+      "grupo": "Trastornos de la personalidad y del comportamiento en adultos"
+    },
+    {
+      "codigo": "F648",
+      "descripcion": "OTROS TRASTORNOS DE LA IDENTIDAD DE GENERO",
+      "grupo": "Trastornos de la personalidad y del comportamiento en adultos"
+    },
+    {
+      "codigo": "F649",
+      "descripcion": "TRASTORNO DE LA IDENTIDAD DE GENERO, NO ESPECIFICADO",
+      "grupo": "Trastornos de la personalidad y del comportamiento en adultos"
+    },
+    {
+      "codigo": "F651",
+      "descripcion": "TRANSVESTISMO FETICHISTA",
+      "grupo": "Trastornos de la inclinación sexual"
+    },
+    {
+      "codigo": "F661",
+      "descripcion": "ORIENTACION SEXUAL EGODISTONICA",
+      "grupo": "Trastornos psicológicos y del comportamiento del desarrollo psicosexual"
+    },
+    {
+      "codigo": "A90X",
+      "descripcion": "DENGUE",
+      "grupo": "Fiebres virales transmitidas por artrópodos"
+    },
+    {
+      "codigo": "A91X",
+      "descripcion": "DENGUE HEMORRAGICO",
+      "grupo": "Fiebres virales transmitidas por artrópodos"
+    },
+    {
+      "codigo": "U069",
+      "descripcion": "ENFERMEDAD DEL VIRUS ZIKA, NO ESPECIFICADA",
+      "grupo": "Códigos para situaciones especiales / Enfermedad por virus Zika"
+    }
+  ]
+}

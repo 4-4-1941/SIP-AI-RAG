@@ -1,0 +1,40 @@
+{
+  "archivo_fuente": "resolucion-ministerial-n-447-2024-minsa.pdf",
+  "tipo_documento": "Resolución Ministerial",
+  "numero_resolucion": "447-2024/MINSA",
+  "emisor": "Ministerio de Salud del Perú (MINSA)",
+  "titular": "César Henry Vásquez Sánchez - Ministro de Salud",
+  "fecha_emision": "2024-06-27",
+  "lugar_emision": "Lima, Perú",
+  "numero_paginas": 4,
+  "resumen": "Dispone el uso de códigos y descripciones adicionales a la CIE-10 contenidos en el Anexo N° 01, así como el cese de uso de códigos de la CIE-10 contenidos en el Anexo N° 02, aplicables a IPRESS e IAFAS públicas, privadas y mixtas en el territorio nacional.",
+  "articulos": [
+    {
+      "articulo": "Artículo 1",
+      "tema": "Disposición de uso de códigos adicionales a la CIE-10",
+      "referencia": "Anexo N° 01"
+    },
+    {
+      "articulo": "Artículo 2",
+      "tema": "Cese del uso de códigos de la CIE-10",
+      "referencia": "Anexo N° 02"
+    },
+    {
+      "articulo": "Artículo 3",
+      "tema": "Publicación oficial en sede digital del MINSA",
+      "responsable": "Oficina de Transparencia y Anticorrupción de la Secretaría General"
+    }
+  ],
+  "normativa_referenciada": [
+    "Decreto Legislativo N° 1161 (Ley de Organización y Funciones del MINSA)",
+    "Decreto Legislativo N° 1504",
+    "Ley N° 30895",
+    "Decreto Supremo N° 008-2017-SA (ROF del MINSA)",
+    "Decreto Supremo N° 013-2006-SA (Reglamento de Establecimientos de Salud y Servicios Médicos de Apoyo)",
+    "Resolución Ministerial N° 553-2002-SA/DM (Oficialización del uso de CIE-10 en Perú)"
+  ],
+  "anexos_adjuntos": [
+    "Anexo N° 01: Listado de códigos de enfermedades y problemas relacionados con la salud en adición a lo previsto en la CIE-10",
+    "Anexo N° 02: Listado de códigos de enfermedades y problemas relacionados con la salud - CIE-10 que se dispone el cese del uso"
+  ]
+}
