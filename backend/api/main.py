@@ -137,6 +137,18 @@ async def chat(payload: ChatRequest):
     if not settings.nvidia_api_key:
         raise HTTPException(status_code=503, detail="NVIDIA_API_KEY no está configurada.")
 
+    # --- ESTO ES LO NUEVO QUE ARREGLA EL PROBLEMA ---
+    # Si los documentos no han terminado de cargar, responde rápido sin dar error de tiempo.
+    if not _rag_ingested:
+        return {
+            "answer": "El sistema está cargando los 250 documentos en este momento. Por favor, espera 2 minutos y vuelve a preguntar.",
+            "provider": None,
+            "model": None,
+            "rag_active": False,
+            "citations": [],
+        }
+    # ------------------------------------------------
+
     try:
         rag = await get_rag()
         evidence = await rag.retrieve(payload.message, top_k=5) if rag.index.size else {
