@@ -1,0 +1,52 @@
+{
+  "documento": {
+    "nombre_archivo_original": "Resolución Ministerial  N° 250-2022-MINSA .pdf",
+    "id": "RM-250-2022-MINSA",
+    "titulo_oficial": "Resolución Ministerial N° 250-2022/MINSA",
+    "numero": "250-2022/MINSA",
+    "fecha_emision": "2022-03-30",
+    "lugar": "Lima",
+    "tipo_documento": "Resolución Ministerial",
+    "emisor": "Ministerio de Salud del Perú",
+    "ministro": "Hernán Yury Condori Machado",
+    "cargo_firmante": "Ministro de Salud"
+  },
+  "referencia_legal": {
+    "norma_modificada": {
+      "codigo": "NTS N° 144-MINSA/2018/DIGESA",
+      "titulo": "Norma Técnica de Salud: Gestión Integral y Manejo de Residuos Sólidos en Establecimientos de Salud, Servicios Médicos de Apoyo y Centros de Investigación",
+      "aprobada_por": "Resolución Ministerial N° 1295-2018/MINSA"
+    },
+    "apartado_modificado": "VIII. DISPOSICIÓN FINAL",
+    "accion": "Modificación del texto del numeral VIII. DISPOSICIONES FINALES"
+  },
+  "contenido_principal": {
+    "articulo_1": {
+      "descripcion": "Modifica el numeral VIII. DISPOSICIONES FINALES de la NTS N° 144-MINSA/2018/DIGESA",
+      "texto_modificado": {
+        "8.1": "Las DIRIS/DIRESA/GERESA o las que hagan sus veces pueden implementar medidas complementarias en el ámbito de su jurisdicción sin contravenir el marco de la presente Norma Técnica de Salud y acorde a la normatividad vigente.",
+        "8.2": "Los establecimientos de salud del II y III nivel de atención de salud del Ministerio de Salud y de los Gobiernos Regionales, se encargan de completar las etapas del manejo de los residuos sólidos que generan las ambulancias del Sistema de Atención Móvil de Urgencia - SAMU del Ministerio de Salud y de los Gobiernos Regionales, según corresponda, a partir de la etapa de “Almacenamiento Final” hasta la etapa de “Disposición Final de los Residuos Sólidos”. En ese sentido, las ambulancias del SAMU del Ministerio de Salud y de los Gobiernos Regionales, inmediatamente después de realizada cada atención, trasladan y depositan los residuos sólidos debidamente segregados, en el almacenamiento central o final del establecimiento de salud del II y III nivel de atención del Ministerio de Salud o de los Gobiernos Regionales, según corresponda."
+      }
+    },
+    "articulo_2": "Plazo de 5 días hábiles para que los establecimientos de II y III nivel comuniquen al SAMU la ubicación del almacenamiento central o final.",
+    "articulo_3": "Plazo de 5 días hábiles para que el SAMU comunique el listado actualizado de sus ambulancias (incluyendo números de placa).",
+    "articulo_4": "El SAMU y los establecimientos de II y III nivel deben considerar esta Resolución al elaborar sus Planes/Programas de Manejo de Residuos Sólidos.",
+    "articulo_5": "Encarga la publicación en el portal institucional del Ministerio de Salud."
+  },
+  "objetivo": "Regular el manejo de los residuos sólidos generados por las ambulancias del SAMU, asignando a los establecimientos de salud del II y III nivel la responsabilidad de completar las etapas desde el Almacenamiento Final hasta la Disposición Final.",
+  "palabras_clave": [
+    "residuos sólidos",
+    "SAMU",
+    "ambulancias",
+    "almacenamiento final",
+    "disposición final",
+    "establecimientos de salud II y III nivel",
+    "NTS 144",
+    "DIGESA",
+    "Resolución Ministerial 250-2022"
+  ],
+  "expediente": "19-110952-008",
+  "archivo_markdown": "Resolución Ministerial  N° 250-2022-MINSA.md",
+  "fecha_generacion_meta": "2026-11-19",
+  "fuente": "Documento oficial del Ministerio de Salud del Perú"
+}

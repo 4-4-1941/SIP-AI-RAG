@@ -1,0 +1,72 @@
+{
+  "documento": {
+    "nombre_archivo_original": "resolucion-ministerial-n-901-2024-minsa.pdf",
+    "id": "RM-901-2024-MINSA",
+    "titulo_oficial": "Resolución Ministerial N° 901-2024/MINSA",
+    "numero": "901-2024/MINSA",
+    "fecha_emision": "2024-12-26",
+    "lugar": "Lima",
+    "tipo_documento": "Resolución Ministerial",
+    "emisor": "Ministerio de Salud del Perú",
+    "ministro": "César Henry Vásquez Sánchez",
+    "cargo_firmante": "Ministro de Salud"
+  },
+  "referencia_legal": {
+    "norma_modificada": {
+      "codigo": "NTS N° 144-MINSA/2018/DIGESA",
+      "titulo": "Norma Técnica de Salud: Gestión Integral y Manejo de Residuos Sólidos en Establecimientos de Salud, Servicios Médicos de Apoyo y Centros de Investigación",
+      "aprobada_por": "Resolución Ministerial N° 1295-2018/MINSA",
+      "modificada_previamente_por": "Resolución Ministerial N° 250-2022/MINSA"
+    },
+    "apartado_modificado": "VIII. DISPOSICIONES FINALES",
+    "accion": "Incorporación del numeral 8.3"
+  },
+  "contenido_principal": {
+    "articulo_1": {
+      "descripcion": "Incorpora el numeral 8.3 en el apartado VIII. DISPOSICIONES FINALES de la NTS N° 144-MINSA/2018/DIGESA",
+      "texto_incorporado": "8.3 Los establecimientos de salud de mayor complejidad de los niveles II-1, II-2, II-E, III-1, III-E y III-2, podrán realizar el tratamiento de sus residuos biocontaminados generados en la atención de pacientes empleando las tecnologías propuestas en la presente Norma Técnica de Salud: Incineración, esterilización, microondas, entre otras aprobadas por la DIGESA, previo a la disposición final de los mismos."
+    },
+    "articulo_2": {
+      "descripcion": "Encarga la publicación de la Resolución Ministerial en la sede digital del Ministerio de Salud y en el Diario Oficial El Peruano."
+    }
+  },
+  "objetivo": "Reducir la cantidad de residuos peligrosos, evitar la contaminación de residuos comunes con residuos peligrosos y reducir la necesidad de construir más celdas de seguridad dentro de los rellenos sólidos especiales.",
+  "niveles_atencion_aplicables": [
+    "II-1",
+    "II-2",
+    "II-E",
+    "III-1",
+    "III-E",
+    "III-2"
+  ],
+  "tecnologias_permitidas": [
+    "Incineración",
+    "Esterilización",
+    "Microondas",
+    "Otras aprobadas por la DIGESA"
+  ],
+  "palabras_clave": [
+    "residuos biocontaminados",
+    "tratamiento de residuos",
+    "incineración",
+    "esterilización",
+    "microondas",
+    "establecimientos de mayor complejidad",
+    "NTS 144",
+    "DIGESA",
+    "residuos sólidos",
+    "disposición final",
+    "Resolución Ministerial 901-2024"
+  ],
+  "expediente": "DIGESA-DCOVI20240005140",
+  "documentos_vistos": [
+    "Informe N° D000054-2024-DIGESA-DCOVI-EQR-MINSA",
+    "Informe N° D000778-2024-DIGESA-AJAI-MINSA",
+    "Memorándum N° D003163-2024-DIGESA-MINSA",
+    "Proveído N° D004921-2024-DVMSP-MINSA",
+    "Informe N° D001177-2024-OGAJ-MINSA"
+  ],
+  "archivo_markdown": "Resolucion_Ministerial_901-2024-MINSA.md",
+  "fecha_generacion_meta": "2026-11-19",
+  "fuente": "Documento oficial del Ministerio de Salud del Perú"
+}
