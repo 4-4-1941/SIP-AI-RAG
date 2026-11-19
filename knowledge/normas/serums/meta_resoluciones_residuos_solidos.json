@@ -1,0 +1,80 @@
+{
+  "collection": "Normativa MINSA - Gestión de Residuos Sólidos en Establecimientos de Salud",
+  "norma_base": {
+    "codigo": "NTS N° 144-MINSA/2018/DIGESA",
+    "titulo": "Norma Técnica de Salud: Gestión Integral y Manejo de Residuos Sólidos en Establecimientos de Salud, Servicios Médicos de Apoyo y Centros de Investigación",
+    "aprobada_por": "Resolución Ministerial N° 1295-2018/MINSA",
+    "fecha_aprobacion": "2018"
+  },
+  "documentos": [
+    {
+      "id": "RM-250-2022-MINSA",
+      "titulo": "Resolución Ministerial N° 250-2022/MINSA",
+      "fecha": "2022-03-30",
+      "tipo": "Resolución Ministerial",
+      "emisor": "Ministerio de Salud - Perú",
+      "ministro": "Hernán Yury Condori Machado",
+      "archivo_md": "Resolucion_Ministerial_250-2022-MINSA.md",
+      "tema_principal": "Modificación de la NTS 144-MINSA/2018/DIGESA - Residuos sólidos de ambulancias SAMU",
+      "modifica": "Numeral VIII. DISPOSICIONES FINALES de la NTS N° 144-MINSA/2018/DIGESA",
+      "contenido_clave": {
+        "8.1": "Las DIRIS/DIRESA/GERESA pueden implementar medidas complementarias en su jurisdicción.",
+        "8.2": "Los establecimientos de salud del II y III nivel se encargan de completar las etapas de manejo de residuos sólidos generados por las ambulancias del SAMU (desde Almacenamiento Final hasta Disposición Final). Las ambulancias del SAMU deben trasladar y depositar los residuos segregados en el almacenamiento central/final del establecimiento de salud correspondiente."
+      },
+      "plazos": {
+        "articulo_2": "5 días hábiles para que establecimientos II y III nivel comuniquen ubicación del almacenamiento central/final al SAMU",
+        "articulo_3": "5 días hábiles para que SAMU comunique listado actualizado de ambulancias (con placas) a establecimientos II y III nivel"
+      },
+      "palabras_clave": [
+        "residuos sólidos",
+        "SAMU",
+        "ambulancias",
+        "almacenamiento final",
+        "disposición final",
+        "establecimientos de salud II y III nivel",
+        "DIGESA",
+        "NTS 144"
+      ],
+      "relacionado_con": ["RM-901-2024-MINSA", "NTS-144-2018"]
+    },
+    {
+      "id": "RM-901-2024-MINSA",
+      "titulo": "Resolución Ministerial N° 901-2024/MINSA",
+      "fecha": "2024-12-26",
+      "tipo": "Resolución Ministerial",
+      "emisor": "Ministerio de Salud - Perú",
+      "ministro": "César Henry Vásquez Sánchez",
+      "archivo_md": "Resolucion_Ministerial_901-2024-MINSA.md",
+      "tema_principal": "Incorporación del numeral 8.3 a la NTS 144-MINSA/2018/DIGESA - Tratamiento de residuos biocontaminados",
+      "modifica": "Apartado VIII. DISPOSICIONES FINALES de la NTS N° 144-MINSA/2018/DIGESA (modificada por RM 250-2022/MINSA)",
+      "contenido_clave": {
+        "8.3": "Los establecimientos de salud de mayor complejidad (niveles II-1, II-2, II-E, III-1, III-E y III-2) podrán realizar el tratamiento de sus residuos biocontaminados generados en la atención de pacientes empleando las tecnologías propuestas en la NTS: incineración, esterilización, microondas, entre otras aprobadas por la DIGESA, previo a la disposición final de los mismos."
+      },
+      "objetivo": "Reducir la cantidad de residuos peligrosos, evitar la contaminación de residuos comunes con residuos peligrosos y reducir la necesidad de construir más celdas de seguridad en rellenos sólidos especiales.",
+      "palabras_clave": [
+        "residuos biocontaminados",
+        "tratamiento de residuos",
+        "incineración",
+        "esterilización",
+        "microondas",
+        "establecimientos de mayor complejidad",
+        "II-1",
+        "II-2",
+        "II-E",
+        "III-1",
+        "III-E",
+        "III-2",
+        "DIGESA",
+        "NTS 144"
+      ],
+      "relacionado_con": ["RM-250-2022-MINSA", "NTS-144-2018"]
+    }
+  ],
+  "resumen_evolucion_norma": {
+    "2018": "Se aprueba NTS N° 144-MINSA/2018/DIGESA (RM 1295-2018/MINSA)",
+    "2022-03-30": "Se modifica el numeral VIII (Disposiciones Finales) para regular el manejo de residuos de ambulancias SAMU (RM 250-2022/MINSA). Se agregan 8.1 y 8.2.",
+    "2024-12-26": "Se incorpora el numeral 8.3 permitiendo el tratamiento de residuos biocontaminados en establecimientos de mayor complejidad (RM 901-2024/MINSA)."
+  },
+  "fecha_generacion_meta": "2026-11-19",
+  "fuente": "Documentos oficiales del Ministerio de Salud del Perú"
+}
