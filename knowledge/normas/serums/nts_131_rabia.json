@@ -1,0 +1,215 @@
+{
+  "norma": {
+    "codigo": "NTS N° 131-MINSA/2017/DGIESP",
+    "titulo": "Norma Técnica de Salud para la Vigilancia, Prevención y Control de la Rabia Humana en el Perú",
+    "resolucion_aprobatoria": "Resolución Ministerial N° 024-2017/MINSA",
+    "fecha_aprobacion": "2017-01-20",
+    "pais": "Perú",
+    "sector": "Salud",
+    "organismo_emisor": "Ministerio de Salud (MINSA)",
+    "direccion_tecnica": "Dirección General de Intervenciones Estratégicas en Salud Pública (DGIESP)",
+    "estrategia_sanitaria": "Estrategia Sanitaria Nacional de Zoonosis (ESNZOONOSIS)",
+    "estado": "Vigente"
+  },
+  "alcance": {
+    "total_paginas_pdf": 95,
+    "ambito_geografico": "Nivel nacional",
+    "establecimientos": "Públicos (MINSA, Gobiernos Regionales, EsSalud, Sanidades FFAA/PNP) y privados"
+  },
+  "estructura": {
+    "resolucion_ministerial": {
+      "paginas": "1-3",
+      "articulos": 4
+    },
+    "cuerpo_norma": {
+      "paginas": "4-57",
+      "secciones": [
+        "I. Finalidad",
+        "II. Objetivos (General y Específicos)",
+        "III. Ámbito de Aplicación",
+        "IV. Base Legal",
+        "V. Disposiciones Generales (Definiciones operativas)",
+        "VI. Disposiciones Específicas (Atención de mordeduras, clasificación de riesgo, esquemas profilácticos, sueroterapia, vigilancia)",
+        "VII. Responsabilidades (Nivel Nacional, Regional y Local)",
+        "VIII. Disposiciones Finales"
+      ]
+    },
+    "anexos_tecnicos": {
+      "paginas": "58-95",
+      "total_anexos": 29
+    }
+  },
+  "aspectos_clinicos_y_terapeuticos": {
+    "clasificacion_exposicion": [
+      "No Exposición",
+      "Exposición Leve",
+      "Exposición Grave"
+    ],
+    "esquemas_vacunacion": [
+      {
+        "tipo": "Pre-exposición",
+        "biologico": "Cultivo celular",
+        "dias": [
+          0,
+          7,
+          28
+        ],
+        "dosis": "1 dosis IM (deltoides)",
+        "grupo_objetivo": "Personal de riesgo y comunidades nativas en áreas enzoóticas de rabia silvestre"
+      },
+      {
+        "tipo": "Post-exposición",
+        "biologico": "Cultivo celular (Essen)",
+        "dias": [
+          0,
+          3,
+          7,
+          14,
+          28
+        ],
+        "dosis": "5 dosis IM",
+        "grupo_objetivo": "Exposición leve/grave según criterio clínico"
+      },
+      {
+        "tipo": "Post-exposición alternativa",
+        "biologico": "Cultivo celular (Zagreb 2-1-1)",
+        "dias": [
+          0,
+          7,
+          21
+        ],
+        "dosis": "4 dosis IM (2 dosis día 0, 1 día 7, 1 día 21)"
+      }
+    ],
+    "sueroterapia": {
+      "suero_heterologo": {
+        "origen": "Equino purificado",
+        "dosis": "40 UI/kg de peso",
+        "requisito": "Prueba de sensibilidad intradérmica obligatoria"
+      },
+      "suero_homologo": {
+        "origen": "Inmunoglobulina humana (HRIG)",
+        "dosis": "20 UI/kg de peso",
+        "requisito": "Infiltración local perilesional y remanente IM"
+      }
+    }
+  },
+  "anexos_listado": [
+    {
+      "numero": 1,
+      "titulo": "Variantes Antigénicas del Virus Rábico (Genotipo 1)"
+    },
+    {
+      "numero": 2,
+      "titulo": "Estudio de Caracterización Antigénica de la Rabia, Perú 2015-2016"
+    },
+    {
+      "numero": 3,
+      "titulo": "Vacunas de Cultivo Celular Pre-Calificadas por la OMS"
+    },
+    {
+      "numero": 4,
+      "titulo": "Prácticas Seguras en Vacunación Antirrábica"
+    },
+    {
+      "numero": 5,
+      "titulo": "Carné de Vacunación Antirrábica Humana"
+    },
+    {
+      "numero": 6,
+      "titulo": "Flujograma de Atención de la Persona con Accidente de Mordedura y del Animal Agresor"
+    },
+    {
+      "numero": 7,
+      "titulo": "Registro de Notificación de Accidentes de Mordeduras por Animales"
+    },
+    {
+      "numero": 8,
+      "titulo": "Registro de Personas en Vacunación Antirrábica"
+    },
+    {
+      "numero": 9,
+      "titulo": "Ficha N° 1: Atención de Personas Expuestas al Virus Rábico"
+    },
+    {
+      "numero": 10,
+      "titulo": "Ficha N° 2: Notificación del Accidente por Mordedura"
+    },
+    {
+      "numero": 11,
+      "titulo": "Traslape de Vacuna Cerebro de Ratón Lactante a Cultivo Celular"
+    },
+    {
+      "numero": 12,
+      "titulo": "Programación de Campaña de Vacunación Antirrábica Canina Masiva"
+    },
+    {
+      "numero": 13,
+      "titulo": "Registro Diario de Vacunación Antirrábica Canina Masiva"
+    },
+    {
+      "numero": 14,
+      "titulo": "Informe Diario de Vacunación Antirrábica Canina Masiva"
+    },
+    {
+      "numero": 15,
+      "titulo": "Consolidado de Campaña de Vacunación Antirrábica Canina Masiva"
+    },
+    {
+      "numero": 16,
+      "titulo": "Carné de Vacunación Antirrábica Canina"
+    },
+    {
+      "numero": 17,
+      "titulo": "Ficha de Investigación Epidemiológica de Caso de Rabia Humana"
+    },
+    {
+      "numero": 18,
+      "titulo": "Informe Epidemiológico de Control de Foco de Rabia Animal"
+    },
+    {
+      "numero": 19,
+      "titulo": "Herramientas para Atrape de Canes"
+    },
+    {
+      "numero": 20,
+      "titulo": "Caracterización de Áreas de Riesgo en Rabia Urbana"
+    },
+    {
+      "numero": 21,
+      "titulo": "Investigación Epidemiológica de Brote de Rabia Silvestre"
+    },
+    {
+      "numero": 22,
+      "titulo": "Vigilancia de Rabia Transmitida por Murciélagos Hematófagos"
+    },
+    {
+      "numero": 23,
+      "titulo": "Algunas Características sobre la Población de Murciélagos"
+    },
+    {
+      "numero": 24,
+      "titulo": "Ficha de Envío de Muestra Animal para Diagnóstico Rabia Urbana"
+    },
+    {
+      "numero": 25,
+      "titulo": "Ficha de Envío de Muestra Animal para Diagnóstico Rabia Silvestre"
+    },
+    {
+      "numero": 26,
+      "titulo": "Ficha de Envío para Diagnóstico de Muestra Rabia Humana"
+    },
+    {
+      "numero": 27,
+      "titulo": "Instrumental Necesario para la Extracción de Cerebro del Animal"
+    },
+    {
+      "numero": 28,
+      "titulo": "Aplicación de la Vacuna Antirrábica Cultivo Celular"
+    },
+    {
+      "numero": 29,
+      "titulo": "Prueba de Sensibilidad Suero Antirrábico Heterólogo Humano"
+    }
+  ]
+}

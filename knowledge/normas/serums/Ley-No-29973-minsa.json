@@ -1,0 +1,96 @@
+{
+  "norma": {
+    "tipo": "Ley",
+    "numero": "29973",
+    "denominacion": "Ley General de la Persona con Discapacidad",
+    "fecha_promulgacion": "2012-12-13",
+    "fecha_publicacion_el_peruano": "2012-12-24",
+    "pais": "Perú",
+    "fuente_oficial": "Ministerio de Salud / Congreso de la República",
+    "estado": "Vigente con modificatorias posteriores (Ley 30603, D.L. 1417, etc.)"
+  },
+  "marco_reglamentario": {
+    "reglamento_general": "Decreto Supremo Nº 002-2014-MIMP",
+    "organismo_rector": "Consejo Nacional para la Integración de la Persona con Discapacidad (CONADIS)",
+    "ministerio_adscripcion": "Ministerio de la Mujer y Poblaciones Vulnerables (MIMP)",
+    "rol_minsa": "Emisión de certificados de discapacidad gratuitos en establecimientos de salud, atención y rehabilitación integral"
+  },
+  "estructura_documento": {
+    "total_paginas_pdf": 43,
+    "total_articulos": 83,
+    "titulos": [
+      {
+        "titulo": "Título I",
+        "nombre": "Disposiciones Generales",
+        "articulos": "1-14"
+      },
+      {
+        "titulo": "Título II",
+        "nombre": "Derechos de la Persona con Discapacidad",
+        "articulos": "15-62",
+        "capitulos": [
+          "Capítulo I: Derechos Civiles y Políticos (Arts. 15-20)",
+          "Capítulo II: Accesibilidad (Arts. 21-25)",
+          "Capítulo III: Salud y Rehabilitación (Arts. 26-34)",
+          "Capítulo IV: Educación y Deporte (Arts. 35-44)",
+          "Capítulo V: Trabajo y Empleo (Arts. 45-54)",
+          "Capítulo VI: Nivel de Vida Adecuado y Protección Social (Arts. 55-62)"
+        ]
+      },
+      {
+        "titulo": "Título III",
+        "nombre": "Sistema Nacional para la Integración de la Persona con Discapacidad (SINAPEDIS) y CONADIS",
+        "articulos": "63-75"
+      },
+      {
+        "titulo": "Título IV",
+        "nombre": "Certificación y Registro",
+        "articulos": "76-79"
+      },
+      {
+        "titulo": "Título V",
+        "nombre": "Régimen de Infracciones y Sanciones",
+        "articulos": "80-83"
+      }
+    ],
+    "disposiciones_complementarias": {
+      "finales": 10,
+      "transitorias": 3,
+      "modificatorias": true,
+      "derogatorias": true
+    }
+  },
+  "tablas_claves": {
+    "cuotas_empleo": [
+      {
+        "sector": "Público",
+        "cuota_minima_porcentaje": 5.0,
+        "entidades": "Todas las entidades públicas independientemente del régimen laboral",
+        "fiscalizador": "SERVIR"
+      },
+      {
+        "sector": "Privado",
+        "cuota_minima_porcentaje": 3.0,
+        "entidades": "Empleadores privados con más de 50 trabajadores",
+        "fiscalizador": "SUNAFIL"
+      }
+    ],
+    "escala_sanciones_uit": [
+      {
+        "nivel": "Infracciones Leves",
+        "rango_multa": "1 a 5 UIT",
+        "ejemplos": "No remitir información solicitada, faltas de actualización registral"
+      },
+      {
+        "nivel": "Infracciones Graves",
+        "rango_multa": "> 5 a 10 UIT",
+        "ejemplos": "Incumplir accesibilidad urbanística y arquitectónica, cobros indebidos por perros guía/asistencia"
+      },
+      {
+        "nivel": "Infracciones Muy Graves",
+        "rango_multa": "> 10 a 20 UIT",
+        "ejemplos": "Discriminación directa, incumplir cuota de empleo (5%/3%), negativa de matrícula educativa"
+      }
+    ]
+  }
+}
