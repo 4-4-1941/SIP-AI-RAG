@@ -1,0 +1,45 @@
+{
+  "document_id": "rm-780-2015-minsa",
+  "file_name": "RM_780-2015-MINSA_PDF20180904-20266-iz906i.pdf",
+  "title": "Resolución Ministerial N.° 780-2015/MINSA: aprueba el Plan de Implementación del Sistema Informático HIS-MINSA y la Hoja de Registro Diario de Atención",
+  "document_type": "resolucion_ministerial",
+  "issuing_entity": "Ministerio de Salud del Perú",
+  "year": 2015,
+  "date": "2015-11-30",
+  "language": "es",
+  "signed_by": "Aníbal Velásquez Valdivia, Ministro de Salud",
+  "modifies": [],
+  "repeals": ["Resolución Ministerial N.° 0073-93-SA/DM", "Resolución Vice Ministerial N.° 037-DVM-OEI"],
+  "subject": "Uso del aplicativo HIS-MINSA y de la Hoja de Registro Diario de Atención para el registro de atenciones en establecimientos de salud",
+  "resolutivos": [
+    {"articulo": 1, "texto": "Aprobar el Documento Técnico 'Plan de Implementación del Sistema Informático HIS MINSA para el registro de atenciones en la red de establecimientos de salud a nivel nacional' y la 'Hoja de Registro Diario de Atención y otras actividades del aplicativo HIS MINSA', que forman parte de la resolución."},
+    {"articulo": 2, "texto": "Disponer el uso del aplicativo informático HIS MINSA como instrumento de registro de la información de las actividades asistenciales y administrativas relacionadas con las prestaciones de salud en los establecimientos de salud de las Direcciones Regionales de Salud, Gerencias Regionales de Salud o las que hagan sus veces y del Instituto de Gestión de Servicios de Salud."},
+    {"articulo": 3, "texto": "Encargar a la Oficina General de Estadística e Informática la conducción, coordinación y asistencia técnica del proceso de implementación del aplicativo HIS MINSA, así como la formulación de documentos técnicos para el registro en el citado aplicativo, con sujeción a las Normas Técnicas de Salud vigentes."},
+    {"articulo": 4, "texto": "Los aplicativos informáticos de los Establecimientos de Salud deberán contener como mínimo los parámetros previstos en el sistema de Información HIS MINSA para el registro de las actividades asistenciales, administrativas, así como de los reportes y tramas de datos."},
+    {"articulo": 5, "texto": "El uso de la información contenida en el aplicativo informático HIS MINSA, así como su aplicación e implementación, deberá sujetarse a la Ley N.° 26842 (Ley General de Salud), la Ley N.° 29733 (Ley de Protección de Datos Personales) y la Ley N.° 30024 (Ley que crea el Registro Nacional de Historias Clínicas Electrónicas)."},
+    {"articulo": 6, "texto": "Dejar sin efecto la Resolución Ministerial N.° 0073-93-SA/DM y la Resolución Vice Ministerial N.° 037-DVM-OEI."},
+    {"articulo": 7, "texto": "Encargar a la Oficina General de Comunicaciones la publicación de la resolución en el portal institucional del Ministerio de Salud."}
+  ],
+  "base_legal_citada": [
+    "Ley N.° 26842, Ley General de Salud (arts. 117 y 120)",
+    "Decreto Legislativo N.° 1161, Ley de Organización y Funciones del Ministerio de Salud (arts. 3, 4 y 5)",
+    "Decreto Supremo N.° 023-2005-SA (Reglamento de Organización y Funciones, art. 28)",
+    "Decreto Supremo N.° 024-2005-SA (Identificaciones Estándar de Datos en Salud)",
+    "Resolución Ministerial N.° 0073-93-SA/DM (derogada por el art. 6)",
+    "Resolución Vice Ministerial N.° 037-DVM-OEI (derogada por el art. 6)",
+    "Ley N.° 29158, Ley Orgánica del Poder Ejecutivo"
+  ],
+  "documento_tecnico": {
+    "titulo": "Plan de Implementación del Sistema Informático HIS-MINSA para el registro de atenciones en la red de establecimientos de salud del MINSA y de los Gobiernos Regionales",
+    "elaborado_por": "Oficina General de Estadística e Informática (OGEI), Lima 2015",
+    "contenido": ["Introducción", "Finalidad", "Objetivos", "Ámbito de aplicación", "Base legal", "Contenido (antecedentes, definición y organización del HIS-MINSA, requerimientos, recurso humano, flujo de información, proceso de implementación)", "Cronograma de actividades (Tabla N.° 4)", "Presupuesto (Tabla N.° 5, S/ 373,920)", "Responsabilidades", "Referencias bibliográficas", "Anexos A, B y C (flujos de atención: internet permanente, parcial y sin internet)"],
+    "escenarios": ["En línea (internet permanente)", "Mixto (internet parcial, registro en hoja HIS)", "Fuera de línea (sin internet, punto de digitación)"],
+    "niveles_de_complejidad": ["Alta complejidad: hospitales e institutos", "Mediana complejidad: I-3 y I-4", "Baja complejidad: I-1 y I-2"],
+    "flujo_de_informacion": "Establecimiento de salud, microred, red, nivel regional (DIRESA/GERESA/IGSS, primer nivel de consolidación) y nacional (MINSA-OGEI, segundo nivel)."
+  },
+  "hoja_de_registro_diario": {
+    "estado_en_este_json": "No incluido. El texto de la RM no contiene el detalle de filas ni de casilleros LAB; esos datos están en la hoja y en los manuales de cada estrategia.",
+    "pendiente": "Reglas de filas por atención, casilleros LAB y tipos de diagnóstico: completar con el JSON de la hoja o de las sintaxis."
+  },
+  "vigencia_nota": "Vigente según el texto del PDF; el documento no contiene artículo de vigencia expreso."
+}
