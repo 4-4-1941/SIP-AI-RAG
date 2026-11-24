@@ -1,0 +1,236 @@
+{
+  "archivo_fuente": "RM-N_1012-2016-NTS-139-MINSA.pdf",
+  "nombre_resolucion": "Resolución Ministerial N° 1012-2016/MINSA",
+  "fecha_emision": "2016-12-29",
+  "pais": "Perú",
+  "entidad_emisora": "Ministerio de Salud (MINSA)",
+  "autoridad_firmante": "Patricia J. García Funegra (Ministra de Salud)",
+  "expediente": "N° 16-106173-001",
+  "nota_informativa": "N° 968-2016-DGIESP/MINSA",
+  "informe_legal": "Informe N° 1178-2016-OGAJ/MINSA",
+  "nota_aclaratoria_rag": {
+    "discrepancia_nombre_archivo": "El nombre del archivo PDF original incluye 'NTS-139', pero el texto legal oficial aprueba la NTS N° 129-MINSA/2016/DGIESP.",
+    "norma_aprobada_real": "NTS N° 129-MINSA/2016/DGIESP",
+    "norma_nts_139_referencia": "La NTS N° 139 corresponde a la Gestión de Historias Clínicas y fue aprobada por la RM N° 214-2018/MINSA."
+  },
+  "normativa_aprobada": {
+    "codigo_norma": "NTS N° 129-MINSA/2016/DGIESP",
+    "titulo_oficial": "Norma Técnica de Salud para la Prevención y el Control de la Infección por el Virus de la Inmunodeficiencia Humana en Pueblos Indígenas Amazónicos, con pertinencia intercultural",
+    "direccion_tecnica": "Dirección General de Intervenciones Estratégicas en Salud Pública (DGIESP)",
+    "finalidad": "Reducir la transmisión del VIH, la morbilidad y mortalidad por SIDA en pueblos indígenas amazónicos con enfoque de género, derechos humanos y pertinencia intercultural.",
+    "ambito_aplicacion": "Establecimientos de salud a nivel nacional (MINSA, Gobiernos Regionales/DIRESA/GERESA, EsSalud, Sanidades FF.AA. y PNP, y sector privado)."
+  },
+  "estructura_documental": [
+    {
+      "seccion": "Resolución Ministerial N° 1012-2016/MINSA",
+      "paginas_pdf": "1-2",
+      "articulos": [
+        "Artículo 1 (Aprobación NTS 129)",
+        "Artículo 2 (Difusión y evaluación DGIESP)",
+        "Artículo 3 (Publicación portal web)"
+      ]
+    },
+    {
+      "seccion": "I. Finalidad",
+      "paginas_pdf": "3"
+    },
+    {
+      "seccion": "II. Objetivos",
+      "paginas_pdf": "3-4",
+      "subsecciones": [
+        "2.1 Objetivo General",
+        "2.2 Objetivos Específicos"
+      ]
+    },
+    {
+      "seccion": "III. Ámbito de Aplicación",
+      "paginas_pdf": "4"
+    },
+    {
+      "seccion": "IV. Base Legal",
+      "paginas_pdf": "4-6",
+      "normas_clave": [
+        "Ley N° 26842",
+        "Ley N° 29785 Consulta Previa",
+        "Ley N° 28736 PIACI",
+        "DL N° 1161",
+        "DS N° 007-2016-SA"
+      ]
+    },
+    {
+      "seccion": "V. Disposiciones Generales",
+      "paginas_pdf": "6-11",
+      "definiciones_clave": [
+        "Pueblos Indígenas Amazónicos",
+        "Pertinencia Intercultural",
+        "Agente de Soporte",
+        "TARV",
+        "Tamizaje VIH",
+        "Consentimiento Informado",
+        "Intérprete/Mediador"
+      ]
+    },
+    {
+      "seccion": "VI. Disposiciones Específicas",
+      "paginas_pdf": "11-21",
+      "subsecciones": [
+        "6.1 Prevención y promoción",
+        "6.2 Diagnóstico y tamizaje",
+        "6.3 Atención integral y TARV",
+        "6.4 Prevención transmisión materno-infantil (PTMI)",
+        "6.5 Reacciones adversas (RAM)"
+      ]
+    },
+    {
+      "seccion": "VII. De los Componentes",
+      "paginas_pdf": "21-23",
+      "componentes": [
+        "Prestación",
+        "Gestión",
+        "IEC",
+        "Vigilancia e Investigación"
+      ]
+    },
+    {
+      "seccion": "VIII. De la Investigación",
+      "paginas_pdf": "23-24"
+    },
+    {
+      "seccion": "IX. Responsabilidades",
+      "paginas_pdf": "24-25",
+      "niveles": [
+        "Nacional",
+        "Regional",
+        "Local"
+      ]
+    },
+    {
+      "seccion": "Abreviaturas, Siglas y Acrónimos",
+      "paginas_pdf": "25-26"
+    },
+    {
+      "seccion": "Anexos Técnicos",
+      "paginas_pdf": "26-30",
+      "lista_anexos": [
+        "Anexo 1: Consentimiento TARV",
+        "Anexo 2: Consentimiento Vía de Parto/Lactancia",
+        "Anexo 3: Indicadores de Atención VIH y PTMI",
+        "Anexo 4: Formato Notificación RAM"
+      ]
+    },
+    {
+      "seccion": "Bibliografía",
+      "paginas_pdf": "31-32",
+      "total_referencias": 22
+    }
+  ],
+  "inventario_tablas": [
+    {
+      "id": "tabla_anexo_3",
+      "titulo": "Indicadores del Continuo de la Atención de la Infección por el VIH y de la Transmisión Materno-Infantil del VIH en Pueblos Indígenas Amazónicos",
+      "anexo": "Anexo N° 3",
+      "paginas_pdf": "28-29",
+      "total_indicadores": 9,
+      "columnas": [
+        "N°",
+        "Indicador",
+        "Utilidad",
+        "Fórmula de Cálculo",
+        "Fuente de Información",
+        "Frecuencia de Reporte",
+        "Estándar"
+      ],
+      "indicadores": [
+        {
+          "numero": 1,
+          "nombre": "% personas en pueblos indígenas amazónicos tamizados para VIH",
+          "meta": "90%",
+          "frecuencia": "Mensual"
+        },
+        {
+          "numero": 2,
+          "nombre": "N° de personas de pueblos indígenas amazónicos diagnosticadas con infección por VIH",
+          "meta": "N/A",
+          "frecuencia": "Anual"
+        },
+        {
+          "numero": 3,
+          "nombre": "% de personas de pueblos indígenas amazónicos diagnosticadas con VIH y en TARV",
+          "meta": "90%",
+          "frecuencia": "Anual"
+        },
+        {
+          "numero": 4,
+          "nombre": "% de PVV de pueblos indígenas amazónicos en TARV con supresión virológica",
+          "meta": "90%",
+          "frecuencia": "Anual"
+        },
+        {
+          "numero": 5,
+          "nombre": "% de PVV de pueblos indígenas amazónicos que abandonan el TARV",
+          "meta": "<= 5%",
+          "frecuencia": "Mensual"
+        },
+        {
+          "numero": 6,
+          "nombre": "% de Gestantes de pueblos indígenas amazónicos tamizadas para VIH",
+          "meta": "95%",
+          "frecuencia": "Trimestral"
+        },
+        {
+          "numero": 7,
+          "nombre": "% de Gestantes con VIH que reciben Tratamiento ARV",
+          "meta": "95%",
+          "frecuencia": "Trimestral"
+        },
+        {
+          "numero": 8,
+          "nombre": "Niños expuestos al VIH con diagnóstico temprano",
+          "meta": "100%",
+          "frecuencia": "Anual"
+        },
+        {
+          "numero": 9,
+          "nombre": "% de Niños con infección por VIH (TMI)",
+          "meta": "<= 2%",
+          "frecuencia": "Anual"
+        }
+      ]
+    }
+  ],
+  "descriptores_rag": {
+    "terminos_clave": [
+      "VIH",
+      "SIDA",
+      "Pueblos Indígenas Amazónicos",
+      "NTS N° 129-MINSA/2016/DGIESP",
+      "Resolución Ministerial N° 1012-2016/MINSA",
+      "Salud Intercultural",
+      "Pertinencia Intercultural",
+      "TARV",
+      "TARGA",
+      "Tratamiento Antirretroviral",
+      "PTMI",
+      "Transmisión Materno Infantil",
+      "Tamizaje VIH",
+      "Carga Viral",
+      "Lactancia Materna",
+      "Sucedáneos de Leche Materna",
+      "Intérprete Indígena",
+      "Agente de Soporte",
+      "Abreviaturas MINSA",
+      "Indicadores VIH"
+    ],
+    "estrategia_chunking_recomendada": {
+      "metodo": "Jerárquico por numerales y anexos",
+      "tamano_chunk_tokens": 500,
+      "solapamiento_tokens": 50,
+      "chunks_prioritarios": [
+        "Disposiciones específicas sobre PTMI y sucedáneos de lactancia",
+        "Esquemas y distribución descentralizada de TARV en comunidades remotas",
+        "Tabla de indicadores del Anexo 3 (preservar como bloque único de tabla)",
+        "Consentimientos informados bilingües / interculturales (Anexos 1 y 2)"
+      ]
+    }
+  }
+}

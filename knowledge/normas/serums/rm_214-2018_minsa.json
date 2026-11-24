@@ -1,0 +1,269 @@
+{
+  "archivo_fuente": "rm_214-2018_minsa_1.pdf",
+  "nombre_resolucion": "Resolución Ministerial N° 214-2018/MINSA",
+  "fecha_emision": "2018-03-09",
+  "pais": "Perú",
+  "entidad_emisora": "Ministerio de Salud (MINSA)",
+  "autoridad_firmante": "Abel Hernán Salinas Rivas (Ministro de Salud)",
+  "expediente": "N° 17-075782-002",
+  "nota_informativa": "N° 264-2017-DGAIN/MINSA",
+  "informes_tecnicos_legales": [
+    "Informe N° 094-2017-DIPOS-DGAIN/MINSA",
+    "Informe N° 043-2018-OGAJ/MINSA"
+  ],
+  "derogatorias": [
+    "Resolución Ministerial N° 597-2006/MINSA (aprobó la NT N° 022-MINSA/DGSP-V.02: Norma Técnica de Salud para la Gestión de la Historia Clínica)",
+    "Resolución Ministerial N° 204-2015/MINSA (modificatoria)",
+    "Resolución Ministerial N° 078-2016/MINSA (modificatoria)"
+  ],
+  "normativa_aprobada": {
+    "codigo_norma": "NTS N° 139-MINSA/2018/DGAIN",
+    "titulo_oficial": "Norma Técnica de Salud para la Gestión de la Historia Clínica",
+    "direccion_tecnica": "Dirección General de Aseguramiento e Intercambio Prestacional (DGAIN)",
+    "finalidad": "Contribuir a mejorar la calidad de atención a los usuarios de los servicios de salud a través de un adecuado manejo, conservación y eliminación de la historia clínica en el contexto sanitario, legal, administrativo y de tecnologías de información.",
+    "ambito_aplicacion": "Obligatorio en todas las Instituciones Prestadoras de Servicios de Salud (IPRESS) públicas (MINSA, Gobiernos Regionales, EsSalud, Sanidades FF.AA. y PNP, INPE) y privadas a nivel nacional."
+  },
+  "reglas_archivisticas_clave": {
+    "identificacion_unica": "Uso obligatorio del Documento Nacional de Identidad (DNI) o Carné de Extranjería / Pasaporte para extranjeros como código de historia clínica.",
+    "archivo_activo": "Custodia obligatoria durante mínimo 5 años posteriores a la última fecha de atención del usuario de salud.",
+    "archivo_pasivo": "Custodia obligatoria durante mínimo 15 años adicionales contados desde su pase al archivo pasivo.",
+    "tiempo_custodia_total": "No menor a 20 años contados a partir de la fecha de la última atención médica.",
+    "intangibilidad_casos_especiales": "Historias clínicas de pacientes con enfermedades de interés epidemiológico especial, enfermedades raras o huérfanas, procesos judiciales activos, homicidios o violaciones de derechos humanos son de conservación permanente e inalienables.",
+    "eliminacion_documental": "Proceso archivístico estricto: requiere dictamen favorable del Comité Institucional de Historias Clínicas, propuesta del Comité de Evaluación de Documentos (CED) y autorización expresa mediante Resolución del Archivo General de la Nación (AGN) o del Archivo Regional respectivo."
+  },
+  "estructura_documental": [
+    {
+      "seccion": "Resolución Ministerial N° 214-2018/MINSA",
+      "paginas_pdf": "121-123",
+      "articulos": [
+        "Artículo 1 (Aprobación NTS 139)",
+        "Artículo 2 (Derogación RM 597-2006 y modificatorias)",
+        "Artículo 3 (Publicación)"
+      ]
+    },
+    {
+      "seccion": "I. Finalidad y Justificación Técnica",
+      "paginas_pdf": "1"
+    },
+    {
+      "seccion": "II. Ámbito de Aplicación",
+      "paginas_pdf": "1"
+    },
+    {
+      "seccion": "III. Base Legal",
+      "paginas_pdf": "1-4",
+      "normas_principales": [
+        "Ley N° 26842",
+        "Ley N° 30024 (RENHICE)",
+        "Ley N° 29733 (Protección de Datos Personales)",
+        "Ley N° 27269 (Firmas y Certificados Digitales)",
+        "DL N° 1161",
+        "DS N° 008-2017-SA"
+      ]
+    },
+    {
+      "seccion": "IV. Disposiciones Generales",
+      "paginas_pdf": "4-14",
+      "subsecciones": [
+        "4.1 Definiciones Operativas (Archivo Activo, Pasivo, Custodia, Eliminación, Epicrisis, Foliación, HCE, IPRESS)",
+        "4.2 Principios Generales (Propiedad, Gratuidad, Confidencialidad, Reserva, Acceso, Integridad, Legibilidad)"
+      ]
+    },
+    {
+      "seccion": "5. Disposiciones Específicas",
+      "paginas_pdf": "14-53",
+      "subsecciones": [
+        "5.1 Estructura de la Historia Clínica (5.1.1 Estructura básica)",
+        "5.2 Formatos de la Historia Clínica (5.2.1 Básicos por UPSS, 5.2.2 Especiales)",
+        "5.3 Administración y Gestión de la Historia Clínica (5.3.1 Proceso técnico-administrativo, 5.3.2 Proceso técnico-asistencial, 5.3.3 De la Historia Clínica Electrónica, 5.3.4 Transición digital, 5.3.5 Control gerencial)"
+      ]
+    },
+    {
+      "seccion": "6. Responsabilidades",
+      "paginas_pdf": "53",
+      "niveles": [
+        "Nacional (MINSA / DGAIN / SUSALUD)",
+        "Regional (DIRESA / GERESA / DIRIS)",
+        "Local (IPRESS pública y privada)"
+      ]
+    },
+    {
+      "seccion": "7. Disposiciones Finales",
+      "paginas_pdf": "53-54"
+    },
+    {
+      "seccion": "VIII. Anexos",
+      "paginas_pdf": "54-120",
+      "total_anexos": 14
+    }
+  ],
+  "inventario_anexos": [
+    {
+      "numero": 1,
+      "nombre": "Ficha Familiar",
+      "paginas_pdf": "55-58",
+      "descripcion": "Instrumento de evaluación integral y PAIFAM"
+    },
+    {
+      "numero": 2,
+      "nombre": "Formato de Atención Integral del Niño",
+      "paginas_pdf": "59-67",
+      "descripcion": "Evaluación del crecimiento, vacunas, EEDP/TEPSI y tamizaje de anemia"
+    },
+    {
+      "numero": 3,
+      "nombre": "Formato de Atención Integral del Adolescente",
+      "paginas_pdf": "68-76",
+      "descripcion": "Evaluación de maduración sexual (Tanner), salud psicosocial y conductas de riesgo"
+    },
+    {
+      "numero": 4,
+      "nombre": "Formato de Atención Integral del Joven",
+      "paginas_pdf": "77-91",
+      "descripcion": "Salud sexual y reproductiva, tamizajes y estilos de vida"
+    },
+    {
+      "numero": 5,
+      "nombre": "Formato de Atención Integral del Adulto",
+      "paginas_pdf": "92-96",
+      "descripcion": "Riesgo cardiovascular, tamizaje de cáncer y salud metabólica"
+    },
+    {
+      "numero": 6,
+      "nombre": "Formato de Atención Integral del Adulto Mayor",
+      "paginas_pdf": "97-102",
+      "descripcion": "VACAM (Katz/Barthel, Pfeiffer, Yesavage, Gijón)"
+    },
+    {
+      "numero": 7,
+      "nombre": "Elementos a considerar en el formato de Atención de Emergencias",
+      "paginas_pdf": "103",
+      "descripcion": "Requisitos mínimos de registro en UPSS Emergencia"
+    },
+    {
+      "numero": 8,
+      "nombre": "Consentimiento para compartir información en sospecha/diagnóstico de cáncer",
+      "paginas_pdf": "104-105",
+      "descripcion": "Red Oncológica Nacional"
+    },
+    {
+      "numero": 9,
+      "nombre": "Modelo Referencial de Acta de Entrega de Documentos al Archivo",
+      "paginas_pdf": "105",
+      "descripcion": "Transferencia intrainstitucional"
+    },
+    {
+      "numero": 10,
+      "nombre": "Modelo Referencial de Acta de Sesión del Comité de Evaluación de Documentos - CED",
+      "paginas_pdf": "106",
+      "descripcion": "Procedimientos archivísticos de expurgo y custodia"
+    },
+    {
+      "numero": 11,
+      "nombre": "Consentimiento de Tratamiento de Datos Personales en HCE",
+      "paginas_pdf": "107-108",
+      "descripcion": "Marco Ley N° 29733 y RENHICE"
+    },
+    {
+      "numero": 12,
+      "nombre": "Consentimiento Informado para Actividades de Docencia e Investigación",
+      "paginas_pdf": "109-110",
+      "descripcion": "Prácticas clínicas y bioética"
+    },
+    {
+      "numero": 13,
+      "nombre": "Modelo Referencial de Acta del Comité Institucional de Historias Clínicas",
+      "paginas_pdf": "111",
+      "descripcion": "Instalación y funciones del comité de historias clínicas"
+    },
+    {
+      "numero": 14,
+      "nombre": "Fichas Técnicas de Indicadores para el Control Gerencial de las Historias Clínicas",
+      "paginas_pdf": "112-120",
+      "descripcion": "7 fichas técnicas de indicadores + instrumento de verificación física y de seguridad"
+    }
+  ],
+  "inventario_indicadores_gerenciales": [
+    {
+      "ficha": 1,
+      "nombre": "Apertura de Historias Clínicas con codificación DNI",
+      "tipo": "Proceso",
+      "frecuencia": "Mensual"
+    },
+    {
+      "ficha": 2,
+      "nombre": "Calidad del registro de las Historias Clínicas en la IPRESS",
+      "tipo": "Resultado",
+      "frecuencia": "Trimestral"
+    },
+    {
+      "ficha": 3,
+      "nombre": "IPRESS de la Red de Salud que han implementado el Archivo",
+      "tipo": "Estructura",
+      "frecuencia": "Semestral"
+    },
+    {
+      "ficha": 4,
+      "nombre": "IPRESS que han eliminado Historias Clínicas según cronograma AGN",
+      "tipo": "Proceso",
+      "frecuencia": "Anual"
+    },
+    {
+      "ficha": 5,
+      "nombre": "Archivamiento oportuno de formatos de hospitalización al alta médica (<48h)",
+      "tipo": "Resultado",
+      "frecuencia": "Mensual"
+    },
+    {
+      "ficha": 6,
+      "nombre": "IPRESS que reportan oportunamente HC extraviadas o destruidas accidentalmente (<48h)",
+      "tipo": "Resultado",
+      "frecuencia": "Trimestral"
+    },
+    {
+      "ficha": 7,
+      "nombre": "IPRESS con internamiento que han implementado el Archivo",
+      "tipo": "Estructura",
+      "frecuencia": "Anual"
+    }
+  ],
+  "descriptores_rag": {
+    "terminos_clave": [
+      "Historia Clínica",
+      "Historia Clínica Electrónica",
+      "RENHICE",
+      "NTS N° 139-MINSA/2018/DGAIN",
+      "Resolución Ministerial N° 214-2018/MINSA",
+      "Archivo Activo",
+      "Archivo Pasivo",
+      "Archivo Central",
+      "Custodia de Historias Clínicas",
+      "Eliminación de Historias Clínicas",
+      "Archivo General de la Nación",
+      "AGN",
+      "Foliación",
+      "Codificación DNI",
+      "Epicrisis",
+      "Notas de Evolución",
+      "Consentimiento Informado",
+      "Auditoría Médica",
+      "IPRESS",
+      "UPSS",
+      "Indicadores de Control Gerencial",
+      "Ficha Familiar",
+      "VACAM"
+    ],
+    "estrategia_chunking_recomendada": {
+      "metodo": "Jerárquico por numerales técnicos, secciones de archivo y fichas de indicadores",
+      "tamano_chunk_tokens": 500,
+      "solapamiento_tokens": 50,
+      "chunks_prioritarios": [
+        "Proceso técnico-administrativo: plazos de custodia activo (5 años) y pasivo (15 años)",
+        "Procedimiento archivístico de eliminación y rol del AGN",
+        "Requisitos técnicos y jurídicos de la Historia Clínica Electrónica y firma digital",
+        "Tabla resumen de indicadores de control gerencial del Anexo 14",
+        "Lista de chequeo de condiciones de seguridad y custodia de historias clínicas"
+      ]
+    }
+  }
+}
