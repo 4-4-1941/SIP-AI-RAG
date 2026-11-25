@@ -36,7 +36,7 @@ N o .16 5Visto, el Expediente N° CDC00020240000484, que contiene la Nota Inform
 N° D000281-2024-CDC-MINSA y el Memorandum N° D000157-2025-CDC-MINSA del 
 Centro Nacional de Epidemiologia, Prevencion y Control de Enfermedades; y, el Informe 
 N° D000168-2025-QGAJ-MINSA de la Oficina General de Asesoria Juridica;
-Que, los numerales 1), 3) y 5) del articulo 3 del Decreto Legislative N° 1161, Ley 
+Que, los numerales 1), 3) y 5) del articulo 3 del Decreto Legislativo N° 1161, Ley 
 de Organizacion y Funciones del Ministerio de Salud, disponen que el Ministerio de Salud 
 es competente en salud de las personas, epidemias y emergencias sanitarias, e 
 inteligencia sanitaria, respectivamente; asimismo, su articulo 4 refiere que el Sector Salud 
