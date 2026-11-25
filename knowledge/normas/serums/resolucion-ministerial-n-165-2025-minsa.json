@@ -1,0 +1,885 @@
+{
+  "metadata": {
+    "source_filename": "resolucion-ministerial-n-165-2025-minsa.pdf",
+    "output_basename": "resolucion-ministerial-n-165-2025-minsa",
+    "document_title": "Resolución Ministerial N.° 165-2025/MINSA y Norma Técnica de Salud para la Vigilancia Epidemiológica de Leishmaniasis en el Perú",
+    "issuing_body": "Ministerio de Salud del Perú (MINSA)",
+    "resolution_number": "Resolución Ministerial N.° 165-2025/MINSA",
+    "technical_standard_number": "NTS N.° 225-MINSA/CDC-2025",
+    "technical_standard_title": "Norma Técnica de Salud para la Vigilancia Epidemiológica de Leishmaniasis en el Perú",
+    "document_language": "es",
+    "pdf_pages": 35,
+    "page_structure": {
+      "resolution_pdf_pages": [
+        1,
+        2,
+        3
+      ],
+      "technical_standard_pdf_pages": [
+        4,
+        35
+      ],
+      "printed_standard_pages": [
+        1,
+        32
+      ]
+    },
+    "date": "No consignada en metadatos: la fecha de emisión no se pudo verificar en la extracción del PDF.",
+    "purpose": "Contribuir a la prevención y control de la transmisión de las leishmaniasis y vigilar el ingreso de leishmaniasis visceral en el Perú.",
+    "diseases": [
+      "Leishmaniasis cutánea (LC)",
+      "Leishmaniasis mucocutánea (LMC)",
+      "Leishmaniasis visceral (LV)"
+    ],
+    "tables": [
+      {
+        "number": 1,
+        "title": "Estimación del número de láminas del frotis con resultado negativo para control de calidad directo del examen microscópico directo",
+        "pdf_page": 14,
+        "columns": [
+          "Promedio de frotis positivos/año",
+          "2.5%",
+          "5%",
+          "7.5%",
+          "10%",
+          "13%",
+          "15%",
+          "18%",
+          "20%",
+          "25%"
+        ],
+        "rows": [
+          {
+            "promedio_frotis_positivos_anual": 100,
+            "porcentajes": [
+              "2.5%",
+              "5%",
+              "7.5%",
+              "10%",
+              "13%",
+              "15%",
+              "18%",
+              "20%",
+              "25%"
+            ],
+            "frotis_negativos_a_remitir": [
+              21,
+              18,
+              16,
+              14,
+              12,
+              11,
+              10,
+              9,
+              8
+            ]
+          },
+          {
+            "promedio_frotis_positivos_anual": 200,
+            "porcentajes": [
+              "2.5%",
+              "5%",
+              "7.5%",
+              "10%",
+              "13%",
+              "15%",
+              "18%",
+              "20%",
+              "25%"
+            ],
+            "frotis_negativos_a_remitir": [
+              36,
+              27,
+              22,
+              18,
+              15,
+              14,
+              12,
+              11,
+              9
+            ]
+          },
+          {
+            "promedio_frotis_positivos_anual": 300,
+            "porcentajes": [
+              "2.5%",
+              "5%",
+              "7.5%",
+              "10%",
+              "13%",
+              "15%",
+              "18%",
+              "20%",
+              "25%"
+            ],
+            "frotis_negativos_a_remitir": [
+              46,
+              32,
+              25,
+              20,
+              17,
+              12,
+              13,
+              11,
+              9
+            ],
+            "quality_note": "El valor 12 en la columna 15% es el que devuelve la extracción/OCR; su alineación visual no es completamente segura."
+          },
+          {
+            "promedio_frotis_positivos_anual": 400,
+            "porcentajes": [
+              "2.5%",
+              "5%",
+              "7.5%",
+              "10%",
+              "13%",
+              "15%",
+              "18%",
+              "20%",
+              "25%"
+            ],
+            "frotis_negativos_a_remitir": [
+              54,
+              36,
+              27,
+              22,
+              18,
+              15,
+              13,
+              12,
+              9
+            ]
+          },
+          {
+            "promedio_frotis_positivos_anual": 500,
+            "porcentajes": [
+              "2.5%",
+              "5%",
+              "7.5%",
+              "10%",
+              "13%",
+              "15%",
+              "18%",
+              "20%",
+              "25%"
+            ],
+            "frotis_negativos_a_remitir": [
+              61,
+              39,
+              29,
+              22,
+              18,
+              16,
+              13,
+              12,
+              10
+            ]
+          },
+          {
+            "promedio_frotis_positivos_anual": 700,
+            "porcentajes": [
+              "2.5%",
+              "5%",
+              "7.5%",
+              "10%",
+              "13%",
+              "15%",
+              "18%",
+              "20%",
+              "25%"
+            ],
+            "frotis_negativos_a_remitir": [
+              70,
+              42,
+              30,
+              23,
+              19,
+              16,
+              14,
+              12,
+              10
+            ]
+          },
+          {
+            "promedio_frotis_positivos_anual": 1000,
+            "porcentajes": [
+              "2.5%",
+              "5%",
+              "7.5%",
+              "10%",
+              "13%",
+              "15%",
+              "18%",
+              "20%",
+              "25%"
+            ],
+            "frotis_negativos_a_remitir": [
+              80,
+              45,
+              32,
+              24,
+              19,
+              17,
+              14,
+              12,
+              10
+            ]
+          }
+        ],
+        "source_note": "Transcripción de valores visibles en extracción nativa y OCR español. La celda 300/15% presenta alineación ambigua; conservada como 12 y marcada para verificación visual."
+      },
+      {
+        "number": 2,
+        "title": "Pruebas diagnósticas de laboratorio en leishmaniasis",
+        "pdf_page": 16,
+        "columns": [
+          "Métodos de diagnóstico/nivel laboratorio",
+          "Forma clínica/tiempo de evolución",
+          "Tipo de muestra",
+          "Requisitos de la muestra",
+          "Conservación",
+          "Tiempo de envío"
+        ],
+        "rows": [
+          {
+            "metodo_nivel": "Examen microscópico directo o frotis (I)",
+            "forma_clinica_evolucion": "Principalmente formas cutáneas < 6 meses",
+            "muestra": "Exudado, linfa y/o tejido obtenido por raspado",
+            "requisitos": "Mínimo 4 láminas con extendido, con 3 apósitos de muestra en cada lámina",
+            "conservacion": "Temperatura ambiente",
+            "tiempo_envio": "Inmediato"
+          },
+          {
+            "metodo_nivel": "Cultivo in vitro (LR, LRNMEZOP)",
+            "forma_clinica_evolucion": "Principalmente formas cutáneas < 6 meses",
+            "muestra": "Exudado, linfa y/o tejido obtenido por raspado",
+            "requisitos": "Uno a 2 tubos T/R con medio de cultivo agar sangre",
+            "conservacion": "Temperatura ambiente",
+            "tiempo_envio": "Inmediato"
+          },
+          {
+            "metodo_nivel": "Intradermorreacción de Montenegro (I, II, LR)",
+            "forma_clinica_evolucion": "Primo infectado procedente de áreas endémicas; para descarte en pacientes con patología compatible negativos a pruebas parasitológicas y serológicas",
+            "muestra": "Prueba en paciente con evolución > 1 mes y sin antecedentes de enfermedad",
+            "requisitos": "No aplica; el paciente no deberá presentar antecedentes de alergia",
+            "conservacion": "La Leishmanina deberá estar conservada entre 2–8 °C",
+            "tiempo_envio": "No aplica"
+          },
+          {
+            "metodo_nivel": "Prueba inmunocromatográfica (LRNMEZOP)",
+            "forma_clinica_evolucion": "Leishmaniasis visceral humana por Leishmania (Leishmania infantum) o L. infantum chagasi",
+            "muestra": "Suero; alternativamente plasma o sangre",
+            "requisitos": "No legible de forma confiable en la extracción de la tabla",
+            "conservacion": "Consultar indicación de recepción del laboratorio; el texto extraído presenta celdas desplazadas",
+            "tiempo_envio": "Inmediato"
+          },
+          {
+            "metodo_nivel": "Inmunofluorescencia indirecta (LR/LRNMEZOP)",
+            "forma_clinica_evolucion": "Principalmente formas mucosas; formas cutáneas con evolución > 3 meses",
+            "muestra": "Suero",
+            "requisitos": "0.5 a 1 ml de suero, sin hemólisis y/o presencia de contaminantes",
+            "conservacion": "Si se recibe en LRR o INS dentro de 5 días desde obtención: 2–8 °C; de lo contrario, −20 °C",
+            "tiempo_envio": "Preferentemente dentro de 5 días desde obtención hasta recepción en LRR o INS"
+          },
+          {
+            "metodo_nivel": "PCR en tiempo real (LR/LRNMEZOP)",
+            "forma_clinica_evolucion": "Todas las formas de la enfermedad",
+            "muestra": "Exudado, linfa y/o tejido obtenido por raspado",
+            "requisitos": "Muestra embebida en alcohol metílico 90° o solución RNA later, dispuesta en tubos cónicos de 1.5 ml",
+            "conservacion": "Si se recibe en LRR o INS dentro de 5 días desde obtención: 2–8 °C; de lo contrario, −20 °C",
+            "tiempo_envio": "Inmediato"
+          }
+        ],
+        "source_note": "La tabla es multicolumna y parte de las celdas quedan desplazadas en la extracción; se preservan advertencias donde el dato no es confiable."
+      },
+      {
+        "number": 3,
+        "title": "Indicadores de vigilancia epidemiológica",
+        "pdf_page": 18,
+        "columns": [
+          "Indicador",
+          "Descripción",
+          "Construcción",
+          "Evaluación o logro alcanzado %"
+        ],
+        "rows": [
+          {
+            "indicador": "Clasificación oportuna",
+            "descripcion": "Casos probables clasificados definitivamente como confirmados o descartados dentro de los 30 días desde la fecha de notificación.",
+            "construccion": "Porcentaje de casos con clasificación dentro de los 28 días desde la fecha de notificación.",
+            "evaluacion": "Óptimo >90 a 100; Bueno 80 a 89; Regular 70 a 79; Débil = o <69."
+          },
+          {
+            "indicador": "Llenado de datos al sistema de notificación de la vigilancia epidemiológica de leishmaniasis en el aplicativo informático NOTI",
+            "descripcion": "Fichas clínico-epidemiológicas completas (incluye variables de antecedentes, examen clínico, laboratorio).",
+            "construccion": "Porcentaje de variables llenadas en la ficha clínico-epidemiológica respecto del total de variables de la ficha, mediante supervisión.",
+            "evaluacion": "Óptimo >90 a 100; Bueno 80 a 89; Regular 70 a 79; Débil = o <69."
+          },
+          {
+            "indicador": "Casos con muestras de exudado, linfa, suero sanguíneo o tejido",
+            "descripcion": "Casos a los cuales se les realizó toma de muestra con resultado.",
+            "construccion": "Porcentaje de casos con muestras en el total de casos notificados.",
+            "evaluacion": "Óptimo >90 a 100; Bueno 80 a 89; Regular 70 a 79; Débil = o <69."
+          }
+        ],
+        "source_note": "El indicador de clasificación presenta una diferencia textual en el original entre 30 días (descripción) y 28 días (construcción); se conserva tal cual."
+      },
+      {
+        "number": 4,
+        "title": "Indicadores de vigilancia en salud pública en leishmaniasis humana",
+        "pdf_page": 19,
+        "columns": [
+          "Indicadores",
+          "Cálculo",
+          "Uso"
+        ],
+        "rows": [
+          {
+            "indicador": "Casos de leishmaniasis cutánea y mucocutánea",
+            "calculo": "N.º total de casos nuevos de leishmaniasis cutánea y mucocutánea, por año, distrito, provincia, departamento o país y forma clínica.",
+            "uso": "Conocer la ocurrencia de casos de leishmaniasis cutánea y mucocutánea, la distribución y tendencia."
+          },
+          {
+            "indicador": "Tasa de incidencia de leishmaniasis cutánea y mucocutánea",
+            "calculo": "N.º total de casos nuevos de leishmaniasis cutánea y mucocutánea por año, distrito, provincia, departamento o país y forma clínica / total de la población del área geográfica × 100 000.",
+            "uso": "Identificar y monitorizar el riesgo de ocurrencia de casos de leishmaniasis cutánea y mucocutánea."
+          },
+          {
+            "indicador": "Tasa de letalidad",
+            "calculo": "N.º total de muertes por leishmaniasis en el año / total de casos de leishmaniasis por departamento en el año × 100.",
+            "uso": "Conocer la gravedad de la leishmaniasis."
+          },
+          {
+            "indicador": "Proporción de casos de leishmaniasis cutánea y mucocutánea por sexo",
+            "calculo": "N.º total de casos de leishmaniasis cutánea y mucocutánea ocurridos en el año, por sexo / total de casos por distrito, provincia, departamento o país × 100.",
+            "uso": "Conocer la ocurrencia de casos por sexo."
+          },
+          {
+            "indicador": "Proporción de casos de leishmaniasis cutánea y mucocutánea por curso de vida",
+            "calculo": "N.º total de casos ocurridos en el año, por grupo de edad, por distrito, provincia, departamento o país × 100.",
+            "uso": "Conocer la ocurrencia y monitorear por cursos de vida."
+          },
+          {
+            "indicador": "Proporción de casos en niños menores de 10 años",
+            "calculo": "N.º total de casos de leishmaniasis cutánea o mucocutánea en menores de 10 años con diagnóstico confirmado ocurridos en el año, por distrito, provincia, departamento o país × 100.",
+            "uso": "Conocer la ocurrencia en menores de 10 años y monitorear la transmisión intradomiciliaria."
+          },
+          {
+            "indicador": "Proporción por forma clínica",
+            "calculo": "N.º total de casos nuevos de leishmaniasis cutánea o mucocutánea ocurridos en el año / total de casos de leishmaniasis × 100.",
+            "uso": "Conocer la ocurrencia por forma clínica de acuerdo con la ubicación de las lesiones."
+          },
+          {
+            "indicador": "Proporción por criterio de confirmación",
+            "calculo": "N.º total de casos nuevos de leishmaniasis cutánea o mucocutánea ocurridos en el año por criterio de confirmación / total de casos de leishmaniasis × 100.",
+            "uso": "Conocer la ocurrencia por criterio de confirmación."
+          }
+        ]
+      }
+    ],
+    "annexes": [
+      {
+        "number": "01",
+        "name": "Ficha clínico epidemiológica de leishmaniasis",
+        "pdf_pages": [
+          21,
+          22
+        ],
+        "type": "formulario",
+        "note": "El OCR identifica datos de notificación, filiación, residencia, antecedentes, lesiones, manifestaciones viscerales, comorbilidad, laboratorio y clasificación del caso; las casillas/figuras no son plenamente legibles en texto."
+      },
+      {
+        "number": "02",
+        "name": "Registro semanal de notificación epidemiológica individual",
+        "pdf_pages": [
+          23
+        ],
+        "type": "formulario/tablas",
+        "note": "Formulario de registro individual del Sistema Nacional de Vigilancia Epidemiológica en Salud Pública; incluye datos nominales y códigos de enfermedades/eventos."
+      },
+      {
+        "number": "03",
+        "name": "Diagnóstico de laboratorio de la leishmaniasis",
+        "pdf_pages": [
+          24,
+          25
+        ],
+        "type": "texto técnico",
+        "note": "Métodos parasitológicos, serológicos y moleculares."
+      },
+      {
+        "number": "04",
+        "name": "Flujograma de notificación de casos probables de leishmaniasis cutánea",
+        "pdf_pages": [
+          26
+        ],
+        "type": "flujograma"
+      },
+      {
+        "number": "05",
+        "name": "Flujograma de notificación de casos probables de leishmaniasis mucocutánea",
+        "pdf_pages": [
+          27
+        ],
+        "type": "flujograma"
+      },
+      {
+        "number": "06",
+        "name": "Flujograma de notificación de casos sospechosos de leishmaniasis visceral",
+        "pdf_pages": [
+          28
+        ],
+        "type": "flujograma"
+      },
+      {
+        "number": "07",
+        "name": "Acciones de vigilancia y control para áreas sin transmisión ante un caso probable cutáneo o mucocutáneo",
+        "pdf_pages": [
+          29
+        ],
+        "type": "diagrama",
+        "note": "El esquema clasifica el área por vulnerabilidad/receptividad; el detalle visual se debe consultar en el PDF."
+      },
+      {
+        "number": "08",
+        "name": "Clasificación de leishmaniasis visceral en las Américas por escenario epidemiológico y países",
+        "pdf_pages": [
+          30
+        ],
+        "type": "diagrama/tabla",
+        "note": "Escenarios 1–4; OCR identifica ejemplos de países en el texto extraído, pero la tabla gráfica completa requiere verificación contra el facsímil."
+      },
+      {
+        "number": "09",
+        "name": "Flujograma de análisis e informe de vigilancia epidemiológica de leishmaniasis",
+        "pdf_pages": [
+          31
+        ],
+        "type": "flujograma"
+      },
+      {
+        "number": "10",
+        "name": "Especies de Lutzomyia spp. implicadas en la transmisión de la leishmania en el Perú",
+        "pdf_pages": [
+          32
+        ],
+        "type": "mapa",
+        "note": "Mapa gráfico; los rótulos geográficos presentan OCR de baja confiabilidad."
+      },
+      {
+        "number": "11",
+        "name": "Mapa epidemiológico de casos de leishmaniasis. Perú 2000–2021",
+        "pdf_pages": [
+          33
+        ],
+        "type": "mapa",
+        "note": "Leyenda visible en OCR: distritos sin casos; rangos 1–2000, 2001–3000, 3001–4000, 4001–5000 y más de 5000. No se reconstruyen ubicaciones cartográficas."
+      },
+      {
+        "number": "12",
+        "name": "Mapa de distribución de especies de leishmania. Perú 2000–2021",
+        "pdf_pages": [
+          34
+        ],
+        "type": "mapa",
+        "note": "La leyenda nombra L. (V.) braziliensis, L. (V.) guyanensis, L. (V.) peruviana, L. (V.) amazonensis y L. (V.) lainsoni; las cifras por región no se reconstruyen."
+      }
+    ],
+    "ocr": {
+      "native_extraction": "pdftotext -layout para el texto nativo y estructura tabular disponible en el PDF.",
+      "image_ocr": "Tesseract 5.5.4, idiomas spa+eng, segmentación 6, renderizado 220 dpi en PDF páginas 21–34.",
+      "seal_and_signature_policy": "Se omitieron rótulos marginales identificados como sellos/rúbricas; no se transcribieron firmas ni marcas manuscritas.",
+      "limitations": [
+        "Los anexos 1–2 incluyen formularios con casillas/figuras; el OCR auxiliar puede tener errores.",
+        "Los anexos 4–12 son flujogramas o mapas; la geometría, relaciones y ubicación de símbolos no se codifican como texto autoritativo.",
+        "La tabla 1 conserva la lectura OCR de la celda 300/15% como 12, con advertencia de alineación.",
+        "La tabla 2 tiene celdas desplazadas/no legibles con certeza; se señalan en lugar de inferir.",
+        "La extracción de texto mantiene errores ortográficos/OCR del PDF cuando corregirlos podía alterar el original."
+      ]
+    },
+    "keywords": [
+      "Resolución Ministerial 165-2025 MINSA",
+      "NTS 225 MINSA CDC 2025",
+      "leishmaniasis Perú",
+      "vigilancia epidemiológica",
+      "LC",
+      "LMC",
+      "LV",
+      "NOTI",
+      "NETLAB",
+      "RENACE",
+      "diagnóstico de laboratorio",
+      "frotis",
+      "IFI",
+      "IDRM",
+      "PCR",
+      "indicadores epidemiológicos"
+    ],
+    "rag_guidance": {
+      "chunking": "Usar un fragmento por sección o anexo, conservando pdf_page y printed_page. Para tablas, preferir los objetos tables[]. No mezclar ocr_supplement con text cuando se requiera una cita autoritativa.",
+      "citation": "Citar páginas PDF de origen; la RM está en pp. 1–3 y la NTS en pp. 4–35 del archivo."
+    }
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_page": null,
+      "section": "Resolución Ministerial",
+      "text": "MINISTERIO DE SALUD                                                                            N o .16 5-\ns(       gfMk lu.\nVisto, el Expediente N° CDC00020240000484, que contiene la Nota Informativa\nKGUU£N\nN° D000281-2024-CDC-MINSA y el Memorandum N° D000157-2025-CDC-MINSA del\nCentro Nacional de Epidemiologia, Prevencion y Control de Enfermedades; y, el Informe\nN° D000168-2025-QGAJ-MINSA de la Oficina General de Asesoria Juridica;\nCONSIDERANDO:\n4°^ft Al\ncn                                Que, los numerales I y II del Titulo Preliminar de la Ley N° 26842, Ley General de\n5     D.                   Salud, disponen que la salud es condicion indispensable del desarrollo humane y medio\nfundamental para alcanzar el bienestar individual y colectivo, y que la proteccion de la\nsalud es de interes publico, siendo responsabilidad del Estado regularla, vigilaria y\npromoverla;\nIt\nI ol\nQue, el articulo 76 de la precitada Ley senala que la Autoridad de Salud de nivel\nnacional es responsable de dirigir y normar las acciones destinadas a evitar la\npropagacion y lograr el control y erradicacion de las enfermedades transmisibles en todo\nel territorio nacional, ejerciendo la vigilancia epidemiologica e inteligencia sanitaria y\ndictando las disposiciones correspondientes;\now         a |oi\nQue, los numerales 1), 3) y 5) del articulo 3 del Decreto Legislative N° 1161, Ley\nde Organizacion y Funciones del Ministerio de Salud, disponen que el Ministerio de Salud\ni OEW'\nes competente en salud de las personas, epidemias y emergencias sanitarias, e\ninteligencia sanitaria, respectivamente; asimismo, su articulo 4 refiere que el Sector Salud\nesta epnformado por el Ministerio de Salud, como organismo rector, las entidades\nadscritas a el, las instituciones publicas y privadas de nivel nacional, regional y local, y las\npersonas naturales que realizan actividades vinculadas a las competencias establecidas\nen dicha Ley, y que tienen impacto directo o indirecto en la salud, individual o colectiva;\nQue, segun el numeral 4-A2 del articulo 4-A del referido Decreto Legislative, el\nMinisterio de Salud, ente rector del Sistema Nacional de Salud, y dentro del ambito de sus\ncompetencias, determina la politica, regula y supervisa la prestacion de los servicios de\n& I           salud, a nivel nacional, en las siguientes instituciones: EsSalud, Sanidad de la Policia\nNacional del Peru, Sanidad de las Fuerzas Armadas, instituciones de salud del gobierno\nnacional y de los gobiernos regionales y locales, y demas instituciones publicas, privadas\ny publico-privadas;\nH.0»*\nC*M«00"
+    },
+    {
+      "pdf_page": 2,
+      "printed_page": null,
+      "section": "Resolución Ministerial",
+      "text": "Que, los literales b) y h) del articulo 5 del Decreto Legislative N° 1161 senalan que\nson funciones rectoras del Ministerio de Salud formular, planear, dirigir, coordinar,\nejecutar, supervisar y evaluar la politica nacional y sectorial de promocion de la salud,\nkmlen             vigilancia, prevencion y control de las enfermedades, recuperacion, rehabilitacion en\nsalud, tecnologias en salud y buenas practicas en salud, bajo su competencia, aplicable\na todos los niveles de gobierno; asi como, dictar normas y lineamientos tecnicos para la\nadecuada ejecucion y supervision de la politica nacional y politicas sectoriales de salud,\n\\tp\\\nentre otras;\nwf /\nIsiL     iNEGAS                   Que, el articulo 119 del Reglamento de Organizacion y Funciones del Ministerio\nfe Ej<             de Salud, aprobado por Decreto Supremo N° 008-2017-SA, precisa que el Centro\nNacional de Epidemiologia, Prevencion y Control de Enfermedades es el organo\ndesconcentrado del Ministerio de Salud, dependiente del Viceministerio de Salud Publica,\nresponsable de gestionar los procesos de vigilancia epidemiologica e inteligencia\nsanitaria;\nQue, asimismo, los literales a) y b) del articulo 120 del referido Reglamento indican\nque el Centro Nacional de Epidemiologia, Prevencion y Control de Enfermedades tiene la\nfuncion de formular, proponer e implementar normas, lineamientos, documentos\nnormativos en materia de vigilancia epidemiologica en salud publica y analisis de situacion\nde salud, y la funcion de desarrollar y conducir el Sistema Nacional de Vigilancia\nEpidemiologica en Salud Publica en el ambito nacional, asi como formular, proponer y\nmonitorear el adecuado uso de herramientas, instrumentos y metodologias para su\nfuncionamiento;\nQue, mediante los documentos del visto, el Centro Nacional de Epidemiologia,\nPrevencion y Control de Enfermedades, en el marco de sus competencias, propone la\nLeishmaniasis en el Peru, cuya finalidad es contribuir a la prevencion y control de la\ntransmision de las leishmaniasis, asi como a la vigilancia del ingreso de leishmaniasis\nvisceral en el Peru;\nI      J.OBMS\nEstando a Io propuesto por el Centro Nacional de Epidemiologia, Prevencion y\nControl de Enfermedades;\ni '   ■\nCon el visado del Centro Nacional de Epidemiologia, Prevencion y Control de\nEnfermedades, de la Direccion General de Intervenciones Estrategicas en Salud Publica,\nde la Direccion General de Salud Ambiental e Inocuidad Alimentaria, de la Direccion\nGeneral de Aseguramiento e Intercambio Prestacional, de la Direccion General de\nC. ALVARADO CH.\nOperaciones en Salud, de la Oficina General de Planeamiento, Presupuesto y\nModernizacion, de la Oficina General de Asesoria Juridica, de la Secretaria General, del\nInstitute Nacional de Salud, del Despacho Viceministerial de Salud Publica y del\nDespacho Viceministerial de Prestaciones y Aseguramiento en Salud; y,\nDe conformidad con Io dispuesto en el Decreto Legislative N° 1161, Ley de\nOrganizacion y Funciones del Ministerio de Salud; y, el Reglamento de Organizacion y\nFunciones del Ministerio de Salud, aprobado por Decreto Supremo N° 008-2017-SA;\nSE RESUELVE:\nArticulo 1.-Aprobar la NTS N°2.25 -MINSA/CDC-2025, Norma Tecnica de Salud\npara la Vigilancia Epidemiologica de Leishmaniasis en el Peru, que como Anexo forma\nparte inteqrante de la presente Resolucion Ministerial.\ni*\n\\ XpISa"
+    },
+    {
+      "pdf_page": 3,
+      "printed_page": null,
+      "section": "Resolución Ministerial",
+      "text": "MINISTERIO DE SALUD                                                                            No                iNSA\nd£4\nIo\nWENEGAS /-xi\nJOBOS       ■               Articulo 2.- Encargar a la Oficina de Transparencia y Anticorrupcion de la\nSecretaria General la publication de la presente Resolucion Ministerial y su Anexo en la\n■    sede digital del Ministerio de Salud (www.qob.pe/minsa), en la misma fecha de publication\nde la presente Resolucion en el Diario Oficial El Peruano.\nRegistrese, comuniquese y publiquese.\n&\n[h, GlBMOvr\nCESAR HENRY VASQUEZ SANCHEZ\n' II-/ V&Jf W\nMinistro de Salbd\nllsl jBSSga 1°\nI M.GUKLEN\nC/LVARADO CH.\nf °J"
+    },
+    {
+      "pdf_page": 4,
+      "printed_page": 1,
+      "section": "Norma Técnica de Salud",
+      "text": "LEISHMANIASIS EN EL PERU\nI. FINALIDAD\nContribuir a la prevencibn y control de la transmisibn de las leishmaniasis, asi como a la vigilancia\ndel ingreso de leishmaniasis visceral en el Peru.\nII. OBJETIVOS\n2.1.    OBJETIVO GENERAL\nEstablecer las acciones y los procedimientos de vigilancia epidemiologica de leishmaniasis.\n2.2.    OBJETIVOS ESPECIFICOS\n2.2.1.   Establecer los procedimientos para la captacibn de casos, registro, notificacibn,\ninvestigacibn y diagnbstico de laboratorio de casos de leishmaniasis, asi como, para el\ncontrol de calidad, monitoreo y evaluacibn del Sistema Nacional de Vigilancia\nEpidemiologica.\n2.2.2.   Establecer el procedimiento para el analisis de riesgo que incluye distribucibn de casos,\ncaracterizacibn y tendencias de los casos de leishmaniasis.\nIII. AMBITO DE APLICACION\nLa presente Norma Tecnica de Salud es de aplicacion obligatoria a nivel nacional, en todos los\nestablecimientos de salud publicos, privados o mixtos, que pertenecen al Ministerio de Salud, a\nlos gobiernos regionales y locales, al Seguro Social de Salud (EsSalud), a las sanidades de las\nFuerzas Armadas y de la Policia Nacional del Peril, y en el Institute Nacional de Salud.\nIV. BASE LEGAL\n• Ley N° 26842, Ley General de Salud, y sus modificatorias.\n• Ley N° 27867, Ley Organica de Gobiernos Regionales, y sus modificatorias.\n• Ley N° 27972, Ley Organica de Municipalidades, y sus modificatorias.\n• Ley N° 29733, Ley de Proteccion de Datos Personales, y su modificatoria.\n• Ley N° 30895, Ley que fortalece la funcion rectora del Ministerio de Salud.\n• Reglamento Sanitario Internacional (2005).\n• Ley N° 31961, Ley que fortalece la rectoria del Ministerio de Salud en vigilancia epidemiologica\nen salud publica e inteligencia sanitaria.\n• Decreto Legislative N° 1161, Ley de Organizacion y Funciones del Ministerio de Salud, y sus\nmodificatorias.\n• Decreto Legislative N° 1412, Decreto Legislative que aprueba la Ley de Gobierno Digital, y su\nmodificatoria.\n• Decreto Legislative N° 1504, Decreto Legislative que fortalece al Institute Nacional de Salud\npara la prevencibn y control de las enfermedades, y su modificatoria."
+    },
+    {
+      "pdf_page": 5,
+      "printed_page": 2,
+      "section": "Norma Técnica de Salud",
+      "text": "•     Decreto de Urgencia N° 006-2020, Decreto de Urgencia que crea el Sistema Nacional de\nTransformacion Digital.\n•     Decreto de Urgencia N° 007-2020, Decreto de Urgencia que aprueba el Marco de Confianza\nDigital y dispone medidas para su fortalecimiento, y su modificatoria.\n•     Decreto Supremo N° 008-2017-SA, que aprueba el Reglamento de Organizacion y Funciones\ndel Ministerio de Salud, y sus modificatorias.\n•     Decreto Supremo N° 016-2024-JUS, que aprueba el Reglamento de la Ley N° 29733, Ley de\nProteccion de Datos Personates.\n•     Resolucion Ministerial N° 506-2012/MINSA, que aprueba la Directiva Sanitaria N° 046-\nMINSA/DGE-V.01, que establece la Notificacion de Enfermedades y Eventos Sujetos a\nVigilancia Epidemiologica en Salud Publica, y su modificatoria.\n•     Resolucion Ministerial N° 545-2012/MINSA, que aprueba la Directiva Sanitaria N° 047-\nMINSA/DGE-V.01, “Notificacion de Brotes, Epidemias y otros eventos de importancia para la\nSalud Publica”.\n•     Resolucion Ministerial N° 464-2019/MINSA, que aprueba la Directiva Administrativa N° 266-\nMINSA/2019/OGTI: Directiva Administrativa que regula la Interoperabilidad en los Sistemas\nde Informacion Asistenciales.\n•     Resolucion Ministerial N° 826-2021/MINSA, que aprueba las “Normas para la Elaboracion de\nDocumentos Normativos del Ministerio de Salud”.\nV. DISPOSICIONES GENERALES\n5.1.    DEFINICIONES OPERATIVAS\n•   Ambiente periurbano: Territorio de densidad poblacional baja a media, que se sitiia\nalrededor de las ciudades, pero sin la alta densidad poblacional del espacio urbano.\n•   Ambiente rural: Territorio con presencia de vegetacion arborea y/o arbustiva de\ndensidad poblacional media a baja, usado para actividades agropecuarias,\nagroindustriales, extractivas, entre otras.\n•   Areas con transmision: Areas con historial de registro de casos humanos autoctonos y\ncasos en reservorios animales (canes y animates silvestres) de leishmaniasis cutanea\n(LC), mucocutanea (LMC) y visceral (LV) continues o no.\n•   Areas endemicas: Territorio comprendido entre 900 a 3500 msnm de altitud en los valles\noccidentales e interandinos, y en selva amazonica por debajo de los 2000 msnm de\naltitud, con presencia de casos humanos autoctonos de leishmaniasis, continuos, en los\nultimos 10 ahos.\n•   Areas no receptivas: Areas no vulnerables sin el registro de la presencia del vector del\ngenero Lutzomyia. Para caracterizar un distrito como no receptive, es necesario que se\nhaya realizado el levantamiento entomoldgico en el ultimo ano.\n•   Areas no vulnerables: Areas sin transmision de leishmaniasis que no cumplen los\ncriterios de vulnerabilidad, no poseen ecologia favorable a la presencia del vector, y no\nse encuentran contiguas a una zona de transmision que corresponde a una zona urbana1.\n•   Areas receptivas: Areas vulnerables con registro de la presencia del vector del genero\nLutzomyia.\n•   Areas sin transmision: Areas sin registro de ocurrencia de casos humanos autoctonos\nde cualquiera de las formas clinicas de leishmaniasis. Estas areas se clasifican de\nacuerdo con la vulnerabilidad y la receptividad. (Anexo N° 07)."
+    },
+    {
+      "pdf_page": 6,
+      "printed_page": 3,
+      "section": "Norma Técnica de Salud",
+      "text": "•   Areas vulnerables: Areas sin transmision de leishmaniasis con ecologia favorable a la\npresencia del vector del genero Lutzomyia y el reservorio.\no Para LC y LMC:\na) Areas contiguas a areas con transmision de LC/LMC activa.\no Para LV:\na) Areas contiguas a las areas con transmision de LV activa.\nb) Areas que presentan transito migratorio intense de personas y canes (reservorio\nanimal secundario) procedentes de areas endemicas de LV.\nc) Areas que cuentan con redes viales en areas con transmision activa de LV.\n•   Brote de leishmaniasis: Aparicion de uno o varies casos confirmados de LC o LMC en\nun area sin transmision, o incremento inusual de casos por encima de Io esperado en una\nlocalidad con transmision.\nEn LV:\n- En area sin transmision: cuando hay presencia del primer caso humano o canino.\n- En area con transmision canina: cuando hay presencia del primer caso humano.\n- En area con transmision: cuando hay un incremento inusual de casos por encima de\nIo esperado.\n•   Caso autoctono: Todo caso probable o confirmado de leishmaniasis, cuyo lugar\nprobable de infeccion corresponde a un area de trasmision de la enfermedad donde se\ndetecta o diagnostica.\n•   Caso importado: Es todo caso de leishmaniasis cuyo lugar probable de infeccion sea\ndiferente a la jurisdiccion del nivel que registra el caso.\n•   Co-infeccion leishmaniasis/VIH: Es el/la paciente con diagnostico de infeccion por VIH\nque presenta alguna de las formas clinicas de leishmaniasis (LC/LMC/LV) confirmada por\ndiagnostico serologico y/o parasitologico. La co-infeccion de cualquiera de las especies\ndel genero Leishmania con VIH o alguna enfermedad autoinmune eleva el riesgo para la\nevolucibn de la enfermedad a formas atipicas y/o agresivas de la enfermedad.\n•   Defuncion por leishmaniasis: Constituye la defuncion producto de las complicaciones\nde un caso confirmado de leishmaniasis.\n•   Determinantes de riesgo: Cualquier caracteristica o circunstancia detectable de una\npersona o grupo de personas que se sabe asociada con un aumento en la probabilidad\nde padecer, desarrollar o estar especialmente expuesto a la leishmaniasis. Entre ellos se\nmenciona la presencia de reservorios animales silvestres, mosquito vector (genero\nLutzomyia) y viviendas inadecuadas sin servicios basicos, en el ambiente selvatico o\nandino y el domestico-rural con condiciones climaticas y forestacion favorables a la\npresencia del vector y reservorios en las zonas endemicas:\n•   Leishmania: Es un protozoario del genero Leishmania que pertenece a la familia\nTrypanosomatidae y se transmite por la picadura de varias especies de Lutzomyia. Las\n)°       especies de leishmania presentan dos estadios: el promastigote, que se desarrolla en el\nintestine del vector y es la forma infectante a los mamiferos y el hombre, y el otro estadio\ncjdijSfco            es el amastigote, que se desarrolla en los mamiferos y el hombre e infecta a los mosquitos\nvectores al succionar sangre. A nivel mondial existen 22 especies patogenas, este genero\nLeishmania se subdivide en dos subgeneros Leishmania y Viannia. En America se han\nidentificado 18 especies, correspondiendo a Peril seis especies que son: L. braziliensis,\nL. peruviana, L. guyanensis, L. amazonensis, L. lainsoni y la especie hibrida L.\nbraziliensis/peruviana."
+    },
+    {
+      "pdf_page": 7,
+      "printed_page": 4,
+      "section": "Norma Técnica de Salud",
+      "text": "•   Leishmaniasis: Son enfermedades zoonoticas transmitidas por vectores y causan en el\nser humano un conjunto de sindromes clinicos que pueden comprometer la piel, las\nmucosas y las visceras. Las Leishmaniasis son causadas por diferentes especies de\nprotozoos del genero Leishmania y se transmiten a los animales y humanos a traves de\nlos insectos dipteros familia Pysochididae del genero Lutzomyia.\n•   Leishmaniasis tegumentaria: Es la denominacion clinica de leishmaniasis que\ncomprende casos de Leishmaniasis cutanea y Leishmaniasis mucosa.\n•   Lutzomyia spp.: Insecto perteneciente a la Orden Diptera, Familia Psychodidae,\npotencialmente transmisor de leishmaniasis o bartonelosis. Tambien denominado manta\nblanca, espundia, titira y karachupa. En el Peril, las especies de Lutzomyia consideradas\ncomo vectores son: L. peruensis, L. ayacuchensis, Lutzomyia tejadai, Lutzomyia\nverrucarum, y Lutzomyia pescei.\n•   Medio ambiente selvatico o andino silvestre modificado: Territorio con vegetacion\ndensa, que haya sufrido cambios del medio ambiente o alteracion por intervencion\nsignificativa por parte del ser humane o desastres naturales.\n•   Medio ambiente selvatico o andino silvestre no modificado: Territorio con vegetacion\ndensa, sin previa alteracion del medio ambiente por parte del ser humano.\n•   Notificacion: Es la comunicacion oficial que realiza el responsable de la vigilancia\nepidemiologica o quien haga sus veces de cualquier unidad notificante, que haya\ndetectado o recibido, y verificado el reporte o comunicacion de una enfermedad o evento\nsujeto a vigilancia epidemiologica. La notificacion de una enfermedad o evento a vigilar\npuede ser inmediata, semanal o mensual, segim corresponda, de acuerdo a Io normado\npor la Autoridad Nacional de Salud.\n•   Notificacion individual: Es aquella notificacion que contempla dates nominales por cada\nindividuo, que se registran en el format© establecido para dicho fin y la realiza el personal\nde epidemiologia de los establecimientos de salud.\n•   Recaida: Es la reactivacion de una lesion previamente curada independientemente del\ntiempo.\n•   Reinfeccion: Es la aparicion de nuevas lesiones en sitios anatomicos diferentes y se\npresenta como una nueva exposicion.\n•   Reservorios de leishmaniasis: Son aquellos animales vertebrados que mantienen al\nparasite de Leishmania en la naturaleza y permiten que los vectores del genero Lutzomyia\nse infecten de el y pueda persistir el ciclo de transmision. Los reservorios identificados en\nAmerica incluyen a los marsupiales (Didelphis spp), al oso perezoso (Choloepus spp y\nBradypus spp), al oso hormiguero menor (Tamandua tetradactyla), al zorro (Cerdocyon\nthous).ya los roedores (Rattus spp, Proechimys spp, Nectomys spp, Oryzomys spp, entre\notros). Se ha encontrado naturalmente infectados a Canis familiaris (perro domestico,\nreservorio sinantropico secundario=vertebrado que participa en el ciclo infeccioso de\nnumerosas zoonosis, ya sea como reservorios, hospederos intermediaries u hospederos\n-I KHU Iw\n2l\nde los ectoparasites vectores que transmiten agentes etiologicos), Didelphis albiventris\n(muca) y a una variedad de roedores que incluye a Rattus rattus (rata parda), Akodon\nC.MUItMCO       mollis, Phyllotis andinum y otros. El hecho de encontrar infeccion natural en un animal\ncualquiera no significa que sea un reservorio, se debe demostrar su rol en la transmision\nde la enfermedad."
+    },
+    {
+      "pdf_page": 8,
+      "printed_page": 5,
+      "section": "Norma Técnica de Salud",
+      "text": "•     Unidad notificante: Se denomina as! al establecimiento de salud designado oficialmente,\nque notifica en forma obligatoria y permanente enfermedades, eventos de vigilancia\nepidemiologica, brotes y otros eventos de importancia para la salud publica, al sistema\nde notificacion de vigilancia epidemiologica de salud publica administrado por el Centro\nNacional de Epidemiologia, Prevencion y Control de Enfermedades (CDC).\n•     Vigilancia epidemiologica: Observacion sistematica y continua, oportuna y confiable de\nla frecuencia, la distribucion de casos y los determinantes de riesgo de los eventos de\nsalud y sus tendencias en la poblacibn.\no Es pasiva cuando el caso probable o confirmado es captado a traves del sistema de\nnotificacion en los establecimientos de salud, el/la paciente acude para su atencion,\ndiagnbstico y tratamiento.\no Es activa cuando el caso probable o confirmado es captado a traves de una busqueda\nactiva de casos o producto de un estudio de investigacion, estudio de foco o brote,\nentre otros; involucra la deteccion de casos humanos, animales y del vector.\n5.2.   ACRONIMOS YSIGLAS\nADN         Acido desoxirribonucleico\nCDC         Centro Nacional de Epidemiologia, Prevencion y Control de Enfermedades\nDIRESA      Direccion Regional de Salud\nDIRIS       Direccion de Redes Integradas de Salud\nGERESA      Gerencia Regional de Salud\nINS         Institute Nacional de Salud\nIDRM        Intradermorreaccion\nIFI         Inmunofluorescencia indirecta\nIPRESS      Instituciones Prestadoras de Servicios de Salud\nLRR         Laboratorio de Referencia Regional\nLC          Leishmaniasis cutanea\nLMC         Leishmaniasis mucocutanea\nLV          Leishmaniasis visceral\nNETLAB      Sistema de Informacion de la Red Nacional de Laboratories\nNOTI        Aplicativo del Sistema de Vigilancia Epidemiologica de Salud Publica\nOk                    PCR\nRENACE\nReaccion en Cadena de la Polimerasa\nRed Nacional de Epidemiologia\nt.UUlWCO              RIS         Red Integrada de Salud\nVIH         Virus de la inmunodeficiencia humana"
+    },
+    {
+      "pdf_page": 9,
+      "printed_page": 6,
+      "section": "Norma Técnica de Salud",
+      "text": "5.3.   DEFINICIONES DE CASO\n5.3.1.   Caso probable de LC\nTodo/a paciente procedente o residents de areas endemicas o una nueva area de\ntransmision de leishmaniasis, que presenta el siguiente criterio: Una o mas iilceras\ncutaneas, superficiales de hordes bien definidos, elevados, indurados y de base\neritematosa con un tiempo de aparicion igual o mayor a 2 semanas de la evolucion.\n5.3.2.   Caso confirmado de LC\nTodo caso probable de LC con resultado positivo a uno o mas de los siguientes\nmetodos:\n•   Parasitoldgicos:\n> Frotis.*\n> Cultivo.\n•   Inmuno-serolbgico:**\n> Inmunofluorescencia indirecta (IFI), titulo > a 1/40.\n•   Molecular***\n> Deteccion molecular de ADN por PCR.\nNota.- * Metodo de primera eleccibn (ver Anexo N° 03).\n**\nEn casos donde el paciente cuente con un tiempo de evolucion de la\nenfermedad mayor a 3 meses.\n***\nEn casos donde de manera repetida resulte negative en el Examen\nMicroscbpico Directo.\n5.3.3.   Caso descartado de LC\nTodo caso probable de LC con resultado negative a los siguientes metodos: inmuno-\nserolbgicos IFI e intradermorreaccibn (IDRM), y deteccion molecular de ADN o con\nresultado positivo a otras patologias.\n5.3.4.   Caso probable de LMC\nTodo/a paciente procedente de un area endemica, con antecedente de exposicion y con\nuna o mas lesiones granulomatosas elevadas en el tabique, laringe, faringe o traquea\ncon o sin antecedentes de infeccion de LC, la cual aparece a los meses o anos despues\nde haber cicatrizado la lesion.\n5.3.5.   Caso confirmado de LMC\nTodo caso probable de LMC con resultado positive a los metodos descritos en el\nflujograma de notificacion de LMC (Anexo N° 05):\nn               > IDRM mas.\n> Inmunofluorescencia (IFI) con titulo > a 1/40.\n• Molecular*\n> Deteccion molecular de ADN por PCR.\nNota.- * En casos donde los metodos anteriores resulten negatives y persista la\nsospecha de la enfermedad."
+    },
+    {
+      "pdf_page": 10,
+      "printed_page": 7,
+      "section": "Norma Técnica de Salud",
+      "text": "5.3.6.   Caso descartado de LMC\nTodo caso probable de LMC con resultado negative a: IDRM, IFI y deteccion molecular\nde ADN o resultado positive a otras patologias.\n5.3.7.   Caso humano sospechoso de LV\nTodo/a paciente procedente o residente de area endemica de LV que presenta fiebre\nmayor a 10 dias, signos de hepatomegalia y/o esplenomegalia.\n5.3.8.   Caso humano confirmado de LV\nTodo caso probable de LV que ha sido confirmado por el INS o por laboratories de\nreferencia regionales implementados en el marco de la transferencia tecnologica de\nacuerdo al flujograma de notificacion de LV, por uno de los siguientes metodos:\n> Prueba rapida inmunocromatografica especifica rK 39 para Leishmania (Leishmania)\ninfantum o Leishmania infantum chagasi.\n> Frotis con tincion Giemsa o May-Grunwald-Giemsa muestra de aspirado de medula\nosea.\n> Cultivo “in vitro” en medio agar sangre, con identificacion de promastigotes en NNN\n(Novy, Nicolle y McNeal), Seneckjie, por puncion lumbar de medula osea.\n> Prueba de Inmunofluorescencia indirecta con titulo > a 1/80 con antigenos\nespecificos para Leishmania (Leishmania) infantum o Leishmania infantum'chagasi.\n> Por deteccion molecular de ADN de Leishmania (Leishmania) infantum o Leishmania\ninfantum chagasi.\nNota.- Leishmania (Leishmania) infantum o Leishmania infantum chagasi, agente\netiologico de leishmaniasis visceral en America sinonimo Leishmania chagasi, agente\netiologico de leishmaniasis visceral en Asia, Africa y Europa.\n5.3.9.   Caso humano descartado de LV\nTodo caso probable de LV con resultado negative a uno de los siguientes metodos:\nparasitologicos, inmuno-serolbgicos o moleculares o por evidencia de otra enfermedad\no por otra especie de Leishmania (Leishmania) infantum o Leishmania infantum\nchagasi.\n5.3.10. Diagnostico diferencial\nEn el diagnostico diferencial de la LC se incluyen las patologias:\n•   Infecciones bacterianas de piel.\n•   Dermatomicosis (esporotricosis, paracoccidioidomicosis).\n•   Tuberculosis cutanea.\n•   Ulcera tropical.\n•   Ulcera de Buruli.\n31   )            •   Ulcera por vasculopatias (ulcera por estasis venosa).\n•   Carcinoma baso celular.\n•   Sifilis secundaria o terciaria.\n•   Miasis.\n•   Eczema.\n•   Lepra lepromatosa.\n•   Carbunco.\n•   Sarcoma de Kaposi."
+    },
+    {
+      "pdf_page": 11,
+      "printed_page": 8,
+      "section": "Norma Técnica de Salud",
+      "text": "•   Amebiasis cutanea, entre otros.\nEn el diagnostico diferencial de la LMC se incluyen:\n•   Paracoccidioidomicosis.\n•   Histoplasmosis.\n•   Tuberculosis.\n•   Sifilis terciaria.\n•   Sindrome de Behcet.\n•   Lupus eritematoso discoide.\n•   Granuloma letal de linea media.\n•   Linfoma, neoplasias.\n•   Rinoescleroma.\n•   Granulomatosis de Wegener.\n•   Amebiasis de vida libre, entre otros.\nEn el diagnostico diferencial de la LV se incluyen:\nSindrome de esplenomegalia.\nTuberculosis con compromiso del bazo.\nEnfermedad de Chagas.\nBrucelosis.\nSepticemia por salmonelosis.\nEndocarditis bacteriana.\nHistoplasmosis sistemica.\nLinfoma.\nLeucemias y otras neoplasias.\nAnemias hemoliticas y la sarcoidiosis.\nVI. DISPOSICIONES ESPECIFICAS\nPROCEDIMIENTOS DE LA VIGILANCIA EPIDEMIOLOGICA\n6.1. CAPTACION Y NOTIFICACION DE CASOS\n6.1.1.   Todo caso autoctono o importado debe ser informado inmediatamente al responsable\nde la Unidad / Oficina / Direccion de epidemiologia de los establecimientos de salud,\nRIS/DIRIS/DIRESA/GERESA correspondiente, para el inicio de la investigacion\nepidemiologica.\n6.1.2.   Los casos autoctonos se deben registrar en el aplicativo informatico NOTI del Sistema\nde Vigilancia Epidemiologica de Salud Publica del CDC.\n6.1.3.   Los casos importados nacionales se registran de acuerdo a la procedencia y se debe\ncomunicar via correo a la RIS/DIRIS/DIRESA/GERESA de origen dentro de las 48 boras\nde notificado.\n6.1.4.   Los casos importados internacionales, si bien no ingresan en el analisis nacional, son\nconsiderados en un informe mensual sobre los paises de procedencia y una alerta ante\nel increment© inusual de casos.\n6.1.5.   El/la responsable de vigilancia epidemiologica o el que haga sus veces en el\nestablecimiento de salud, debe realizar el registro del caso a traves de la ficha clinico"
+    },
+    {
+      "pdf_page": 12,
+      "printed_page": 9,
+      "section": "Norma Técnica de Salud",
+      "text": "epidemiolbgica (Anexo N° 01) y la notificacion de los casos nuevos identificados al nivel\ninmediato superior a traves del formato de registro semanal de notificacion individual\n(Anexo N° 02) del establecimiento de salud. Dicha informacibn es recibida por el/la\nepidemiblogo(a) que efectua el control de calidad en la microrred o red de salud, RIS,\nDIRIS/DIRESA/GERESA.\n6.1.6.   La vigilancia epidemiolbgica de leishmaniasis se realizara en el marco de la\nimplementacibn de las Redes Integradas de Salud (RIS).\n6.1.7.   Para fines de la clasificacibn segun el Cbdigo Internacional de Enfermedades (version\nCIE 10), la denominacibn se adapta a los siguientes grupos:\nB55.0 • = Leishmaniasis visceral.\nB55.1   = Leishmaniasis cutanea.\nB55.2   = Leishmaniasis mucocutanea.\n6.1.8.   Es obligatorio el llenado de las fichas clinico epidemiolbgicas de leishmaniasis (Anexo\nN° 01), en todos los establecimientos de salud, es realizado por el personal de salud\nque atiende al paciente en todos los casos probables o confirmados.\n6.1.9.   El flujo de la notificacion se realiza desde el nivel local hasta el nivel nacional, a traves\nde la RENACE y siguiendo los flujos y procesos establecidos en la Directiva Sanitaria\nN° 046-MINSA/DGE-V.01, que establece la Notificacion de Enfermedades y Eventos\nSujetos a Vigilancia Epidemiolbgica en Salud Publica, aprobada por Resolucibn\nMinisterial N° 506-2012/MINSA y su modificatoria, o la que haga sus veces. (Anexos\nNos. 04, 05 y 06).\n6.1.10. El/la     responsable      de      epidemiologia      de    la     Red,      Microred      de\nSalud/RIS/DIRIS/DIRESA/GERESA se encarga del registro y notificacion en el\naplicativo informatico NOTI del sistema de vigilancia epidemiolbgica del CDC, asi como\ndel monitoreo del cumplimiento de la notificacion de sus unidades notificantes a nivel\nregional, la consolidacibn final de la informacibn de casos y el analisis de la informacibn.\n6.1.11. El control de calidad de la informacibn se realiza en todos los niveles, incluso desde el\nnivel que ingresan los datos al NOTI. El/la responsable de epidemiologia del\nestablecimiento de salud realiza el control de calidad del llenado de la ficha clinico\nepidemiolbgica y de la informacibn antes de su ingreso al sistema NOTI.\n6.1.12. Los casos probables o confirmados de LC y LMC son de notificacion semanal hasta el\nnivel nacional en cada establecimiento de salud y se consolida en el formate individual\nde notificacion semanal (Ver Anexo N° 02).\n6.1.13. Los casos de LV sospechosos o confirmados son reportados de forma inmediata al\nsistema NOTI.\n6.1.14. Las defunciones por LC o LMC se deben reportar de forma inmediata al sistema NOTI.\n6.1.15. Las reinfecciones se consideran como casos nuevos y las recaidas se registran en las\nfichas clinico epidemiolbgicas, estas ultimas no ingresan como casos nuevos en el\nr-l\naplicativo informatico NOTI en todos los niveles.\n6.1.16. Las comorbilidades de los/as pacientes con leishmaniasis, especialmente de VIH, son\nregistradas por el responsable de epidemiologia en la ficha clinico epidemiolbgica de\nleishmaniasis."
+    },
+    {
+      "pdf_page": 13,
+      "printed_page": 10,
+      "section": "Norma Técnica de Salud",
+      "text": "6.2.   INVESTIGACION EPIDEMIOLOGICA DE CASOS\n6.2.1.    El equipo de investigacion epidemiolbgica de los establecimientos de salud se\ndesplazara al domicilio del/de la (de los/as) paciente(s) en la localidad afectada,\nverificando los factores de riesgo y realizando busqueda activa a fin de determinar casos\nnuevos; asimismo, se recolectan muestras de frotis o suero, para Io cual se requiere de\npersonal de laboratorio, insumos para la toma de muestras y movilidad local para el\ndesplazamiento del personal.\n6.2.2.    El/la responsable de epidemiologia en los establecimientos de salud incorpora la\ninformacibn del caso en el sistema informatico NOTI, y la actualiza segun los hallazgos\nen la investigacion epidemiolbgica, los antecedentes epidemiolbgicos, la evaluacibn\nclinica y los resultados del diagnbstico de laboratorio.\n6.2.3.    A todo caso probable, dependiendo de la forma clinica y tiempo de evolucibn de la(s)\nlesion (es) y el nivel de atencibn, se le debe tomar una muestra para frotis o prueba\ninmuno-serolbgica u otra prueba alternativa dependiendo del metodo de diagnbstico de\nlaboratorio implementado a nivel local; de no haber capacidad, se refiere la muestra al\nlaboratorio referencial regional dependiendo de la metodologia diagnbstica\nimplementada. (Ver Tabla N° 2 y Anexos Nos. 04, 05 y 06).\n6.2.4.    En caso que el diagnbstico confirme la etiologia, se debe realizar el cambio en el\nsistema informatico NOTI de probable a confirmado, o descartar si se confirma otro\ndaho.\n6.2.5.    En caso de una defuncibn, se debe determinar si esta fue la causa primaria de la\ndefuncibn o las posibles fallas al tratamiento antileishmaniasico.\n6.2.6.    En situaciones de brote o transmision en menores de 10 ahos, el/la responsable de\nepidemiologia de los establecimientos de salud debe caracterizar el o las areas de\ntransmision mediante la investigacion de otros posibles casos e investigacion\nentomolbgica del lugar probable de infeccibn, verificando la presencia de reservorios y\notros determinantes de riesgo como condiciones favorables a la presencia del vector y\na la exposicibn a las picaduras.\n6.2.7.    Para la actividad de investigacion de brote o estudio de foco donde se presentan casos\nnuevos sin evidencia entomolbgica y antecedentes de casos o ante el increment©\ninusual de casos en un area sin transmision o de baja transmision, el/la responsable de\nepidemiologia de los establecimientos de salud conjuntamente con el equipo de\nlaboratorio deben verificar factores de riesgo de transmision y, con informacibn de\ninfestacibn del vector del area de salud ambiental, determinar si hay transmision.\n6.2.8.     En todo caso probable de defuncibn por leishmaniasis, se establece la causa primaria\nde la muerte, para Io cual se debe recabar informacibn en la ficha clinico epidemiolbgica,\nhistoria clinica, certificado de defuncibn e informe del comite medico local sea en los\nestablecimientos de salud o el nivel inmediato superior, que certifica la defuncibn en el\n‘ establecimiento de salud o ambito del establecimiento, determinando el lugar probable\nde infeccibn y factores que contribuyeron al deceso.\n6.3.   DIAGNOSTICO DE LABORATORIO\n6.3.1.    PROCEDIMIENTOS SOBRE LA TOMA, ENVIO DE MUESTRAS, OBTENCION DE\nc?m5 AYCO\nRESULTADOS Y CONTROL DE CALIDAD"
+    },
+    {
+      "pdf_page": 14,
+      "printed_page": 11,
+      "section": "Norma Técnica de Salud",
+      "text": "El INS, a traves de Centro Nacional de Salud Publica, es el responsable de planificar,\nejecutar y monitorizar el control de calidad del diagnostico de Leishmaniasis a los\nlaboratorios regionales de la red de salud publica (LRRSP); a su vez, los LRRSP son\nlos responsables de garantizar la ejecucion del control de calidad a los laboratorio\nintermedios y locales de acuerdo a su capacidad resolutiva.\nEl control de calidad se desarrolla de manera directa, mediante el envio de las muestras\ndel diagnostico de los LRRSP al INS para la evaluacibn de concordancia, como se\ndetalla en la Tabla N° 1; e indirecta, a traves del envio de material (panel) de evaluacibn\nelaborado por el INS y remitido a los LRRSP.\nEn el Control de Calidad Indirect© del Examen Microscbpico Directo (EMD), los LRRSP\nenvian de manera trimestral, el 100% de laminas con resultado positive y un niimero de\nlaminas negativas seleccionadas en ciego y de manera aleatoria en funcion al promedio\nde casos positivos/ahos diagnosticados.\nTabla N° 1. Estimacion del numero de laminas del frotis con resultado negative\npara el control de calidad directo del Examen Microscbpico Directo de\nLeishmaniasis, de acuerdo a promedio de frotis positivos/aho.\nPromedio de frotis\n2.5%      5%      7.5%     10%      13%      15%      18%      20%     25%\npositivos/afio\nTotal de frotis\nTotahde Frotis negativos a remitir al INS por trimestre\nnegativo/afio\n100                21      18       16       14       12       11       10       9        8\n200              ■ 36      27       22       18       15       14       12       11       9\n300                46      32       25       20       17       12       13       11       9\n400                54      36       27       22       18       15       13       12       9\n500                61      39       29       22       18       16       13       12       10\n700                70      42       30       23       19       16       14       12       10\n1000                80      45       32       24       19       17       14       12      10\nFuente: Laboratorio de Referenda Nacional de Metaxenicas y Zoonosis Parasitarias. Institute Nacional de\nSalud.\nEn el Control de Calidad Indirecto del diagnostico por IFI, los LRRSP envian por\ntrimestre al INS el 100% de muestras con resultado positive y el 10% de negativos\nacompanados del oficio correspondiente y del formulario de resultados obtenidos.\nEl Centro Nacional de Salud Publica planifica y ejecuta el Programa de Evaluacibn\nExterna del Desempeno, en el marco del Control de Calidad Directo del diagnostico de\nLeishmaniasis     del   Examen    Microscbpico   Directo    (PEED     LEI-EMD)     e\nInmunofluorescencia Indirecta (PEED LEI-IFI), a fin de garantizar el proceso de\ncjKajco       diagnostico realizado por los LRRSP.\nLos informes de control de calidad de diagnostico de leishmaniasis seran publicados de\nmanera semestral y por procedencia de las muestras en la pagina web del INS."
+    },
+    {
+      "pdf_page": 15,
+      "printed_page": 12,
+      "section": "Norma Técnica de Salud",
+      "text": "6.3.2.   TIPIFICACION DE Leishmania\nEl Centro Nacional de Salud Publica del INS es el responsable de la tipificacion de\nLeishmania, la cual se desarrolla con la finalidad de obtener informacion actualizada\nsobre la circulacion e incidencia de las especies de Leishmania por departamento.\nLa tipificacion de Leishmania se realiza a partir de parasites aislados mediante cultivo\nin vitro por los LRRSP, intermedios y locales, e inmediatamente remitidos al INS\nacompahados de la ficha clinico epidemiologica del paciente para su ingreso en el\nNetLab.\nEn el laboratorio, las muestras de parasites son amplificados hasta alcanzar una\nconcentracion aproximada de 5 x 107 parasitos/mL para su criopreservacion y registro\nen la Coleccion peruana de Leishmania del INS e identificacion molecular hasta el nivel\nde especie."
+    },
+    {
+      "pdf_page": 16,
+      "printed_page": 13,
+      "section": "Norma Técnica de Salud",
+      "text": "Tabla N° 2. Pruebas Diagnosticas de Laboratorio en Leishmaniasis\nMetodos de\nRequisitos de la\ndiagnostico/Nivel           Forma clinica/tiempo de evolucion       Tipo de muestra                                              Conservacion                   Tiempo de envio\nmuestra\nlaboratorio\nMinimo 4 Ibminas con\nExamen microscopico directo\nextendido, con 3 apbsitos\no Frotis (I)                                                     Exudado, linfa           y/o\nPrincipalmente formas cutaneas < 6                              de muestra en cada lamina\ntejido obtenido          por                           Temperatura ambiente                       Inmediato\nmeses                                                           Uno a 2 tubes T/R con\nCultivo in      vitro    (LR,                                    raspado\nLRNMEZOP)                                                                                     medio de cultivo agar\nsangre\nPrimo infectado procedentes de areas\nPrueba en paciente      No aplica\nendemicas.______________________\ncon un tiempo de\nIntradermorreaccion      de Para descarte de la enfermedad en                                                            La    Leishmanina       debera    estar\nevolucion > 1 mes y     Sin embargo, el paciente                                            No aplica\nMontenegro (I, II, LR)      pacientes con patologia compatible,                                                          conservada entre 2 - 8 °C\nsin antecedentes a la   no    deberb    presentar\nnegativos       a      las     pruebas\nenfermedad              antecedentes de alergia.\nparasitolbgicas y serolbgicas._______\nLeishmaniasis Visceral humana por          Suero,\nPrueba Inmunocromatografica\nLeishmania (Leishmania infantum) o         alternativamente                                                                            Inmediato\n(LRNMEZOP)                                                                                                                Si la muestra ser^ recepcionada por un\nLeishmania (infantum chagasi)              plasma o sangre\nLRR o INS dentro de 5 dias como\nPrincipalmente formas mucosas                                      0.5 a 1 ml de suero, sin                                            Preferentemente\nmaximo, desde su obtencibn, esta\nhemolisis y/o presencia de                                          dentro de 5 dias desde\ndebera ser conservada entre 2 - 8 °C;\nInmunofluorescencia Indirecta                                                                  contaminantes                                                       la obtencibn de la\nFormas cuteneas con un tiempo de Suero                                                      caso contrario la muestra debera ser\n(LR/LRNMEZOP)                                                                                                             conservada a -20°C.                      muestra     hasta   su\nevolucion de la enfermedad > 3 meses.\nrecepcibn en un LRR o\n( hSrq! 1°/\nINS\nSi la muestra serb recepcionada, por un\nMuestra embebida en\nCHMrco                                                                                                                                  LRR o INS dentro de 5 dias como\nExudado, linfa      y/o alcohol metilico 90° o en\nPCR    en  tiempo        real                                                                                             mbximo, desde su obtencibn, esta\nTodas las formas de la enfermedad     tejido obtenido     por solucibn RNA later y                                                Inmediato\n(LR/LRNMEZOP)                                                                                                             deberb ser conservada entre 2 - 8 °C;\nraspado                 dispuesta en tubos cbnico\ncaso contrario, la muestra debera ser\nde 1.5 ml\nconservada a -20°C.\nFuente: Laboratorio de Referenda Nacional de Metaxdnicas y Zoonosis'Parasitarias. Institute Nacional de Salud."
+    },
+    {
+      "pdf_page": 17,
+      "printed_page": 14,
+      "section": "Norma Técnica de Salud",
+      "text": "6.4.   CLASIFICACION Y CONTROL DE CALIDAD DE CASOS\n6.4.1.   El personal de epidemiologia de una unidad notificante en el establecimiento de salud,\nRIS, Red o Microred de Salud, DIRIS, DIRESA, GERESA debe gestionar el acceso a\nNETLAB para realizar el seguimiento de los resultados de laboratorio de los casos\nprobables y reclasificar los casos.\n6.4.2.   Todo caso probable notificado en el sistema informatico NOTI, es reclasificado como\nconfirmado o descartado por el/la responsable de epidemiologia del establecimiento de\nsalud, considerando los criterios epidemiologicos, clinicos y de laboratorio.\n6.4.3.   Todo caso es clasificado'por el/la responsable de epidemiologia del establecimiento de\nsalud acuerdo al lugar donde se infecto como caso autoctono o importado (nacional o\ninternacional). Es responsabilidad del personal de epidemiologia en el establecimiento\nde salud, RIS/Red o’Microred.de Salud, DIRESA, GERESA o DIRIS la reclasificacion\nde casos, de acuerdo a las defiriiciones de caso de la presente Norma Tecnica de Salud,\nen un tiempo no mayor a 28 dias posteriores a la fecha de notificacion del caso de\nleishmaniasis. '\n6.4.4.   En aquellos casos con mas de 2 tipos de diagnostico notificados en el NOTI, es\nimportante su reclasificacion con el fin de evitar duplicidad en la vigilancia\nepidemiologica.\n6.5.   ANALISIS Y PRESENTACION DE INFORME\n6.5.1.   El analisis de la informacion es incluido por el/la responsable de epidemiologia de cada\nnivel, sea un establecimiento de salud, RIS, microrred o red de salud y\nDIRIS/DIRESA/GERESA, en la sala situacional considerando tiempo (casos por\nsemana epidemiologica, indicadores de la Tabla N° 3), espacio (mapa de localidades y\ndistritos afectados) y persona (grupos de edad, sexo, ocupacion, region natural y\nactividad migratoria). Asimismo, en zonas endemicas se debe incluir el canal endemico.\n(Anexo N° 09).\n6.5.2.   El area de epidemiologia del establecimiento de salud, RIS/microrred o red de salud,\nDIRIS/DIRESA/GERESA debe realizar un informe trimestral sobre la situacion\nepidemiologica de la leishmaniasis en su jurisdiccion y remitirlo, segun corresponda, a\nla microrred o red de salud, DIRIS, DIRESA, GERESA, incluyendo las determinantes\nde riesgo y areas a priorizar para las intervenciones.\n6.5.3.   Para realizar la clasificacion de las areas o distritos de leishmaniasis, se deben emplear\nlos criterios de clasificacion de la Organizacion Mundial de la Salud (QMS):\n■   Areas con y sin transmision o transmision silenciosa, con o sin areas vulnerables y\nno vulnerables.\n■   Area como receptiva y en ausencia del vector como no receptiva.\n6.5.4.   Las acciones de vigilancia y control de leishmaniasis deben realizarse de acuerdo a\nescenario epidemiologico por criterio de vulnerabilidad y receptividad.\n6.6.   MONITORED Y SUPERVISION DE LA VIGILANCIA EPIDEMIOLOGICA\n6.6.1.   El CDC debe realizar el monitoreo y evaluacion del sistema de vigilancia epidemiologica\nC.UUIUYCO               de leishmaniasis del aplicativo informatico NOTI."
+    },
+    {
+      "pdf_page": 18,
+      "printed_page": 15,
+      "section": "Norma Técnica de Salud",
+      "text": "6.6.2.   Supervisar en los diferentes niveles, desde el CDC al nivel regional, del nivel regional a\nlas RIS, redes de salud y desde estas a los establecimientos de salud, la\nimplementacion de las medidas correctivas mediante comunicacion telefonica o correo\nelectronico sobre las discordancias encontradas en la notificacion individual con los\nresponsables de epidemiologia, y mediante las asistencias tecnicas o monitoreo para\nverificar el cumplimiento de la presente Norma Tecnica de Salud en el ambito de su\ncompetencia.\n6.6.3.   Los responsables de epidemiologia en la GERESA/DIRESA/DIRIS deben capacitar al\nresponsable de epidemiologia del establecimiento de salud sobre la vigilancia\nepidemioldgica de leishmaniasis publicada en la presente Norma Tecnica de Salud.\nTabla N° 3. Indicadores de Vigilancia Epidemioldgica\nIndicador                Descripcion                Construccion           Evaluacion o logro\nalcanzado %\nClasificacion oportuna    Casos        probables       Porcentaje de casos        6ptimo>90 a 100\nclasificados                 con       clasificacion\ndefinitivamente como         dentro de los 28 dias       Bueno=80 a 89\nconfirmados           o      desde la fecha de\ndescartados dentro de        notificacion\nlos 30 dias desde la                                    Regular=70 a 79\nfecha de notificacion .\nDebil = o < 69\nLlenado de datos al       Fichas            clinico    Porcentaje          de     Optimo>90 a 100\nsistema de notificacion   epidemiologicas de la        variables llenadasen\nde      la   vigilancia   vigilancia              de   la     ficha   clinico      Bueno=80 a 89\nepidemioldgica       de   leishmaniasis                epidemioldgica de\nleishmaniasis en el       completas        (induye     leishmaniasis en el\naplicativo informatico    variables               de   total de variables de      Regular=70 a 79\nNOTI                      antecedentes, examen         la               ficha\nclinico, laboratorio)        epidemioldgica       a      Debil = o < 69\ntraves              de\nsupervision\nCasos con muestras        Casos a los cuales se        Porcentaje de casos        6ptimo>90 a 100\nde exudado, linfa,        les realize toma de          con muestras en el\nsuero sanguineo o         muestra con resultado        total    de   casos         Bueno=80 a 89\ntejido                                                 notificados\nRegular=70 a 79\nDebil = o <69\n6.7.   ANALISIS DE RIESGO\nPara poder evaluar el riesgo de transmision y priorizar las intervenciones, se trabaja con los\nindicadores descritos en la Tabla N° 4.\nEl CDC realiza el analisis de casos de leishmaniasis de acuerdo a la distribucion y tendencia\nde casos."
+    },
+    {
+      "pdf_page": 19,
+      "printed_page": 16,
+      "section": "Norma Técnica de Salud",
+      "text": "Tabla N° 4. Indicadores de vigilancia en salud publica en leishmaniasis Humana\nIndicadores                              Calculo                                          Uso\nCasos             de\nN° total de casos nuevos de leishmaniasis cutanea Conocer la ocurrencia de casos de\nleishmaniasis\ny mucocutanea, por aho, por distrito, provincia, leishmaniasis cutanea y mucocutanea,\ncutanea             y    departamento o pais y forma cllnica               la distribucion y tendencia\nmucocutanea\nTasa de incidencia       N° total de casos nuevos de leishmaniasis cutanea\nIdentificar y monitorizar el riesgo de la\nde      leishmaniasis    y mucocutanea, por aho, distrito, provincia,\ncutanea             y                                                      ocurrencia de casos de leishmaniasis\ndepartamento o pals y forma clinica/total de la\nmucocutanea                                                                cutanea y mucocutanea\npoblacion del area geogrSfica x 100 mil\nN° total de muertes por leishmaniasis en el\nTasa de letalidad                                                             Conocer     la   gravedad     de    la\naho/total de casos de leishmaniasis por\nleishmaniasis\ndepartamento en el aho x 100\nProporcion de casos      N° total de casos de leishmaniasis cutanea y         Conocer la ocurrencia de casos de\nde       leishmaniasis   mucocutanea ocurridos en el aho, por sexo/total      leishmaniasis cutanea y mucocutanea,\ncutanea              y   de casos de leishmaniasis por distrito, provincia,   por sexo\nmucocutanea        por   departamento o pals x 100\nsexo_______\nProporcion de casos      N° total de casos de leishmaniasis cutanea y Conocer la ocurrencia de casos de\nde       leishmaniasis   mucocutanea ocurridos en el aho, por grupo de leishmaniasis cutanea y mucocutanea,\ncutanea              y   edad por distrito, provincia, departamento, o pals y monitorear por cursos de vida\nmucocutanea        por   x 100\ncurso de vida\nProporcion de casos      N° total de casos de leishmaniasis cutanea y         Conocer la ocurrencia de casos de\nde       leishmaniasis   mucocutanea en nihos menores de 10 ahos con          leishmaniasis cutanea y mucocutanea\ncutanea              o   diagnostico confirmado ocurridos en el aho, por      en menores de 10 ahos y monitorear la\nmucocutanea         en   distrito, provincia, departamento, o palsx 100       transmision intradomiciliaria\nnihos menores de 10\nahos______\nProporcion          de   N° total de casos nuevos de leishmaniasis cutanea Conocer la ocurrencia de casos de\nleishmaniasis            o mucocutanea, ocurridos en el aho/total de casos leishmaniasis por forma cllnica de\ncutanea              y   de leishmaniasis x 100                            acuerdo a la ubicacion de las lesiones\nmucocutanea        por\nforma cllnica\nProporcion          de   N° total de casos nuevos de leishmaniasis cutanea Conocer la ocurrencia de casos de\nleishmaniasis            o mucocutanea, ocurridos en el aho por criterio de leishmaniasis por\nper    criterio de\ncutanea              y   confirmacion/total de casos de leishmaniasis x 100 confirmacion\nmucocutanea        por\ncriterio            de\nconfirmacion\n6.8. FINANCIAMIENTO DE LA VIGILANCIA EPIDEMIOLOGICA\nLas GERESA/DIRESA/DIRIS o las que hagan sus veces en sus respectivas jurisdicciones,\nprogramaran el financiamiento de las actividades establecidas en la presente Norma Tecnica\nde Salud con el presupuesto institucional de cada unidad ejecutora.\nVII. RESPONSABILIDADES\n7.1.    Nivel nacional:\nEl Ministerio de Salud, a traves del CDC, es responsable de la difusion de la presente Norma\nTecnica de Salud hasta el nivel regional, asi como de brindar asistencia tecnica, monitorear\ny supervisar su cumplimiento."
+    },
+    {
+      "pdf_page": 20,
+      "printed_page": 17,
+      "section": "Norma Técnica de Salud",
+      "text": "7.2.   Nivel regional:\nLas GERESA/DIRESA/DIRIS o las que hagan sus veces son responsables de la difusion de\nla presente Norma Tecnica de Salud en los establecimientos de salud de sus respectivas\njurisdicciones, asi como de su implementacion, monitoreo y supervision de su cumplimiento.\n7.3.   Nivel local:\nLos directores o jefes de los establecimientos de salud publicos, privados y mixtos, y los\ndirectores de las redes y microrredes de salud son responsables de la implementacion y\naplicacion de la presente Norma Tecnica de Salud en Io que les corresponda.\nVIII. ANEXOS\nAnexo N° 01:     Ficha clinico epidemiologica de leishmaniasis.\nAnexo N° 02:     Registro semanal de notificacion epidemiologica individual.\nAnexo N° 03:     Diagnostico de laboratorio de la leishmaniasis.\nAnexo N° 04:     Flujograma de notificacion de casos probables de LC.\nAnexo N° 05:     Flujograma de notificacion de casos probables de LMC.\nAnexo N° 06:     Flujograma de notificacion de casos sospechosos de LV.\nAnexo N° 07:     Acciones de vigilancia y control para areas sin transmision de leishmaniasis ante\nla aparicion de un caso probable de LC o LMC.\nAnexo N° 08:     Clasificacion de leishmaniasis visceral en las Americas, segun escenario\nepidemiologico y paises correspondientes a cada escenario.\nAnexo N° 09:     Flujograma de Analisis e Informe de Vigilancia Epidemiologica de Leishmaniasis.\nAnexo N° 10:     Especies de Lutzomyia spp. implicadas en la transmision de la leishmania en el\nPeru.\nAnexo N°11:      Mapa epidemiologico de casos de leishmaniasis. Peru 2000-2021.\nAnexo N°12:      Mapa de distribucion de especies de leishmania. Peril 2000-2021.\ntlWKWCO"
+    },
+    {
+      "pdf_page": 21,
+      "printed_page": 18,
+      "section": "Norma Técnica de Salud",
+      "text": "ANEXO N° 01: Ficha clinico epidem\nii                                                                                                      ANEXO 1_______________________\n~FICHA CLlNICO EPIDEMIOLOGICA DE LEISHMANIASIS'\nI. OATOS GENERALES DE LA NOTIFICACldN\n1. Fecha de investigacidn:         Illi\nDia      Mes        Afio\n2. Fecha de notificacidn:                   uo T\nDia      Mes       A Ao\n3. Fecha de inicio de sintomas:\nDia\n^T~T\nMes Afio\n4. GERESA/DIRESA/DISA:                                                5 Red/Microred                                                       6. Establecimiento de Satud\n7. Institucidndesalud:       MINSA                                      EsSalud                                   Sanidad PNP                                        Sanldad FA                                 Privados\nOtro [\nll.DATOSDELPACIENTE\n8. H.CIhica N*                                9.Tel6fonoA?e!ulardel paciente                                                                             10 Fecha de Naclmiento                    I\nDia Mes Afio\n) Mestizo                 I   I    hdlgena amazdnico\n11 ■ I                                                                                                                                                                                       Descend iente asidtico\n1 Apellido Patemo                                                                                                                                |     | Andino\nApellido Matemo                                    Nombres                                                                           Otro\n12. Etnia           Pueblo etnia\n13. DNVPasaporte |_\n14.Edad (afios/meses/dias)                                                  □a\nIlS.Genero\nF\n1    16.Ocupaci6n           |_\ni\n17. Departamento\nI\n18. Provincia\nI\n19. Distrito\nI\n20 .Localidad de residencia actual (nombre complete)\nOireccidn de residencia actual:\n21.Nombre de la via\nI   22. Tipovfa:                    Alameda                                 Avenida                                     CaOe                                        Jinbn                                                 pasaje\n23. Agrupamiento Humano:                                Asentamiento Humano                                 Asociacidn                           Urt>anizaci6n                          Otros\n24. Nombre del agrupamiento humano\n25. Manzana                  26. Block                       27.lnterior                                   28.Kilometro                              28.Lote                        29. Numero de puerta\n3O.Gestante                         SI                                 NO            31. Edad gestacional\n111. ANTECEDENTES EPiDEMIOLOGtCOS\n32. Lugar de permanencia los ultimos 2 mesos\nmarcarcon (x)\nDepartamento                                                                                                                            Actividad\nProvincia                         Distrito                Centro poblado                                                silvestre                   rural    semirrural\ndesarrollada'\n33. Antecedente de picaduras                                     Si                    no                         34. ^Conoce la titira, manta blanca?                                       si                       no\nSS.^Anteriormente tuvo leishmaniasis?                            Si                    no                         36. ^Donde estuvo hubo pacientes con leishmaniasis'isi                                              no\n37.4Cuendo tuvo leishmaniasis?                                                                                    38. {.Fumigaron su viviendo?                  Si          No                   Fecha          / /\nMes                Afio\n39. Material vivienda:                     parades                                              techo                                           piso\nEspocificar adobe, ladrillo, etc.\n4O.Cria animales                                        si                    no               iCuates?\nno\n41 ^.Reclbio tratamiento?                               si                                                 42.Medicamento:                           via:                               periodo (Ano)\nLeismaniasis cutanea lesion active\n43.Numero de lesiones:                                                42.Secuela:                           Si                 No\n44. Localizacion de la lesion active (Marcar con una “X”): Cara                                       Cuello                        Miembro superior\nTronco                                                                                       Miembro inferior\nmarcar la ubicacion de las lesiones con numeracion en la figure del reverse de la ficha\nLeismaniasis mucocutanea lesion activa:\n45. Numero de lesiones:                                                 45. Secuela:           Si                         No\n46. Localizacion de la lesion (Marcar con una “X”): Uvula                                      Paladar                         Faringe\nEpiglotis           Fosas nasales                             Septum nasal\nmarcar la ubicacion de las lesiones con numeracion en la figure del reverse de la ficha",
+      "ocr_supplement": {
+        "engine": "Tesseract 5.5.4, spa+eng, page segmentation 6, 220 dpi",
+        "text": "NTS N*225 -MINSA/CDC-2025\nNORMA TECNICA DE SALUD PARA LA VIGILANCIA EPIDEMIOLOGICA DE LEISHMANIASIS EN EL PERÚ\n. o nAa. E e . Ry . P\nANEXO N* 01: Ficha clinico epidemiológica de leishmaniasis\nn Ministerio [n ] ANEXO Y — -Z\n-Q PERÚ de Salud | eoe FICHA CLINICO EPIOEMIOLÓGICA DE LEISHMANIASIS\nI DATOS GENERALES DE LA NOTIFICACION -\n1. Fechadeimvestigación: | | | ] 2 Fechademosificación: — | | | | o Fecadeimiiodesmomas: | | | ]\nDia Mes Ao D6 Mas  Afo Día Mes Afo\n4. GERESADIRESA/DISA: S RedMicrored || 6.Establecimenodesad [ ]\n7. ntlución de salud: — MINSA EsSahud O SanidadPnP (] SenidadFA  [] — Pados [ ]\n[\n. .CIhica N* 9 TeltimoCenarderpacine || torecadenaemiemo ||\nDia Mes Año\nB Mestizo [0 - indgena amazónico\nW[ T T ) Dlavodescontione [l Descerdiene asitico\n1 Apelido Palemo Apelido Matemo T Nombres [ Andino O ow\nea memena [ ]\nsomParaom [ ra otomeseto [ Jiscéne ssoman [ ]\n. 17. Departamento 18. Provincia 19. Distrito . 20 .Localidad de residencia actua! (nombre completo)\nDirección de residencia actual:\n' 22 Tipo vía: Alameda Avenida Cale Jirón pasaje\n23. Agripamiento Humano : Asentamiento Humano Asociación Usbanización Otros\n25.Manzana 26. Block 27 Interior 28 Kilometro 28Lote 28. Número de puerta -\n30. Gestante si NO 31. Edad gestacional\n32. Lugar de permanencia los ultimos 2 mosos m\nlesarrollada »\n33. Antecedente de picaduras si no 34. ¿Conoce la ra, manta blanca? si no\n35. ¿Anteriormento tuvo Isishmaníasis? si no 36. ¿Dónda estuvo hubo pacientes con leishmaniasisisi no\n37. ¿Cuéndo tuvo leishmaniasis? 38, ¿Fumigaron su vivienda? — Si No Focha 1 1\n39. Material vivienda: paredes techo piso\nEspocificar adobo, ladrillo, atc.\n40. Cria animalos s _) no [ ] ¿Cuíles?\n41 .¿Recibió tratamiento? si D no D 42.Medicamento: via: periodo (Año]\n-\n43.Número de lesiones: 42.Secuela: Si No\nZE 44. Localizacion de la lesión activa (Marcar con una \"X\"): Cara Cuello Miembro superior\nPAN N\n7 EN\nÉ \\ Tronco Miembro inferior\n1 NAy * marcar 10 ubicacion de las lesiones con numeración en la figuro del reverso de la ficha\nX—— ,// [45.Número de lesiones: 45, Secuela: — Si No\n[\n. 46. Localización de la losión (Marcar con una “X\"): Úvula Paladar Faringe . .\nEpiglotis Fosas nasates Septum nasel\nmarcar la ubicación de las lesiones con numeración en la figura del reverso de la ficha\n. 18",
+        "quality_note": "OCR auxiliar de formularios/diagramas/mapas; no validado palabra por palabra. No usar como dato autoritativo cuando difiera del texto legible."
+      }
+    },
+    {
+      "pdf_page": 22,
+      "printed_page": 19,
+      "section": "Norma Técnica de Salud",
+      "text": "UWC1RY WMERW L4S lESWfiS\nIK\nBa   rs\nSS'SfsSESSterKST*\nI      ■\"*\nWEMCOAOliUCOSJctil | IK) () FMBteinkb<te&nWra5[                                   o ] Fer?©: |~~| Aios [J Lfses\n,47. Datos cllnicos: visceral (si se sospecha de caso Importado o ha permanecldo meses en zona endemica de otro pais)\nFiebre             Adenopatia               Esplenomegalia              Adelgazamiento\nDiarrea                                           Inf.Respiratoria\n!_ Comorbilidad (sefialar)\n__________________________________________________\nVIH Si no       Otra enfermedad:\n’IV. Criterio de confirmadon per laboratorio Resultados (♦) positive         (•) negative Pendiente(P) slnmuestra ( SM )\n^48. Tipo de muestra\nI      Fecha toma                                                                                        Lugar\nFecha resultado           Frotis             IDRM             IFI (Tctulo)                              Observaciones\n|       muestra                                                                                      procesamieiito\n49. CLASIFICACION DEL CASO\nLeishmaniasis cutanea          B55.1      □\nLeishmaniasis visceral         B.55.0\n□\nLeishmaniasis mucocutinea      B.55.2\ncaso confirmado\n□                caso probable           □                 caso descartado              □\ncaso importado            □                recaida                 □                      reinfeccidn             □\nz   )       Nombres y apellidos del personal de Salud\nFecha",
+      "ocr_supplement": {
+        "engine": "Tesseract 5.5.4, spa+eng, page segmentation 6, 220 dpi",
+        "text": ". NTSN°22 5 -MINSA/CDC-2025 .\n- NORMA TECNICA DE SALUD PARA LA VIGILANCIA EPIDEMIOLÓGICA DE LEISHMANIASIS EN EL PERÚ\nD AARDAR Y MUNERAR LAS LESFINES\nA g É -\nA AR L o\n4 .ll.'\\ \";‘ - e| / -\n,,\"L, g¿uk! ’m AT .\nHRAREHE / 118\n| ENFERMEDADMUCOSA:SÍ | | NO [ ) Fecadenisodesimmas[ | | | fiemo: [ ados (] ueses .\n,_\" 1 ; — _\n(=S | ARG |\n. f ! “a / -\n{47 Datos clinicos: visceral_(sl se sospecha de caso Importado o ha permanecido meses en_zona endémica de otro país)\n;ﬁebre Adenopatia Esplenomegaiia Adelgazamiento ¡\n¡Díanea Inf.Respiratona\n| Comorbilidad (señalar) VIH Si no Otra enfermedad: -\n1\n\"I. Criterio de confirmacion por laboratorio Resultados _(+) positive _() negativo Pendiente (P) sin muestra ( SM )\n148. Tipo de muestra .\n- . @ D ]\n| E I s s s\n1 E s s N A R\n; I U N R R\n[49. CLASIFICACION DEL CASO .\n| Leishmaniasis cutánea 8551 (J\nI Leishmaniasis visceral B550 [\n- Leishmaniasis mucocutánea B.55.2 (]\n) caso confirmado D caso probable C) caso descartado 1\n'\nE caso importado D recaida D reinfección D\nAT |\nVe DN\n((!13' ;Nomhres y apellidos del personal de Salud .\nX z / ./) Í Fecha___I —\n7 '\ncafóNaOO\n19",
+        "quality_note": "OCR auxiliar de formularios/diagramas/mapas; no validado palabra por palabra. No usar como dato autoritativo cuando difiera del texto legible."
+      }
+    },
+    {
+      "pdf_page": 23,
+      "printed_page": 20,
+      "section": "Norma Técnica de Salud",
+      "text": "ANEXO No 02\nCentro Nacionol de           ■     '\nMinisterioj Epidcmlologfo. Prcvenddny                                                          REGISTRO SEMANAl DE NOTIFICAClON EPIDEMIOLOGICA INDIVIDUAL\ndeSalud .[ Control de Enfermcdodcs                                                          SISTEMA NACIONAL DE VIGILANCIA EPIDEMIOLOGICA EN SALUD.POBLICA\n1. aSAIOIRESA IGERESA                                                                                  1 k RED                                                                                                      4.MCR0RRED\nb.ESTASLEafAENTO\nS. SEMANA DE NOBRCAClON                                                      I AflO • 20 I\nUcnar codigos\n07. Edtd y Sexo       OS. ONI                                                                                                                                                             iS.Protegldo                                                        it. Rena de\n09. Lugar Probable do Infocddn                                                                                                                               17. Facha da                                            1I.TIpoVI>Uncia**\nI ii\no                              15. TIPO de     (Vaeuna)                                                         InvesOgaddn\n6. Apetlldoa y Nombrea                                                                                                                       10. Olrecctbn Reaidencla\ni                 Oiagndstlco\nCIE 10\nDx\n(C.PoOr\nM                                     Provlncia                 Oiatrito                 Localidad\ni                                             SI NO ION\ntticio\nSihtomas\nOoftincMn tnvc$(jgaci5n Notiticoeata     Si     No\nBust)\noetva\nC.UUilAYCO\n•Qnjpo do ETN1A: 1: l.testteo, ?. WioDcsccndcnto, 3: Andno, ♦. Incipro Armzdrico, & Aa'rttKodcxaidci®, 8 Cuoo                                  • Tipo <b dofpdoico C, Conlirrmdo. P. Prcbabte, 0. Dos: a a do          Reg'flia wgibocfa paswojarttosodaao clcoooo arwisdobs oandorKs Idcnntdi) cn dEESS\n• Andino(sdecciorctrc6J>gx:del0lal®)      *tndgenoArrtazOnlco(Sdeccionaf cddgos <H09al73)        ResMencte Habitual KUrbano 2; Utnru msrghal 3: RmafCarrpcana\n- 20. PANOS SUJETOS A ylCILANOA ERDEMOLOCIGA\nHOnRCACION IMMEOUT*                  A200 Pcaienoeapwixou                             HonncActQN iemawal                           NOtIRCACCN NgNSU**.\n603       vrueb                                *303 PVOAMIUckUtDfMlFP*)                *97.0     Dengue a n sefaits de ataana        __   Carta\n*K.l) *30.2 PoawnkM pot Pcttmrux Saivqe          *32.0 Ratu rxnuro xemtni                *97.1     Dengue ten scMes da (Tama          02^024 rtetcdnpsrVhFSO*\nJlnsrama Rexpiratono agudo Mvaro       tgs t Raoa mmana urana                  MJO       Erfermedad (MCarntn Enoeva                                                                                    21. Flrma y Sallo de la Persona qua Notlflca\nUO4J                                                                                                                                         necc ones utnroxpoiatB                                                                                            22. Director o Jeta del Eetabtedmiento\nA22    Artiax(ca0uxo)                        *P2S    Ctutungutya craie                    A920      Chikungjnyo\nMD     CAeru                                                                               U069     Zika\n*072    Dengue Gme                             BC6    RutMa                                *4*0      Errcnnecad de Camfo *guo                tesonn por *cc acmes de ttAreio\n*35    cuerta                                 006    Sarvtpdn                             B37       Ensmtsx oe Cnajs                        yiMnca Fanear\nTB8>    ESAVt (EvertotmiestATieneaMuaoa         A»    T&ano$ neonam                        BIG       HtcnttsS                                Cusquer ato ererwe ponga en nesgo ta s*n (ucfica\nwwTKitn otrmwttacOn)                  A760   tab aanxmtDto                        JW        HlucntaA-l\n*050    F etre wrada itfriua                   *37    Tbifont                              BMl       Lesnmvme so euOneo\nGW     CcUarte wcunado iruxhenidtwnento                                                   635 3\n*300    ItetmgxS menngoedexa                                                               *27       Leptosprost\n095    tuetemaemo                                                                         X20       Loiattsnto                              NOnRC*CDNCOLeCTTV*(eON1OllQ*0*l\nOW     UMto mxcqia mdrw la                                                                630       L-HanaptfP. ftratxrun                   Entmcon Ol»rtta Apjca\n097    lAtota n aesu ar. denia                                                            est       ttaanaparP vans                         KeccnOResprama *gjca\n*200    Pese omtoca                                                                        632       tAManacnrP Hiarine                      MeuncriD\n*20.1   Peseceuotdanea                                                                     *17.0     ranngrs upemosa                         SOB ASM*\n*302    PeueileunOma                                                                      PCOdPOS-    Uxro fins I L&erv neorwW\n000*1009\n*207    pejtexepacfenta                                                                    >20       OS03910\n*208    Otras wnat de Peste                                                                *30       Stacme de Rifieoa CengenQ\n*50       SHO congirrtj\n*»         T&rui",
+      "ocr_supplement": {
+        "engine": "Tesseract 5.5.4, spa+eng, page segmentation 6, 220 dpi",
+        "text": ". NTS N*225 -MINSAICDC-2025 .\nNORMA TECNICA DE SALUD PARA LA VIGILANCIA EPIDEMIOLOGICA DE LEISHMANIASIS EN EL PERU\nANEXO N° 02\n@ REGISTRO SEMANAL DE NOTIFICACIÓN EPIDEMIOLÓGICA INDVIDUAL\n- de Salud \" | convror de Entermedados SISTEMA NACIONAL DE VIGILANCIA EPIDEMIOLÓGICA EN SALUD,PUBLICA\nas [ T re . <i.UQmMbeel — ... .IM-\nECC ra C\n6. Apollidos y Hombres - 10,0lrección Residencia | $ g áu.m—¿—:u ':x . -\n| EO I 0 1 a 1 E E |\n5| Es\nP PRE P —| P HA Y P P iiy :\n- P P TE R T u E I, AR EFE EZ T T\n—--——_—=II-=I=I--------\nP PRE E TY < T E O TFFE w A Y N N I I\nP— PRE Z Z AN rT EO A I F ME I FE O\n, [ [ A S (N A o D D D D Y N O O B\n- E N A ( N I I I N U O\nAE h I EP P TF ARE ERE EP EFE Y\n6-7 E A D a A 1T q 1 O D T\nK 2E ) P m ol P —| “ . [| —\nP PR E T u TE PP TFE F HA I N A A\nCAAO PO PE E T — E a TE ESTIHHT T E FE\nHE RA ZE Z- T ELLEE F HE E T P EE\n“*Grupo de ETMIA: 1: Liestzo, 7: Alro Descendanto, 3: Andno, 4, n ynn Amizónico, 5. Asidtico descendens, 8. Oros * Tipo de dognástico C, Contirmado, P, Pretante. D. Dercarmdo *** Rogiras vigilacis pasiva cuando 5e doterta el caro a Es de ki mienciones ¡domanda) en el EESS.\n* Andino (seleccionar cóbgas: del 01 a 0B) — Indigena Amazónico (Sckxdoros códpos de 09 0173) — Residenela Hetitual 1Umeno 2: Uibens mapinal 3: RuatCamperina\n. ROTIRCACION INKESUTA Db Pelcioa p MO IF ACTÓN BE MANAL EODACIOON MERTUAL\n. 0— vmeb A 3 Poritss Lxica A (PrA) 2070 Denqueamsefas ce dama — Came\n[A80.1 1 4602 Poboriits por Pañovirus Savze 520 Ratia hr st B Dergue conseñes de dama 8202 MECCÓNpor VI:/SIDA\nUGHS — SIngTome Respinmno Agudo severo — | 1821 Ratarummma s M40 Erfermecce esCamn Envrva m PRt 0SS UO 1.Firma y Sello de la Persona que Novifica — |22. Olroctor o Jofe del Estabtocimiento\n. . AZ Atear (camnco) 9925 Cnarrgunya grave AZO Chiangmia\na Cdc 069 aka -\n072 DempmGrne 805 Fn AMO Erremegas de Camén AQUD. e LESONES por AcCOENTES de Tránszo\nPO o sewate 057 Ermenedar o s — voma e\n7881 - ESAV (EWAID SURPSLATENS STOUD 3 A3 Thanes nesnan 86 MEc B s CUMQUE CUO S8 QU ponga en respola sN púbica\nu o rac 250 Tancumemo W emeraa- a\n1050 Poeorano sa CO eo Lesmnneno oo\n- A Ce oo oe 0507 Uit mccc\n1200 Vs menmporóuica e\n00 tuetemoema =0 taceamo NONACACIÓN COLECIIVA CONSOLIDADA)\n00 Menamanóna E aa m ENENO DITEER DO\n0u — Vutomammaencaia C T - MNO RE Ae\n00 peseetnca B v lm ] en\naD - pesoceturcdna W10 venmgdo ia — wemsn\nm D --\n. . 2207 - peserermcines @ omsmo\n205 Ot m e Peste 20 Shoone Ae Cn\ns ST congiria:\nTm\n20",
+        "quality_note": "OCR auxiliar de formularios/diagramas/mapas; no validado palabra por palabra. No usar como dato autoritativo cuando difiera del texto legible."
+      }
+    },
+    {
+      "pdf_page": 24,
+      "printed_page": 21,
+      "section": "Norma Técnica de Salud",
+      "text": "ANEXO N° 03:\nDiagnostico de laboratorio de la leishmaniasis\n3.1.   Metodos parasitologicos\nSon metodos ampliamente empleados en la confirmacion de la enfermedad porque permite la\nvisualizacion microscopica del parasito, entre ellos, el examen microscopico directo o frotis,\nmetodo de eleccion debido a su simplicidad, bajo costo, elevada especificidad y sensibilidad\nespecialmente en casos de leishmaniasis cutanea con un tiempo de evolucion menor a 6\nmeses; asi mismo, la sensibilidad es inversamente proporcional al tiempo de evolucion de la\nenfermedad.\nOtros metodos parasitologicos empleados son la observacibn microscopica de promastigotes\nmediante Cultivo in vitro y de amastigotes en los codes histopatolbgicos, ambos metodos de\nelevada especificidad.\n3.1.1.   Metodo de examen microscopico directo o frotis.\nEs el metodo de primera eleccion aplicable a todo nivel de establecimientos de salud del\nMINSA, no solo por la sencillez del procedimiento sino por la elevada especificidad que\npresenta y la rapidez de los resultados.\nConsiste en el reconocimiento de las formas amastigotes mediante observacibn\nmicroscopica de las muestras de tejido de lesion dispuestas en laminas portaobjetos y\ncoloreadas con Giemsa.\nEn este metodo, la sensibilidad es variable y se debe, entre otros, a factores relacionados\na la obtencion de muestras, debido a ello, son necesarias las siguientes consideraciones\nque mejoran la eficiencia del metodo:\n-   La adecuada seleccion de la lesion de la cual se obtenga la muestra, la cual debe\nser la que presente el menor tiempo de evolucion.\n-   Estar libre de cualquier tipo de crema y/o empasto.\n-   No presentar manipulacion o danos provocados por quemadura.\n-   La sobreinfeccion bacteriana reduce considerablemente la eficiencia del metodo por\nIo que es recomendable informar al medico.\nLas muestras de tejido son obtenidas mediante raspado de lesion, empleando la hoja de\nbisturi o el borde romo de una lanceta, tratando de obtener muestra con la menor cantidad\nde sangre posible, y extendidas de manera suave, sobre una lamina portaobjetos limpia\ny desengrasada, procurando que el extendido sea delgado y uniforme, evitando pasar 2\nveces por el mismo sitio. Asimismo, el examen microscopico directo o frotis se puede\nrealizar a partir de improntas coloreadas con Giemsa, para Io cual se emplea un\nfragmento de tejido obtenido por biopsia y dispuestas por aposicion sobre la superficie de\nuna lamina portaobjeto.\nEn ambos casos, las laminas con el extendido de tejido y las improntas deben ser fijadas\nempleando alcohol metilico, llevados a reposo hasta la completa evaporacion y\ncoloreadas con tincibn Giemsa por 30 minutos, luego lavados con agua, y secados a\ntemperatura ambiente.\nPara la identificacibn de las formas amastigotes, las laminas coloreadas son dispuestas\nen la platina de un microscopic de campo claro; la lectura se desarrolla con el objetivo de\nlOOx empleando aceite de inmersibn, se realiza la biisqueda de parasites de Leishmania\nen todo el extendido. La identificacibn de al menos un parasito de Leishmania spp. en",
+      "ocr_supplement": {
+        "engine": "Tesseract 5.5.4, spa+eng, page segmentation 6, 220 dpi",
+        "text": ". NTS N* 225 -MINSA/CDC-2025 .\nNORMA TECNICA DE SALUD PARA LA VIGILANCIA EPIDEMIOLOGICA DE LEISHMANIASIS EN EL PERU\n- ANEXO N* 03:\nDiagnóstico de laboratorio de la leishmaniasis . .\n3.1. Métodos parasitológicos .\nSon métodos ampliamente empleados en la confirmación de la enfermedad porque permite la\nvisualización microscópica del parásito, entre ellos, el examen microscópico directo o frotis,\nmétodo de elección debido a su simplicidad, bajo costo, elevada especificidad y sensibilidad\nespecialmente en casos de leishmaniasis cutánea con un tiempo de evolución menor a 6\n. - meses; así mismo, la sensibilidad es inversamente proporcional al tiempo de evolución de la\n. enfermedad.\nOtros métodos parasitológicos empleados son la observación microscópica de promastigotes\nmediante Cultivo in vitro y de amastigotes en los cortes histopatológicos, ambos métodos de\nelevada especificidad. . '\n3.1.1. Método de examen microscopico directo o frotis. -\nEs el método de primera elección aplicable a todo nivel de establecimientos de salud del\nMINSA, no sólo por la sencillez del procedimiento sino por la elevada especificidad que -\npresenta y la rapidez de los resultados.\nConsiste en el reconocimiento de las formas amastigotes mediante observación\nmicroscópica de las muestras de tejido de lesión dispuestas en láminas portaobjetos y\ncoloreadas con Giemsa.\nEn este método, la sensibilidad es variable y se debe, entre otros, a factores relacionados -\na la obtención de muestras, debido a ello, son necesarias las siguientes consideraciones\nque mejoran la eficiencia del método:\n- La adecuada selección de la lesión de la cual se obtenga la muestra, la cual debe\nser la que presente el menor tiempo de evolución.\n- — Estar libre de cualquier tipo de crema y/o empasto.\n- No presentar manipulación o daños provocados por quemadura.\n- Lasobreinfección bacteriana reduce considerablemente la eficiencia del método por\nlo que es recomendable informar al médico.\nLas muestras de tejido son obtenidas mediante raspado de lesión, empleando la hoja de\n- bisturí o el borde romo de una lanceta, tratando de obtener muestra con la menor cantidad\nde sangre posible, y extendidas de manera suave, sobre una lámina portaobjetos limpia\ny desengrasada, procurando que el extendido sea delgado y uniforme, evitando pasar 2\n. veces por el mismo sitio. Asimismo, el examen microscópico directo o frotis se puede\nrealizar a partir de improntas coloreadas con Giemsa, para lo cual se emplea un\n. fragmento de tejido obtenido por biopsia y dispuestas por aposición sobre la superficie de\n\" — uña lámina portaobjeto.\n\nAo En ambos casos, las láminas con el extendido de tejido y las improntas deben ser fijadas\n“\"'¡_-u——;ºv - empleando alcohol metílico, llevados a reposo hasta la completa evaporación y\nQ—í¡ º , . coloreadas con tinción Giemsa por 30 minutos, luego lavados con agua, y secados a\n\nE temperatura ambiente. !\n\n. c Para la identificación de las formas amastigotes, las láminas coloreadas son dispuestas -\n. Lo .. en la platina de un microscopio de campo claro; la lectura se desarrolla con el objetivo de .\n100x empleando aceite de inmersión, se realiza la búsqueda de parásitos de Leishmania\nen todo el extendido. La identificación de a! menos un parásito de Leishmania spp. en\n- 21",
+        "quality_note": "OCR auxiliar de formularios/diagramas/mapas; no validado palabra por palabra. No usar como dato autoritativo cuando difiera del texto legible."
+      }
+    },
+    {
+      "pdf_page": 25,
+      "printed_page": 22,
+      "section": "Norma Técnica de Salud",
+      "text": "todo el extendido, es suficiente para ser reportada como positive, caso contrario, su\nausencia sera reportada como negative.\n3.2.   Metodos serologicos\nLos metodos serologicos permiten de manera indirecta el diagnostico de la enfermedad por\ndeteccion de anticuerpos IgG anti-Leishmania circulantes en suero. En el Peril, el metodo\nampliamente empleado es la Inmunofluorescencia Indirecta, que utiliza promastigotes de\nLeishmania     (Viannia)  braziliensis como antigeno dispuestos en              laminas de\ninmunofluorescencia; su empleo se recomienda en pacientes con probable leishmaniasis\ncutanea con un tiempo de evolucion mayor a 3 meses, principalmente en casos cronicos y\nen leishmaniasis mucocutanea, debido a la dificultad que conlleva la obtencion de muestra\nadecuada para la confirmacion por metodos parasitologicos. Este metodo, a pesar de\npresentar una moderada sensibilidad y especificidad, la deteccion de probables casos de\nleishmaniasis cutanea reciente < 3 meses, no es recomendable debido a la baja concentracion\nde anticuerpos IgG ant\\-Leishmania circulantes en suero, presenta reactividad cruzada con la\nenfermedad de Chagas; sin embargo, una buena historia clinico-epidemiologica, sin lesiones\nni antecedente de leishmaniasis, ayuda a resolver el problema de especificidad.\nSe basa en la union de anticuerpos especificos presentes en muestras de suero (con ausencia\nde contaminacion y hemolisis) a antigenos expresados en la superficie y el citoplasma de los\npromastigotes de Leishmania spp. fijados en los pocillos de una lamina de fluorescencia. La\nreaccion antigeno-anticuerpo se visualiza por la adicion de un anti IgG humano marcado con\nisotiocianato de fluoresceina (FITC), molecula que se une a los anticuerpos presentes en la\nmuestra, dando lugar a una reaccion fluorescente de color verde en el parasite, la cual es\nvisualizada en un microscopic de fluorescencia.\nLa reaccion antigeno - anticuerpo es evidenciada empleando microscopio de epifluorescencia\ncon el objetivo 40X. Se considera positive la reaccion fluorescente de color verde en el parasite\na partir de la dilucion 1/40; las muestras con fluorescencia mayor al control positive son\nllevadas a dilucion sucesiva desde 1/40, 1/80, 1/160, 1/320, entre otros, segiin sea el caso. El\ntitulo de la muestra corresponde a la ultima dilucion donde se observe una evidente\nfluorescencia homogenea. La ausencia de fluorescencia es reportada como negative, mientras\nque una reaccion de fluorescencia baja sera reportada como indeterminado.\n3.3.   Metodos inmunologicos\nEl metodo inmunologico ampliamente empleado es la Intradermorreaccion de Montenegro\n(IDRM), el cual se desarrolla mediante la aplicacion intradermica del antigeno Leishmanina, el\ncual permite evidenciar mediante la medicion de la induracion, producto de una respuesta de\nhipersensibilidad cutanea retardada, la exposicion del paciente a la infeccion por Leishmania\nspp., presenta una elevada especificidad y sensibilidad, a pesar de ello, este metodo no\npermite diferenciar entre infeccion previa o actual. En el Peru, la Leishmanina es una solucion\nproteica a una concentracion de 25 a 30 ug/ml, obtenidos a partir de promastigotes lisados de\nLeishmania (Viannia) peruviana, la cual es aplicada en el antebrazo izquierdo del paciente. Se\nutiliza como herramienta de apoyo en el diagnostico, principalmente en las formas cutaneas\ncronicas y cutaneas mucosas de la enfermedad, y para descartar la enfermedad por reaccion\nnegativa; puede utilizarse tambien en estudios epidemiologicos para determinar la exposicion\nal parasito.\nhtf \\O1",
+      "ocr_supplement": {
+        "engine": "Tesseract 5.5.4, spa+eng, page segmentation 6, 220 dpi",
+        "text": ", NTS N°22 5 -MINSA/CDC-2025 .\nNORMA TECNICA DE SALUD PARA LA VIGILANCIA EPIDEMIOLOGICA DE LEISHMANIASIS EN EL PERU\ntodo el extendido, es suficiente para ser reportada como positivo, caso contrario, su\nausencia sera reportada como negativo.\n3.2. Métodos serológicos .\nLos métodos serológicos permiten de manera indirecta el diagnóstico de la enfermedad por\ndetección de anticuerpos IgG anti-Leishmania circulantes en suero. En el Perú, el método\nampliamente empleado es la Inmunofluorescencia Indirecta, que utiliza promastigotes de\nLeishmania (Viannia) braziliensis como antígeno dispuestos en láminas de\ninmunofluorescencia; su empleo se recomienda en pacientes con probable leishmaniasis\ncutánea con un tiempo de evolución mayor a 3 meses, principalmente en casos crónicos y\nen leishmaniasis mucocutánea, debido a la dificultad que conlleva la obtención de muestra\nadecuada para la confirmación por métodos parasitológicos. Este método, a pesar de\npresentar una moderada sensibilidad y especificidad, la detección de probables casos de\nleishmaniasis cutánea reciente < 3 meses, no es recomendable debido a la baja concentración\nde anticuerpos IgG anti-Leishmania circulantes en suero, presenta reactividad cruzada con la\nenfermedad de Chagas; sin embargo, una buena historia clinico-epidemiolégica, sin lesiones\nni antecedente de leishmaniasis, ayuda a resolver el problema de especificidad.\nSe basa en la unión de anticuerpos específicos presentes en muestras de suero (con ausencia\nde contaminación y hemólisis) a antigenos expresados en la superficie y el citoplasma de los\npromastigotes de Leishmania spp. fijados en los pocillos de una lámina de fluorescencia. La\nreacción antigeno-anticuerpo se visualiza por la adición de un anti IgG humano marcado con\nisotiocianato de fluoresceína (FITC), molécula que se une a los anticuerpos presentes en la\nmuestra, dando lugar a una reacción fluorescente de color verde en el parásito, la cual es\nvisualizada en un microscopio de fluorescencia.\n. La reacción antígeno - anticuerpo es evidenciada empleando microscopio de epifluorescencia\ncon el objetivo 40X. Se considera positivo la reacción fluorescente de color verde en el parásito\na partir de la dilución 1/40; las muestras con fluorescencia mayor al control positivo son\nllevadas a dilución sucesiva desde 1/40, 1/80, 1/160, 1/320, entre otros, según sea el caso. El\ntítulo de la muestra corresponde a la última dilución donde se observó una evidente\nfluorescencia homogénea. La ausencia de fluorescencia es reportada como negativo, mientras\nque una reacción de fluorescencia baja será reportada como indeterminado.\n3.3. Métodos inmunológicos\nEl método inmunológico ampliamente empleado es la Intradermorreacción de Montenegro\n(IDRM), el cual se desarrolla mediante la aplicación intradérmica del antígeno Leishmanina, el\ncual permite evidenciar mediante la medición de la induración, producto de una respuesta de\nhipersensibilidad cutánea retardada, la exposición del paciente a la infección por Leishmania\nspp., presenta una elevada especificidad y sensibilidad, a pesar de ello, este método no\npermite diferenciar entre infección previa o actual. En el Perú, la Leishmanina es una solución\nproteica a una concentración de 25 a 30 ug/ml, obtenidos a partir de promastigotes lisados de\nLeishmania (Viannia) peruviana, la cual es aplicada en el antebrazo izquierdo del paciente. Se\nutiliza como herramienta de apoyo en el diagnóstico, principalmente en las formas cutáneas\ncrónicas y cutáneas mucosas de la enfermedad, y para descartar la enfermedad por reacción\nhE negativa; puede utilizarse también en estudios epidemiológicos para determinar la exposición\nEUNO al parásito.\nN\n\\@;y 7\n- 22",
+        "quality_note": "OCR auxiliar de formularios/diagramas/mapas; no validado palabra por palabra. No usar como dato autoritativo cuando difiera del texto legible."
+      }
+    },
+    {
+      "pdf_page": 26,
+      "printed_page": 23,
+      "section": "Norma Técnica de Salud",
+      "text": "ANEXO N° 04:\nFlujograma de notificacion de cases probables de leishmaniasis cutanea\nCaso probable de leishmaniasis cutanea\n(Triaje/Consultorio/Emergencia/Hospitalizacion)\nInvestigacidn Epidemiologies\nI                                                                   1\nLlenado de Ficha clfnico\nEpidemioldgica (anexo 1)                                               Examen directofrotis\nIngreso informacion a                                     Positivo                              Negativo\nNOTI (Anexo 2)\nRepetir frotis\nir\nConsolida semanalmente en Ficha de\nNotificacion, control de calidad y Analisis de    <             Caso confirmado                            Negative\ncasos e informe y envio informacion a CDC                               A\nIFI tftulo\n>1/40\nReclasificacion                                                                                      ~T~\nde Caso                                                                              _ £Z\nPositive                     Negativo\n~T~                  Remitir a\nCaso descartado      <                                                                                         PCR                Centrode\nMayor\ncomplejidad\n£\nPositivo\nNegativo\nRemitir a Centro de Atencidn de\nmayor complejidad de\nevaluacidn por dermatolog ia,\n3 tMna                                                                                                                                infectologia o medicina interna\ncon otros examenes de\ndiagnostico diferencial\nCl'.U MCO\nFUENTE: Adaptado de Manual de Procedimientos para la Vigilancia y Control de la Leishmaniasis en Las Americas\n-OPS-2019.\nManual Leishmaniasis INS. 1997.",
+      "ocr_supplement": {
+        "engine": "Tesseract 5.5.4, spa+eng, page segmentation 6, 220 dpi",
+        "text": ", NTS N*225 -MINSA/CDC-2025 .\n. NORMA TECNICA DE SALUD PARA LA VIGILANCIA EPIDEMIOLOGICA DE LEISHMANIASIS EN EL PERU\nANEXO N° 04:\nFlujograma de notificación de casos probables de leishmaniasis cutánea\nCaso probable de leishmaniasis cutánea\n(Triaje/Consultorio/Emergencia/Hospitalización)\nInvestigación £pidemiológica -\nLlenado de Ficha clínico Examen directo frotis\nEpidemiológica (anexo 1) e\nNOTI (Anexo 2) - .\nRepetir frotis\nConsolida semanalmente en Ficha de Negati\nNotificación, control de calidad y Análisis de — |«——— egalvo\ncasos e informe y envio información a CDC\n- - IF Hitulo\n. >1/40\nReclasificación\nde Caso\n=\n. Remitira\nT Mayor\n: complejidad .\n. Remitir a Centro de Atención de\n— mayor complejidad de\nfE N - evaluación por dermatologia, -\nf: T infectología o medicina interna\n| U - con otros exémenes de\n\\-.\\J/ A diagnóstico diferencial\nC.MUÑAYCO\n. FUENTE: Adaptado de Manual de Procedimientos para la Vigilancia y Control de la Leishmaniasis en Las Américas\n— OPS — 2019. .\n. Manual Leishmaniasis INS. 1997. . . .\n23",
+        "quality_note": "OCR auxiliar de formularios/diagramas/mapas; no validado palabra por palabra. No usar como dato autoritativo cuando difiera del texto legible."
+      }
+    },
+    {
+      "pdf_page": 27,
+      "printed_page": 24,
+      "section": "Norma Técnica de Salud",
+      "text": "ANEXO N° 05:\nFlujograma de notificacion de cases probables de leishmaniasis mucocutanea\nCaso probable de leishmaniasis mucocutanea\n(Triaje/Consultorio/Emergencia/Hospitalizacidn)\nInvestigacion Epidemioldgica\nLlenado de Ficha Epidemioldgica\nI                                                             1\nIngreso de Information a                                     Nivel I referi'ra Nivel II.\nNOTSP                                                 Toma de muestra y\nDiagnostico de casos (LR)\nInvestigacidn de caso                                              IFI titulo\n>1/40 e IDRM (+)\nConsolida semanalmente en Ficha de\nNotificacion, control de calidad, analisis e\ninforme de casos y envio informacion a COC\nReclasificacion                                                                 Negative\nde Caso\nRemitira\nCaso confirmado    <            Positive\nCentrode\nMayor\nCasodescartado       <                                                                    f    PCR\ncomplejidad\nPositivo\nNegative\nit:\n\"Continuar\ncwtjfco                                                                                                               ■ ' investigacion\nj. ‘J diferencial\nFUENTE: Adaptado de Manual de Procedimientos para la Vigilancia y Control de la Leishmaniasis en Las\nAmericas - OPS - 2019.",
+      "ocr_supplement": {
+        "engine": "Tesseract 5.5.4, spa+eng, page segmentation 6, 220 dpi",
+        "text": "- . NTS N° 225 -MINSAICDC-2025 .\nNORMA TECNICA DE SALUD PARA LA VIGILANCIA EPIDEMIOLOGICA DE LEISHMANIASIS EN EL PERÚ\n- ANEXO N* 05:\nFlujograma de notificación de casos probables de leishmaniasis mucocutánea\nCaso probable de leishmaniasis mucocutanea\n(Triaje/Consultorio/Emergencia/ Hospitalización)\nLlenado de Ficha Epidemiológica\nIngreso de Información a Nivel | referira Nivel I.\nNOTSP Toma de muestra y\n. Diagnóstico de casos (LR)\nInvestigación de caso IFI titulo\n>1/40 e IDRM (+)\nConsolida semanalmente en Ficha de\nNotificación, control de calidad, análisis e -\n- informe de casos y envío información a CDC -\nReclasificación\nde Caso\n- Remitira\n. H . Mayor -\n! complejidad\nf\n\nZE )) .\n/ AA\nNEN s -Continuar\n\nc.MUNBICO | investigación\nN o4 diferencial\nFUENTE: Adaptado de Manual de Procedimientos para la Vigilancia y Control de la Leishmaniasis en Las\nAméricas - OPS - 2019.\n24",
+        "quality_note": "OCR auxiliar de formularios/diagramas/mapas; no validado palabra por palabra. No usar como dato autoritativo cuando difiera del texto legible."
+      }
+    },
+    {
+      "pdf_page": 28,
+      "printed_page": 25,
+      "section": "Norma Técnica de Salud",
+      "text": "ANEXO N° 06:\nFlujograma de notificacion de cases sospechosos de leishmaniasis visceral\nCaso sospechoso de leishmaniasis visceral\n(Triaje/Consultorio/Emergencia/Hospitalizacion)\nNivel I referira Nivel II. Diagnostico de\ncasos (LR)\nI\nInvestigacion epidemiologica                                         Toma de muestra (suero/aspirado de\nmedula osea) envio a INS\nLlenado de Ficha Epidemiologica                                                   Tamizaje: Prueba\nInmunocromatografica. rK39\nNotificacion inmediata, confirmacion o\ndescarte de case, estudio de foco. Envio\nde informacidn a CDC\nReclasificacion\nde Caso\nCaso confirmado                     Frotis          Cultivo                      Prueba\nIFI\nGiemsa           in vitro                    Molecular\nCaso descartado\nPositive\nNegative\nI\nContinuar\n■ .investigacion\ndiferencial\nFUENTE: Adaptado de Manual de Procedimientos para la Vigilancia y Control de la Leishmaniasis en Las\nAmericas - OPS - 2019.",
+      "ocr_supplement": {
+        "engine": "Tesseract 5.5.4, spa+eng, page segmentation 6, 220 dpi",
+        "text": ". NTS N° 225 -MINSAICDC-2025 .\nNORMA TECNICA DE SALUD PARA LA VIGILANCIA EPIDEMIOLOGICA DE LEISHMANIASIS EN EL PERU\nANEXO N* 06:\nFlujograma de notificación de casos sospechosos de leishmaniasis visceral\nCaso sospechoso de leishmaniasis visceral\n(Triaje/Consultorio/Emergencia/Hospitalización)\nNivel | referira Nivel |l. Diagnóstico de\ncasos (LR)\nInvestigación epidemiológica Toma dc_e mue?lra (suer_olaspirado de\nmédula ósea) envío a INS\nLlenado de Ficha Epidemiológica Tamizaje: Prueba\nInmunocromatografica. rK39\nNotificación inmediata, confirmación o\n. descarte de caso, estudio de foco. Envio .\nde información a CDC .\nReclasificación\nde Caso\nCaso confimado Frotis Cultivo Prueba\n. M IFI\nGiemsa in vitro Molecular\nCaso descartado -\ne TN P .\n— 6l NA \\1 Continuar\nD ) . .investigación\nNRE diferencial\n. C.MUNYCO ,\n- FUENTE: Adaptado de Manual de Procedimientos para la Vigilancia y Control de la Leishmaniasis en Las\n- Américas - OPS — 2019. - -\n25",
+        "quality_note": "OCR auxiliar de formularios/diagramas/mapas; no validado palabra por palabra. No usar como dato autoritativo cuando difiera del texto legible."
+      }
+    },
+    {
+      "pdf_page": 29,
+      "printed_page": 26,
+      "section": "Norma Técnica de Salud",
+      "text": "ANEXO N° 07:\nAcciones de vigilancia y control para areas sin transmision de leishmaniasis ante la\naparicion de un caso probable de leishmaniasis cutanea o leishmaniasis\nmucocutanea\nAreas sin\ntransmision\n\"S\nNo\n4                                 >     Vulnerable\nvulnerable\nr\nImplementar\nConfirmacion de                                          acciones de\n>\ncaso humane                                              vigilancia\nepidemiologica\nX\nInvestigar caso, asegurar\ntratamiento y seguimiento\nadecuados de los casos\nCaso Autoctono                                      Caso no autoctono\nInvestigacion de foco                               Informar al servicio de la\nlocalidad o sitio probable\nde infeccion\nx.                                     y\nAsegurar acciones de\nvigilancia, diagnostico\nv tratamiento\nfi |U|      x.                               y\nFUENTE: Adaptado de Manual de Procedimientos para la Vigilancia y Control de la Leishmaniasis en Las Americas-\nOPS-2019",
+      "ocr_supplement": {
+        "engine": "Tesseract 5.5.4, spa+eng, page segmentation 6, 220 dpi",
+        "text": ", NTS N*225 -MINSA/CDC-2025 .\nNORMA TECNICA DE SALUD PARA LA VIGILANCIA EPIDEMIOLOGICA DE LEISHMANIASIS EN EL PERÚ\nANEXO N* 07:\nAcciones de vigilancia y control para áreas sin transmisión de leishmaniasis ante la\naparición de un caso probable de leishmaniasis cutánea o leishmaniasis\nmucocutánea .\nÁreas sin\ntransmisión\nNo\nVulnerable\nvulnerable\n. Implementar\nConfirmación de acciones de\n- caso humano vigilancia\nepidemiológica\n- Investigar caso, asegurar\ntratamiento y seguimiento\nadecuados de los casos\nCaso Autóctono Caso no autóctono\nInvestigación de foco Informar al servicio de la\nlocalidad o sitio probable\nde infección\nAsegurar acciones de\nTS vigilancia, diagnóstico\nÍ/' Q y tratamiento\nPy . .\nFUENTE: Adaptado de Manual de Procedimientos para la Vigilancia y Control de la Leishmaniasis en Las Americas-\nOPS-2019\n26",
+        "quality_note": "OCR auxiliar de formularios/diagramas/mapas; no validado palabra por palabra. No usar como dato autoritativo cuando difiera del texto legible."
+      }
+    },
+    {
+      "pdf_page": 30,
+      "printed_page": 27,
+      "section": "Norma Técnica de Salud",
+      "text": "ANEXO N° 08:\nClasificacion de leishmaniasis visceral en las Americas, segun escenario,\nepidemioldgico y paises correspondientes a cada escenario\nLEISHMANIASIS VISCERAL\nI                                                I____\nAREA SIN                                 AREA CON\nTRANSMISlON                               TRANSMISlON\nI                                                           I                       I\nESCENARIO 1                ESCENARIO 2                ESCENARIO 3               ESCENARIO 4\nPAISES CON                    PAISES CON                   PAISES CON                  PAISES CON\nTRANSMISlON                   TRANSMISlON                  TRANSMISlON EN              TRANSMISlON DE LV\nESPORADICA                    ESTABLE/                     EXPANSION                   CANINA SIN CASOS\nCONTROLABLE                                              HUMANOS\nCosta Rica\nGuatemala                     Venezuela                    Argentina                   Sin paises en enero\nHonduras                      Colombia                     Brasil                      2019\nNicaragua                                                  Paraguay\nBolivia\nEl Salvador\nMexico\nUruguay\n<00^\n(*) Extraido de Manual de Procedimientos para la Vigilancia y Control de la Leishmaniasis en Las Americas.",
+      "ocr_supplement": {
+        "engine": "Tesseract 5.5.4, spa+eng, page segmentation 6, 220 dpi",
+        "text": "_ - ,\n) NTS N* 225 -MINSA/CDC-2025 ,\nNORMA TECNICA DE SALUD PARA LA VIGILANCIA EPIDEMIOLOGICA DE LEISHMANIASIS EN EL PERU\nANEXO N° 08:\n- Clasificación de leishmaniasis visceral en las Añ¡éricas, según escenario.\nepidemiológico y países correspondientes a cada escenario\nLEISHMANIASIS VISCERAL\nÁREA SIN ÁREA CON\nTRANSMISIÓN TRANSMISIÓN\nESCENARIO 1 ESCENARIO 2 ESCENARIO 3 ESCENARIO 4\nPAÍSES CON PAÍSES CON PAÍSES CON PAÍSES CON -\nTRANSMISIÓN TRANSMISIÓN TRANSMISIÓN EN TRANSMISIÓN DE LV\nESPORÁDICA — ESTABLE/ EXPANSIÓN CANINA SIN CASOS\nCONTROLABLE HUMANOS\nCosta Rica N ; .\nGuatemala - Venezuela Argentina Sin países en enero\nHonduras Colombia Brasil 2019 -\n. Nicaragua Paraggay\nBolivia\nEl Salvador\nMéxico\nUruguay\nZÁ EN\nÉ — X\n1 Wed *\nNE\nC.IURACO\n(*) Extraido de Manual de Procedimientos para la Vigilancia y Controt de la Leishmaniasis en Las Américas.\n- 27",
+        "quality_note": "OCR auxiliar de formularios/diagramas/mapas; no validado palabra por palabra. No usar como dato autoritativo cuando difiera del texto legible."
+      }
+    },
+    {
+      "pdf_page": 31,
+      "printed_page": 28,
+      "section": "Norma Técnica de Salud",
+      "text": "ANEXO N° 09:\nFlujograma de Analisis e Informe de Vigilancia Epidemiologies de Leishmaniasis\nAnilisis de la informacidn epidemioldgica en\nES, RIS, microrred o red de salud y\nDIRIS/DIRESA/GERESA,\nSala situacional                                                          informe trimestral de situacidn epidemioldgica de la\nTendencia casos semanal                                                   leishmaniasis en microrred o red de salud, DIRIS,\nIndicadores epidemiologicos                                               DIRESA, GERESA:\nMapa de localidades y distritos afectados                                  >   determinantes de riesgo y dreas a priorizar para\nAnalisis        por       cursos        de                                     las intervenciones.\nvida/sexo/ocupacidn, regidn natural y\nactividad migratoria.\n>   clasificacidn de las areas\ndreas o distritos de\nleishmaniasis criterios de clasificacidn (OMS):\n\\    z\nAreas con y sin transmisidn                Area          como\no transmisidn silenciosa,                  receptiva   y   en\n/I\nTau . 100 Ui Hjt>\ncon o sin dreas vulnerables\ny no vulnerables.\nausencia del vector\ncomo no receptiva.\niotno\n■||00t-»00\nUOl-WOO\n■ cnot'-",
+      "ocr_supplement": {
+        "engine": "Tesseract 5.5.4, spa+eng, page segmentation 6, 220 dpi",
+        "text": ", NTS N*225 -MINSA/CDC-2025 , -\nNORMA TECNICA DE SALUD PARA LA VIGILANCIA EPIDEMIOLÓGICA DE LEISHMANIASIS EN EL PERÚ\nANEXO N° 09:\nFlujograma de Análisis e Informe de Vigilancia Epidemiológica de Leishmaniasis\nAnálisis de la información epidemiológica en\nES, RIS, microrred o red de salud y\nDIRIS/DIRESA/GERESA,\n* — Salasituacional * informe trimestral de situación epidemiológica de la\n* — Tendencia casos semanal leishmaniasis en microrred o red de salud, DIRIS,\n* — Indicadores epidemiológicos DIRESA, GERESA:\n* — Mapa de localidades y distritos afectados > determinantes de riesgo y áreas a priorizar para\n* — Análisis por cursos de las intervenciones.\nv¡d'a/.sexo/o.cupao.ón, región n.atural y > clasificación de las áreas o distritos de .\nactividad migratoria. leishmaniasis criterios de clasificación (OMS):\nde U\n_ g O < NE\nEZ __¡¿ s k L2506 * Areas cony sin transmisión * Area como\n%;& 7 o transmisión silenciosa, receptiva y en\n33// é N con o sin áreas vulnerables ausencia del vector\n& w ( y no vulnerables. como no receptiva.\nm ZE ANE\n== <»Y\n/”/-_ij\n( A ‘\\l\n193\n/ /\nD TA\nc.marco\n28",
+        "quality_note": "OCR auxiliar de formularios/diagramas/mapas; no validado palabra por palabra. No usar como dato autoritativo cuando difiera del texto legible."
+      }
+    },
+    {
+      "pdf_page": 32,
+      "printed_page": 29,
+      "section": "Norma Técnica de Salud",
+      "text": "ANEXO N° 10:\nEspecies de Lutzomyia spp. implicadas en la transmision de la leishmania en el\nReni\nCOLCUfrA                                                                              CCfcOMtlA\nfCLVMXSH                                                                              fCUACOR\nUfttW                                                                                  iCtti©\n<»w.                                                                                nA*\niMiNMtdr\nOfAiL\n>ttir\n•\\o\niKMCASnHuAV\nkMCUHi\n\\M >            •MO\nOCEaxCi                                                                            OEttflO\npsEfnoo                                    ''/■k®\\                                p.A<frt£o\n.LMV                                                                                           X«.*«\nnumccotM\nt.@ o                                                                                Ols\nB            JW40\nRM) l\nSCU'.'K                                         w* IrCucA\nDCirviA\n^«»31\nWQjr*\nwtquw\n<uc»\n• iSKSiSiySS^Si                                                                 8                 yjvlffvvv\n■ fesss.                                                 |CHil£\n♦ fessseisss,                                                   JCHW\n★ fesisssss.\ndavit\n£            gorrjgtejLyTg;.\nZsirrnga ktnvia r^ni:\nCOtCMESA                                                                              COLCMEU\nKLKlCfi                                                                          tfUfiCOK\ni&tno                                                                             tMtTO\no7                                                               *tA*            dp\n£PA2L\nkUOjr\nUACASMJ\nWmS\n<*sw\nC€fAhS3                                                                       0££tft0\nFAiiACO                     XKh                                               n.Atfiiro                       AM\n•RKotora                                                >W*\\               )     kMUMtCtCU\nT              OHM\ncTiHjco                                                                                   VIA                                           *ikuA   fAX f                     ecui'u\nAH^IFA\niiSSSSSKSa                                                                                                                               JCHIlf1\njCHlf                     ZLlr^rx'.ir\nOitSJSKSSst\nFuente: Institute Nacional de Salud",
+      "ocr_supplement": {
+        "engine": "Tesseract 5.5.4, spa+eng, page segmentation 6, 220 dpi",
+        "text": ", NTS N* 225 -MINSA/CDC-2025 .\nNORMA TÉCNICA DE SALUD PARA LA VIGILANCIA EPIDEMIOLÓGICA DE LEISHMANIASIS EN EL PERÚ\nANEXO N* 10: -\nEspecies de Lutzomyia spp. implicadas en la transmisión de la leishmania en el\nPerú\n¢ TR — - '\nCUICIAGA CLLOMEA\nFELADOR ECUALOS\nA a á\n‘;\nCELOL DIOS. MN CO UTOS\n. o w.\n&‘» acuma &%’ ._ [T\nm E &\nV Que y\ne aa B\n[ EE u re w HILE\n[s] ixmmt:i:_;'_:'\n* Tnzam szt -\n@l o\nECLALICA ECuaNOR\nA Ó - A g\nt q EnASI ng EFASL\nWgºv Ne\nZ2O DEN\nC.MUNAJCO é&’ o A %a . Ecuva\ne ruccc T. E \"\nFuente: Instituto Nacional de Salud\n29",
+        "quality_note": "OCR auxiliar de formularios/diagramas/mapas; no validado palabra por palabra. No usar como dato autoritativo cuando difiera del texto legible."
+      }
+    },
+    {
+      "pdf_page": 33,
+      "printed_page": 30,
+      "section": "Norma Técnica de Salud",
+      "text": "NTS No225 -MINSA/CDC-2025\nANEXO N° 11:\nMapa epidemiologico de cases de leishmaniasis. Peru 2000-2021\nDistritos\nSin cases\nO 1 - 2000\nO 2001 - 3000\n□ 3001 - 4000\nM 4001 - 5000\n■ mas de 5000 .\no\nFuente: Centro Nacional de Epidemiologia, Prevencion y Control de Enfermedades",
+      "ocr_supplement": {
+        "engine": "Tesseract 5.5.4, spa+eng, page segmentation 6, 220 dpi",
+        "text": ". NTS N*225 -MINSAICDC:2025 )\nNORMA TECNICA DE SALUD PARA LA VIGILANCIA EPIDEMIOLOGICA DE LEISHMANIASIS EN EL PERU\nANEXO N* 11:\nMapa epidemiológico de casos de leishmaniasis. Perú 2000-2021\nDistritos *\n. !?íááztñá . j S?: casos\nD — 1-2000\n\n%’%%&‘-#\\\\?‘ 7 2001 - 3000\n\n‘@‘;‘?‘\\ l ] 3001 - 4000\n\nq’,%k% MN 4001 - 5000\n\n- . %!\"?Mg N NEN más de 5000 |\nY .\nCEN\nRD\nc%º&wáep I\nCE\n% ñ&%&f\nRN\nFuente: Centro Nacional de Epidemiologia, Prevención y Control de Enfermedades\n- 30",
+        "quality_note": "OCR auxiliar de formularios/diagramas/mapas; no validado palabra por palabra. No usar como dato autoritativo cuando difiera del texto legible."
+      }
+    },
+    {
+      "pdf_page": 34,
+      "printed_page": 31,
+      "section": "Norma Técnica de Salud",
+      "text": "ANEXO N° 12:\nMapa de distribucion de especies de leishmania. Peru 2000-2021\nTumKes\nLoreto\nPiuni          Aniazofias\n1                  A\n\\\nLa mpaxeque Cajafnarra           a\nSan Martin\niXibeiti\nJ-luinuaM\nAncash\n/no\nIfajali\nPasco\nn\nUma\\           kinin\nMadrcdcDios\nL S'\nA\nHuancavglica H\nCusco\nApunmoc\nlea        Ayaaidio                        Puno\nLeishmania (V,) braziliensis\nArequifu\nLeishmania (V.) guyanensis\n|O|\n| Leishmania (V.) peruviana                                                        Moqw\nLeishmania (V.) amazonensis\n^CD'\nLeishmania (V.) lainsoni                                                           Tacna\nc.uuw\nLas cifras represenian el nil mere de casos por region segiin especie de LelthttHinkt\nFuente: Sandoval-Juarez AC, Minaya-Gomez GS, Rojas-Palomino N, Caceres O. Identificacion de especies de Leishmania\nen pacientes derivados al Instituto Nacional de Salud del Peru. Rev Peru Med Exp Salud Publica. 2020;37(1):\nDOI.org/10.17843/ rpmesp.2020.371.4514.",
+      "ocr_supplement": {
+        "engine": "Tesseract 5.5.4, spa+eng, page segmentation 6, 220 dpi",
+        "text": ", NTS N*22S -MINSA/CDC-2025 ,\nNORMA TECNICA DE SALUD PARA LA VIGILANCIA EPIDEMIOLÓGICA DE LEISHMANIASIS EN EL PERÚ\nANEXO N* 12:\nMapa de distribución de especies de leishmania. Perú 2000-2021\nT u¡\nAmazo\nA |\nLani C º º\n- San Martin )\na A\nEN ibertad? *\nHuánuco\n% Áncash 1 01)\no\nLima tunín º\nYo By Aº .\nH o\\ a\n1]\nAyacucho\nA Leishmania (V.) braziliensis %\nR\n/\\ . Leishmania (V.) guyanensis Arequipa F\n@\\ B Leishmania (V.) peruviana N\nN ¡¿I¿'J¡/ @ Feishmania (V.) amazonensis\n wrakco ’ Leishmania (V.) lninsoni\n. * Las cifras representar el número de casos por región según especie de Leishimania “\nFuente: Sandoval-Juarez AC, Minaya-Gómez GS, Rojas-Palomino N, Cáceres O. Identificación de especies de Leishmania\nen pacientes derivados al Instituto Nacional de Salud del Perú. Rev Peru Med Exp Salud Pública. 2020;37(1):\nDOl.org/10.17843/ rpmesp.2020.371.4514.\n31",
+        "quality_note": "OCR auxiliar de formularios/diagramas/mapas; no validado palabra por palabra. No usar como dato autoritativo cuando difiera del texto legible."
+      }
+    },
+    {
+      "pdf_page": 35,
+      "printed_page": 32,
+      "section": "Norma Técnica de Salud",
+      "text": "IX. BIBLIOGRAFIA\n1.    Organizacion Panamericana de la Salud. Manual de procedimientos para vigilancia y control\nde las Leishmaniasis en las Americas. Washington, D.C.: OPS; 2019\n2.     Alten B, Ozbel Y, Ergunay K, Kasap OE, Cull B, Antoniou M, et al. Sampling strategies for\nphlebotomine sand flies (Diptera: Psychodidae) in Europe. Bull Entomol Res.\n2015;105(6):664-78.\n3.     Alvar, J., Velez, I. D., Bern, C., Herrero, M., Desjeux, P., Cano, J., & WHO Leishmaniasis\nControl Team. Leishmaniasis worldwide and global estimates of its incidence. PloS one, 2012;\n7(5), e35671.\n4.     Matsumoto V. Borges R, La Leishmaniasis Visceral en el Mundo y en America Latina: Una\nenfermedad desatendida. Sao Paulo, Sao Paulo, Brazil 2016.\n5.     Ministerio de Salud Mexico. Manual para el diagnostico, tratamiento y control de las\nLeishmaniasis 2015\n6.     Ministerio da Saude. Manual de Vigilancia da Leishmaniose Tegumentar. 1a edi^ao. Brasilia-\nDF. 2017.\n7.     Ministerio da Saude. Manual de Vigilancia e Controle da Leishmaniose Visceral 1a edigao, 5a\nreimpressao. Brasilia-DF- 2014\n8.     Ministerio de Salud Publica y Bienestar Social de Paraguay - OPS 2018. Manual de\nDiagnostico y Tratamiento de las Leishmaniasis. -- Asuncion: OPS/OMS. 2018.\n9.     Moo D. Moo-Llanes, D. A. Nicho ecologico actual y future de la Leishmaniasis (Kinetoplastida:\nTrypanosomatidae) en la region Neotropical. Revista de Biologia Tropical, 2016; 64(3), 1237-\n1245.\n10.   Organizacion Panamericana de la Salud. Manual de procedimientos para vigilancia y control\nde las Leishmaniasis en las Americas. Washington, D.C.: OPS; 2019.\n11.   Organizacion Mundial de la Salud, Organizacion Panamericana de la Salud. Informe de\nLeishmaniasis N° 7 - marzo, 2019\n12.   Organizacion Mundial de la Salud, Organizacion Panamericana de la Salud. Plan de Accion\npara fortalecer la vigilancia y Control de las Leishmaniasis en Las Americas 2017-2022\n13.    Organizacion Panamericana de la Salud. Documento Operative de Aplicacion del Manejo\nIntegrado de Vectores Adaptado al Contexto de las Americas. Washington, D.C.: OPS; 2019.\n14.    Oryan A., Akbari M. Oryan, A., & Akbari, M. Worldwide risk factors in Leishmaniasis. Asian\nPacific Journal of Tropical Medicine, 2016; 9(10), 925-932.\n15.    Salomon, O. D., Mastrangelo, A. V., Santini, M. S., Liotta, D. J., & Yadon, Z. E. La eco-\nepidemiologia retrospectiva como herramienta aplicada a la vigilancia de la Leishmaniasis en\nMisiones, Argentina, 1920-2014. Rev. Panam.Salud Publica. 2016; 40, 29-39.\n16.    Trindade J., Miranda de Araujo. V, Soeiro D, Rogerlandio F, Loureiro G. Burden of\ncSwco          Leishmaniasis in Brazil and federated units, 1990-2016. doi.org/10.1371/journal.pntd.0006697."
+    }
+  ],
+  "sections": [
+    {
+      "id": "resolucion-ministerial",
+      "title": "Resolución Ministerial N.° 165-2025/MINSA",
+      "pdf_pages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "norma-tecnica",
+      "title": "NTS N.° 225-MINSA/CDC-2025",
+      "pdf_pages": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "id": "tablas",
+      "title": "Tablas estructuradas",
+      "pdf_pages": [
+        14,
+        16,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "anexos",
+      "title": "Anexos 01–12",
+      "pdf_pages": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    }
+  ]
+}
