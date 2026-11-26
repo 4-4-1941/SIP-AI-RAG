@@ -1,0 +1,173 @@
+# Ley Nº 3042 Telesalud
+
+Fuente: archivo Ley Nº 3042 Telesalud.pdf (repositorio SIP-AI-RAG). Páginas sin texto digital pasan por OCR (puede tener errores de lectura).
+
+[[PAGINA 1]]
+582202                                          NORMAS LEGALES                      Sábado 2 de abril de 2016 /   El Peruano
+
+                                                                 Artículo 3. Definiciones
+              PODER LEGISLATIVO                                  Para los efectos de la presente Ley se entiende por:
+
+                                                                 a. Telesalud. Servicio de salud a distancia
+                                                                    prestado por personal de salud competente, a
+                  CONGRESO DE                                       través de las tecnologías de la información y
+                                                                    de la comunicación (TIC), para lograr que estos
+                  LA REPUBLICA                                      servicios y los relacionados con estos sean
+                                                                    accesibles a los usuarios en áreas rurales o
+                     ley nº 30421                                   con limitada capacidad resolutiva. Este servicio
+                                                                    se efectúa considerando los siguientes ejes
+   EL PRESIDENTE DEL CONGRESO                                       de desarrollo de la telesalud: la prestación
+   DE LA REPÚBLICA                                                  de los servicios de salud; la gestión de los
+                                                                    servicios de salud; la información, educación y
+   POR CUANTO:                                                      comunicación a la población sobre los servicios
+                                                                    de salud; y el fortalecimiento de capacidades al
+   EL CONGRESO DE LA REPÚBLICA;                                     personal de salud, entre otros.
+   Ha dado la Ley siguiente:                                     b. Telemedicina. Provisión de servicios de salud
+                                                                    a distancia en los componentes de promoción,
+                                                                    prevención, diagnóstico, recuperación o
+             LEY MARCO DE TELESALUD                                 rehabilitación prestados por profesionales de la
+                                                                    salud que utilizan tecnologías de la información
+                 TÍTULO PRELIMINAR                                  y de la comunicación (TIC), con el propósito de
+                                                                    facilitar el acceso a los servicios de salud a la
+    Artículo único. Principios de telesalud                         población.
+    Los principios que sustentan la telesalud son los            c. Interoperabilidad. Es la capacidad de los
+siguientes:                                                         sistemas de diversas organizaciones para
+                                                                    interactuar con objetivos consensuados
+   a. Universalidad. A través de los servicios de                   y comunes con la finalidad de obtener
+      telesalud se garantiza el acceso de toda la                   beneficios mutuos. La interacción implica
+      población a los servicios de salud.                           que los establecimientos de salud compartan
+   b. Equidad. Los servicios de telesalud se brindan con            información y conocimiento mediante el
+      igual calidad y similares opciones a la población,            intercambio de datos entre sus respectivos
+      reduciendo la brecha existente en su acceso.                  sistemas de tecnología de información y
+   c. Eficiencia. Los recursos del sistema nacional de              comunicaciones para, finalmente, optimizar el
+      salud se utilizan de manera racional, optimizando             uso de los recursos en los servicios de salud.
+      la atención en los servicios de salud por medio de
+      los distintos ejes de desarrollo de la telesalud.           Artículo 4. Ente rector
+   d. Calidad del servicio. A través de los servicios de          El Ministerio de Salud, en su calidad de ente rector
+      telesalud se promueve una mejora en la calidad          del sector salud y de acuerdo a sus funciones, formula,
+      de la salud y se fortalecen las capacidades             planea, dirige, coordina, ejecuta, supervisa y evalúa la
+      del personal de salud teniendo como eje la              política nacional y sectorial de telesalud. Bajo dicho marco
+      satisfacción del usuario.                               elabora el Plan Nacional de Telesalud. Asimismo, define
+   e. Descentralización. La telesalud es una                  los estándares de calidad de la provisión de los servicios
+      estrategia de utilización de recursos sanitarios        de telesalud.
+      que optimiza la atención en los servicios de salud
+      fortaleciendo el proceso de descentralización                                  CAPÍTULO II
+      del sistema nacional de salud valiéndose
+      de las tecnologías de la información y de la                    COMISIÓN NACIONAL DE TELESALUD
+      comunicación (TIC).
+   f. Desarrollo social. A través de los servicios de             Artículo 5. Comisión Nacional de Telesalud
+      telesalud se promueve el desarrollo de la sociedad,     (Conatel)
+      permitiendo a la población tener un mayor acceso            Créase la Comisión Nacional de Telesalud (Conatel),
+      a la información en salud, al conocimiento de           adscrita al Ministerio de Salud, como órgano de carácter
+      sus deberes y derechos en salud, impulsando el          multisectorial de naturaleza permanente encargada de
+      empoderamiento de las personas como sujetos             proponer y promover las mejoras continuas, así como
+      principales del cuidado de su propia salud, la de       dar seguimiento a las acciones del Plan Nacional de
+      su familia y su comunidad, creando espacios para        Telesalud, en el marco de los lineamientos de las políticas
+      nuevas prácticas de participación ciudadana.            nacionales y sectoriales del sector salud.
+
+                        TÍTULO I                                  Artículo 6. Conformación de la Comisión Nacional
+                                                              de Telesalud (Conatel)
+                   GENERALIDADES                                  La Comisión Nacional de Telesalud (Conatel) está
+                                                              integrada por los siguientes representantes:
+                      CAPÍTULO I
+                                                                 1. Un representante del Ministerio de Salud, quien la
+            DISPOSICIONES GENERALES                                 preside.
+                                                                 2. Un representante del Ministerio de Transportes y
+    Artículo 1. Objeto de la Ley                                    Comunicaciones.
+    La presente Ley tiene el objeto de establecer                3. Un representante de la Presidencia del Consejo
+los lineamientos generales para la implementación                   de Ministros, a través de la Oficina Nacional de
+y desarrollo de la telesalud como una estrategia de                 Gobierno Electrónico e Informática (Ongei).
+prestación de servicios de salud, a fin de mejorar su            4. Un representante del Ministerio de Educación.
+eficiencia y calidad e incrementar su cobertura mediante el      5. Un representante del Seguro Social de Salud.
+uso de tecnologías de la información y de la comunicación        6. Un representante del Ministerio de Defensa.
+(TIC) en el sistema nacional de salud.                           7. Un representante del Ministerio del Interior.
+   Artículo 2. Ámbito de aplicación
+   El ámbito de la presente Ley comprende a todos los             La Oficina General de Estadística e Informática del
+establecimientos de salud y servicios médicos de apoyo,       Ministerio de Salud actuará como Secretaría Técnica de
+públicos, privados y mixtos del sector salud.                 la Conatel.
+
+[[PAGINA 2]]
+El Peruano / Sábado 2 de abril de 2016      NORMAS LEGALES                                               582203
+    Las entidades del Estado que conforman la Conatel         intercambiar, transferir y utilizar datos, información y
+podrán designar a un representante alterno.                   documentos por medios electrónicos, a través de los
+    La Conatel, de acuerdo al criterio discrecional,          sistemas de información.
+puede convocar a participar en calidad de invitados a
+representantes de otras entidades públicas, privadas, así        Artículo 12. Seguridad de la información
+como de los órganos colegiados para que coadyuven con            El Ministerio de Salud (Minsa), en coordinación
+el objetivo de la Conatel.                                    con la Presidencia del Consejo de Ministros (PCM)
+                                                              —a través de la Oficina Nacional de Gobierno
+   Artículo 7. Funciones de la Comisión Nacional de           Electrónico e Informática (Ongei)—, establece normas
+Telesalud (Conatel)                                           complementarias sobre seguridad de la información
+   Son funciones de la Conatel las siguientes:                para la implementación de la telesalud en el sistema
+                                                              nacional de salud.
+   1. Proponer los mecanismos técnicos para la
+      implementación, seguimiento y evaluación del                Artículo 13. Fortalecimiento de capacidades en
+      Plan Nacional de Telesalud, sugiriendo las líneas       telesalud
+      de intervención prioritarias en el marco del referido       El Ministerio de Salud (Minsa) implementa las
+      Plan Nacional.                                          políticas de formación y fortalecimiento de capacidades
+   2. Proponer las normas y procedimientos sobre              en telesalud en instituciones de educación superior que
+      el uso, desarrollo e implementación de nuevas           forman profesionales de la salud.
+      tecnologías de información y comunicación.
+                                                                               DISPOSICIONES
+   3. Proponer indicadores y estándares del Plan                          COMPLEMENTARIAS FINALES
+      Nacional de Telesalud a nivel nacional, en
+      coordinación con los niveles conductores                    PRIMERA. Declaración de interés nacional
+      regionales de acuerdo al sector, vigilando su               Declárase de interés nacional la incorporación de la
+      adecuada implementación.                                telesalud en el sistema nacional de salud.
+   4. Proponer programas de capacitación y
+      formación de los recursos humanos en el
+                                                                  SEGUNDA. Designación de miembros de la
+      uso, desarrollo e implementación de nuevas
+                                                              Comisión Nacional de Telesalud (Conatel)
+      tecnologías de información y comunicación.
+                                                                  Las entidades señaladas en el artículo 6 designan a
+   5. Emitir informes técnicos y recomendaciones              su representante en un plazo de treinta días calendario
+      sobre el uso, desarrollo e implementación               contados a partir de la vigencia de la presente Ley.
+      de nuevas tecnologías de información y
+      comunicación de acuerdo a los avances
+      tecnológicos de información y comunicación                 TERCERA. Vigencia del Decreto Supremo 028-
+      que se presenten.                                       2005-MTC
+                                                                 En tanto se apruebe el nuevo Plan Nacional de
+                        CAPÍTULO III                          Telesalud, continúa vigente el Decreto Supremo 028-
+                                                              2005-MTC, que aprueba el Plan Nacional de Telesalud.
+              SERVICIOS DE TELESALUD
+                                                                  CUARTA. Reglamentación
+    Artículo 8. Ejes de desarrollo de la telesalud                El Poder Ejecutivo reglamenta la presente Ley en un
+    Los ejes de desarrollo de la telesalud incluyen           plazo de ciento veinte días calendario contados desde la
+la prestación de los servicios de salud; la gestión de        fecha de su entrada en vigencia.
+los servicios de salud; la información, educación y
+comunicación a la población sobre los servicios de salud;         QUINTA. Financiamiento
+y el fortalecimiento de capacidades del personal de salud,        La implementación de la presente norma se financia
+entre otros.                                                  con cargo al presupuesto institucional de las entidades
+    El ente rector del sector salud define la organización    involucradas, según corresponda, sin demandar recursos
+de los servicios de salud.                                    adicionales al tesoro público.
+    Artículo 9. Prestaciones de los servicios de
+telesalud                                                         SEXTA. Plazo para elaborar el Plan Nacional de
+    Las instituciones prestadoras de servicios de salud       Telesalud
+(Ipress) deben incorporar, en forma progresiva, en su             El Plan Nacional de Telesalud, a que se refiere el
+cartera de servicios la prestación de los servicios de        artículo 4, es elaborado por el Ministerio de Salud en un
+telesalud, garantizando su sostenibilidad.                    plazo de noventa días calendario, contados a partir de la
+                                                              fecha de publicación de la presente Ley.
+   Artículo 10. Financiamiento de las prestaciones
+   Las instituciones administradoras de fondos de                POR TANTO:
+aseguramiento en salud (Iafas) y otras modalidades
+de aseguramiento garantizan el financiamiento de los             Habiendo sido reconsiderada la Ley por el Congreso
+servicios de telesalud.                                       de la República, aceptándose las observaciones
+                                                              formuladas por el señor Presidente de la República, de
+                          TÍTULO II                           conformidad con lo dispuesto por el artículo 108 de la
+                                                              Constitución Política del Perú, ordeno que se publique
+        MEDIDAS PARA LA IMPLEMENTACIÓN                        y cumpla.
+               DE LA TELESALUD
+
+                     CAPÍTULO ÚNICO                               En Lima, al primer día del mes de abril de dos mil
+                                                              dieciséis.
+     INTEROPERABILIDAD, SEGURIDAD DE LA
+   INFORMACIÓN Y EDUCACIÓN EN TELESALUD                          LUIS IBERICO NÚÑEZ
+                                                                 Presidente del Congreso de la República
+    Artículo 11. Interoperabilidad
+    El Ministerio de Salud (Minsa), en coordinación con la
+Presidencia del Consejo de Ministros (PCM) —a través de          NATALIE CONDORI JAHUIRA
+la Oficina Nacional de Gobierno Electrónico e Informática        Primera Vicepresidenta del Congreso
+(Ongei)—, establece las normas técnicas y estándares de          de la República
+interoperabilidad para la implementación de la telesalud
+en el sistema nacional de salud, con el propósito de             1363168-1
