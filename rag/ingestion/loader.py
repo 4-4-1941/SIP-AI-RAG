@@ -102,8 +102,13 @@ def load_directory(path: str | Path) -> list[Document]:
         return []
 
     documents: list[Document] = []
+    # Si un PDF tiene un .md con el mismo nombre (en cualquier carpeta de knowledge/),
+    # el .md ya contiene su texto: se omite el PDF para no duplicar fragmentos.
+    md_stems = {f.stem for f in directory.rglob("*.md") if f.is_file()}
     for file_path in sorted(directory.rglob("*")):
         if not file_path.is_file() or file_path.suffix.lower() not in SUPPORTED_EXTENSIONS:
+            continue
+        if file_path.suffix.lower() == ".pdf" and file_path.stem in md_stems:
             continue
         # Un sidecar acompaña al documento; no debe indexarse como documento independiente.
         if file_path.name.endswith(".metadata.json"):
