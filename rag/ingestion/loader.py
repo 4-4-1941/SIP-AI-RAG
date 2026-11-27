@@ -4,6 +4,17 @@ import json
 from dataclasses import dataclass
 from pathlib import Path
 
+# PDF que NO se omiten aunque tengan .md con el mismo nombre: el .md no contiene
+# su texto completo (cobertura < 60 % medida al revisar el repo).
+PDF_SIN_MD_EQUIVALENTE = {
+    "nts-para-la-prevencion-y-control-de-la-tb-2024",
+    "Manual_Salud_Bucal",
+    "Manual-salud_mental-2025",
+    "Manual-prevención_y_control_de_daños_no_transmisibles-2025",
+    "Manual_HIS_Materno_Perinatal_Consulta_Externa",
+    "Guía_de_práctica_clínica_para_la_prevención_y_manejo_del_cáncer_colorrectal",
+}
+
 SUPPORTED_EXTENSIONS = {".txt", ".md", ".json", ".pdf"}
 
 
@@ -108,7 +119,7 @@ def load_directory(path: str | Path) -> list[Document]:
     for file_path in sorted(directory.rglob("*")):
         if not file_path.is_file() or file_path.suffix.lower() not in SUPPORTED_EXTENSIONS:
             continue
-        if file_path.suffix.lower() == ".pdf" and file_path.stem in md_stems:
+        if file_path.suffix.lower() == ".pdf" and file_path.stem in md_stems and file_path.stem not in PDF_SIN_MD_EQUIVALENTE:
             continue
         # Un sidecar acompaña al documento; no debe indexarse como documento independiente.
         if file_path.name.endswith(".metadata.json"):
