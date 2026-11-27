@@ -1,26 +1,22 @@
 # Resolución Ministerial N° 576-2023-MINSA
 
-Fuente: archivo Resolución Ministerial N° 576-2023-MINSA.pdf (repositorio SIP-AI-RAG). Páginas sin texto digital pasan por OCR (puede tener errores de lectura).
+Fuente: archivo Resolución Ministerial N° 576-2023-MINSA.pdf (OCR modelo best, orientación detectada por página)
 
 [[PAGINA 1]]
 MINISTERIO DE SALUD
-¿Uca DEL Re
+, yBUCA DEL Pe
 
-ES Ea
-
-Zima, Me. de... ÍOBLO... del. 2023
-
-Visto, el Expediente N” DGIESP20230000106, que contiene los Memorándums N*
-D001284-2023-DGIESP-MINSA, N* D001645-2023-DGIESP-MINSA y N” DOO2060-2023-
-DGIESP-MINSA, las Notas Informativas N” DO00153-2023-DGIESP-MINSA, N* DO00120-
-2023-DGIESP-DPVIH-MINSA, N” DO00156-2023-DGIESP-DPVIH-MINSA y N* DO00175-
-2023-DGIESP-DPVIH-MINSA, y el Informe N” DO00009-2023-DGIESP-DPVIH-MINSA de
+Visto, el Expediente N* DGIESP20230000106, que contiene los Memorándums N*
+D001284-2023-DGIESP-MINSA, N* D001645-2023-DGIESP-MINSA y N* D002060-2023-
+DGIESP-MINSA, las Notas Informativas N* DO00153-2023-DGIESP-MINSA, N* D000120-
+2023-DGIESP-DPVIH-MINSA, N* DO00156-2023-DGIESP-DPVIH-MINSA y N* D000175-
+2023-DGIESP-DPVIH-MINSA, y el Informe N* DO00009-2023-DGIESP-DPVIH-MINSA de
 la Dirección General de Intervenciones Estratégicas en Salud Publica, y el Informe N*
 D000647-2023-OGAJ-MINSA de la Oficina General de Asesoría Jurídica;
 
 CONSIDERANDO:
 
-Que, los numerales | y || del Título Preliminar de la Ley N* 26842, Ley General de
+Que, los numerales | y |I del Título Preliminar de la Ley N* 26842, Ley General de
 Salud, establecen que la salud es condición indispensable del desarrollo humano y medio
 fundamental para alcanzar el bienestar individual y colectivo, y que la protección de la salud
 es de interés público, siendo responsabilidad del Estado regularla, vigilarla y promoverla,
@@ -31,12 +27,19 @@ Organización y Funciones del Ministerio de Salud, señala como ámbito de compe
 Ministerio de Salud, la salud de las personas;
 
 Que, los literales b) y h) del artículo 5 del acotado Decreto Legislativo, modificado
-por Decreto Legislativo N* 1504, Decreto Legislativo que fortalece al Instituto Nacional de
-Salud para la prevención y control de las enfermedades, establecen que son funciones
-rectoras del Ministerio de Salud formular, planear, dirigir, coordinar, ejecutar, supervisar y
-evaluar la política nacional y sectorial de promoción de la salud, vigilancia, prevención y
+
+¡E por Decreto Legislativo N* 1504, Decreto Legislativo que fortalece al Instituto Nacional de
+E; € Salud para la prevención y control de las enfermedades, establecen que son funciones
+2 wa E rectoras del Ministerio de Salud formular, planear, dirigir, coordinar, ejecutar, supervisar y
+E evaluar la política nacional y sectorial de promoción de la salud, vigilancia, prevención y
+VEFAN
+NE.
+
+AN
+.
 control de las enfermedades, recuperación, rehabilitación en salud, tecnologías en salud y
 buenas prácticas en salud, bajo su competencia, aplicable a todos los niveles de gobierno,
+
 así como dictar normas y lineamientos técnicos para la adecuada ejecución y supervisión
 de la política nacional y políticas sectoriales de salud, entre otros;
 
@@ -48,8 +51,8 @@ Humana (VIH) y el Síndrome de Inmunodeficiencia Adquirida (SIDA) y las Infeccio
 Transmisión Sexual (ITS);
 
 Que, el artículo 63 del Reglamento de Organización y Funciones del Ministerio de
-ebado por Decreto Supremo N? 008-2017-SA, modificado por Decreto Supremo
-BA, establece que la Dirección General de Intervenciones Estratégicas en
+prahado por Decreto Supremo N* 008-2017-SA, modificado por Decreto Supremo
+b SA, establece que la Dirección General de Intervenciones Estratégicas en
 
 [[PAGINA 2]]
 Salud Pública es el órgano de línea del Ministerio de Salud, dependiente del Viceministerio
@@ -76,10 +79,10 @@ Viceministerial de Prestaciones y Aseguramiento en Salud; y,
 
 De conformidad con lo dispuesto en el Decreto Legislativo N* 1161, Ley de
 Organización y Funciones del Ministerio de Salud, modificado por la Ley N* 30895, Ley que
-fortalece la función rectora del Ministerio de Salud y por el Decreto Legislativo N* 1504,
+fortalece la función rectora del Ministerio de Salud y por el Decreto Legislativo N% 1504,
 Decreto Legislativo que fortalece al Instituto Nacional de Salud para la prevención y control
 de las enfermedades; y, el Reglamento de Organización y Funciones del Ministerio de Salud,
-aprobado por Decreto Supremo N* 008-2017-SA, modificado por los Decretos Supremos N*
+aprobado por Decreto Supremo N? 008-2017-SA, modificado por los Decretos Supremos N*
 011-2017-SA y N* 032-2017-SA;
 
 SE RESUELVE:
@@ -95,6 +98,14 @@ General la publicación de la presente Resolución Ministerial y su Anexo en la 
 del Ministerio de Salud.
 
 Regístrese, comuníquese y publíquese.
+
+Ze
+
+A
+pUSADE,
+Es
+
+YD
 
 ROSA BERTHA GUTIÉRREZ PALOMINO
 Ministra de Salud

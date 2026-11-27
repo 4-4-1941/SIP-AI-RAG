@@ -1,22 +1,30 @@
 # Resolución Ministerial N° 239-2023-MINSA
 
-Fuente: archivo Resolución Ministerial N° 239-2023-MINSA.pdf (repositorio SIP-AI-RAG). Páginas sin texto digital pasan por OCR (puede tener errores de lectura).
+Fuente: archivo Resolución Ministerial N° 239-2023-MINSA.pdf (OCR modelo best, orientación detectada por página)
 
 [[PAGINA 1]]
-MINISTERIO DE SALUD No. 230.2023/minsA
+MINISTERIO DE SALUD No 2392023]hinsa
 
-Lima, N3. de... MARZO... del..2023
+CTN
+Ó o
+= Ya
+EA S
+O 8
+us > /x
 
-LE, Visto, el Expediente N” CDC00020220001120, que contiene la Nota
-E Na Informativa N* DO00441-2022-CDC-MINSA y el Memorándum N* DO00325-2023-
-Ea) CDC-MINSA del Centro Nacional de Epidemiología, Prevención y Control de
-LS Enfermedades; y el Informe N* DO00127-2023-OGAJ-MINSA de la Oficina General
+S. YANCOURT
 
-S. YANCOURT de Asesoría Jurídica;
+Foma, 03. de... MARZO...... del .2023
+
+Visto, el Expediente N* CDC00020220001120, que contiene la Nota
+Informativa N* D000441-2022-CDC-MINSA y el Memorándum N* D000325-2023-
+CDC-MINSA del Centro Nacional de Epidemiología, Prevención y Control de
+Enfermedades; y el Informe N* D000127-2023-OGAJ-MINSA de la Oficina General
+de Asesoría Jurídica;
 
 CONSIDERANDO:
 
-Que, los numerales | y II del Título Preliminar de la Ley N” 26842, Ley General
+Que, los numerales | y II del Título Preliminar de la Ley N* 26842, Ley General
 de Salud, disponen que la salud es condición indispensable del desarrollo humano y
 medio fundamental para alcanzar el bienestar individual y colectivo, y que la
 protección de la salud es de interés público. Por lo tanto, es responsabilidad del
@@ -32,7 +40,7 @@ actividades vinculadas a las competencias establecidas en dicha Ley, y que tiene
 impacto directo o indirecto en la salud, individual o colectiva;
 
 Que, los literales b) y h) del artículo 5 del Decreto Legislativo N* 1161,
-modificado por el Decreto Legislativo N” 1504, Decreto Legislativo que fortalece al
+modificado por el Decreto Legislativo N* 1504, Decreto Legislativo que fortalece al
 Instituto Nacional de Salud para la prevención y control de las enfermedades, señalan
 que son funciones rectoras del Ministerio de Salud, formular, planear, dirigir,
 coordinar, ejecutar, supervisar y evaluar la política nacional y sectorial de promoción
@@ -67,8 +75,8 @@ Enfermedades, de la Dirección General de Intervenciones Estratégicas en Salud
 Pública, de la Oficina General de Asesoría Jurídica, y del Despacho Viceministerial
 de Salud Pública;
 
-De conformidad con lo dispuesto en el Decreto Legislativo N” 1161, Ley de
-Organización y Funciones del Ministerio de Salud, modificado por la Ley N” 30895,
+De conformidad con lo dispuesto en el Decreto Legislativo N* 1161, Ley de
+Organización y Funciones del Ministerio de Salud, modificado por la Ley N* 30895,
 Ley que fortalece la función rectora del Ministerio de Salud, y por el Decreto
 Legislativo N* 1504, Decreto Legislativo que fortalece al Instituto Nacional de Salud
 para la prevención y control de las enfermedades; y el Reglamento de Organización
@@ -78,12 +86,12 @@ SA;
 
 SE RESUELVE:
 
-Artículo 1.- Aprobar la NTs N? 19 -MINSA/CDC-2023, “Vigilancia
+Artículo 1.- Aprobar la NTS N* 199 -MINSA/CDC-2023, “Vigilancia
 epidemiológica de cáncer en general y cáncer en niños y adolescentes — Registro
 Hospitalario”, que como Anexo forma parte integrante de la presente Resolución
 Ministerial, y que se publica en la sede digital del Ministerio de Salud.
 
-Artículo 2.- Derogar la Resolución Ministerial N” 660-2006/MINSA.
+Artículo 2.- Derogar la Resolución Ministerial N* 660-2006/MINSA.
 
 Artículo 3.- Encargar a la Oficina de Transparencia y Anticorrupción de la
 Secretaría General la publicación de la presente Resolución Ministerial y su Anexo
@@ -91,13 +99,13 @@ en la sede digital del Ministerio de Salud.
 
 Regístrese, comuníquese y publíquese.
 
-—=
+ROSA BERTHA GUTIÉRREZ PALOMINO =
+Ministra de Salud
 
-y) a)
+—
+( A
+Le EE puman, EN
+E Sal €
+A o
 
-- Sin
-ROSA BERTHA GUTIÉRREZ PALOMINO NS] 5
-Ministra de Salud IM
-e
-
-ms
+' UNis 1%

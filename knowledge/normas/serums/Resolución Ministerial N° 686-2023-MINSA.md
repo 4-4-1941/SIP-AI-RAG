@@ -1,36 +1,31 @@
 # Resolución Ministerial N° 686-2023-MINSA
 
-Fuente: archivo Resolución Ministerial N° 686-2023-MINSA.pdf (repositorio SIP-AI-RAG). Páginas sin texto digital pasan por OCR (puede tener errores de lectura).
+Fuente: archivo Resolución Ministerial N° 686-2023-MINSA.pdf (OCR modelo best, orientación detectada por página)
 
 [[PAGINA 1]]
 MINISTERIO DE SALUD
 
-A e
-dá Resolución
-CC. MESTAS
+LICA DE,
 
-RS
-PO
+Loma, 13. de... ÍLLLO..... del. 2023
 
-5) Lima, AD. de... HOÍLO..... del. ZQ23
-
-Visto, el Expediente N” 2022-0117816, que contiene el Memorándum N*
-D002704-2023-DGIESP-MINSA, las Notas Informativas N* DO02189-2023-DGIESP-
-MINSA y N* DO000370-2023-DGIESP-DSARE-MINSA, y los Informes N” DO00006-
-2023-DGIESP-DSARE-NVB-MINSA y N” D000008-2023-DGIESP-DSARE-NVB-
+Visto, el Expediente N* 2022-0117816, que contiene el Memorándum N*
+D002704-2023-DGIESP-MINSA, las Notas Informativas N* D002189-2023-DGIESP-
+MINSA y N* D000370-2023-DGIESP-DSARE-MINSA, y los Informes N* DOO0006-
+2023-DGIESP-DSARE-NVB-MINSA y N* DO000008-2023-DGIESP-DSARE-NVB-
 MINSA de la Dirección General de Intervenciones Estratégicas en Salud Pública; y
-el Informe N* DO00779-2023-OGAJ-MINSA de la Oficina General de Asesoría
+el Informe N* D000779-2023-OGAJ-MINSA de la Oficina General de Asesoría
 Jurídica;
 
 CONSIDERANDO:
 
-Que, los numerales | y |! del Título Preliminar de la Ley N* 26842, Ley General
+Que, los numerales | y II del Título Preliminar de la Ley N* 26842, Ley General
 de Salud, disponen que la salud es condición indispensable del desarrollo humano y
 medio fundamental para alcanzar el bienestar individual y colectivo, y que la
 protección de la salud es de interés público. Por lo tanto, es responsabilidad del
 Estado regularla, vigilarla y promoverla;
 
-Que, el numeral 1) del artículo 3 del Decreto Legislativo N” 1161, Ley de
+Que, el numeral 1) del artículo 3 del Decreto Legislativo N* 1161, Ley de
 Organización y Funciones del Ministerio de Salud, establece que el Ministerio de
 Salud es competente en salud de las personas; y su artículo 4 dispone que el Sector
 Salud está conformado por el Ministerio de Salud, como organismo rector, las
@@ -40,7 +35,7 @@ competencias establecidas en dicha Ley, y que tienen impacto directo o indirecto
 la salud, individual o colectiva;
 
 Que, los literales b) y h) del artículo 5 del Decreto Legislativo N* 1161,
-modificado por el Decreto Legislativo N” 1504, Decreto Legislativo que fortalece al
+modificado por el Decreto Legislativo N* 1504, Decreto Legislativo que fortalece al
 Instituto Nacional de Salud para la prevención y control de las enfermedades, señalan
 que son funciones rectoras del Ministerio de Salud, formular, planear, dirigir,
 coordinar, ejecutar, supervisar y evaluar la política nacional y sectorial de promoción
@@ -53,14 +48,14 @@ y políticas sectoriales de salud, entre otras;
 [[PAGINA 2]]
 Que, con Resolución Ministerial N* 827-2013/MINSA se aprueba la NTS N*
 105-MINSA/DGSP-V.01, Norma Técnica de Salud para la Atención Integral de Salud
-Materna, modificada por Resolución Ministerial N” 159-2014/MINSA, que establece
+Materna, modificada por Resolución Ministerial N* 159-2014/MINSA, que establece
 las normas y procedimientos técnicos administrativos, basados en evidencia
 científica, que permitan brindar una atención integral de calidad y calificada, durante
 la preparación del embarazo, la atención prenatal reenfocada, la atención del parto y
 la atención del puerperio;
 
 Que, de otro lado, el artículo 63 del Reglamento de Organización y Funciones
-del Ministerio de Salud, aprobado por Decreto Supremo N? 008-2017-SA, modificado
+del Ministerio de Salud, aprobado por Decreto Supremo N* 008-2017-SA, modificado
 por Decreto Supremo N* 011-2017-SA, establece que la Dirección General de
 Intervenciones Estratégicas en Salud Pública es el órgano de línea del Ministerio de
 Salud, dependiente del Viceministerio de Salud Pública, competente para dirigir y
@@ -70,9 +65,9 @@ sexual y reproductiva, entre otras;
 Que, mediante los documentos de la referencia, la Dirección General de
 Intervenciones Estratégicas en Salud Pública propone la modificación del tercer
 párrafo del acápite referido a exámenes auxiliares basales del numeral 6.1.2,
-Atención prenatal reenfocada, de la NTS N” 105-MINSA/DGSP-V.01, Norma Técnica
+Atención prenatal reenfocada, de la NTS N* 105-MINSA/DGSP-V.01, Norma Técnica
 de Salud para la Atención Integral de Salud Materna, aprobada por Resolución
-Ministerial N” 827-2013/MINSA;
+Ministerial N* 827-2013/MINSA;
 
 Con el visado de la Dirección General de Intervenciones Estratégicas en
 Salud Pública, de la Dirección General de Operaciones en Salud, de la Dirección
@@ -102,12 +97,13 @@ texto siguiente:
 
 6.1 COMPONENTE DE PRESTACIÓN
 
-(..)
+(...)
 
 [[PAGINA 3]]
-MINISTERIO DE SALUD
+MINISTERIO DE SALUD no86:2023nsA
 
-Lima, NE. de.....ÍRÍLO..... adel.2023
+... DAL FERNANDEZ
+Ministerio de Salud
 
 6.1.2 ATENCIÓN PRENATAL REENFOCADA
 
@@ -115,7 +111,7 @@ Lima, NE. de.....ÍRÍLO..... adel.2023
 
 Exámenes auxiliares basales
 
-(..)
+(...)
 
 > Ecografía obstétrica, es un estudio especializado que requiere de
 competencias para el diagnóstico de la patología materna y fetal, por lo
@@ -130,7 +126,7 @@ fetal, el desarrollo de la placenta, inserción del cordón, medición de
 volumen de líquido amniótico, y medición de la longitud del cérvix; y en el
 tercer trimestre se realizan las pruebas ecográficas de bienestar fetal.
 
-(y
+(.
 
 Artículo 2.- Encargar a la Oficina de Transparencia y Anticorrupción de la
 Secretaría General la publicación de la presente Resolución Ministerial en la sede
@@ -138,8 +134,6 @@ digital del Ministerio de Salud.
 
 Regístrese, comuníquese y publíquese.
 
-y
-ETA ATI 3
 CÉSAR HENRY VÁSQUEZ SÁNCHEZ
 Ministro de Salud
 
