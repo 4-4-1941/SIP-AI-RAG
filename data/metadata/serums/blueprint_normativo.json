@@ -1,19 +1,19 @@
 {
  "version": "2026-11-11",
  "criterio": "Preguntas RESPALDADAS con la norma como fuente principal; un examen se cuenta si la pregunta apareció en él. Es orientativo.",
- "total_preguntas": 1360,
+ "total_preguntas": 1398,
  "peso_por_eje": {
-  "Salud pública": 44.7,
+  "Salud pública": 44.4,
   "Cuidado integral de salud": 32.3,
-  "Gestión de servicios de salud": 14.3,
-  "Ética e interculturalidad": 6.3,
+  "Gestión de servicios de salud": 14.7,
+  "Ética e interculturalidad": 6.2,
   "Investigación": 2.4
  },
  "preguntas_por_examen": {
-  "2025-I": 197,
-  "2025-II": 487,
-  "2026-I": 338,
-  "2026-II": 338
+  "2025-I": 198,
+  "2025-II": 506,
+  "2026-I": 345,
+  "2026-II": 349
  },
  "normas": [
   {
@@ -21,13 +21,13 @@
    "sumilla": "DECRETO SUPREMO QUE APRUEBA LA POLÍTICA NACIONAL MULTISECTORIAL DE SALUD AL",
    "sumilla_por_verificar": false,
    "eje": "Salud pública",
-   "preguntas": 330,
+   "preguntas": 340,
    "porcentaje": 24.3,
    "por_examen": {
     "2025-I": 40,
-    "2025-II": 120,
-    "2026-I": 83,
-    "2026-II": 87
+    "2025-II": 124,
+    "2026-I": 84,
+    "2026-II": 92
    },
    "temas": [
     "Determinantes sociales de la salud",
@@ -44,7 +44,7 @@
    "sumilla_por_verificar": false,
    "eje": "Cuidado integral de salud",
    "preguntas": 89,
-   "porcentaje": 6.5,
+   "porcentaje": 6.4,
    "por_examen": {
     "2025-I": 8,
     "2025-II": 45,
@@ -65,11 +65,11 @@
    "sumilla": "Aprobar la NTS N° 211 -MINSA/DGIESP-2024, Norma Técnica de Salud para la atención integral de pacientes con dengue en el Perú, que como Anexo",
    "sumilla_por_verificar": false,
    "eje": "Salud pública",
-   "preguntas": 51,
+   "preguntas": 53,
    "porcentaje": 3.8,
    "por_examen": {
     "2025-I": 12,
-    "2025-II": 17,
+    "2025-II": 19,
     "2026-I": 10,
     "2026-II": 12
    },
@@ -88,7 +88,7 @@
    "sumilla_por_verificar": false,
    "eje": "Salud pública",
    "preguntas": 49,
-   "porcentaje": 3.6,
+   "porcentaje": 3.5,
    "por_examen": {
     "2025-I": 5,
     "2025-II": 9,
@@ -110,7 +110,7 @@
    "sumilla_por_verificar": false,
    "eje": "Cuidado integral de salud",
    "preguntas": 46,
-   "porcentaje": 3.4,
+   "porcentaje": 3.3,
    "por_examen": {
     "2025-I": 2,
     "2025-II": 10,
@@ -132,7 +132,7 @@
    "sumilla_por_verificar": false,
    "eje": "Cuidado integral de salud",
    "preguntas": 41,
-   "porcentaje": 3.0,
+   "porcentaje": 2.9,
    "por_examen": {
     "2025-I": 11,
     "2025-II": 11,
@@ -176,7 +176,7 @@
    "sumilla_por_verificar": false,
    "eje": "Cuidado integral de salud",
    "preguntas": 34,
-   "porcentaje": 2.5,
+   "porcentaje": 2.4,
    "por_examen": {
     "2025-I": 3,
     "2025-II": 16,
@@ -197,19 +197,19 @@
    "sumilla": "Aprobar la NTS W 021-MINSAlDGSPrV.03 Norma Técnica de Salud \"Categorías de Establecimientos del Sector Salud\" que en documento adjunto",
    "sumilla_por_verificar": false,
    "eje": "Gestión de servicios de salud",
-   "preguntas": 32,
+   "preguntas": 33,
    "porcentaje": 2.4,
    "por_examen": {
     "2025-I": 4,
     "2025-II": 11,
     "2026-I": 10,
-    "2026-II": 7
+    "2026-II": 8
    },
    "temas": [
     "Categorización de establecimientos de salud",
     "Auditoría de calidad",
-    "Parto en establecimiento de salud",
-    "Aptitudes del servidor público"
+    "Rehabilitación basada en la comunidad",
+    "Parto en establecimiento de salud"
    ],
    "compendio": "Dirección General de Aseguramiento e Intercambio Prestacional",
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/243402-546-2011-minsa"
@@ -219,13 +219,13 @@
    "sumilla": "LEY DE SALUD MENTAL CAPÍTULO I DISPOSICIONES GENERALES",
    "sumilla_por_verificar": false,
    "eje": "Salud pública",
-   "preguntas": 30,
+   "preguntas": 31,
    "porcentaje": 2.2,
    "por_examen": {
     "2025-I": 4,
     "2025-II": 10,
     "2026-I": 5,
-    "2026-II": 11
+    "2026-II": 12
    },
    "temas": [
     "Medicamentos esenciales",
@@ -241,11 +241,11 @@
    "sumilla": "Aprobar el Documento Técnico: Dialogo Intercultural en Salud, cuyo crácumento adjunto forma parte integrante de la presente Resolución Ministerial.",
    "sumilla_por_verificar": false,
    "eje": "Salud pública",
-   "preguntas": 28,
+   "preguntas": 29,
    "porcentaje": 2.1,
    "por_examen": {
     "2025-I": 4,
-    "2025-II": 13,
+    "2025-II": 14,
     "2026-I": 4,
     "2026-II": 7
    },
@@ -330,7 +330,7 @@
    "sumilla_por_verificar": false,
    "eje": "Cuidado integral de salud",
    "preguntas": 24,
-   "porcentaje": 1.8,
+   "porcentaje": 1.7,
    "por_examen": {
     "2025-I": 6,
     "2025-II": 11,
@@ -352,7 +352,7 @@
    "sumilla_por_verificar": false,
    "eje": "Cuidado integral de salud",
    "preguntas": 24,
-   "porcentaje": 1.8,
+   "porcentaje": 1.7,
    "por_examen": {
     "2025-I": 0,
     "2025-II": 13,
@@ -373,12 +373,12 @@
    "sumilla": "Aprobar la NTS N° 111. -2014-MINSA/DGE-V.01 \"Norma Técnica de Salud que establece la Vigilancia Epidemiológica en Salud Pública de",
    "sumilla_por_verificar": false,
    "eje": "Salud pública",
-   "preguntas": 22,
+   "preguntas": 23,
    "porcentaje": 1.6,
    "por_examen": {
     "2025-I": 1,
     "2025-II": 10,
-    "2026-I": 7,
+    "2026-I": 8,
     "2026-II": 4
    },
    "temas": [
@@ -396,7 +396,7 @@
    "sumilla_por_verificar": false,
    "eje": "Salud pública",
    "preguntas": 20,
-   "porcentaje": 1.5,
+   "porcentaje": 1.4,
    "por_examen": {
     "2025-I": 5,
     "2025-II": 9,
@@ -484,7 +484,7 @@
    "sumilla_por_verificar": false,
    "eje": "Salud pública",
    "preguntas": 13,
-   "porcentaje": 1.0,
+   "porcentaje": 0.9,
    "por_examen": {
     "2025-I": 2,
     "2025-II": 8,
@@ -543,6 +543,28 @@
    ],
    "compendio": "Ver las 14 normas",
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/192736-043-2016-minsa"
+  },
+  {
+   "norma": "Resolución Ministerial N.° 789-2023-MINSA",
+   "sumilla": "Aprobar la NTS N° 203 -MINSA/DGIESP-2023, Norma Tecnica de Salud para el Cuidado Integral de Salud de las Personas Adultas Mayores, que como Anexo",
+   "sumilla_por_verificar": false,
+   "eje": "Cuidado integral de salud",
+   "preguntas": 11,
+   "porcentaje": 0.8,
+   "por_examen": {
+    "2025-I": 3,
+    "2025-II": 7,
+    "2026-I": 0,
+    "2026-II": 1
+   },
+   "temas": [
+    "Evaluación geriátrica inicial",
+    "Promoción de la salud",
+    "Integración de procesos de cuidado",
+    "Dimensiones del cuidado integral"
+   ],
+   "compendio": "Dirección de Intervenciones por Curso de Vida y Cuidado Integral",
+   "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/4557563-789-2023-minsa"
   },
   {
    "norma": "Resolución Ministerial N.° 876-2024-MINSA",
@@ -633,28 +655,6 @@
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/194123-485-2015-minsa"
   },
   {
-   "norma": "Resolución Ministerial N.° 789-2023-MINSA",
-   "sumilla": "Aprobar la NTS N° 203 -MINSA/DGIESP-2023, Norma Tecnica de Salud para el Cuidado Integral de Salud de las Personas Adultas Mayores, que como Anexo",
-   "sumilla_por_verificar": false,
-   "eje": "Cuidado integral de salud",
-   "preguntas": 10,
-   "porcentaje": 0.7,
-   "por_examen": {
-    "2025-I": 3,
-    "2025-II": 6,
-    "2026-I": 0,
-    "2026-II": 1
-   },
-   "temas": [
-    "Promoción de la salud",
-    "Integración de procesos de cuidado",
-    "Dimensiones del cuidado integral",
-    "Intervención familiar en salud"
-   ],
-   "compendio": "Dirección de Intervenciones por Curso de Vida y Cuidado Integral",
-   "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/4557563-789-2023-minsa"
-  },
-  {
    "norma": "Resolución Ministerial N.° 545-2012-MINSA",
    "sumilla": "Aprobar la Directiva Sanitaria N°041-MINSNDGE-V.01, \"Notificación de Brotes, Epidemias y otros eventos de importancia para la Salud Pública\".",
    "sumilla_por_verificar": false,
@@ -726,7 +726,7 @@
    "sumilla_por_verificar": false,
    "eje": "Cuidado integral de salud",
    "preguntas": 9,
-   "porcentaje": 0.7,
+   "porcentaje": 0.6,
    "por_examen": {
     "2025-I": 2,
     "2025-II": 4,
@@ -741,6 +741,50 @@
    ],
    "compendio": "Dirección de Intervenciones por Curso de Vida y Cuidado Integral",
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/240648-240-2013-minsa"
+  },
+  {
+   "norma": "Resolución Ministerial N.° 981-2016-MINSA",
+   "sumilla": "Aprobar la .NTS 123 ' zMINSA/2016/DGIESP: Norma Técnica de Salud para la Evaluación, Calificación, y Certificación de la Persona con Discapacidad,",
+   "sumilla_por_verificar": false,
+   "eje": "Cuidado integral de salud",
+   "preguntas": 9,
+   "porcentaje": 0.6,
+   "por_examen": {
+    "2025-I": 1,
+    "2025-II": 3,
+    "2026-I": 3,
+    "2026-II": 2
+   },
+   "temas": [
+    "Trastornos del habla",
+    "Solicitud de expedientes clínicos",
+    "Comunicación en salud",
+    "Trastornos del lenguaje"
+   ],
+   "compendio": "Dirección de Discapacidad",
+   "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/2806640-981-2016-minsa"
+  },
+  {
+   "norma": "Decreto Supremo N.° 012-2025-SA",
+   "sumilla": "",
+   "sumilla_por_verificar": true,
+   "eje": "Salud pública",
+   "preguntas": 8,
+   "porcentaje": 0.6,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 5,
+    "2026-I": 2,
+    "2026-II": 1
+   },
+   "temas": [
+    "Prevención de adicciones",
+    "Planeación estratégica",
+    "Promoción de la salud",
+    "Orientación y derivación de casos de violencia en estudiantes"
+   ],
+   "compendio": "Ver las 24 normas",
+   "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/6944165-012-2025-sa"
   },
   {
    "norma": "Resolución Ministerial N.° 206-2017-MINSA",
@@ -785,50 +829,6 @@
    ],
    "compendio": "Centro Nacional de Epidemiología, Prevención y Control de Enfermedades",
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/241480-800-2012-minsa"
-  },
-  {
-   "norma": "Resolución Ministerial N.° 981-2016-MINSA",
-   "sumilla": "Aprobar la .NTS 123 ' zMINSA/2016/DGIESP: Norma Técnica de Salud para la Evaluación, Calificación, y Certificación de la Persona con Discapacidad,",
-   "sumilla_por_verificar": false,
-   "eje": "Cuidado integral de salud",
-   "preguntas": 8,
-   "porcentaje": 0.6,
-   "por_examen": {
-    "2025-I": 0,
-    "2025-II": 3,
-    "2026-I": 3,
-    "2026-II": 2
-   },
-   "temas": [
-    "Solicitud de expedientes clínicos",
-    "Comunicación en salud",
-    "Trastornos del lenguaje",
-    "Conflicto de intereses"
-   ],
-   "compendio": "Ver las 4 normas",
-   "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/2806640-981-2016-minsa"
-  },
-  {
-   "norma": "Decreto Supremo N.° 012-2025-SA",
-   "sumilla": "",
-   "sumilla_por_verificar": true,
-   "eje": "Salud pública",
-   "preguntas": 7,
-   "porcentaje": 0.5,
-   "por_examen": {
-    "2025-I": 0,
-    "2025-II": 4,
-    "2026-I": 2,
-    "2026-II": 1
-   },
-   "temas": [
-    "Prevención de adicciones",
-    "Planeación estratégica",
-    "Promoción de la salud",
-    "Orientación y derivación de casos de violencia en estudiantes"
-   ],
-   "compendio": "Ver las 24 normas",
-   "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/6944165-012-2025-sa"
   },
   {
    "norma": "Resolución Ministerial N.° 063-2014-MINSA",
@@ -985,6 +985,28 @@
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/5973802-016-2024-sa"
   },
   {
+   "norma": "DGIESP-2022",
+   "sumilla": "",
+   "sumilla_por_verificar": true,
+   "eje": "Cuidado integral de salud",
+   "preguntas": 6,
+   "porcentaje": 0.4,
+   "por_examen": {
+    "2025-I": 1,
+    "2025-II": 0,
+    "2026-I": 1,
+    "2026-II": 4
+   },
+   "temas": [
+    "Salud bucal",
+    "Identificación forense odontológica",
+    "Estructura organizativa",
+    "Prevención odontológica"
+   ],
+   "compendio": "",
+   "url_oficial": ""
+  },
+  {
    "norma": "Resolución Ministerial N.° 486-2014-MINSA",
    "sumilla": "Aprobar la \"Guía Técnica Nacional para la estandarización del procedimiento de la Atención Integral de la gestante en la Interrupción Voluntaria por",
    "sumilla_por_verificar": false,
@@ -1092,28 +1114,6 @@
    ],
    "compendio": "Dirección de Prevención y Control del Cáncer",
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/6972661-480-2025-minsa"
-  },
-  {
-   "norma": "DGIESP-2022",
-   "sumilla": "",
-   "sumilla_por_verificar": true,
-   "eje": "Cuidado integral de salud",
-   "preguntas": 5,
-   "porcentaje": 0.4,
-   "por_examen": {
-    "2025-I": 1,
-    "2025-II": 0,
-    "2026-I": 1,
-    "2026-II": 3
-   },
-   "temas": [
-    "Salud bucal",
-    "Identificación forense odontológica",
-    "Estructura organizativa",
-    "Prevención odontológica"
-   ],
-   "compendio": "",
-   "url_oficial": ""
   },
   {
    "norma": "Manual de Registro y Codificación de Actividades en la Atención Integral de Salud de la Etapa de Vida Adulto M",
@@ -1224,6 +1224,28 @@
    ],
    "compendio": "Ver las 12 normas",
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/241539-773-2012-minsa"
+  },
+  {
+   "norma": "Resolución Ministerial N.° 649-2014-MINSA",
+   "sumilla": "Aprobar la NTS N° io q -MINSA/DGE-V.01: \"Norma Técnica de Salud que establece la Vigilancia Epidemiológica en Salud Pública del Riesgo de",
+   "sumilla_por_verificar": false,
+   "eje": "Salud pública",
+   "preguntas": 4,
+   "porcentaje": 0.3,
+   "por_examen": {
+    "2025-I": 1,
+    "2025-II": 1,
+    "2026-I": 2,
+    "2026-II": 0
+   },
+   "temas": [
+    "Prevención y control de brotes",
+    "Riesgos ocupacionales",
+    "Vigilancia epidemiológica",
+    "Vigilancia en salud pública"
+   ],
+   "compendio": "Ver las 60 normas",
+   "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/198601-649-2014-minsa"
   },
   {
    "norma": "cioms-ethicalguideline-sp-web",
@@ -1354,6 +1376,28 @@
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/5431133-242-2024-minsa"
   },
   {
+   "norma": "Resolución Ministerial N.° 200-2025-MINSA",
+   "sumilla": "Aprobar el Documento Tecnico: \"Sesiones Demostrativas de Preparacion de Alimentos para Poblacion Materno Infantil\", que como Anexo forma parteintegrants de la presente Resolucion Ministerial y que se publics en la sede digital del",
+   "sumilla_por_verificar": false,
+   "eje": "Cuidado integral de salud",
+   "preguntas": 4,
+   "porcentaje": 0.3,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 3,
+    "2026-I": 0,
+    "2026-II": 1
+   },
+   "temas": [
+    "Educación nutricional gestante",
+    "Metodologías de educación en salud",
+    "Promoción de salud bucal",
+    "Enseñanza en salud bucal"
+   ],
+   "compendio": "Dirección de Promoción de la Salud",
+   "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/6595237-200-2025-minsa"
+  },
+  {
    "norma": "Decreto Supremo N.° 013-2016-SA",
    "sumilla": "Aprueban Reglamento que regula la Presentación y Contenido de los",
    "sumilla_por_verificar": false,
@@ -1439,27 +1483,6 @@
    "url_oficial": ""
   },
   {
-   "norma": "Resolución Ministerial N.° 649-2014-MINSA",
-   "sumilla": "Aprobar la NTS N° io q -MINSA/DGE-V.01: \"Norma Técnica de Salud que establece la Vigilancia Epidemiológica en Salud Pública del Riesgo de",
-   "sumilla_por_verificar": false,
-   "eje": "Salud pública",
-   "preguntas": 3,
-   "porcentaje": 0.2,
-   "por_examen": {
-    "2025-I": 1,
-    "2025-II": 1,
-    "2026-I": 1,
-    "2026-II": 0
-   },
-   "temas": [
-    "Prevención y control de brotes",
-    "Riesgos ocupacionales",
-    "Vigilancia epidemiológica"
-   ],
-   "compendio": "Ver las 60 normas",
-   "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/198601-649-2014-minsa"
-  },
-  {
    "norma": "NTS N° 175-MINSA/2021/CDC",
    "sumilla": "Norma Técnica de Salud para la Vigilancia Epidemiológica y Diagnóstico de Laboratorio del Síndrome de Guillain Barré en el Perú",
    "sumilla_por_verificar": false,
@@ -1481,27 +1504,6 @@
    "url_oficial": ""
   },
   {
-   "norma": "Resolución Ministerial N.° 200-2025-MINSA",
-   "sumilla": "Aprobar el Documento Tecnico: \"Sesiones Demostrativas de Preparacion de Alimentos para Poblacion Materno Infantil\", que como Anexo forma parteintegrants de la presente Resolucion Ministerial y que se publics en la sede digital del",
-   "sumilla_por_verificar": false,
-   "eje": "Cuidado integral de salud",
-   "preguntas": 3,
-   "porcentaje": 0.2,
-   "por_examen": {
-    "2025-I": 0,
-    "2025-II": 2,
-    "2026-I": 0,
-    "2026-II": 1
-   },
-   "temas": [
-    "Educación nutricional gestante",
-    "Promoción de salud bucal",
-    "Enseñanza en salud bucal"
-   ],
-   "compendio": "Dirección de Promoción de la Salud",
-   "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/6595237-200-2025-minsa"
-  },
-  {
    "norma": "Decreto Supremo N.° 023-2001-SA",
    "sumilla": "Aprueban Reglamento de estupefacientes, psicotrópicos y otras sustancias",
    "sumilla_por_verificar": false,
@@ -1521,6 +1523,27 @@
    ],
    "compendio": "Ver las 27 normas",
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/255646-023-2001-sa"
+  },
+  {
+   "norma": "NTS N° 220-MINSA- DGIESP-2024",
+   "sumilla": "NORMA TÉCNICA DE SALUD QUE ESTABLECE EL",
+   "sumilla_por_verificar": false,
+   "eje": "Gestión de servicios de salud",
+   "preguntas": 3,
+   "porcentaje": 0.2,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 1,
+    "2026-I": 1,
+    "2026-II": 1
+   },
+   "temas": [
+    "Gestión de recursos humanos",
+    "Ergonomía",
+    "Riesgo profesional"
+   ],
+   "compendio": "",
+   "url_oficial": ""
   },
   {
    "norma": "Resolución Ministerial N.° 380-2025-MINSA",
@@ -1702,6 +1725,26 @@
    "url_oficial": ""
   },
   {
+   "norma": "Manual de Registro y Codificacion de Adulto Mayor_2025",
+   "sumilla": "Manual de Registro y Codificacion de Adulto Mayor_2025",
+   "sumilla_por_verificar": false,
+   "eje": "Gestión de servicios de salud",
+   "preguntas": 2,
+   "porcentaje": 0.1,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 1,
+    "2026-I": 1,
+    "2026-II": 0
+   },
+   "temas": [
+    "Derivación de pacientes",
+    "Presión intraocular"
+   ],
+   "compendio": "",
+   "url_oficial": ""
+  },
+  {
    "norma": "Resolución Ministerial N.° 159-2026-MINSA",
    "sumilla": "",
    "sumilla_por_verificar": true,
@@ -1762,6 +1805,26 @@
    "url_oficial": ""
   },
   {
+   "norma": "Norma_técnica_de_salud_de_planificación_familiar",
+   "sumilla": "Norma_técnica_de_salud_de_planificación_familiar",
+   "sumilla_por_verificar": false,
+   "eje": "Cuidado integral de salud",
+   "preguntas": 2,
+   "porcentaje": 0.1,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 1,
+    "2026-I": 1,
+    "2026-II": 0
+   },
+   "temas": [
+    "Planificación familiar - Métodos anticonceptivos",
+    "Promoción de la salud"
+   ],
+   "compendio": "",
+   "url_oficial": ""
+  },
+  {
    "norma": "Resolución Ministerial N.° 328-2025-MINSA",
    "sumilla": "Aprobar la Gufa Tecnica: Gufa de Practica Clinica para el Diagnostico y Tratamiento de la Enfermedad de Membrana Hialina, que como Anexo forma parte",
    "sumilla_por_verificar": false,
@@ -1780,26 +1843,6 @@
    ],
    "compendio": "Ver las 15 normas",
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/6756393-328-2025-minsa"
-  },
-  {
-   "norma": "NTS N° 220-MINSA- DGIESP-2024",
-   "sumilla": "NORMA TÉCNICA DE SALUD QUE ESTABLECE EL",
-   "sumilla_por_verificar": false,
-   "eje": "Cuidado integral de salud",
-   "preguntas": 2,
-   "porcentaje": 0.1,
-   "por_examen": {
-    "2025-I": 0,
-    "2025-II": 0,
-    "2026-I": 1,
-    "2026-II": 1
-   },
-   "temas": [
-    "Ergonomía",
-    "Riesgo profesional"
-   ],
-   "compendio": "",
-   "url_oficial": ""
   },
   {
    "norma": "guia-de-practica-clinica-n-03-2024-para-el-diagnostico-y-estadiaje-del-cancer-de-mama",
@@ -2013,6 +2056,63 @@
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/192109-518-2016-minsa"
   },
   {
+   "norma": "192109_RM_518.pdf20180904-20266-hrp7fe.pdf",
+   "sumilla": "192109_RM_518.pdf20180904-20266-hrp7fe.pdf",
+   "sumilla_por_verificar": false,
+   "eje": "Cuidado integral de salud",
+   "preguntas": 1,
+   "porcentaje": 0.1,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 1,
+    "2026-I": 0,
+    "2026-II": 0
+   },
+   "temas": [
+    "Parto humanizado y interculturalidad"
+   ],
+   "compendio": "",
+   "url_oficial": ""
+  },
+  {
+   "norma": "SALUD_BUCAL_2025",
+   "sumilla": "",
+   "sumilla_por_verificar": true,
+   "eje": "Salud pública",
+   "preguntas": 1,
+   "porcentaje": 0.1,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 1,
+    "2026-I": 0,
+    "2026-II": 0
+   },
+   "temas": [
+    "Identidad étnica y autoidentificación"
+   ],
+   "compendio": "",
+   "url_oficial": ""
+  },
+  {
+   "norma": "Manual de registro y codificación de actividades en la atención integral de Salud de la etapa de vida adulto mujer y varón. Registro y codificación de la atención en consulta externa_ HIS",
+   "sumilla": "Manual de registro y codificación de actividades en la atención integral de Salud de la etapa de vida adulto mujer y varón. Registro y codificación de la atención en consulta externa_ HIS",
+   "sumilla_por_verificar": false,
+   "eje": "Cuidado integral de salud",
+   "preguntas": 1,
+   "porcentaje": 0.1,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 1,
+    "2026-I": 0,
+    "2026-II": 0
+   },
+   "temas": [
+    "Consejería postparto"
+   ],
+   "compendio": "",
+   "url_oficial": ""
+  },
+  {
    "norma": "rm-975-2017-minsa",
    "sumilla": "",
    "sumilla_por_verificar": true,
@@ -2068,6 +2168,44 @@
    ],
    "compendio": "Ver las 27 normas",
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/7991994-32176"
+  },
+  {
+   "norma": "Resolución Ministerial N.° 922-2024-MINSA",
+   "sumilla": "Aprobar la NTS n°2.^^. -MINSA/DGIESP-2024 Norma Tecnica de Salud para la Atencion Integral de Pacientes con Zika en el Peru, que como Anexo forma",
+   "sumilla_por_verificar": false,
+   "eje": "Cuidado integral de salud",
+   "preguntas": 1,
+   "porcentaje": 0.1,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 1,
+    "2026-I": 0,
+    "2026-II": 0
+   },
+   "temas": [
+    "Acceso a servicios de salud"
+   ],
+   "compendio": "Centro Nacional de Epidemiología, Prevención y Control de Enfermedades",
+   "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/6332535-922-2024-minsa"
+  },
+  {
+   "norma": "Guía de Práctica Clínica para el Abordaje Temprano y Manejo de Esquizofrenia_HVLH",
+   "sumilla": "Guía de Práctica Clínica para el Abordaje Temprano y Manejo de Esquizofrenia_HVLH",
+   "sumilla_por_verificar": false,
+   "eje": "Gestión de servicios de salud",
+   "preguntas": 1,
+   "porcentaje": 0.1,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 1,
+    "2026-I": 0,
+    "2026-II": 0
+   },
+   "temas": [
+    "Planeamiento estratégico institucional"
+   ],
+   "compendio": "",
+   "url_oficial": ""
   },
   {
    "norma": "analgesia_INMP.pdf.pdf",
@@ -2144,6 +2282,25 @@
    ],
    "compendio": "Centro Nacional de Epidemiología, Prevención y Control de Enfermedades",
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/6439677-078-2025-minsa"
+  },
+  {
+   "norma": "Decreto Supremo N.° 001-2012-SA",
+   "sumilla": "",
+   "sumilla_por_verificar": true,
+   "eje": "Gestión de servicios de salud",
+   "preguntas": 1,
+   "porcentaje": 0.1,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 0,
+    "2026-I": 1,
+    "2026-II": 0
+   },
+   "temas": [
+    "Dispensación de medicamentos"
+   ],
+   "compendio": "Ver las 27 normas",
+   "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/242598-001-2012-sa"
   },
   {
    "norma": "GPS SEPSIS NEONATAL version extensa enero 2020",
@@ -2374,6 +2531,25 @@
    "url_oficial": ""
   },
   {
+   "norma": "Manual HIS_Inmunizaciones 2019",
+   "sumilla": "Manual HIS_Inmunizaciones 2019",
+   "sumilla_por_verificar": false,
+   "eje": "Cuidado integral de salud",
+   "preguntas": 1,
+   "porcentaje": 0.1,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 0,
+    "2026-I": 0,
+    "2026-II": 1
+   },
+   "temas": [
+    "Vacunación"
+   ],
+   "compendio": "",
+   "url_oficial": ""
+  },
+  {
    "norma": "Manual de registro y codificacion consulta ambulatoria",
    "sumilla": "Manual de registro y codificacion consulta ambulatoria",
    "sumilla_por_verificar": false,
@@ -2407,6 +2583,25 @@
    },
    "temas": [
     "Infecciones puerperales"
+   ],
+   "compendio": "",
+   "url_oficial": ""
+  },
+  {
+   "norma": "CIOMS-EthicalGuideline_SP_WEB",
+   "sumilla": "CIOMS-EthicalGuideline_SP_WEB",
+   "sumilla_por_verificar": false,
+   "eje": "Investigación",
+   "preguntas": 1,
+   "porcentaje": 0.1,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 0,
+    "2026-I": 0,
+    "2026-II": 1
+   },
+   "temas": [
+    "Metodología de la investigación"
    ],
    "compendio": "",
    "url_oficial": ""
@@ -2469,6 +2664,25 @@
    "url_oficial": ""
   },
   {
+   "norma": "CDC-2023",
+   "sumilla": "",
+   "sumilla_por_verificar": true,
+   "eje": "Salud pública",
+   "preguntas": 1,
+   "porcentaje": 0.1,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 1,
+    "2026-I": 0,
+    "2026-II": 0
+   },
+   "temas": [
+    "Vigilancia epidemiológica - Clasificación de casos"
+   ],
+   "compendio": "",
+   "url_oficial": ""
+  },
+  {
    "norma": "Ley N.° 31336",
    "sumilla": "",
    "sumilla_por_verificar": true,
@@ -2488,6 +2702,25 @@
    "url_oficial": "https://www.gob.pe/institucion/minsa/normas-legales/7973110-31336"
   },
   {
+   "norma": "Directiva-Sanitaria-N-100-MINSA-2020-DGIESP",
+   "sumilla": "Directiva-Sanitaria-N-100-MINSA-2020-DGIESP",
+   "sumilla_por_verificar": false,
+   "eje": "Cuidado integral de salud",
+   "preguntas": 1,
+   "porcentaje": 0.1,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 0,
+    "2026-I": 1,
+    "2026-II": 0
+   },
+   "temas": [
+    "Patología bucal"
+   ],
+   "compendio": "",
+   "url_oficial": ""
+  },
+  {
    "norma": "nts-236-minsa-dgiesp-2025-hemorragia-posparto",
    "sumilla": "nts-236-minsa-dgiesp-2025-hemorragia-posparto",
    "sumilla_por_verificar": false,
@@ -2502,6 +2735,25 @@
    },
    "temas": [
     "Violencia sexual y atención integral"
+   ],
+   "compendio": "",
+   "url_oficial": ""
+  },
+  {
+   "norma": "Manual_Discapacidad_2025",
+   "sumilla": "",
+   "sumilla_por_verificar": true,
+   "eje": "Cuidado integral de salud",
+   "preguntas": 1,
+   "porcentaje": 0.1,
+   "por_examen": {
+    "2025-I": 0,
+    "2025-II": 0,
+    "2026-I": 0,
+    "2026-II": 1
+   },
+   "temas": [
+    "Inervación de la mano"
    ],
    "compendio": "",
    "url_oficial": ""
