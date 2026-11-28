@@ -191,6 +191,7 @@ def main():
     ap.add_argument("--n", type=int, default=100)
     ap.add_argument("--rpm", type=int, default=30)
     ap.add_argument("--reintentar", action="store_true")
+    ap.add_argument("--guardar_cada", type=int, default=10, help="guardar y mostrar avance cada N preguntas (por defecto 10)")
     ap.add_argument("--reevaluar", action="store_true", help="repite las SIN_RESPALDO y con error usando el índice ampliado")
     a = ap.parse_args()
     if a.entrada:
@@ -227,7 +228,7 @@ def main():
                 res[p["id"]]["antes"] = antes
         except Exception as e:
             res[p["id"]] = {"error": str(e)[:150]}
-        if n % 10 == 0 or n == len(pend):
+        if n % a.guardar_cada == 0 or n == len(pend):
             json.dump(res, open(SALIDA, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
             print(f"[avance] {n}/{len(pend)}")
         time.sleep(max(0, espera - (time.time() - t0)))
